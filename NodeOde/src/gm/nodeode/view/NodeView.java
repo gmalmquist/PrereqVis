@@ -61,14 +61,6 @@ public class NodeView extends JComponent implements OdeManager {
 		
 		layout = new FacepalmLayout(this);
 		
-		add(new OdeNode("A").moveBy(0, -75));
-		add(new OdeNode("B").moveBy(100, 50));
-		add(new OdeNode("C").moveBy(-100, 50));
-		add(new OdeNode("D").moveBy(-50, 50));
-		
-		addParent("A", "B");
-		
-		
 		mouse = Pt.P(0,0);
 		
 		addMouseListener(new MouseAdapter() {
@@ -116,7 +108,6 @@ public class NodeView extends JComponent implements OdeManager {
 	}
 	
 	public void add(Visode ode) {
-//		NodeOde.debug("add()");
 		odes.put(ode.getUID(), ode);
 	}
 	
@@ -367,7 +358,6 @@ public class NodeView extends JComponent implements OdeManager {
 
 	@Override
 	public void addParent(String ode, String parent) {
-//		NodeOde.debug("addParent()");
 		if (!links.containsKey(ode))
 			links.put(ode, new LinkedList<String>());
 		
