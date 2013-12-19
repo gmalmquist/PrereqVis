@@ -30,16 +30,17 @@ import java.util.List;
 
 import javax.swing.JComponent;
 
-public class NodeView extends JComponent implements OdeAccess {
+public class NodeView extends JComponent {
 	
 	private static final float ANIMATION_TIME = 1.0f; // in seconds
 	
-	private final ConcurrentHashMap<String, List<String>> links;
-	private final ConcurrentHashMap<String, Visode> odes;
+	private OdeAccess access;
+	private OdeLayout layout;
+	
 	private final LinkedList<Visode> renderList;
 	private final LinkedList<LerpOde> animations;
-	
-	private OdeLayout layout;
+
+	private final Object renderLock = new Object();
 	
 	private Pt mouse;
 	
@@ -49,17 +50,16 @@ public class NodeView extends JComponent implements OdeAccess {
 	private Stroke strokeSmall = new BasicStroke(1.2f);
 	private Stroke strokeBig = new BasicStroke(2);
 	
-	public NodeView() {
+	public NodeView(OdeAccess access) {
+		this.access = access;
+		
 		setFocusable(true);
 		
 		setPreferredSize(new Dimension(800, 750));
-		
-		odes = new ConcurrentHashMap<String, Visode>();
-		links = new ConcurrentHashMap<String, List<String>>();
 		renderList = new LinkedList<Visode>();
 		animations = new LinkedList<LerpOde>();
 		
-		layout = new FacepalmLayout(this);
+		layout = new FacepalmLayout(access);
 		
 		mouse = Pt.P(0,0);
 		
@@ -86,7 +86,7 @@ public class NodeView extends JComponent implements OdeAccess {
 		new Thread(new Runnable() {
 			public void run() {
 				while (true) {
-					synchronized (odes) {
+					synchronized (renderLock) {
 						update();
 						repaint();
 					}
@@ -102,19 +102,13 @@ public class NodeView extends JComponent implements OdeAccess {
 	}
 	
 	public void clear() {
-		NodeOde.debug("clear()");
-		odes.clear();
-		links.clear();
-	}
-	
-	public void add(Visode ode) {
-		odes.put(ode.getUID(), ode);
+		access.clear();
 	}
 	
 	private void checkDragging() {
 		Pt m = mouse.copy();
-		for (String uid : odes.keySet()) {
-			Visode node = odes.get(uid);
+		for (String uid : access.getOdes()) {
+			Visode node = access.find(uid);
 			if (node.contains(m)) {
 				Pt p = node.getCenter();
 				dragging = node;
@@ -164,16 +158,14 @@ public class NodeView extends JComponent implements OdeAccess {
 	}
 	
 	private void drawLinks(Graphics2D g, String ode) {
-//		System.out.println("Drawlinks " + ode);
-		Visode O = find(ode);
-//		System.out.println("Continuing... " + O);
+		Visode O = access.find(ode);
 		
 		if (O == null)
 			return;
 		
 		
-		for (String parent : getParents(ode)) {
-			Visode P = find(parent);
+		for (String parent : access.findParents(ode)) {
+			Visode P = access.find(parent);
 			if (P == null) {
 				System.err.println("Graph is missing parents (" + parent + ")");
 				continue;
@@ -245,8 +237,8 @@ public class NodeView extends JComponent implements OdeAccess {
 		
 		// Draw nodes
 		renderList.clear();
-		for (String n : odes.keySet()) {
-			Visode o = odes.get(n);
+		for (String n : access.getOdes()) {
+			Visode o = access.find(n);
 			if (o.prerender())
 				renderList.push(o);
 			else
@@ -316,8 +308,8 @@ public class NodeView extends JComponent implements OdeAccess {
 		}
 		
 		HashMap<String, Pt> positions = new HashMap<String, Pt>();
-		for (String s : odes.keySet()) {
-			Visode o = find(s);
+		for (String s : access.getOdes()) {
+			Visode o = access.find(s);
 			if (o instanceof OdeNode)
 				positions.put(s, o.getCenter());
 		}
@@ -327,69 +319,14 @@ public class NodeView extends JComponent implements OdeAccess {
 		synchronized (animations) {
 			for (String s : positions.keySet()) {
 				Pt A = positions.get(s);
-				Pt B = find(s).getCenter();
+				Pt B = access.find(s).getCenter();
 				
 				Pt AB = B.d().sub(A);
 				if (AB.mag2() > 0) {
-					animations.add(new LerpOde(find(s), A, B, ANIMATION_TIME));
+					animations.add(new LerpOde(access.find(s), A, B, ANIMATION_TIME));
 				}
 			}
 		}
 	}
 	
-	
-	@Override
-	public Visode find(String id) {
-		if (!odes.containsKey(id)) {
-			return null;
-		}
-		return odes.get(id);
-	}
-
-	@Override
-	public void register(Visode ode) {
-		odes.put(ode.getUID(), ode);
-	}
-
-	@Override
-	public void remove(Visode ode) {
-		odes.remove(ode.getUID());
-	}
-
-	@Override
-	public void addParent(String ode, String parent) {
-		if (!links.containsKey(ode))
-			links.put(ode, new LinkedList<String>());
-		
-		links.get(ode).add(parent);
-	}
-	
-	@Override
-	public Iterable<String> getParents(String ode) {
-		if (!links.containsKey(ode)) {
-			return new LinkedList<String>();
-		}
-		
-		return links.get(ode);
-	}
-
-	@Override
-	public boolean hasParents(String ode) {
-		return links.containsKey(ode) && links.get(ode).size() > 0;
-	}
-
-	@Override
-	public boolean hasChildren(String ode) {
-		for (String other : odes.keySet()) {
-			if (!hasParents(other)) continue;
-			if (links.get(other).contains(ode))
-				return true;
-		}
-		return false;
-	}
-
-	@Override
-	public Collection<String> getOdes() {
-		return odes.keySet();
-	}
 }

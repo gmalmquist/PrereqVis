@@ -8,7 +8,9 @@ import gm.nodeode.io.ICourse;
 import gm.nodeode.io.Course;
 import gm.nodeode.io.PrereqGroup;
 import gm.nodeode.io.NodeIO;
+import gm.nodeode.model.OdeAccess;
 import gm.nodeode.model.OdeGroup;
+import gm.nodeode.model.OdeManager;
 import gm.nodeode.model.OdeNode;
 import gm.nodeode.view.NodeView;
 
@@ -18,7 +20,10 @@ public class NodeOde {
 		JFrame frame = new JFrame("Node Ode");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		NodeView view = new NodeView();
+		OdeAccess mainManage = new OdeManager();
+		OdeAccess tinyManage = new OdeManager();
+		
+		NodeView view = new NodeView(tinyManage);
 		
 		view.clear();
 		
@@ -28,21 +33,23 @@ public class NodeOde {
 				PrereqGroup group = (PrereqGroup)gnode;
 				
 				OdeNode gode = new OdeNode(gnode.getUID(), "*");
-				view.add(gode);
+				mainManage.register(gode);
 				
 				for (String s : group.getChildren()) {
-					view.addParent(gode.getUID(), s);
+					mainManage.addParent(gode.getUID(), s);
 				}
 			} else {
-				view.add(new OdeNode(gnode.getUID(), gnode.getName()));
+				mainManage.register(new OdeNode(gnode.getUID(), gnode.getName()));
 			}
 
 			if (gnode instanceof Course) {
 				Course node = (Course)gnode;
 				for (String p : node.getParents())
-					view.addParent(node.getUID(), p);
+					mainManage.addParent(node.getUID(), p);
 			}
 		}
+		
+		
 		
 		frame.add(view);
 		frame.pack();

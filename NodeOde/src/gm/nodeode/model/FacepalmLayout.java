@@ -76,7 +76,7 @@ public class FacepalmLayout extends OdeLayout {
 		return db.find(s);
 	}
 	private Iterable<String> getParents(String s) {
-		return db.getParents(s);
+		return db.findParents(s);
 	}
 	private boolean hasParents(String s) {
 		return db.hasParents(s);

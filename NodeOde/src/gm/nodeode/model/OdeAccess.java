@@ -1,19 +1,27 @@
 package gm.nodeode.model;
 
 import java.util.Collection;
+import java.util.List;
 
 
-public interface OdeAccess {
-	public Visode find(String id);
-	public void register(Visode ode);
-	public void remove(Visode ode);
+public abstract class OdeAccess {
+	public abstract Visode find(String id);
+	public abstract void register(Visode ode);
+	public abstract void remove(Visode ode);
+	public abstract void addParent(String ode, String parent);
+	public abstract void clear();
+
+	public abstract Collection<String> getOdes();
+	public abstract Iterable<String> findParents(String ode);
 	
-	public void addParent(String ode, String parent);
+	public abstract boolean hasParents(String ode);
+	public abstract boolean hasChildren(String ode);
 	
-	public Iterable<String> getParents(String ode);
-	
-	public boolean hasParents(String ode);
-	public boolean hasChildren(String ode);
-	
-	public Collection<String> getOdes();
+	public List<List<String>> findDisjointGroups() {
+		UnionFind<String> uf = new UnionFind<String>();
+		for (String s : getOdes())
+			for (String p : findParents(s))
+				uf.union(s, p);
+		return uf.discreteGroups(getOdes());
+	}
 }
