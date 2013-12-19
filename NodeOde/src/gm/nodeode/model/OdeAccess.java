@@ -13,6 +13,7 @@ public abstract class OdeAccess {
 
 	public abstract Collection<String> getOdes();
 	public abstract Iterable<String> findParents(String ode);
+	public abstract Iterable<String> findChildren(String ode);
 	
 	public abstract boolean hasParents(String ode);
 	public abstract boolean hasChildren(String ode);
@@ -23,5 +24,16 @@ public abstract class OdeAccess {
 			for (String p : findParents(s))
 				uf.union(s, p);
 		return uf.discreteGroups(getOdes());
+	}
+	
+	public boolean hasParent(String ode, String parent) {
+		for (String p : findParents(ode))
+			if (p.equals(parent))
+				return true;
+		return false;
+	}
+	
+	public boolean hasChild(String ode, String child) {
+		return hasParent(child, ode);
 	}
 }

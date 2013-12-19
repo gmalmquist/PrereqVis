@@ -8,10 +8,12 @@ import java.util.concurrent.ConcurrentHashMap;
 public class OdeManager extends OdeAccess {
 
 	private final ConcurrentHashMap<String, List<String>> parents;
+	private final ConcurrentHashMap<String, List<String>> children;
 	private final ConcurrentHashMap<String, Visode> vertices;
 
 	public OdeManager() {
 		parents = new ConcurrentHashMap<String, List<String>>();
+		children = new ConcurrentHashMap<String, List<String>>();
 		vertices = new ConcurrentHashMap<String, Visode>();
 	}
 	
@@ -42,8 +44,11 @@ public class OdeManager extends OdeAccess {
 	public void addParent(String ode, String parent) {
 		if (!parents.containsKey(ode))
 			parents.put(ode, new LinkedList<String>());
+		if (!children.containsKey(parent))
+			children.put(parent, new LinkedList<String>());
 		
 		parents.get(ode).add(parent);
+		children.get(parent).add(ode);
 	}
 	
 	@Override
@@ -53,6 +58,13 @@ public class OdeManager extends OdeAccess {
 		}
 		
 		return parents.get(ode);
+	}
+
+	@Override
+	public Iterable<String> findChildren(String ode) {
+		if (children.containsKey(ode))
+			return children.get(ode);
+		return new LinkedList<String>();
 	}
 
 	@Override
