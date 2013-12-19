@@ -6,7 +6,7 @@ import gm.nodeode.math.Pt;
 import gm.nodeode.model.FacepalmLayout;
 import gm.nodeode.model.Visode;
 import gm.nodeode.model.OdeLayout;
-import gm.nodeode.model.OdeManager;
+import gm.nodeode.model.OdeAccess;
 import gm.nodeode.model.OdeNode;
 
 import java.awt.BasicStroke;
@@ -30,7 +30,7 @@ import java.util.List;
 
 import javax.swing.JComponent;
 
-public class NodeView extends JComponent implements OdeManager {
+public class NodeView extends JComponent implements OdeAccess {
 	
 	private static final float ANIMATION_TIME = 1.0f; // in seconds
 	
