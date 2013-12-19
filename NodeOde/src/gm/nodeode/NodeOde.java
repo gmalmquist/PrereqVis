@@ -49,7 +49,12 @@ public class NodeOde {
 			}
 		}
 		
-		
+		List<List<String>> disjoint = mainManage.findDisjointGroups();
+		for (String s : disjoint.get(disjoint.size()-1)) {
+			tinyManage.register(mainManage.find(s));
+			for (String p : mainManage.findParents(s))
+				tinyManage.addParent(s, p);
+		}
 		
 		frame.add(view);
 		frame.pack();

@@ -7,64 +7,64 @@ import java.util.concurrent.ConcurrentHashMap;
 
 public class OdeManager extends OdeAccess {
 
-	private final ConcurrentHashMap<String, List<String>> links;
-	private final ConcurrentHashMap<String, Visode> odes;
+	private final ConcurrentHashMap<String, List<String>> parents;
+	private final ConcurrentHashMap<String, Visode> vertices;
 
 	public OdeManager() {
-		links = new ConcurrentHashMap<String, List<String>>();
-		odes = new ConcurrentHashMap<String, Visode>();
+		parents = new ConcurrentHashMap<String, List<String>>();
+		vertices = new ConcurrentHashMap<String, Visode>();
 	}
 	
 	public void clear() {
-		links.clear();
-		odes.clear();
+		parents.clear();
+		vertices.clear();
 	}
 	
 	@Override
 	public Visode find(String id) {
-		if (!odes.containsKey(id)) {
+		if (!vertices.containsKey(id)) {
 			return null;
 		}
-		return odes.get(id);
+		return vertices.get(id);
 	}
 
 	@Override
 	public void register(Visode ode) {
-		odes.put(ode.getUID(), ode);
+		vertices.put(ode.getUID(), ode);
 	}
 
 	@Override
 	public void remove(Visode ode) {
-		odes.remove(ode.getUID());
+		vertices.remove(ode.getUID());
 	}
 
 	@Override
 	public void addParent(String ode, String parent) {
-		if (!links.containsKey(ode))
-			links.put(ode, new LinkedList<String>());
+		if (!parents.containsKey(ode))
+			parents.put(ode, new LinkedList<String>());
 		
-		links.get(ode).add(parent);
+		parents.get(ode).add(parent);
 	}
 	
 	@Override
 	public Iterable<String> findParents(String ode) {
-		if (!links.containsKey(ode)) {
+		if (!parents.containsKey(ode)) {
 			return new LinkedList<String>();
 		}
 		
-		return links.get(ode);
+		return parents.get(ode);
 	}
 
 	@Override
 	public boolean hasParents(String ode) {
-		return links.containsKey(ode) && links.get(ode).size() > 0;
+		return parents.containsKey(ode) && parents.get(ode).size() > 0;
 	}
 
 	@Override
 	public boolean hasChildren(String ode) {
-		for (String other : odes.keySet()) {
+		for (String other : vertices.keySet()) {
 			if (!hasParents(other)) continue;
-			if (links.get(other).contains(ode))
+			if (parents.get(other).contains(ode))
 				return true;
 		}
 		return false;
@@ -72,7 +72,7 @@ public class OdeManager extends OdeAccess {
 
 	@Override
 	public Collection<String> getOdes() {
-		return odes.keySet();
+		return vertices.keySet();
 	}
 
 }

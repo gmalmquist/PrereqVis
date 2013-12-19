@@ -16,7 +16,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class FacepalmLayout extends OdeLayout {
-
+	
 	public FacepalmLayout(OdeAccess db) {
 		super(db);
 	}
@@ -34,8 +34,8 @@ public class FacepalmLayout extends OdeLayout {
 	
 		nodeStep(++step);
 	}
-	
 
+	private boolean radiusByImportance = false;
 	private boolean physics = false;
 	private HashMap<String, Integer> depths;
 	private HashMap<String, List<String>> childMap;
@@ -109,67 +109,6 @@ public class FacepalmLayout extends OdeLayout {
 	}
 	
 	private HashMap<String, Integer> calculateNodeDepths() {
-		// Maps parents to children list
-		HashMap<String, List<String>> children = calculateChildMap();
-		
-		HashMap<String, Integer> depths = new HashMap<String, Integer>();
-		LinkedList<String> frontier = new LinkedList<String>();
-		frontier.addAll(db.getOdes());
-		
-		// Initialize with leaf nodes
-		for (String s : db.getOdes()) {
-			if (!children.containsKey(s)) {
-				depths.put(s, 0);
-				frontier.remove(s);
-			}
-		}
-
-		LinkedList<String> completed = new LinkedList<String>();
-		LinkedList<String> done = new LinkedList<String>();
-		while (frontier.size() > 0) {
-			nope:
-			for (String s : frontier) {
-				int maxd = 0;
-				for (String c : children.get(s)) {
-					if (!depths.containsKey(c)) continue nope;
-						maxd = Math.max(maxd, depths.get(c));
-
-				}
-				depths.put(s,  maxd+1);
-				done.add(s);
-			}
-			completed.addAll(done);
-		
-			frontier.removeAll(done);
-			done.clear();
-		}
-		
-		for (String s : db.getOdes()) {
-			Visode o = find(s);
-			if (!(o instanceof OdeGroup))
-				continue;
-			
-			OdeGroup g = (OdeGroup)o;
-			
-			int max = 0;
-			if (depths.containsKey(s))
-				max = depths.get(s);
-			
-			for (String k : g.getChildren()) {
-				if (depths.containsKey(k))
-					max = Math.max(depths.get(k), max);
-			}
-			
-			depths.put(s, max);
-			for (String k : g.getChildren()) {
-				depths.put(k, max);
-			}
-		}
-		
-		return depths;
-	}
-
-	private HashMap<String, Integer> calculateNodeDepthsAlt() {
 		HashMap<String, Integer> depths = new HashMap<String, Integer>();
 		
 		List<OdeNode> nodes = new LinkedList<OdeNode>();
@@ -241,17 +180,19 @@ public class FacepalmLayout extends OdeLayout {
 	
 	private void sortStepInit() {
 		childMap = calculateChildMap();
-		depths = calculateNodeDepthsAlt();
+		depths = calculateNodeDepths();
 		
 		for (String s : depths.keySet()) {
 			int depth = depths.get(s);
 			maxDepth = Math.max(maxDepth, depth);
 			
-			Visode o = find(s);
-			if (o instanceof OdeNode) {
-				OdeNode n = ((OdeNode)o);
-				if (childMap.containsKey(s)) {
-//					n.r += 2*Math.log(totalChildCount(childMap, s))/Math.log(1.2);
+			if (radiusByImportance) {
+				Visode o = find(s);
+				if (o instanceof OdeNode) {
+					OdeNode n = ((OdeNode)o);
+					if (childMap.containsKey(s)) {
+						n.r += 2*Math.log(totalChildCount(childMap, s))/Math.log(1.2);
+					}
 				}
 			}
 		}
@@ -268,8 +209,6 @@ public class FacepalmLayout extends OdeLayout {
 			if (!list.isEmpty())
 				layers.add(list);
 		}
-		
-		System.out.println("Max depth: " + maxDepth);
 	}
 	
 	private float mass(String s) {
@@ -456,13 +395,6 @@ public class FacepalmLayout extends OdeLayout {
 		return false;
 	}
 	
-	private boolean containsAll(List<String> A, Iterable<String> B) {
-		for (String b : B)
-			if (!A.contains(b))
-				return false;
-		return true;
-	}
-	
 	private void enablePhysics() {
 		physics = true;
 	}
@@ -551,7 +483,7 @@ public class FacepalmLayout extends OdeLayout {
 			int i = 0;
 			for (String r : roots) {
 				OdeNode n = (OdeNode) find(r);
-				n.x = 1.0f * (-length/2 + length * (i+1) / (roots.size()+1));
+				n.x = 1.5f * (-length/2 + length * (i+1) / (roots.size()+1));
 				n.y = y - n.r;
 				if (n.r > maxr) maxr = n.r;
 				i++;
@@ -650,13 +582,11 @@ public class FacepalmLayout extends OdeLayout {
 				// Time to change processing direction
 				if (justFlipped) {
 					// Stable configuration found!
-					System.out.println("STABLE");
 					enablePhysics();
 					return true;
 				} else {
 					up = !up;
 					justFlipped = true;
-					System.out.println("FLIP");
 				}
 			} else {
 				justFlipped = false;
