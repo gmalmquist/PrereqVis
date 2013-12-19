@@ -1,9 +1,9 @@
 package gm.nodeode.model;
 
 public abstract class OdeLayout {
-	protected OdeManager db;
+	protected OdeAccess db;
 	
-	public OdeLayout(OdeManager db) {
+	public OdeLayout(OdeAccess db) {
 		this.db = db;
 	}
 	

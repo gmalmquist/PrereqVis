@@ -3,7 +3,7 @@ package gm.nodeode.model;
 import java.util.Collection;
 
 
-public interface OdeManager {
+public interface OdeAccess {
 	public Visode find(String id);
 	public void register(Visode ode);
 	public void remove(Visode ode);

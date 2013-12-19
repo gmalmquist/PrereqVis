@@ -9,9 +9,9 @@ import java.awt.Graphics2D;
 
 public class OdeGroup extends Visode {
 	private String[] kids;
-	private OdeManager manager;
+	private OdeAccess manager;
 	
-	public OdeGroup(OdeManager manager, String ... odes) {
+	public OdeGroup(OdeAccess manager, String ... odes) {
 		super(join(",", odes));
 		this.kids = odes;
 		this.manager = manager;

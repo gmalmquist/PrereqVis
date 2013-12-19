@@ -17,7 +17,7 @@ import java.util.List;
 
 public class FacepalmLayout extends OdeLayout {
 
-	public FacepalmLayout(OdeManager db) {
+	public FacepalmLayout(OdeAccess db) {
 		super(db);
 	}
 
