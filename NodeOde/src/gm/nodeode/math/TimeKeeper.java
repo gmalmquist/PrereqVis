@@ -1,6 +1,35 @@
 package gm.nodeode.math;
 
+import java.util.concurrent.ConcurrentHashMap;
+
 public class TimeKeeper {
+	
+	private static ConcurrentHashMap<String, Long> ticks = new ConcurrentHashMap<String, Long>();
+	
+	public static void tick(String label) {
+		ticks.put(label, System.currentTimeMillis());
+	}
+	public static long tock(String label) {
+		if (!ticks.containsKey(label))
+			return 0;
+		
+		return System.currentTimeMillis() - ticks.get(label);
+	}
+	
+	public static void tick() {
+		tick(Thread.currentThread().getName());
+	}
+	public static long tock() {
+		return tock(Thread.currentThread().getName());
+	}
+	public static long atock(String label) {
+		long result = tock(label);
+		System.out.println(label + ": " + result + " ms");
+		return result;
+	}
+	public static long atock() {
+		return atock(Thread.currentThread().getName());
+	}
 	
 	private long msstart = -1;
 	private long msend = -1;

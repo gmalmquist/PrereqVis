@@ -1,4 +1,4 @@
-package gm.nodeode.model;
+package gm.nodeode.math.graph;
 
 import java.util.Collections;
 import java.util.Comparator;

@@ -1,5 +1,7 @@
 package gm.nodeode.model;
 
+import gm.nodeode.math.graph.UnionFind;
+
 import java.util.Collection;
 import java.util.List;
 

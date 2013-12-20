@@ -46,6 +46,15 @@ public class Graph {
 		removeEdge(e.tail, e.head);
 	}
 	
+	public synchronized boolean hasEdge(String tail, String head) {
+		if (!linksTailHead.containsKey(tail))
+			return false;
+		return linksTailHead.get(tail).contains(head);
+	}
+	public synchronized boolean hasEdge(Edge e) {
+		return hasEdge(e.tail, e.head);
+	}
+	
 	public synchronized void removeVertex(String vertex) {
 		vertices.remove(vertex);
 		
@@ -83,5 +92,50 @@ public class Graph {
 			edges.add(new Edge(s, vertex));
 		
 		return edges;
+	}
+	
+	public synchronized List<Graph> getConnectedSubgraphs() {
+		List<Graph> graphs = new LinkedList<Graph>();
+		
+		UnionFind<String> uf = new UnionFind<String>();
+		for (String v : vertices) {
+			for (String o : getOutgoingVertices(v)) {
+				uf.union(v, o);
+			}
+		}
+		
+		List<List<String>> subgroups = uf.discreteGroups(vertices);
+		
+		for (List<String> subverts : subgroups) {
+			Graph sub = new Graph();
+			
+			for (String v : subverts) {
+				sub.addVertex(v);
+				for (String o : getOutgoingVertices(v))
+					sub.addEdge(v, o);
+			}
+			
+			graphs.add(sub);
+		}
+		
+		return graphs;
+	}
+	
+	public boolean isConnected() {
+		return getConnectedSubgraphs().size() == 1;
+	}
+	
+	public synchronized Collection<String> getVertices() {
+		return vertices;
+	}
+	
+	private long uniqueID = 0;
+	public synchronized String addUniqueVertex() {
+		String id = null;
+		do {
+			id = String.valueOf(uniqueID++);
+		} while (vertices.contains(id));
+		addVertex(id);
+		return id;
 	}
 }

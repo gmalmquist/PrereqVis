@@ -17,6 +17,7 @@ public abstract class OdeLayout {
 	private Pt V(Pt a, Pt b) {
 		return b.d().sub(a);
 	}
+
 	public boolean edgesCross(String a0, String a1, String b0, String b1) {
 		if (a0.equals(b0) || a0.equals(b1)) return false;
 		if (a1.equals(b0) || a1.equals(b1)) return false;

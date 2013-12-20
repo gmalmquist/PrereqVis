@@ -19,6 +19,7 @@ public class OdeManager extends OdeAccess {
 	
 	public void clear() {
 		parents.clear();
+		children.clear();
 		vertices.clear();
 	}
 	

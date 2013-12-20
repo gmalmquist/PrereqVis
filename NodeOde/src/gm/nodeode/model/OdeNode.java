@@ -26,6 +26,10 @@ public class OdeNode extends Visode {
 		this(name, name);
 	}
 	
+	public String getDisplayName() {
+		return display;
+	}
+	
 	public float radius() {
 		return r;
 	}
@@ -58,29 +62,35 @@ public class OdeNode extends Visode {
 		
 		g.translate(tx, ty);
 		
-		g.setColor(background);
-		g.fillOval(-r, -r, r*2, r*2);
-		g.setColor(Color.BLACK);
-		// TODO stroke size stuff
-		g.drawOval(-r, -r, r*2, r*2);
-
-		FontMetrics fm = g.getFontMetrics();
-		int width = 0;
-		
-		String[] parts = String.valueOf(display).split(" ");
-		for (String s : parts) {
-			width = Math.max(fm.stringWidth(s), width);
+		if (String.valueOf(display).matches("\\d+")) {
+			// we're a link! links are a lie!
+			this.r = r = 3;
+			g.setColor(Color.BLACK);
+			g.fillOval(-r, -r, r*2, r*2);
+		} else {
+			g.setColor(background);
+			g.fillOval(-r, -r, r*2, r*2);
+			g.setColor(Color.BLACK);
+			g.drawOval(-r, -r, r*2, r*2);
+	
+			FontMetrics fm = g.getFontMetrics();
+			int width = 0;
+			
+			String[] parts = String.valueOf(display).split(" ");
+			for (String s : parts) {
+				width = Math.max(fm.stringWidth(s), width);
+			}
+			
+			int y = -(fm.getHeight()*parts.length)/2 + fm.getAscent();
+			for (String name : parts) {
+				g.drawString(name, -fm.stringWidth(name)/2, y);
+				y += fm.getHeight();
+			}
+			
+			float tr = width/2+5;
+			if (this.r < tr)
+				this.r = tr;
 		}
-		
-		int y = -(fm.getHeight()*parts.length)/2 + fm.getAscent();
-		for (String name : parts) {
-			g.drawString(name, -fm.stringWidth(name)/2, y);
-			y += fm.getHeight();
-		}
-		
-		float tr = width/2+5;
-		if (this.r < tr)
-			this.r = tr;
 		
 		g.translate(-tx, -ty);
 	}

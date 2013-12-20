@@ -5,6 +5,7 @@ import gm.nodeode.math.geom.CircleAdapter;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Physicist;
 import gm.nodeode.math.geom.Pt;
+import gm.nodeode.math.graph.UnionFind;
 import gm.nodeode.view.NodeView;
 
 import java.util.ArrayList;
