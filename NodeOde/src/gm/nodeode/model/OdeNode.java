@@ -5,7 +5,7 @@ import java.awt.FontMetrics;
 import java.awt.Graphics2D;
 
 import gm.nodeode.io.ICourse;
-import gm.nodeode.math.Pt;
+import gm.nodeode.math.geom.Pt;
 
 public class OdeNode extends Visode {	
 	public float x;

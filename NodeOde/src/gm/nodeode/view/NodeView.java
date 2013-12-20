@@ -1,8 +1,8 @@
 package gm.nodeode.view;
 
 import gm.nodeode.NodeOde;
-import gm.nodeode.math.Mathf;
-import gm.nodeode.math.Pt;
+import gm.nodeode.math.geom.Mathf;
+import gm.nodeode.math.geom.Pt;
 import gm.nodeode.model.FacepalmLayout;
 import gm.nodeode.model.Visode;
 import gm.nodeode.model.OdeLayout;

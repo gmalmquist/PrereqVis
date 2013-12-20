@@ -1,4 +1,4 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
 
 /**
  * This is effectively an abstract point class, though it could be used for

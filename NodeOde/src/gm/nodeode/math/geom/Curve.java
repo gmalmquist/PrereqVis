@@ -1,4 +1,6 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
+
+import gm.nodeode.math.Pair;
 
 import java.util.ArrayList;
 import java.util.Iterator;

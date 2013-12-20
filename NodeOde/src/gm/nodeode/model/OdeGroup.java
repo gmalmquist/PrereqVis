@@ -1,7 +1,7 @@
 package gm.nodeode.model;
 
-import gm.nodeode.math.Mathf;
-import gm.nodeode.math.Pt;
+import gm.nodeode.math.geom.Mathf;
+import gm.nodeode.math.geom.Pt;
 import gm.nodeode.view.Art;
 
 import java.awt.Color;

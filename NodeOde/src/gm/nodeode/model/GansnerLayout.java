@@ -1,7 +1,7 @@
 package gm.nodeode.model;
 
-import gm.nodeode.math.Mathf;
-import gm.nodeode.math.Pt;
+import gm.nodeode.math.geom.Mathf;
+import gm.nodeode.math.geom.Pt;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -84,44 +84,6 @@ public class GansnerLayout extends OdeLayout {
 		
 		maxrank = maxd;
 		minrank = 0;
-		
-		/*LinkedList<String> frontier = new LinkedList<String>();
-		
-		// start with leaf nodes and work our way backwards
-		for (String v : vertices()) {
-			if (!db.hasChildren(v)) {
-				frontier.add(v);
-			}
-		}
-		
-		while (!frontier.isEmpty()) {
-			String v = frontier.pop();
-			if (ranks.containsKey(v))
-				continue;
-			
-			int rank = 0;
-			for (String child : db.findChildren(v)) {
-				if(!ranks.containsKey(child))
-					continue;
-				rank = Math.min(rank, ranks.get(child)-1);
-			}
-			ranks.put(v, rank);
-			if (rank > maxrank) maxrank = rank;
-			if (rank < minrank) minrank = rank;
-			
-			parenting: 
-			for (String parent : db.findParents(v)) {
-				if (ranks.containsKey(parent))
-					continue;
-				for (String child : db.findChildren(parent)) {
-					if (!ranks.containsKey(child) && !frontier.contains(child)) {
-						// not ready yet
-						continue parenting;
-					}
-				}
-				frontier.add(parent);
-			}
-		}*/
 	}
 	private int rank(String v) {
 		return ranks.get(v);

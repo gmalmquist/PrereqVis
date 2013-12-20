@@ -1,4 +1,4 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
 
 /**
  * Generic Point interface, very useful for widgetry.

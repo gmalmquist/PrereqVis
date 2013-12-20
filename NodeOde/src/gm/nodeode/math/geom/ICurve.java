@@ -1,4 +1,4 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
 
 /**
  * Abstract curve interface for use in widgets, drawings, animations, etc. It's highly

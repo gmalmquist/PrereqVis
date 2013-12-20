@@ -1,4 +1,4 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
 
 import java.awt.Point;
 import java.awt.geom.Point2D;

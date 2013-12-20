@@ -1,4 +1,4 @@
-package gm.nodeode.math;
+package gm.nodeode.math.geom;
 
 public interface CircleAdapter<T> {
 	// getters

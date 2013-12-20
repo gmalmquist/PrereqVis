@@ -1,10 +1,10 @@
 package gm.nodeode.model;
 
-import gm.nodeode.math.CircleAdapter;
-import gm.nodeode.math.Mathf;
-import gm.nodeode.math.Physicist;
-import gm.nodeode.math.Pt;
 import gm.nodeode.math.TimeKeeper;
+import gm.nodeode.math.geom.CircleAdapter;
+import gm.nodeode.math.geom.Mathf;
+import gm.nodeode.math.geom.Physicist;
+import gm.nodeode.math.geom.Pt;
 import gm.nodeode.view.NodeView;
 
 import java.util.ArrayList;

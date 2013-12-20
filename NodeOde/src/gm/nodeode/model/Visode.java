@@ -2,7 +2,7 @@ package gm.nodeode.model;
 
 import java.awt.Graphics2D;
 
-import gm.nodeode.math.Pt;
+import gm.nodeode.math.geom.Pt;
 
 /**
  * Visual nodes, node groups, etc
