@@ -1,4 +1,4 @@
-package gm.nodeode.model;
+package gm.nodeode.math.graph;
 
 public class Edge {
 	public final String tail;
