@@ -1,8 +1,14 @@
 package gm.nodeode.model;
 
+import gm.nodeode.math.Mathf;
+import gm.nodeode.math.Pt;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Acquired from http://www.graphviz.org/Documentation/TSE93.pdf, with some modifications
@@ -41,12 +47,49 @@ public class GansnerLayout extends OdeLayout {
 	
 	private void rank() {
 		ranks = new HashMap<String, Integer>();
-
+		
 		LinkedList<String> frontier = new LinkedList<String>();
+		for (String s : vertices()) {
+			if (!db.hasParents(s))
+				frontier.add(s);
+		}
+
+		int maxd = 0;
+		
+		while (!frontier.isEmpty()) {
+			String f = frontier.pop();
+			if (ranks.containsKey(f))
+				continue;
+			
+			int depth = 0;
+			
+			for (String p : db.findParents(f)) {
+				if (ranks.containsKey(p)) {
+					depth = Math.max(depth, ranks.get(p)+1);
+				}
+			}
+			
+			if (depth > maxd)
+				maxd = depth;
+
+			ranks.put(f, depth);
+			for (String s : db.findChildren(f)) {
+				frontier.add(s);
+			}
+		}
+		
+		for (String v : vertices()) {
+			ranks.put(v, maxd - ranks.get(v));
+		}
+		
+		maxrank = maxd;
+		minrank = 0;
+		
+		/*LinkedList<String> frontier = new LinkedList<String>();
 		
 		// start with leaf nodes and work our way backwards
 		for (String v : vertices()) {
-			if (!db.hasParents(v)) {
+			if (!db.hasChildren(v)) {
 				frontier.add(v);
 			}
 		}
@@ -58,6 +101,8 @@ public class GansnerLayout extends OdeLayout {
 			
 			int rank = 0;
 			for (String child : db.findChildren(v)) {
+				if(!ranks.containsKey(child))
+					continue;
 				rank = Math.min(rank, ranks.get(child)-1);
 			}
 			ranks.put(v, rank);
@@ -76,23 +121,77 @@ public class GansnerLayout extends OdeLayout {
 				}
 				frontier.add(parent);
 			}
-		}
+		}*/
 	}
 	private int rank(String v) {
 		return ranks.get(v);
 	}
 	
-	private HashMap<Integer, String[]> orders;
+	private HashMap<Integer, List<String>> orders;
 	private void ordering() {
-		orders = new HashMap<Integer, String[]>();
+		orders = new HashMap<Integer, List<String>>();
 		// init order
-		for (int i = minrank; i <= maxrank; i++) {
+		HashMap<String, Boolean> visited = new HashMap<String, Boolean>();
+		LinkedList<String> frontier = new LinkedList<String>();
+		for (String s : vertices()) {
+			frontier.add(s);
+			break;
+		}
+		
+		while (!frontier.isEmpty()) {
+			String v = frontier.pop();
+			if (visited.containsKey(v))
+				continue;
+			visited.put(v, true);
+			int rank = rank(v);
+			if (!orders.containsKey(rank))
+				orders.put(rank, new ArrayList<String>());
+			orders.get(rank).add(v);
 			
+			for (String p : db.findParents(v)) {
+				frontier.add(p);
+			}
+			for (String c : db.findChildren(v)) {
+				frontier.add(c);
+			}
 		}
 	}
 	
 	private void position() {
+		float[] widths = new float[maxrank-minrank+1];
+		float height = 0;
+		for (int i = minrank; i <= maxrank; i++) {
+			List<String> verts = orders.get(i);
+			
+			float mr = 0;
+			String last = null;
+			for (String v : verts) {
+				if (radius(v) > mr) mr = radius(v);
+				
+				widths[i-minrank] += radius(v);
+				if (last != null) {
+					widths[i-minrank] += mindist(last, v);
+				}
+				last = v;
+			}
+			
+			height += mr*6f;
+		}
+
+		float width = Mathf.max(widths);
+		Arrays.fill(widths, width);
 		
+		for (int i = 0; i < widths.length; i++) {
+			List<String> verts = orders.get(i+minrank);
+			if (verts == null) continue;
+			int j = 0;
+			for (String v : verts) {
+				db.find(v).setCenter(Pt.P(
+						widths[i] * (j++)/(verts.size()),
+						height * (i+1) / (widths.length+1)
+				));
+			}
+		}
 	}
 	
 	private void makeSplines() {

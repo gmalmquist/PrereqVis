@@ -50,16 +50,15 @@ public class NodeView extends JComponent {
 	private Stroke strokeSmall = new BasicStroke(1.2f);
 	private Stroke strokeBig = new BasicStroke(2);
 	
-	public NodeView(OdeAccess access) {
+	public NodeView(OdeAccess access, OdeLayout layout) {
 		this.access = access;
+		this.layout = layout;
 		
 		setFocusable(true);
 		
 		setPreferredSize(new Dimension(800, 750));
 		renderList = new LinkedList<Visode>();
 		animations = new LinkedList<LerpOde>();
-		
-		layout = new FacepalmLayout(access);
 		
 		mouse = Pt.P(0,0);
 		
@@ -170,6 +169,19 @@ public class NodeView extends JComponent {
 				System.err.println("Graph is missing parents (" + parent + ")");
 				continue;
 			}
+			
+			boolean cross = false;
+			for (String other : access.getOdes()) {
+				for (String p : access.findParents(other)) {					
+					if (layout.edgesCross(ode, parent, other, p)) {
+						cross = true;
+						break;
+					}
+				}
+			}
+
+			if (cross) g.setColor(Color.RED);
+			else g.setColor(Color.BLACK);
 			Art.arrow(g, O.closestBorderPoint(P.getCenter()), 
 					P.closestBorderPoint(O.getCenter()));
 		}
@@ -230,7 +242,6 @@ public class NodeView extends JComponent {
 
 		// Draw links
 		g.setStroke(strokeSmall);
-		g.setColor(Color.BLACK);
 		for (Visode o : renderList) {
 			drawLinks(g, o.getUID());
 		}

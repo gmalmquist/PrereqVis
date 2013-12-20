@@ -8,6 +8,7 @@ import gm.nodeode.io.ICourse;
 import gm.nodeode.io.Course;
 import gm.nodeode.io.PrereqGroup;
 import gm.nodeode.io.NodeIO;
+import gm.nodeode.model.GansnerLayout;
 import gm.nodeode.model.OdeAccess;
 import gm.nodeode.model.OdeGroup;
 import gm.nodeode.model.OdeManager;
@@ -23,7 +24,7 @@ public class NodeOde {
 		OdeAccess mainManage = new OdeManager();
 		OdeAccess tinyManage = new OdeManager();
 		
-		NodeView view = new NodeView(tinyManage);
+		NodeView view = new NodeView(tinyManage, new GansnerLayout(tinyManage));
 		
 		view.clear();
 		
