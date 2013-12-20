@@ -5,6 +5,7 @@ import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.math.graph.Edge;
 import gm.nodeode.math.graph.Graph;
+import gm.nodeode.math.graph.UnionFind;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -12,6 +13,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,8 +27,8 @@ import java.util.List;
 public class GansnerLayout extends OdeLayout {
 	
 	 // 24 = magic number given in paper for decent results
-	private static final int MAX_ORDERING_ITERATIONS = 2;
-	private static final int MAX_TRANSPOSITIONS = 30;
+	private static final int MAX_ORDERING_ITERATIONS = 24;
+	private static final int MAX_TRANSPOSITIONS = 100;
 
 	public GansnerLayout(OdeAccess db) {
 		super(db);
@@ -87,6 +89,7 @@ public class GansnerLayout extends OdeLayout {
 	private void rank() {
 		ranks = new HashMap<String, Integer>();
 		
+		// STEP ONE: Rank bottom-up, root nodes at 0 and leaves and big numbers
 		LinkedList<String> frontier = new LinkedList<String>();
 		for (String s : vertices()) {
 			if (!db.hasParents(s))
@@ -94,7 +97,6 @@ public class GansnerLayout extends OdeLayout {
 		}
 
 		int maxd = 0;
-		
 		while (!frontier.isEmpty()) {
 			String f = frontier.pop();
 			if (ranks.containsKey(f))
@@ -124,31 +126,34 @@ public class GansnerLayout extends OdeLayout {
 				frontier.add(f);
 		}
 		
-//		This works fine.
-//		// verification
-//		for (String v : vertices()) {
-//			int parmax = 0;
-//			for (String p : db.findParents(v)) {
-//				parmax = Math.max(parmax, ranks.get(p)+1);
-//			}
-//			if (parmax != ranks.get(v)) {
-//				throw new RuntimeException("Ranking error! " + v + ", " + ranks.get(v) + ", should be: " + parmax + "!");
-//			}
-//		}
-		
+		// Reverse order so root nodes are bigger numbers
 		for (String v : vertices()) {
 			ranks.put(v, maxd - ranks.get(v));
 		}
-		
 		maxrank = maxd;
 		minrank = 0;
+
+		// Move up dangling root nodes
+		for (String v : vertices()) {
+			if (!db.hasParents(v)) {
+				int minc = ranks.get(v);
+				int maxx = Integer.MIN_VALUE;
+				for (String c : db.findChildren(v)) {
+					maxx = Math.max(maxx, ranks.get(c)+1);
+				}
+				if (maxx > Integer.MIN_VALUE)
+					minc = maxx;
+				ranks.put(v, minc);
+			}
+		}
 		
+		// Rank nodes with no children a half-step lower
 		// Widen ranks
 		HashMap<Integer, List<String>> rankings = new HashMap<Integer, List<String>>();
 		for (String v : vertices()) {
 			int r = ranks.get(v)*2;
 			if (!db.hasChildren(v))
-				r--;
+				r++;
 
 			if (!rankings.containsKey(r))
 				rankings.put(r, new LinkedList<String>());
@@ -156,7 +161,7 @@ public class GansnerLayout extends OdeLayout {
 			rankings.get(r).add(v);
 		}
 		int ri = 0;
-		for (int i = -1; i <= maxrank*2; i++) {
+		for (int i = 0; i <= maxrank*2+1; i++) {
 			if (!rankings.containsKey(i))
 				continue;
 			for (String v : rankings.get(i))
@@ -165,8 +170,25 @@ public class GansnerLayout extends OdeLayout {
 		}
 		maxrank = ri-1;
 		
+//		// verification
+//		for (String v : vertices()) {
+//			int parmax = maxrank;
+//			for (String p : db.findParents(v)) {
+//				parmax = Math.min(parmax, ranks.get(p)-1);
+//			}
+//			// higher up is lower rank now, so
+//			// arank should be <= parmax.
+//			// 2, 3 -> 4, 6 -> 3, 7
+//			int arank = ranks.get(v);
+//			if (arank > parmax) {
+//				throw new RuntimeException("Ranking error! " + v + ", " + arank + ", should be: " + parmax + "!");
+//			}
+//		}
+		
 		// Construct graph with virtual nodes
 		virtual = new Graph();
+		HashMap<String, Boolean> fakes = new HashMap<String, Boolean>();
+		
 		for (String v : db.getOdes()) {
 			virtual.addVertex(v);
 		}
@@ -183,27 +205,74 @@ public class GansnerLayout extends OdeLayout {
 					
 					String last = v;
 					for (int r = rv+s; r != rp; r += s) {
-						String virt = virtual.addUniqueVertex();
-						ranks.put(virt, r);
-						virtual.addEdge(last, virt);
-						last = virt;
+						String intVertex = virtualID(v, p, r);
+						fakes.put(intVertex, true);
+						ranks.put(intVertex, r);
+						virtual.addEdge(last, intVertex);
+						last = intVertex;
 					}
 					virtual.addEdge(last, p);
 				}
 			}
 		}
+		
+//		List<String> overts = new LinkedList<String>();
+//		overts.addAll(virtual.getVertices());
+//		for (int i = maxrank; i >= minrank; i--) {
+//			
+//			UnionFind<String> destinations = new UnionFind<String>();
+//			List<String> intermediates = new LinkedList<String>();
+//			
+//			for (String v : overts) {
+//				if (ranks.get(v) != i) continue;
+//				if (!fakes.containsKey(v) || !fakes.get(v)) continue;
+//				
+//				intermediates.add(v);
+//				boolean only = true;
+//				for (String p : virtual.getOutgoingVertices(v)) {
+//					if (!only) {
+//						throw new RuntimeException("Virtual node cannot have multiple outgoing vertices!");
+//					}
+//					destinations.union(p, v);
+//					only = false;
+//				}
+//			}
+//			
+//			for (List<String> group : destinations.discreteGroups()) {
+//				String last = null;
+//				for (String v : group) {
+//					if (!intermediates.contains(v))
+//						continue;
+//					if (last != null) {
+//						virtual.mergeVertices(last, v);
+//					} else {
+//						last = v;
+//					}
+//				}
+//			}
+//		}
+		
 	}
+	
+	private HashMap<String, String> virtIDs = new HashMap<String, String>();
 	private String virtualID(String v, String p, int r) {
 		StringBuffer sb = new StringBuffer(v.length() + p.length() + 5);
-		sb.append("VirtualNode-");
-		sb.append(v);
-		sb.append("-");
 		sb.append(p);
-		sb.append("-");
+		sb.append(":");
 		sb.append(r);
-		sb.append("-");
-		sb.append(System.currentTimeMillis());
-		return sb.toString();
+		String key = sb.toString();
+		
+		String result = null;
+		if (virtIDs.containsKey(key)) {
+			result = virtIDs.get(key);
+			virtual.addVertex(result);
+		} else {
+			result = virtual.addUniqueVertex();
+			virtIDs.put(key, result);
+		}
+		
+		return result;
+		
 	}
 	private int rank(String v) {
 		return ranks.get(v);
@@ -214,10 +283,10 @@ public class GansnerLayout extends OdeLayout {
 		Order best = initialOrdering();
 		
 		int maxIterations = MAX_ORDERING_ITERATIONS;
-		
+
+		Order order = copy(best);
 		for (int i = 0; i < maxIterations; i++) {			
 			System.out.println("Ordering Iteration " + i);
-			Order order = copy(best);
 			
 			System.out.println("\tMedian sorting");
 			wmedian(order, i);
@@ -226,9 +295,26 @@ public class GansnerLayout extends OdeLayout {
 			transpose(order);
 			
 			System.out.println("\tCross testing");
-			if (crossingCount(order) < crossingCount(best)) {
+			int newOrder = crossingCount(order);
+			int oldOrder = crossingCount(best);
+//			for (Integer R : order.keySet())
+//				System.out.println("\t\t [" + R + "] " + crossingCount(order, R) + " < " + crossingCount(best, R) + " ?");
+				
+			System.out.println("\t\t" + newOrder + " < " + oldOrder + " ?");
+			
+			// == DEBUG ==
+			this.orders = order;
+			position();
+			virtualToDB();
+			// ===========
+			
+			if (newOrder < oldOrder) {
 				System.out.println("\t\tImprovement made!");
 				best = order;
+			} else {
+				// Pretty sure further improvements impossible now?
+				System.out.println("\t\tNo improvement made.");
+//				break;
 			}
 		}
 		
@@ -245,21 +331,30 @@ public class GansnerLayout extends OdeLayout {
 		}
 		
 		for (int r = r0; r*rd <= r1*rd; r += rd) {
+			System.out.print(" " + r + ", ");
 			List<String> rord = order.get(r);
 			final HashMap<String, Float> medians = new HashMap<String, Float>();
 			
 			for (String v : rord) {
-				medians.put(v, medianValue(order, v, r-rd));
+				float med = medianValue(order, v, r-rd);
+				if (Float.isNaN(med) || Float.isInfinite(med)) {
+					System.err.println("Warning: garbage data in median sorter");
+					med = 0;
+				}
+				medians.put(v, med);
 			}
 			// sort(order[r], median)
 			Collections.sort(rord, new Comparator<String>() {
 				public int compare(String a, String b) {
-					int s = Mathf.sign(medians.get(a) - medians.get(b));
-					if (s == 0)
-						return a.compareTo(b);
-					return s;
+					float ma = medians.get(a);
+					float mb = medians.get(b);
+					if (ma > mb) return 1;
+					if (mb > ma) return -1;
+					return 0;
 				}
 			});
+			
+			order.put(r, rord);
 		}
 		
 	}
@@ -272,7 +367,7 @@ public class GansnerLayout extends OdeLayout {
 		
 		int i = 0;
 		for (String rank : order.get(adjRank)) {
-			if (db.hasParent(v, rank) || db.hasParent(rank, v)) {
+			if (virtual.hasEdge(v, rank) || virtual.hasEdge(rank, v)) {
 				adjacent.add(rank);
 				poses.add((float) i);
 			}
@@ -302,6 +397,7 @@ public class GansnerLayout extends OdeLayout {
 		
 	}
 	private void transpose(Order order) {
+		// Basically does an iterative bubble sort to iron out small crossings
 		int maxIterations = MAX_TRANSPOSITIONS;
 		boolean improved = true;
 		while (improved && maxIterations-- > 0) {
@@ -324,12 +420,13 @@ public class GansnerLayout extends OdeLayout {
 						rankr.set(i+0, v);
 						rankr.set(i+1, w);
 					} else {
-//						System.out.println(crossingVW + ", " + crossingWV);
 						improved = true;
 					}
 				}
 			}			
 		}
+		if (improved) System.out.println("Stopped by cap");
+		else System.out.println("Improving ceased at i=" + (MAX_TRANSPOSITIONS - maxIterations));
 	}
 	private int crossingCount(Order order) {
 		int crosses = 0;
@@ -373,13 +470,36 @@ public class GansnerLayout extends OdeLayout {
 		return crosses;
 	}
 	private Order initialOrdering() {
+		// Lazy breadth-first search of an arbitrary tree.
 		Order orders = new Order();
 		HashMap<String, Boolean> visited = new HashMap<String, Boolean>();
 		LinkedList<String> frontier = new LinkedList<String>();
+		
+//		// Lazy: just add the first vertex in the list
+//		for (String s : virtual.getVertices()) {
+//			frontier.add(s);
+//			break;
+//		}
+		
+		// Better (maybe): add the most-constrained vertex first.
+		int mostEdges = 0;
+		String best = null;
+		final Hashtable<String, Integer> edgeCount = new Hashtable<String, Integer>();
 		for (String s : virtual.getVertices()) {
-			frontier.add(s);
-			break;
+			int e = virtual.getEdges(s).size();
+			edgeCount.put(s,  e);
+			if (best == null || e > mostEdges) {
+				best = s;
+				mostEdges = e;
+			}
 		}
+		frontier.add(best);
+		
+		final Comparator<String> constraint = new Comparator<String>() {
+			public int compare(String a, String b) {
+				return edgeCount.get(a) - edgeCount.get(b);
+			}
+		};
 		
 		while (!frontier.isEmpty()) {
 			String v = frontier.pop();
@@ -391,12 +511,22 @@ public class GansnerLayout extends OdeLayout {
 				orders.put(rank, new ArrayList<String>());
 			orders.get(rank).add(v);
 			
-			for (String p : virtual.getOutgoingVertices(v)) {
-				frontier.add(p);
-			}
-			for (String c : virtual.getIncomingVertices(v)) {
-				frontier.add(c);
-			}
+			List<String> outs = new LinkedList<String>();
+			List<String> inns = new LinkedList<String>();
+			
+			outs.addAll(virtual.getOutgoingVertices(v));
+			inns.addAll(virtual.getIncomingVertices(v));
+			
+//			Collections.sort(outs, constraint);
+//			Collections.sort(inns, constraint);
+			
+			List<String> alls = new LinkedList<String>();
+			alls.addAll(outs);
+			alls.addAll(inns);
+			
+			Collections.sort(alls, constraint);
+			
+			frontier.addAll(alls);
 		}
 		
 		return orders;

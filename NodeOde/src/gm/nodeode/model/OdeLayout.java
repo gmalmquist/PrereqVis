@@ -22,6 +22,9 @@ public abstract class OdeLayout {
 		if (a0.equals(b0) || a0.equals(b1)) return false;
 		if (a1.equals(b0) || a1.equals(b1)) return false;
 		
+		if (db.find(a0) == null || db.find(a1) == null || db.find(b0) == null || db.find(b1) == null)
+			return false;
+		
 		Pt A0 = db.find(a0).getCenter();
 		Pt A1 = db.find(a1).getCenter();
 		

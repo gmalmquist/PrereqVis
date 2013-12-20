@@ -77,8 +77,10 @@ public class NodeView extends JComponent {
 		});
 		
 		addKeyListener(new KeyAdapter() {
-			public void keyPressed(KeyEvent e) {
+			public void keyPressed(final KeyEvent e) {
+				new Thread(new Runnable() { public void run() {
 				NodeView.this.keyPressed(e.getKeyCode(), e.getKeyChar());
+				}}).start();
 			}
 		});
 		
@@ -156,12 +158,12 @@ public class NodeView extends JComponent {
 		}
 	}
 	
+	private int crosses = -1;
 	private void drawLinks(Graphics2D g, String ode) {
 		Visode O = access.find(ode);
 		
 		if (O == null)
 			return;
-		
 		
 		for (String parent : access.findParents(ode)) {
 			Visode P = access.find(parent);
@@ -174,6 +176,7 @@ public class NodeView extends JComponent {
 			for (String other : access.getOdes()) {
 				for (String p : access.findParents(other)) {					
 					if (layout.edgesCross(ode, parent, other, p)) {
+						crosses++;
 						cross = true;
 						break;
 					}
@@ -240,16 +243,25 @@ public class NodeView extends JComponent {
 
 		g.setStroke(strokeBig);
 
+		boolean nope = crosses < 0;
+		crosses = 0;
+		
 		// Draw links
 		g.setStroke(strokeSmall);
 		for (Visode o : renderList) {
 			drawLinks(g, o.getUID());
 		}
 		
+		if (!nope) {
+			System.out.println("Crosses: " + crosses);
+		}
+		crosses = -1;
+		
 		// Draw nodes
 		renderList.clear();
 		for (String n : access.getOdes()) {
 			Visode o = access.find(n);
+			if (o == null) break;
 			if (o.prerender())
 				renderList.push(o);
 			else
@@ -307,6 +319,8 @@ public class NodeView extends JComponent {
 			layoutStep();
 		else if (key == '}')
 			layout.doLayout();
+		else if (key == 'x')
+			crosses = 0;
 	}
 
 	private synchronized void layoutStep() {

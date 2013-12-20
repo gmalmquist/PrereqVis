@@ -23,20 +23,40 @@ public class Graph {
 	}
 	
 	public synchronized void addVertex(String vertex) {
-		vertices.add(vertex);
+		if (!vertices.contains(vertex))
+			vertices.add(vertex);
 	}
 	
 	public synchronized void addEdge(String tail, String head) {
 		if (!linksTailHead.containsKey(tail)) linksTailHead.put(tail, new LinkedList<String>());
 		if (!linksHeadTail.containsKey(head)) linksHeadTail.put(head, new LinkedList<String>());
 		
-		linksTailHead.get(tail).add(head);
-		linksHeadTail.get(head).add(tail);
+		List<String> lth = linksTailHead.get(tail);
+		List<String> lht = linksHeadTail.get(head);
+		
+		if (!lth.contains(head)) lth.add(head);
+		if (!lht.contains(tail)) lht.add(tail);
 	}
 	
 	public synchronized void removeEdge(String tail, String head) {
 		if (linksTailHead.containsKey(tail)) linksTailHead.get(tail).remove(head);
 		if (linksHeadTail.containsKey(head)) linksHeadTail.get(head).remove(tail);
+	}
+	
+	/**
+	 * Merges b into a
+	 * @param a
+	 * @param b
+	 */
+	public synchronized void mergeVertices(String a, String b) {
+		for (String out : getOutgoingVertices(b)) {
+			addEdge(a, out);
+		}
+		for (String inn : getIncomingVertices(b)) {
+			addEdge(inn, a);
+		}
+		
+		removeVertex(b);
 	}
 	
 	public void addEdge(Edge e) {

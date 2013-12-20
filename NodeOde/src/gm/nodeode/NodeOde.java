@@ -29,7 +29,7 @@ public class NodeOde {
 		view.clear();
 		
 		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data.txt");
-		for (ICourse gnode : nodes) {
+		for (ICourse gnode : nodes) {			
 			if (gnode instanceof PrereqGroup) {
 				PrereqGroup group = (PrereqGroup)gnode;
 				
@@ -52,9 +52,11 @@ public class NodeOde {
 		
 		List<List<String>> disjoint = mainManage.findDisjointGroups();
 		for (String s : disjoint.get(disjoint.size()-1)) {
+			
 			tinyManage.register(mainManage.find(s));
-			for (String p : mainManage.findParents(s))
+			for (String p : mainManage.findParents(s)) {
 				tinyManage.addParent(s, p);
+			}
 		}
 		
 		frame.add(view);
