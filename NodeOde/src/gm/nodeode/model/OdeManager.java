@@ -70,4 +70,9 @@ public class OdeManager extends OdeAccess {
 		return vertices.keySet();
 	}
 
+	@Override
+	public Graph copyGraph() {
+		return new Graph(connectivity);
+	}
+
 }

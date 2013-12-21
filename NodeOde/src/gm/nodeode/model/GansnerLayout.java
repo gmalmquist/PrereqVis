@@ -27,57 +27,91 @@ import java.util.List;
 
 public class GansnerLayout extends OdeLayout {
 	
-	 // 24 = magic number given in paper for decent results
+	// 24 = magic number given in paper for decent results
 	private static final int MAX_ORDERING_ITERATIONS = 24;
 	private static final int MAX_TRANSPOSITIONS = 100;
+	private static final int MAX_RANK_RETRYING = 100;
 	private static final boolean LOWER_LEAVES = true;
+	private static final boolean SHIFT_AVERAGE = false;
+	
+	private Graph virtual;
+	private HashMap<String, Integer> ranks;
+	private Order orders;
+	private HashMap<String, String> virtIDs = new HashMap<String, String>();
+	private HashMap<String, Pt> positions;
+
+	private int step = 0;
+	private int maxrank = Integer.MIN_VALUE, minrank = Integer.MAX_VALUE;
 
 	public GansnerLayout(OdeAccess db) {
 		super(db);
 	}
 
+	private Graph original;
 	@Override
 	public void doLayout() {
+		if (ranks != null) {
+			virtIDs.clear();
+			orders = null;
+			positions = null;
+			virtual = null;
+			ranks = null;
+		}
+		
+		System.out.println("Copying original");
+		if (original == null) {
+			original = db.copyGraph();
+		} else {
+			graphToDB(original);
+		}
+		
 		// Operation order identical to paper
+		System.out.println("RANKING");
 		rank();
+		System.out.println("ORDERING");
 		ordering();
+		System.out.println("POSITIONING");
 		position();
 		makeSplines();
 		
 		// push results
+		System.out.println("Pushing results to view...");
 		virtualToDB();
 		
 		System.out.println("Modified Gansner Layout complete.");
 	}
 
 	private void virtualToDB() {
+		graphToDB(this.virtual);
+	}
+	private void graphToDB(Graph graph) {
 		HashMap<String, String> names = new HashMap<String, String>();
-		for (String v : virtual.getVertices()) {
+		for (String v : graph.getVertices()) {
 			Visode o = db.find(v);
 			String name = o == null ? v : String.valueOf(((OdeNode)o).getDisplayName());
 			names.put(v, name);
 		}
 		
 		db.clear();
-		for (String v : virtual.getVertices()) {
+		for (String v : graph.getVertices()) {
 			Visode ode = new OdeNode(v, names.get(v));
 			if (ode.getUID().matches("\\d+")) {
-				if (virtual.getEdges(v).size() == 0) {
+				if (graph.getEdges(v).size() == 0) {
 					// spacer!
 					ode.setType(Visode.TYPE_SPACER);
 				} else {
 					ode.setType(Visode.TYPE_LINK);
 				}
 			}
-			ode.setCenter(positions.get(v));
+			if (positions != null && positions.containsKey(v)) {
+				ode.setCenter(positions.get(v));
+			}
 			db.register(ode);
-			for (String o : virtual.getOutgoingVertices(v))
+			for (String o : graph.getOutgoingVertices(v))
 				db.addParent(v, o);
 		}
 	}
 	
-	private int step = 0;
-	private int maxrank = Integer.MIN_VALUE, minrank = Integer.MAX_VALUE;
 	@Override
 	public void doLayoutStep() {
 		switch (step++) {
@@ -88,8 +122,6 @@ public class GansnerLayout extends OdeLayout {
 		}
 	}
 	
-	private Graph virtual;
-	private HashMap<String, Integer> ranks;
 	
 	/**
 	 * This rank works completely differently than the method described by the paper,
@@ -105,6 +137,9 @@ public class GansnerLayout extends OdeLayout {
 			if (!db.hasParents(s))
 				frontier.add(s);
 		}
+		
+		HashMap<String, Integer> invalidTicker = new HashMap<String, Integer>();
+		int invalidCap = MAX_RANK_RETRYING;
 
 		int maxd = 0;
 		while (!frontier.isEmpty()) {
@@ -132,8 +167,20 @@ public class GansnerLayout extends OdeLayout {
 				frontier.add(s);
 			}
 			
-			if (!rankValid)
-				frontier.add(f);
+			if (!rankValid) {
+				if (!invalidTicker.containsKey(f))
+					invalidTicker.put(f, 1);
+				else
+					invalidTicker.put(f, invalidTicker.get(f)+1);
+				int count = invalidTicker.get(f);
+				if (count > invalidCap) {
+					// NO MORE
+					System.err.println("Max Rank Invalidity Hit: " + f);
+					ranks.put(f, depth+1);
+				} else {
+					frontier.add(f);
+				}
+			}
 		}
 		
 		// Reverse order so root nodes are bigger numbers
@@ -166,7 +213,7 @@ public class GansnerLayout extends OdeLayout {
 			if (LOWER_LEAVES) {
 				if (!db.hasChildren(v))
 					r++;
-				if (v.contains(","))
+				if (v.contains("&") || v.contains("|"))
 					r++;
 			}
 
@@ -260,7 +307,6 @@ public class GansnerLayout extends OdeLayout {
 		
 	}
 	
-	private HashMap<String, String> virtIDs = new HashMap<String, String>();
 	private String virtualID(String v, String p, int r) {
 		StringBuffer sb = new StringBuffer(v.length() + p.length() + 5);
 		sb.append(p);
@@ -284,7 +330,6 @@ public class GansnerLayout extends OdeLayout {
 		return ranks.get(v);
 	}
 	
-	private Order orders;
 	private void ordering() {
 		Order best = initialOrdering();
 
@@ -588,13 +633,12 @@ public class GansnerLayout extends OdeLayout {
 		return C.size() == 0;
 	}
 	
-	private HashMap<String, Pt> positions;
 	private void position() {
 		positions = new HashMap<String, Pt>();
 		
 		spacedPositioning();
 		
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 100; i++) {
 			shiftBlocks(i);
 		}
 	}
@@ -635,7 +679,14 @@ public class GansnerLayout extends OdeLayout {
 				if (maxpos <= minpos)
 					continue; // movement impossible
 
+				float outx = block.medianOutgoing().x;
+				float innx = block.medianIncoming().x;
+				
 				float target = bottomUp ? block.medianOutgoing().x : block.medianIncoming().x;
+				if (SHIFT_AVERAGE) {
+					target = (outx * block.outCount + innx * block.innCount) / (block.outCount + block.innCount);
+				}
+
 				if (target > maxpos) target = maxpos;
 				if (target < minpos) target = minpos;
 				
@@ -841,6 +892,9 @@ public class GansnerLayout extends OdeLayout {
 		public final int index;
 		public final int length;
 		
+		public final int innCount;
+		public final int outCount;
+		
 		private List<String> vertices;
 		
 		public VertexBlock(int rank, int index, int length) {
@@ -854,6 +908,18 @@ public class GansnerLayout extends OdeLayout {
 			for (int i = index; i < index+length; i++) {
 				vertices.add(rs.get(i));
 			}
+			
+			HashMap<String, Boolean> it = new HashMap<String, Boolean>();
+			HashMap<String, Boolean> ot = new HashMap<String, Boolean>();
+			for (String v : vertices) {
+				for (String o : virtual.getOutgoingVertices(v))
+					ot.put(o,true);
+				for (String i : virtual.getIncomingVertices(v))
+					it.put(i,true);
+			}
+			
+			this.innCount = it.size();
+			this.outCount = ot.size();
 		}
 		
 		public Pt position() {
@@ -884,9 +950,11 @@ public class GansnerLayout extends OdeLayout {
 			Pt med = Pt.P(0,0);
 			int N = 0;
 			
-			for (String s : virtual.getOutgoingVertices(vertices.get(0))) {
-				med.add(positions.get(s));
-				N++;
+			for (String v : vertices) {
+				for (String s : virtual.getOutgoingVertices(v)) {
+					med.add(positions.get(s));
+					N++;
+				}
 			}
 			if (N > 0)
 				med.mul(1f/N);
@@ -900,9 +968,11 @@ public class GansnerLayout extends OdeLayout {
 			Pt med = Pt.P(0,0);
 			int N = 0;
 			
-			for (String s : virtual.getIncomingVertices(vertices.get(0))) {
-				med.add(positions.get(s));
-				N++;
+			for (String v : vertices) {
+				for (String s : virtual.getIncomingVertices(v)) {
+					med.add(positions.get(s));
+					N++;
+				}
 			}
 			if (N > 0)
 				med.mul(1f/N);

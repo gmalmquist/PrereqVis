@@ -7,11 +7,20 @@ public class PrereqGroup implements ICourse {
 	private String[] children;
 	private String id;
 	private String name;
+	private boolean and;
 	
-	public PrereqGroup(String[] children) {
+	public PrereqGroup(String[] children, boolean and) {
 		this.children = children;
-		this.id = join(",", children);
-		this.name = join("|", children);
+		this.id = "("+join(and ? "&" : "|", children)+")";
+		this.name = join(and ? "&" : "|", children);
+		this.and = and;
+	}
+	
+	public boolean isAnd() {
+		return and;
+	}
+	public boolean isOr() {
+		return !and;
 	}
 
 	public String[] getChildren() {
@@ -40,5 +49,10 @@ public class PrereqGroup implements ICourse {
 	@Override
 	public String getName() {
 		return name;
+	}
+	
+	@Override
+	public String toString() {
+		return getUID();
 	}
 }

@@ -1,5 +1,6 @@
 package gm.nodeode.model;
 
+import gm.nodeode.math.graph.Graph;
 import gm.nodeode.math.graph.UnionFind;
 
 import java.util.Collection;
@@ -38,4 +39,5 @@ public abstract class OdeAccess {
 	public boolean hasChild(String ode, String child) {
 		return hasParent(child, ode);
 	}
+	public abstract Graph copyGraph();
 }

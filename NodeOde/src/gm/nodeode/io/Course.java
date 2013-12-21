@@ -52,4 +52,7 @@ public class Course implements ICourse {
 		return name;
 	}
 	
+	@Override
+	public String toString() { return getUID(); }
+	
 }

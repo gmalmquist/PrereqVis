@@ -22,6 +22,17 @@ public class Graph {
 		linksHeadTail = new HashMap<String, List<String>>();
 	}
 	
+	public Graph(Graph other) {
+		this();
+		
+		for (String v : other.getVertices()) {
+			addVertex(v);
+			for (Edge e : other.getEdges(v)) {
+				addEdge(e);
+			}
+		}
+	}
+	
 	public synchronized void clear() {
 		vertices.clear();
 		linksTailHead.clear();
@@ -122,6 +133,33 @@ public class Graph {
 			edges.add(new Edge(s, vertex));
 		
 		return edges;
+	}
+	
+	public synchronized Graph getDirectedSubGraph(List<String> roots, boolean outgoing) {
+		Graph graph = new Graph();
+		
+		HashMap<String, Boolean> visited = new HashMap<String, Boolean>();
+		
+		LinkedList<String> frontier = new LinkedList<String>();
+		frontier.addAll(roots);
+		
+		while (!frontier.isEmpty()) {
+			String vertex = frontier.pop();
+			if (visited.containsKey(vertex))
+				continue;
+			visited.put(vertex, true);
+			
+			graph.addVertex(vertex);
+			
+			Iterable<String> connections = outgoing ? getOutgoingVertices(vertex) : getIncomingVertices(vertex);
+			
+			for (String v : connections) {
+				frontier.add(v);
+				graph.addEdge(vertex, v);
+			}
+		}
+		
+		return graph;
 	}
 	
 	public synchronized List<Graph> getConnectedSubgraphs() {
