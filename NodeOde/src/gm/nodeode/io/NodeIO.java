@@ -3,6 +3,7 @@ package gm.nodeode.io;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.util.Arrays;
 import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.List;
@@ -51,6 +52,7 @@ public class NodeIO {
 				preq = preq.trim().replaceAll("::", " ");
 				if (preq.length() == 0)
 					continue;
+				preq = splitSortJoin(preq, ",");
 				node.addParent(preq);
 				if (!nodes.containsKey(preq)) {
 					if (preq.contains(",")) {
@@ -83,5 +85,17 @@ public class NodeIO {
 			nodesList.add(nodes.get(s));
 		
 		return nodesList;
+	}
+	
+	private static String splitSortJoin(String s, String split) {
+		if (!s.contains(split)) return s;
+		String[] arr = s.split(split);
+		Arrays.sort(arr);
+		StringBuffer sb = new StringBuffer(s.length());
+		for (String str : arr) {
+			if (sb.length() > 0) sb.append(split);
+			sb.append(str);
+		}
+		return sb.toString();
 	}
 }

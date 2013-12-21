@@ -22,6 +22,12 @@ public class Graph {
 		linksHeadTail = new HashMap<String, List<String>>();
 	}
 	
+	public synchronized void clear() {
+		vertices.clear();
+		linksTailHead.clear();
+		linksHeadTail.clear();
+	}
+	
 	public synchronized void addVertex(String vertex) {
 		if (!vertices.contains(vertex))
 			vertices.add(vertex);
@@ -57,6 +63,10 @@ public class Graph {
 		}
 		
 		removeVertex(b);
+	}
+	
+	public int vertexCount() {
+		return vertices.size();
 	}
 	
 	public void addEdge(Edge e) {

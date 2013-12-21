@@ -10,13 +10,24 @@ import gm.nodeode.math.geom.Pt;
  *
  */
 public abstract class Visode {
+	public static final int TYPE_NODE = 0, TYPE_SPACER = 1, TYPE_LINK = 2;
+	
 	private final String uid;
+	private int type;
 	public Visode(String uid) {
 		this.uid = uid;
+		this.type = TYPE_NODE;
 	}
 	
 	public final String getUID() {
 		return uid;
+	}
+	
+	public int getType() {
+		return type;
+	}
+	public void setType(int type) {
+		this.type = type;
 	}
 	
 	public abstract Pt getCenter();

@@ -1,5 +1,7 @@
 package gm.nodeode.io;
 
+import java.util.Arrays;
+
 public class PrereqGroup implements ICourse {
 
 	private String[] children;

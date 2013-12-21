@@ -26,7 +26,7 @@ public class Art {
 	}
 	
 	public static void arrow(Graphics2D g, GP A, GP B) {
-		arrow(g, A, B, false);
+		arrow(g, A, B, true);
 	}
 	public static void arrow(Graphics2D g, GP A, GP B, boolean taperStyle) {
 		Pt rot = Pt.P(0,0).add(A).sub(B);
@@ -34,8 +34,8 @@ public class Art {
 		if (taperStyle) {
 			Pt T = rot.d().normalize();
 			Pt N = T.d().rot2d();
-			float s0 = 10;
-			float s1 = 2;
+			float s0 = 2;
+			float s1 = 1;
 			
 			Pt[] pts = {
 				N.d().mul(+s0).add(A).add(s0, T),
@@ -51,11 +51,13 @@ public class Art {
 				y[i] = pts[i].iy();
 			}
 
-			Color c = g.getColor();
-			g.setColor(Color.GRAY);
 			g.fillPolygon(x, y, pts.length);
-			g.setColor(c);
 			g.drawPolygon(x, y, pts.length);
+			
+			int ar = 2+(int)s0;
+			int br = 1+(int)s0;
+//			g.fillOval(A.ix()-ar, A.iy()-ar, ar*2, ar*2);
+			g.fillOval(B.ix()-br, B.iy()-br, br*2, br*2);
 		} else {
 			line(g, A, B);
 			

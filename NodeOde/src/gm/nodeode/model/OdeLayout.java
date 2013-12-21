@@ -22,23 +22,28 @@ public abstract class OdeLayout {
 		if (a0.equals(b0) || a0.equals(b1)) return false;
 		if (a1.equals(b0) || a1.equals(b1)) return false;
 		
-		if (db.find(a0) == null || db.find(a1) == null || db.find(b0) == null || db.find(b1) == null)
+		Visode va0 = db.find(a0);
+		Visode va1 = db.find(a1);
+		Visode vb0 = db.find(b0);
+		Visode vb1 = db.find(b1);
+		
+		if (va0 == null || va1 == null || vb0 == null || vb1 == null)
 			return false;
 		
-		Pt A0 = db.find(a0).getCenter();
-		Pt A1 = db.find(a1).getCenter();
+		Pt A0 = va0.getCenter();
+		Pt A1 = va1.getCenter();
 		
-		Pt B0 = db.find(b0).getCenter();
-		Pt B1 = db.find(b1).getCenter();
+		Pt B0 = vb0.getCenter();
+		Pt B1 = vb1.getCenter();
 
 		Pt TA = V(A0, A1).normalize();
 		Pt TB = V(B0, B1).normalize();
 
-		A0.add(+db.find(a0).radius(), TA);
-		A1.add(-db.find(a1).radius(), TA);
+		A0.add(+va0.radius(), TA);
+		A1.add(-va1.radius(), TA);
 
-		B0.add(+db.find(b0).radius(), TB);
-		B1.add(-db.find(b1).radius(), TB);
+		B0.add(+vb0.radius(), TB);
+		B1.add(-vb1.radius(), TB);
 		
 		Pt N = TA.d().cross(TB);
 		

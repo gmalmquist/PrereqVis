@@ -62,11 +62,16 @@ public class OdeNode extends Visode {
 		
 		g.translate(tx, ty);
 		
-		if (String.valueOf(display).matches("\\d+")) {
-			// we're a link! links are a lie!
+		if (getType() == Visode.TYPE_LINK || getType() == Visode.TYPE_SPACER) {
+			// We're a link! Links are a lie!
 			this.r = r = 3;
 			g.setColor(Color.BLACK);
-			g.fillOval(-r, -r, r*2, r*2);
+			
+			if (getType() == Visode.TYPE_SPACER) {
+				g.drawOval(-r, -r, r*2, r*2);
+			} else {
+				g.fillOval(-r, -r, r*2, r*2);
+			}
 		} else {
 			g.setColor(background);
 			g.fillOval(-r, -r, r*2, r*2);

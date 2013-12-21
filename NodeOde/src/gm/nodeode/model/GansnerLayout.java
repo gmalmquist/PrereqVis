@@ -14,6 +14,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Hashtable;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -29,6 +30,7 @@ public class GansnerLayout extends OdeLayout {
 	 // 24 = magic number given in paper for decent results
 	private static final int MAX_ORDERING_ITERATIONS = 24;
 	private static final int MAX_TRANSPOSITIONS = 100;
+	private static final boolean LOWER_LEAVES = true;
 
 	public GansnerLayout(OdeAccess db) {
 		super(db);
@@ -59,6 +61,14 @@ public class GansnerLayout extends OdeLayout {
 		db.clear();
 		for (String v : virtual.getVertices()) {
 			Visode ode = new OdeNode(v, names.get(v));
+			if (ode.getUID().matches("\\d+")) {
+				if (virtual.getEdges(v).size() == 0) {
+					// spacer!
+					ode.setType(Visode.TYPE_SPACER);
+				} else {
+					ode.setType(Visode.TYPE_LINK);
+				}
+			}
 			ode.setCenter(positions.get(v));
 			db.register(ode);
 			for (String o : virtual.getOutgoingVertices(v))
@@ -152,38 +162,34 @@ public class GansnerLayout extends OdeLayout {
 		HashMap<Integer, List<String>> rankings = new HashMap<Integer, List<String>>();
 		for (String v : vertices()) {
 			int r = ranks.get(v)*2;
-			if (!db.hasChildren(v))
-				r++;
+			
+			if (LOWER_LEAVES) {
+				if (!db.hasChildren(v))
+					r++;
+				if (v.contains(","))
+					r++;
+			}
 
 			if (!rankings.containsKey(r))
 				rankings.put(r, new LinkedList<String>());
 			
 			rankings.get(r).add(v);
 		}
+		
+		int nmax = 0;
 		int ri = 0;
 		for (int i = 0; i <= maxrank*2+1; i++) {
-			if (!rankings.containsKey(i))
+			if (!rankings.containsKey(i) || rankings.get(i).isEmpty())
 				continue;
-			for (String v : rankings.get(i))
+			for (String v : rankings.get(i)) {
 				ranks.put(v, ri);
-			ri++;
+			}
+			nmax = ri++;
 		}
-		maxrank = ri-1;
+		maxrank = nmax;
+		System.out.println("MinRank: " + minrank);
+		System.out.println("MaxRank: " + maxrank);
 		
-//		// verification
-//		for (String v : vertices()) {
-//			int parmax = maxrank;
-//			for (String p : db.findParents(v)) {
-//				parmax = Math.min(parmax, ranks.get(p)-1);
-//			}
-//			// higher up is lower rank now, so
-//			// arank should be <= parmax.
-//			// 2, 3 -> 4, 6 -> 3, 7
-//			int arank = ranks.get(v);
-//			if (arank > parmax) {
-//				throw new RuntimeException("Ranking error! " + v + ", " + arank + ", should be: " + parmax + "!");
-//			}
-//		}
 		
 		// Construct graph with virtual nodes
 		virtual = new Graph();
@@ -281,6 +287,10 @@ public class GansnerLayout extends OdeLayout {
 	private Order orders;
 	private void ordering() {
 		Order best = initialOrdering();
+
+		for (int i = minrank; i <= maxrank; i++) {
+			System.out.println("\tRank " + i + " exists? " + (best.get(i) != null));
+		}
 		
 		int maxIterations = MAX_ORDERING_ITERATIONS;
 
@@ -333,16 +343,32 @@ public class GansnerLayout extends OdeLayout {
 		for (int r = r0; r*rd <= r1*rd; r += rd) {
 			System.out.print(" " + r + ", ");
 			List<String> rord = order.get(r);
+			if (rord == null) {
+				// what?
+				System.err.println("Warning: Missing rank (" + r + ")");
+				continue;
+			}
 			final HashMap<String, Float> medians = new HashMap<String, Float>();
+			final HashMap<Integer, String> statics = new HashMap<Integer, String>();
 			
+			int vi = 0;
 			for (String v : rord) {
 				float med = medianValue(order, v, r-rd);
 				if (Float.isNaN(med) || Float.isInfinite(med)) {
 					System.err.println("Warning: garbage data in median sorter");
 					med = 0;
 				}
+				// -1 indicates they should keep their original position
+				if (med == -1) {
+					statics.put(vi, v);
+				}
 				medians.put(v, med);
+				vi++;
 			}
+			
+			for (int i : statics.keySet())
+				rord.remove(statics.get(i));
+			
 			// sort(order[r], median)
 			Collections.sort(rord, new Comparator<String>() {
 				public int compare(String a, String b) {
@@ -353,6 +379,18 @@ public class GansnerLayout extends OdeLayout {
 					return 0;
 				}
 			});
+			
+			String[] ns = rord.toArray(new String[rord.size()]);
+			rord.clear();
+			
+			int ri = 0;
+			for (int i = 0; i < ns.length + statics.size(); i++) {
+				if (statics.containsKey(i)) {
+					rord.add(statics.get(i));
+				} else {
+					rord.add(ns[ri++]);
+				}
+			}
 			
 			order.put(r, rord);
 		}
@@ -390,6 +428,8 @@ public class GansnerLayout extends OdeLayout {
 			return -1.0f;
 		else if (P.length % 2 == 1)
 			return P[m];
+		else if (P.length == 2)
+			return (P[0] + P[1])/2;
 		
 		float left = P[m-1] - P[0];
 		float right = P[P.length-1] - P[m];
@@ -474,13 +514,7 @@ public class GansnerLayout extends OdeLayout {
 		Order orders = new Order();
 		HashMap<String, Boolean> visited = new HashMap<String, Boolean>();
 		LinkedList<String> frontier = new LinkedList<String>();
-		
-//		// Lazy: just add the first vertex in the list
-//		for (String s : virtual.getVertices()) {
-//			frontier.add(s);
-//			break;
-//		}
-		
+
 		// Better (maybe): add the most-constrained vertex first.
 		int mostEdges = 0;
 		String best = null;
@@ -497,7 +531,10 @@ public class GansnerLayout extends OdeLayout {
 		
 		final Comparator<String> constraint = new Comparator<String>() {
 			public int compare(String a, String b) {
-				return edgeCount.get(a) - edgeCount.get(b);
+				int s = edgeCount.get(b) - edgeCount.get(a);
+				if (s == 0)
+					return a.compareTo(b);
+				return s;
 			}
 		};
 		
@@ -541,14 +578,186 @@ public class GansnerLayout extends OdeLayout {
 		return newWorldOrder;
 	}
 
+	private boolean setsEqual(Collection<String> A, Collection<String> B) {
+		if (A.size() != B.size())
+			return false;
+		
+		List<String> C = new LinkedList<String>();
+		C.addAll(A);
+		C.removeAll(B);
+		return C.size() == 0;
+	}
+	
 	private HashMap<String, Pt> positions;
 	private void position() {
 		positions = new HashMap<String, Pt>();
 		
-		gridPositioning();
+		spacedPositioning();
+		
+		for (int i = 0; i < 10; i++) {
+			shiftBlocks(i);
+		}
+	}
+	private void shiftBlocks(int iter) {
+		HashMap<Integer, List<VertexBlock>> blocks = getVertexBlocks();
+		
+		boolean bottomUp = iter%2 == 0;
+		
+		int rank0 = bottomUp ? maxrank : minrank;
+		int rank1 = bottomUp ? minrank : maxrank;
+		int rankD = Mathf.sign(rank1 - rank0);
+		
+		for (int i = rank0; i*rankD <= rank1*rankD; i += rankD) {
+			// vertices in order
+			List<String> order = orders.get(i);
+			// blocks sorted by number of vertices in them
+			List<VertexBlock> row = blocks.get(i);
+			
+			for (VertexBlock block : row) {
+				float minpos = -Float.MAX_VALUE;
+				float maxpos = +Float.MAX_VALUE;
+				
+				int blockA = block.index;
+				int blockB = block.index + block.length - 1;
+				
+				float length = (positions.get(order.get(blockB)).x + 3f*radius(order.get(blockB)))
+							 - (positions.get(order.get(blockA)).x - 3f*radius(order.get(blockA)));
+				
+				if (block.index > 0) {
+					String left = order.get(block.index-1);
+					minpos = positions.get(left).x + 3f*radius(left) + length/2;
+				}
+				if (block.index+block.length < order.size()) {
+					String right = order.get(block.index+block.length);
+					maxpos = positions.get(right).x - 3f*radius(right) - length/2;
+				}
+				
+				if (maxpos <= minpos)
+					continue; // movement impossible
+
+				float target = bottomUp ? block.medianOutgoing().x : block.medianIncoming().x;
+				if (target > maxpos) target = maxpos;
+				if (target < minpos) target = minpos;
+				
+				block.moveTo(block.position().x(target));
+			}
+		}
+	}
+	private static int spiralIndex(int i, int length) {
+		i %= length;
+		if (i%2 == 0) {
+			return length/2 + i/2;
+		} else {
+			return length/2 - i/2 - 1;
+		}
 	}
 	private void position(String v, Pt p) {
 		positions.put(v, p);
+	}
+	private HashMap<Integer, List<VertexBlock>> getVertexBlocks() {
+		HashMap<Integer, List<VertexBlock>> blocks = new HashMap<Integer, List<VertexBlock>>();
+		for (int i = minrank; i <= maxrank; i++) {
+			List<VertexBlock> row = getVertexBlocks(i);
+			Collections.sort(row, new Comparator<VertexBlock>() {
+				public int compare(VertexBlock A, VertexBlock B) {
+					return B.length - A.length;
+				}
+			});
+			blocks.put(i, row);
+		}
+		return blocks;
+	}
+	private List<VertexBlock> getVertexBlocks(int rank) {
+		List<String> rankList = orders.get(rank);
+		List<VertexBlock> blocks = new LinkedList<VertexBlock>();
+		
+		String last = null;
+		int i = 0;
+		int blockstart = 0;
+		for (String v : rankList) {
+			if (last != null) {
+				// adjacent vertices are part of the same block if their destinations are identical
+				Collection<String> out0 = virtual.getOutgoingVertices(last);
+				Collection<String> out1 = virtual.getOutgoingVertices(v);
+				if (out0.size() == 0 && out1.size() == 0) {
+					out0 = virtual.getIncomingVertices(last);
+					out1 = virtual.getIncomingVertices(v);
+				}
+				if (!setsEqual(out0, out1)) {
+					blocks.add(new VertexBlock(rank, blockstart, i - blockstart)); // block separator
+					blockstart = i;
+				}
+			}
+			last = v;
+			i++;
+		}
+		if (blockstart < rankList.size())
+			blocks.add(new VertexBlock(rank, blockstart, rankList.size() - blockstart));
+		
+		return blocks;
+	}
+	private void spacedPositioning() {
+		List<String> spacers = new LinkedList<String>();
+		
+		// Insert spacers
+		int maxcols = 0;
+		for (int r : orders.keySet()) {
+			maxcols = Math.max(maxcols, orders.get(r).size());
+		}
+		maxcols *= 1.5;
+		
+		for (int r : orders.keySet()) {
+			List<String> rank = orders.get(r);
+			int spacerCount = maxcols - rank.size();
+			List<Integer> blocks = new LinkedList<Integer>();
+			
+			blocks.add(0);
+			
+			String last = null;
+			int i = 0;
+			for (String v : rank) {
+				if (last != null) {
+					// adjacent vertices are part of the same block if their destinations are identical
+					Collection<String> out0 = virtual.getOutgoingVertices(last);
+					Collection<String> out1 = virtual.getOutgoingVertices(v);
+					if (out0.size() == 0 && out1.size() == 0) {
+						out0 = virtual.getIncomingVertices(last);
+						out1 = virtual.getIncomingVertices(v);
+					}
+					if (!setsEqual(out0, out1)) {
+						blocks.add(i); // block separator
+					}
+				}
+				last = v;
+				i++;
+			}
+			
+			blocks.add(rank.size());
+			
+			int b = 0;
+			for (int s = 0; s < spacerCount; s++) {
+				int bi = spiralIndex(b++, blocks.size());
+//				bi = (int) (Mathf.random() * blocks.size());
+				int insert = blocks.get(bi);
+				
+				// Have to shift indices over 'cause we inserted something
+				for (int j = bi+1; j < blocks.size(); j++)
+					blocks.set(j, blocks.get(j)+1);
+				
+				String spacer = virtual.addUniqueVertex();
+				spacers.add(spacer);
+				rank.add(insert, spacer);
+			}
+		}
+		
+		gridPositioning();
+		
+		for (String spacer : spacers) {
+			virtual.removeVertex(spacer);
+			positions.remove(spacer);
+			for (Integer r : orders.keySet())
+				orders.get(r).remove(spacer);
+		}
 	}
 	private void gridPositioning() {
 		float[] widths = new float[maxrank-minrank+1];
@@ -620,12 +829,92 @@ public class GansnerLayout extends OdeLayout {
 	
 	private float radius(String s) {
 		if (db.find(s) == null)
-			return 0;
+			return 12;
 		return db.find(s).radius();
 	}
 
 	// Because Java doesn't have typedefs
 	private class Order extends HashMap<Integer, List<String>> { }
 	
+	private class VertexBlock implements Iterable<String> {
+		public final int rank;
+		public final int index;
+		public final int length;
+		
+		private List<String> vertices;
+		
+		public VertexBlock(int rank, int index, int length) {
+			this.rank = rank;
+			this.index = index;
+			this.length = length;
+			
+			vertices = new LinkedList<String>();
+			
+			List<String> rs = orders.get(rank);
+			for (int i = index; i < index+length; i++) {
+				vertices.add(rs.get(i));
+			}
+		}
+		
+		public Pt position() {
+			return Pt.P(0,0)
+					.add(0.5f, positions.get(vertices.get(0)))
+					.add(0.5f, positions.get(vertices.get(vertices.size()-1)));
+		}
+		
+		public void moveBy(float x, float y) {
+			for (String s : vertices)
+				positions.get(s).add(x, y);
+		}
+		
+		public void moveTo(float x, float y) {
+			Pt pos = position();
+			moveBy(x - pos.x, y - pos.y);
+		}
+		
+		public void moveBy(Pt p) {
+			moveBy(p.x, p.y);
+		}
+		
+		public void moveTo(Pt p) {
+			moveTo(p.x, p.y);
+		}
+		
+		public Pt medianOutgoing() {
+			Pt med = Pt.P(0,0);
+			int N = 0;
+			
+			for (String s : virtual.getOutgoingVertices(vertices.get(0))) {
+				med.add(positions.get(s));
+				N++;
+			}
+			if (N > 0)
+				med.mul(1f/N);
+			else
+				return position();
+						
+			return med;
+		}
+		
+		public Pt medianIncoming() {
+			Pt med = Pt.P(0,0);
+			int N = 0;
+			
+			for (String s : virtual.getIncomingVertices(vertices.get(0))) {
+				med.add(positions.get(s));
+				N++;
+			}
+			if (N > 0)
+				med.mul(1f/N);
+			else
+				return position();
+			
+			return med;
+		}
+		
+		public Iterator<String> iterator() {
+			return vertices.iterator();
+		}
+	}
 }
 

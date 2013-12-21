@@ -33,13 +33,14 @@ import javax.swing.JComponent;
 public class NodeView extends JComponent {
 	
 	private static final float ANIMATION_TIME = 1.0f; // in seconds
+	private static final boolean HIGHLIGHT_CROSSINGS = false;
 	
 	private OdeAccess access;
 	private OdeLayout layout;
 	
 	private final LinkedList<Visode> renderList;
 	private final LinkedList<LerpOde> animations;
-
+	
 	private final Object renderLock = new Object();
 	
 	private Pt mouse;
@@ -173,20 +174,30 @@ public class NodeView extends JComponent {
 			}
 			
 			boolean cross = false;
-			for (String other : access.getOdes()) {
-				for (String p : access.findParents(other)) {					
-					if (layout.edgesCross(ode, parent, other, p)) {
-						crosses++;
-						cross = true;
-						break;
+			if (HIGHLIGHT_CROSSINGS) {
+				for (String other : access.getOdes()) {
+					for (String p : access.findParents(other)) {					
+						if (layout.edgesCross(ode, parent, other, p)) {
+							crosses++;
+							cross = true;
+							break;
+						}
 					}
 				}
 			}
-
+			
+			Pt arrowA = O.closestBorderPoint(P.getCenter());
+			Pt arrowB = P.closestBorderPoint(O.getCenter());
+			
+			g.setStroke(new BasicStroke(3));
+			g.setColor(Color.WHITE);
+			Art.arrow(g, arrowB, arrowA);
+			
+			g.setStroke(strokeSmall);
 			if (cross) g.setColor(Color.RED);
 			else g.setColor(Color.BLACK);
-			Art.arrow(g, O.closestBorderPoint(P.getCenter()), 
-					P.closestBorderPoint(O.getCenter()));
+			Art.arrow(g, arrowB, arrowA);
+			
 		}
 	}
 
