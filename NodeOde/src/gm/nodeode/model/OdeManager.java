@@ -3,18 +3,32 @@ package gm.nodeode.model;
 import gm.nodeode.math.graph.Graph;
 
 import java.util.Collection;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.HashMap;
 
 public class OdeManager extends OdeAccess {
 
 	private final Graph connectivity;
-	private final ConcurrentHashMap<String, Visode> vertices;
+	private final HashMap<String, Visode> vertices;
 
 	public OdeManager() {
-		connectivity = new Graph();
-		vertices = new ConcurrentHashMap<String, Visode>();
+		this(new HashMap<String, Visode>(), new Graph());
+	}
+	
+	public OdeManager(OdeAccess access) {
+		this();
+		
+		for (String v : access.getOdes()) {
+			vertices.put(v, access.find(v));
+		}
+		for (String v : access.getOdes()) {
+			for (String p : access.findParents(v))
+				addParent(v, p);
+		}
+	}
+
+	public OdeManager(HashMap<String, Visode> vertices, Graph connectivity) {
+		this.connectivity = connectivity;
+		this.vertices = vertices;
 	}
 	
 	public void clear() {

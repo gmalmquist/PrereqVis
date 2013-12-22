@@ -34,8 +34,10 @@ public class NodeOde {
 		HashMap<String, Visode> odeTable = new HashMap<String, Visode>();
 		Graph mainGraph = new Graph();
 		
+		String major = "CS";
+		
 		System.out.println("Reading in data");
-		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data_math.txt");
+		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data_" + major.toLowerCase() + ".txt");
 		System.out.println("Converting to visnodes");
 		for (ICourse gnode : nodes) {
 			
@@ -67,7 +69,7 @@ public class NodeOde {
 		
 		// Choose only undergraduate CS classes
 		List<String> keyClasses = new LinkedList<String>();
-		String filter = classFilter("MATH", LEVEL_UNDERGRADUATE);
+		String filter = classFilter(major.toUpperCase(), LEVEL_UNDERGRADUATE);
 		for (String v : mainGraph.getVertices()) {
 			if (v.matches(filter)) {
 				keyClasses.add(v);
