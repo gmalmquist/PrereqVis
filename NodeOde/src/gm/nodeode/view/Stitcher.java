@@ -1,5 +1,6 @@
 package gm.nodeode.view;
 
+import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.image.BufferedImage;
@@ -29,24 +30,30 @@ public class Stitcher {
 				y = 0;
 				x += curwidth;
 				curwidth = 0;
-				positions[i] = new Point(x, y);
-			} else {
-				positions[i] = new Point(x, y);
-				y += sources[i].getHeight();
 			}
+			positions[i] = new Point(x, y);
 			
+			y += sources[i].getHeight();
 			curwidth = Math.max(curwidth, sources[i].getWidth());
 		}
 		
 		int width = x + curwidth;
 		int height = maxheight;
+
 		
 		BufferedImage stitch = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
 		Graphics2D g = stitch.createGraphics();
+		g.setColor(Color.WHITE);
+		g.fillRect(-1, -1, width+2, height+2);
 		
 		for (int i = 0; i < sources.length; i++) {
 			g.drawImage(sources[i], positions[i].x, positions[i].y, null);
 		}
+		
+//		g.setColor(Color.BLUE);
+//		for (int i = 0; i < sources.length; i++) {
+//			g.drawRect(positions[i].x, positions[i].y, sources[i].getWidth(), sources[i].getHeight());
+//		}
 		
 		g.dispose();
 		

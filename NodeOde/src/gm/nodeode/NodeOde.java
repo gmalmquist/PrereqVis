@@ -1,10 +1,15 @@
 package gm.nodeode;
 
+import java.awt.image.BufferedImage;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
 import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+import javax.swing.JScrollPane;
 
 import gm.nodeode.io.ICourse;
 import gm.nodeode.io.Course;
@@ -17,7 +22,10 @@ import gm.nodeode.model.OdeGroup;
 import gm.nodeode.model.OdeManager;
 import gm.nodeode.model.OdeNode;
 import gm.nodeode.model.Visode;
+import gm.nodeode.view.GraphRenderer;
 import gm.nodeode.view.NodeView;
+import gm.nodeode.view.SaveImageButton;
+import gm.nodeode.view.Stitcher;
 
 public class NodeOde {
 
@@ -25,16 +33,17 @@ public class NodeOde {
 		JFrame frame = new JFrame("Node Ode");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		OdeAccess tinyManage = new OdeManager();
 		
+//		NodeView view = new NodeView(tinyManage, new GansnerLayout(tinyManage));
+//		view.clear();
 		
-		NodeView view = new NodeView(tinyManage, new GansnerLayout(tinyManage));
-		view.clear();
+		final SaveImageButton saver = new SaveImageButton();
 
-		HashMap<String, Visode> odeTable = new HashMap<String, Visode>();
+		final HashMap<String, Visode> odeTable = new HashMap<String, Visode>();
 		Graph mainGraph = new Graph();
 		
 		String major = "CS";
+		String level = LEVEL_GRADUATE;
 		
 		System.out.println("Reading in data");
 		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data_" + major.toLowerCase() + ".txt");
@@ -69,7 +78,7 @@ public class NodeOde {
 		
 		// Choose only undergraduate CS classes
 		List<String> keyClasses = new LinkedList<String>();
-		String filter = classFilter(major.toUpperCase(), LEVEL_UNDERGRADUATE);
+		String filter = classFilter(major.toUpperCase(), level);
 		for (String v : mainGraph.getVertices()) {
 			if (v.matches(filter)) {
 				keyClasses.add(v);
@@ -92,32 +101,59 @@ public class NodeOde {
 			}
 		}
 
-		System.out.println("Finding largest subgraph");
-		List<Graph> disjoint = mainGraph.getConnectedSubgraphs();
-		Graph choice = disjoint.get(disjoint.size()-1); // choose largest connected subgraph
-		
-		System.out.println("Copying to view");
-		// Copy to view
-		for (String s : choice.getVertices()) {
-			Visode ode;
-			if (odeTable.containsKey(s)) {
-				ode = odeTable.get(s);
-			} else {
-				ode = new OdeNode(s);
-				System.err.println("Warning: no name entry for " + s);
+		final List<Graph> disjoint = mainGraph.getConnectedSubgraphs();
+		Collections.sort(disjoint, new Comparator<Graph>() {
+			public int compare(Graph A, Graph B) {
+				return B.vertexCount() - A.vertexCount();
 			}
-			tinyManage.register(ode);
-		}
+		});
 		
-		for (String s : choice.getVertices()) {
-			for (String p : choice.getOutgoingVertices(s))
-				tinyManage.addParent(s, p);
-		}
-		
-		frame.add(view);
+		frame.add(new JScrollPane(saver));
 		frame.pack();
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
+
+		new Thread(new Runnable() {
+			public void run() {
+				List<BufferedImage> images = new LinkedList<BufferedImage>();
+				
+				for (Graph choice : disjoint) {
+					if (choice.vertexCount() == 0)
+						continue;
+					
+					
+					OdeAccess choiceAccess = new OdeManager();
+					
+					System.out.println("Generating subgraph");
+						// Copy to view
+					for (String s : choice.getVertices()) {
+						Visode ode;
+						if (odeTable.containsKey(s)) {
+							ode = odeTable.get(s);
+						} else {
+							ode = new OdeNode(s);
+							System.err.println("Warning: no name entry for " + s);
+						}
+						choiceAccess.register(ode);
+					}
+					
+					for (String s : choice.getVertices()) {
+						for (String p : choice.getOutgoingVertices(s))
+							choiceAccess.addParent(s, p);
+					}
+					
+					BufferedImage render = GraphRenderer.layoutAndRender(choiceAccess);
+					
+					saver.setImage(render);
+					
+					images.add(render);
+				}
+				
+				System.out.println("Generating composite");
+				BufferedImage composite = Stitcher.stitch(images.toArray(new BufferedImage[images.size()]));
+				saver.setImage(composite);
+			}
+		}).start();
 	}
 
 	private static final String LEVEL_GRADUATE = "5-9";

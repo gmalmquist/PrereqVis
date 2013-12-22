@@ -39,6 +39,7 @@ public class GraphRenderer {
 		Pt graphMax = Pt.P(0,0);
 		Pt graphMin = Pt.P(0,0);
 		
+		boolean first = true;
 		for (String v : access.getOdes()) {
 			Visode o = access.find(v);
 			Pt c = o.getCenter();
@@ -47,11 +48,22 @@ public class GraphRenderer {
 			if (Float.isNaN(c.y) || Float.isInfinite(c.y))
 				continue;
 			
-			graphMax.x = Mathf.max(c.x+o.radius(), graphMax.x);
-			graphMax.y = Mathf.max(c.y+o.radius(), graphMax.y);
+			float left = c.x - o.radius();
+			float right = c.x + o.radius();
+			float top = c.y - o.radius();
+			float bottom = c.y + o.radius();
 			
-			graphMin.x = Mathf.min(c.x-o.radius(), graphMin.x);
-			graphMin.y = Mathf.min(c.y-o.radius(), graphMin.y);
+			if (first) {
+				first = false;
+				graphMax.set(left, top);
+				graphMax.set(right, bottom);
+			}
+			
+			graphMax.x = Mathf.max(right, graphMax.x);
+			graphMax.y = Mathf.max(bottom, graphMax.y);
+			
+			graphMin.x = Mathf.min(left, graphMin.x);
+			graphMin.y = Mathf.min(top, graphMin.y);
 		}
 		
 		this.width = (int)(graphMax.x - graphMin.x) + padding*2;
@@ -64,6 +76,10 @@ public class GraphRenderer {
 	public BufferedImage render() {		
 		BufferedImage image = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
 		Graphics2D g = image.createGraphics();
+		
+		g.setColor(Color.WHITE);
+		g.fillRect(-1, -1, width+2, height+2);
+		
 		g.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 		
 		g.translate(offx, offy);
@@ -120,10 +136,28 @@ public class GraphRenderer {
 		}
 	}
 	
+	private static void initSizes(OdeAccess access) {
+		// Make sure nodes know what size they are
+		BufferedImage fake = new BufferedImage(1,1,BufferedImage.TYPE_INT_RGB);
+		Graphics2D g = fake.createGraphics();
+		for (String v : access.getOdes()) {
+			Visode o = access.find(v);
+			if (o != null)
+				o.draw(g);
+		}
+		g.dispose();
+	}
+	
 	public static BufferedImage layoutAndRender(OdeAccess access) {
+		// Init sizes for layout generations
+		initSizes(access);
+		
 		OdeAccess copy = new OdeManager(access);
 		OdeLayout layout = new GansnerLayout(copy);
 		layout.doLayout();
+		
+		// Sizes might have changed due to virtual nodes
+		initSizes(copy);
 		
 		GraphRenderer renderer = new GraphRenderer(copy);
 		return renderer.render();

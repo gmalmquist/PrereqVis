@@ -19,6 +19,7 @@ public class OdeManager extends OdeAccess {
 		
 		for (String v : access.getOdes()) {
 			vertices.put(v, access.find(v));
+			connectivity.addVertex(v);
 		}
 		for (String v : access.getOdes()) {
 			for (String p : access.findParents(v))

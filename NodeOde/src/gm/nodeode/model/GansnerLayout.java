@@ -50,6 +50,9 @@ public class GansnerLayout extends OdeLayout {
 	private Graph original;
 	@Override
 	public void doLayout() {
+		if (db.getOdes().size() <= 1)
+			return;
+		
 		if (ranks != null) {
 			virtIDs.clear();
 			orders = null;
@@ -58,7 +61,7 @@ public class GansnerLayout extends OdeLayout {
 			ranks = null;
 		}
 		
-		System.out.println("Copying original");
+		println("Copying original");
 		if (original == null) {
 			original = db.copyGraph();
 		} else {
@@ -66,19 +69,23 @@ public class GansnerLayout extends OdeLayout {
 		}
 		
 		// Operation order identical to paper
-		System.out.println("RANKING");
+		println("RANKING");
 		rank();
-		System.out.println("ORDERING");
+		println("ORDERING");
 		ordering();
-		System.out.println("POSITIONING");
+		println("POSITIONING");
 		position();
 		makeSplines();
 		
 		// push results
-		System.out.println("Pushing results to view...");
+		println("Pushing results to view...");
 		virtualToDB();
 		
-		System.out.println("Modified Gansner Layout complete.");
+		println("Modified Gansner Layout complete.");
+	}
+	
+	private void println(Object ... os) {
+		// do nothing mwahahaha
 	}
 
 	private void virtualToDB() {
@@ -234,8 +241,8 @@ public class GansnerLayout extends OdeLayout {
 			nmax = ri++;
 		}
 		maxrank = nmax;
-		System.out.println("MinRank: " + minrank);
-		System.out.println("MaxRank: " + maxrank);
+		println("MinRank: " + minrank);
+		println("MaxRank: " + maxrank);
 		
 		
 		// Construct graph with virtual nodes
@@ -334,28 +341,28 @@ public class GansnerLayout extends OdeLayout {
 		Order best = initialOrdering();
 
 		for (int i = minrank; i <= maxrank; i++) {
-			System.out.println("\tRank " + i + " exists? " + (best.get(i) != null));
+			println("\tRank " + i + " exists? " + (best.get(i) != null));
 		}
 		
 		int maxIterations = MAX_ORDERING_ITERATIONS;
 
 		Order order = copy(best);
 		for (int i = 0; i < maxIterations; i++) {			
-			System.out.println("Ordering Iteration " + i);
+			println("Ordering Iteration " + i);
 			
-			System.out.println("\tMedian sorting");
+			println("\tMedian sorting");
 			wmedian(order, i);
 			
-			System.out.println("\tTransposing");
+			println("\tTransposing");
 			transpose(order);
 			
-			System.out.println("\tCross testing");
+			println("\tCross testing");
 			int newOrder = crossingCount(order);
 			int oldOrder = crossingCount(best);
 //			for (Integer R : order.keySet())
-//				System.out.println("\t\t [" + R + "] " + crossingCount(order, R) + " < " + crossingCount(best, R) + " ?");
+//				println("\t\t [" + R + "] " + crossingCount(order, R) + " < " + crossingCount(best, R) + " ?");
 				
-			System.out.println("\t\t" + newOrder + " < " + oldOrder + " ?");
+			println("\t\t" + newOrder + " < " + oldOrder + " ?");
 			
 			// == DEBUG ==
 			this.orders = order;
@@ -364,11 +371,11 @@ public class GansnerLayout extends OdeLayout {
 			// ===========
 			
 			if (newOrder < oldOrder) {
-				System.out.println("\t\tImprovement made!");
+				println("\t\tImprovement made!");
 				best = order;
 			} else {
 				// Pretty sure further improvements impossible now?
-				System.out.println("\t\tNo improvement made.");
+				println("\t\tNo improvement made.");
 //				break;
 			}
 		}
@@ -510,8 +517,8 @@ public class GansnerLayout extends OdeLayout {
 				}
 			}			
 		}
-		if (improved) System.out.println("Stopped by cap");
-		else System.out.println("Improving ceased at i=" + (MAX_TRANSPOSITIONS - maxIterations));
+		if (improved) println("Stopped by cap");
+		else println("Improving ceased at i=" + (MAX_TRANSPOSITIONS - maxIterations));
 	}
 	private int crossingCount(Order order) {
 		int crosses = 0;
@@ -830,6 +837,7 @@ public class GansnerLayout extends OdeLayout {
 			
 			height += mr*6f;
 		}
+		height += 20;
 
 		float width = Mathf.max(widths);
 		Arrays.fill(widths, width);

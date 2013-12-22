@@ -53,8 +53,10 @@ public class OdeNode extends Visode {
 	
 	
 	public void draw(Graphics2D g) {
-		if (Float.isInfinite(x) || Float.isInfinite(y) || Float.isNaN(x) || Float.isNaN(y))
+		if (Float.isInfinite(x) || Float.isInfinite(y) || Float.isNaN(x) || Float.isNaN(y)) {
+			System.err.println("Warning: NaN pos: " + getUID());
 			return;
+		}
 		
 		int tx = (int) x;
 		int ty = (int) y;
