@@ -8,7 +8,6 @@ import java.util.LinkedList;
 import java.util.List;
 
 import javax.swing.JFrame;
-import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 
 import gm.nodeode.io.Data;
@@ -43,10 +42,6 @@ public class NodeOde {
 		
 		JFrame frame = new JFrame("Node Ode");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		
-		
-//		NodeView view = new NodeView(tinyManage, new GansnerLayout(tinyManage));
-//		view.clear();
 		
 		final SaveImageButton saver = new SaveImageButton();
 
@@ -94,13 +89,6 @@ public class NodeOde {
 			}
 		}
 		mainGraph = mainGraph.getDirectedSubGraph(keyClasses, true);
-		
-		/*// Filter out graduate courses
-		for (String v : odeTable.keySet()) {
-			if (v.matches(".*?[A-Z]+ [5678]+\\d+.*")) {
-				mainGraph.removeVertex(v);
-			}
-		}*/
 		
 		System.out.println("Filtering OR nodes");
 		// Filter out stranded OR nodes
