@@ -1,0 +1,1272 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 21, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+CHBE 1750 - Introduction to Bioengineering
+An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with AE, BMED, ECE, ME, and MSE 1750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 1XXX - Chem Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 2100 - Chemical Process Principles
+Material and energy balances for single-phase and multi-phase processes common to chemical engineering. Phase equilibrium and analysis of reacting systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 2110 - Chemical Engineering Thermodynamics I
+Elements of engineering thermodynamics. First and second laws. Analysis of engineering machinery: compressors, turbines, engines, refrigeration. Credit not allowed for both CHBE 2110 and CHBE 2130. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 2120 - Numerical Methods in Chemical Engineering
+Numerical methods are introduced and applied to the solution of chemical engineering problems. An introduction to chemical process simulation, and the appropriate software is provided. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 2130 - Chemical Engineering Thermodynamics I
+Basic principles of chemical engineering thermodynamics including first and second laws, equations of state, PVT properties, power cycles and refrigeration. Credit not allowed for both CHBE 2130 and CHBE 2110. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 2699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 2801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 2803 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 2XXX - Chem Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 3110 - Chemical Engineering Thermodynamics II
+Phase and chemical reaction equilibria. Vapor-liquid, liquid-liquid, and solid-vapor phase equilibrium Fugacity and activity coefficients. Multi-reaction equilibrium. Credit not allowed for both CHBE 3110 and CHBE 3130. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 3130 - Chemical Engineering Thermodynamics II
+Basic principles of chemical engineering solution and phase equilibrium thermodynamics, including ideal and non-ideal solution models and phase equilibira calculations (VLE, SLE, LLE). Credit not allowed for both CHBE 3130 and CHBE 3110. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 3200 - Transport Process I
+Fundamentals of fluid mechanics and heat transfer. The design and analysis of equipment using the principles of fluid mechanics and heat transfer. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 3210 - Transport Processes II
+Fundamental principles and applications of mass transfer. The analysis of chemical engineering processes and operations involving mass transfer. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 3225 - Separations Processes
+Fundamentals of equilibrium-stage and continuous contacting operations. Applications of principles to distillation, absorption/stripping, extraction, absorption, and other separation technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 3600 - Engineering Ethics and Leadership
+Development of quantitative and qualitative assessment tools to resolve moral and ethical dilemmas that arise in the performance of engineering duties. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 3XXX - Chem Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4020 - Chemical Engineering in Nanoscale Systems
+Application of chemical processing fundamentals, fabrication, and characterization to design and analyze technologically important nanoscale systems. The course emphasizes an integrated engineering and science approach. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4200 - Transport Phenomena/Unit Operations Laboratory
+This course illustrates engineering/scientific principles and physical models important to the data collection/ interpretation of processes important to the practice of chemical engineering. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4210 - Transport Phenomena / Bioprocess Unit Operations
+This course illustrates engineering/scientific principles and physical models important to the data collection/interpretation of processes important in biotechnology. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4300 - Kinetics and Reactor Design
+Reacting systems are analyzed in terms of reaction mechanisms, kinetics, and reactor design. Both homogeneous and heterogeneous reactions are considered. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4310 - Bioprocess Engineering
+Integrating several ChBE core concepts, bioprocess engineering applies the material to biological systems. Items covered are enzyme kinetics, fermentation, downstream processing, and integrated bioprocesses important to the biotech industries. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4400 - Chemical Process Control
+Dynamics of chemical processes and their control. Techniques of conventional process control as well as digital control. Laboratory experiments to illustrate these concepts. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4505 - Process Design and Economics
+Principles of flowsheet synthesis and economic analysis and optimization. A complete design on a chemical process will be undertaken, including concepts of unit operations, design, economics, and safety. Credit not allowed for both CHBE 4505 and CHBE 4530 (or CHBE 4520). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4510 - Process and Product Design And Economics
+Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation. Credit not allowed for both CHBE 4510 and CHBE 4505 or CHBE 4525). 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4515 - Chemical Process Safety
+Fundamental sources of chemical hazards and degree of risk. Process design and hazard avoidance are used to reduce risk. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Ethics Requirement, Tech Elect CS, Engr, &Sciences 
+
+CHBE 4520 - Chemical Engineering Capstone Design Project
+Basic principles of chemical process and product design including heuristic design approaches heat exchanger network design, optimization, and economic evaluationl. Credit not allowed for both CHBE 4520 and CHBE 4505 (or CHBE 4525). 
+
+2.000 Credit hours 
+0.000 Lecture hours 
+6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4525 - Bioprocess Design and Economics
+Principles of flowsheet synthesis and economic analysis and optimization. A complete design of a biochemical process will be undertaken, including concepts of unit operations, design, economics, and safety. Credit not allowed for both CHBE 4525 and CHBE 4530 (or CHBE 4520). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4530 - Chemical Engineering Capstone Design Project
+Basic principles of chemical process and product design including heuristic design approaches, heat exchanger network design, optimization, and economic evaluation. Credit not allowed for both CHBE 4530 and CHBE 4505 (or CHBE 4525). 
+
+2.000 Credit hours 
+0.000 Lecture hours 
+6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4535 - Chemical Product Design, Engineering and Optimization
+Chemical engineering principles applied to the design of products. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4573 - Pulping and Bleaching Laboratory
+Experiments of pulping, bleaching, fiber, and chemical testing are performed. Hands-on experience from chip preparation, cooking, pulp processing, and bleaching are provided. 
+
+2.000 Credit hours 
+0.000 Lecture hours 
+6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4574 - Papermaking and Recycled Pulp Laboratory
+Experiments of pulp preparation, refining, paperforming, handsheet testing, deinking, and recycled pulp processing are performed. Small paper machine operation will be taught. 
+
+2.000 Credit hours 
+0.000 Lecture hours 
+6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4600 - Effective Communication for Professional Engineering
+How engineers communicate with engineering and non-engineering professionals. Industry speakers from different fields. Engineering case study. Weekly written and/or oral presentations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4710 - Microfluidics and Bio Applications
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 4752 - Integrated Circuit Fabrication
+The objective of this course is to give students exposure to the various steps involved in the fabrication of integrated circuits and devices. This course will include a laboratory segment in which students fabricate MOS transistors, diffused resistors, and MOS capacitors from a bare silicon substrate. Crosslisted with ECE 4752. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4755 - Electronic Packaging Substrate Fabrication
+This course provides hands-on instruction in basic packaging substrate fabrication techniques, including interconnect design and testing, dielectric deposition, via formation, and metallization. Crosslisted with ECE 4755. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4757 - Biofluid Mechanics
+Introduction to the study of blood flow in the cardiovascular system. Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with AE and ME 4757. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4758 - Biosolid Mechanics
+The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone. Constitutive equations and some simple mechanical models. Mechanics of cells. Applications. Crosslisted with AE and ME 4758. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4760 - Biocatalysis and Metabolic Engineering
+This course provides an in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHEM 4760. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4763 - Pulping and Chemical Recovery
+Pulping and chemical recovery processes are studied on the reaction, delignification, energy, and liquor reuse. The process optimization, air and water pollution minimization are taught. Crosslisted with ME 4763. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4764 - Bleaching and Papermaking
+Pulp bleaching and formation of paper/board products are studied along with testing, end uses, chemical and mechanical treatment of pulp, non-wood and recycled fiber utilization. Crosslisted with ME 4764. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4765 - Drug Design, Development and Delivery
+Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods for delivery into the body. Includes student presentations. Crosslisted with CHEM and BMED 4765. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4770 - Nuclear Chemical Engineering
+This course surveys the chemical engineering aspects of nuclear power. Topics include nuclear reactions, fuel cycles, solvent extraction of metals, the properties of actinides and other irradiated fuel materials, fuel reprocessing, and radioactive waste management. Crosslisted with NRE 4770. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4775 - Polymer Science and Engineering I: Formation and Properties
+An introduction to the chemistry, structure, and formation of polymers, physical states and transitions, physical and mechanical properties to polymer fluids and solids. Crosslisted with CHEM, ME, MSE, and PTFE 4775. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4776 - Polymer Science and Engineering II: Analysis, Processing and Laboratory
+Polymer fabrication processes and methods of characterization and identification of polymers are presented. Experiments in polymerization, processing and property evaluation of polymers. Crosslisted with CHEM, ME, MSE, and TFE 4776. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4781 - Biomedical Instrumentation
+A study of medical instrumentation from a systems viewpoint. Pertinent physiological and electro-physiological concepts will be covered. Credit not allowed for both CHBE 4781 and (CHE 4781 or ECE 4781 or BMED 4781 or ME 4781). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4782 - Biosystems Analysis
+Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with BMED, ECE and ME 4782. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4791 - Mechanical Behavior of Composites
+Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with AE, CEE, ME, MSE, and PTFE 4791. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4793 - Composite Materials and Processes
+Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, ME, MSE, and PTFE 4793. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4794 - Composite Materials and Manufacturing
+Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with AE, CEE, ME, MSE, and PTFE 4794. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4801 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4802 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as as demand or interest warrants. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4803 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4804 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4805 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4806 - Special Topics
+Topics relevant to chemical engineering not currently covered in the undergraduate curriculum are presented as demand or interest warrants. 
+
+6.000 Credit hours 
+6.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4901 - Special Problems
+The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4902 - Special Problems
+The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4903 - Special Problems
+The student is given an opportunity to develop initiative and to apply fundamental principles by doing semioriginal laboratory or theoretical investigation of a chemical engineering problem. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CHBE 4XXX - Chem Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6001 - Introdcution to Research and Resposible Conduct of Research for ChBE Graduate Students
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6003 - Chemical Process Safety
+The course focuses on risk reduction through design and hazard avoidance. Sources of chemical hazards and risks are discussed. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6004 - Communication Skills for Technical Problem Solving
+Applications of both written and oral communication skills to the solution of technical problems. Includes focus, audience analysis, visual aids, and organization. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6020 - Chemical Engineering in Nanoscale Systems
+Application of chemical processing fundamentals, fabrication, and characterization to design and analyze technologically important nanoscale systems. The course emphasizes an integrated engineering and science approach. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6100 - Advanced Chemical Engineering Thermodynamics
+Equations of state, corresponding states, and activity coefficient models and their relationship to intermolecular forces. Phase and chemical equilibria in chemical engineering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6110 - Thermodynamics of Systems of Large Molecules
+Classical and statistical thermodynamics of systems that are important in chemical, biochemical, and polymer processing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6120 - Molecular Modeling
+Introduction to computational chemistry techniques for modeling substances at the molecular level, including: ab initio and semiempirical quantum methods, molecular dynamics, and Monte Carlo methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6130 - Electrochemical Engineering
+Electrochemical thermodynamics and kinetics. Corrosion. Applications to semiconductor devices, fuel cells, and batteries. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6200 - Advanced Transport Phenomena, Fluid Mechanics, and Heat
+Transfer Viscous fluid mechanics and convective heat transfer. Scaling analysis and lubrication. Stokes, and boundary layer flows. Transport about solid bodies. Linear stability theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6210 - Fluid Mechanics of Two-Phase Flow
+Two-phase flow of nondeformable particles in Newtonian fluids. Rigorous results in the limit of small Reynolds number motions and applications to suspensions and colloids. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6220 - Computational Fluid Dynamics: Applications in Environmental
+Applications in Environmental and Chemical Processes. Introduction to numerical methods for solving transport problems. Applications to problems of interest in environmental and chemical processes. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6229 - Introduction to MEMS
+Introduction to Micro-Electro-Mechanical Systems: Microfabrication techniques including: Photolithography, etching, phyiscal and chemical vapor deposition, electroplating, bonding and polymer processing. Application to sensors and actuators. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6230 - Industrial Emissions Control
+Analysis of air quality criteria, ambient and emission standards, and industrial pollution sources. Recovery and utilization of waste gases and particulate matter. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6231 - Environmental Modeling in the Forest Products Industry
+The science and engineering of waste treatment processes in the pulp and paper industry. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6232 - Chemical Engineering Processes in Pulp & Paper Manufacturing
+To study the details of some of the major unit operations in pulp and paper manufacturing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6240 - Advanced Separation Processes
+This course provides an advanced analysis of separation process technology, with special emphasis on new separation techniques and their applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6250 - Mass Transport through Solids
+An in-depth introduction to transport of penetrants in and through solids. Convective flow through porous media, and conductive flow through homogenous solids. Membrane separations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6260 - Transport Phenomena-Mass Transfer
+Mass transport processes and material properties that affect them. Principles of both steady- and unsteady-state molecular diffusion are developed and transfer mechanisms examined. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 62X0 - Xfer-Separation Process
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 62X1 - Xfer-Env Mod Forest Ind
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6300 - Kinetics and Reactor Design
+A study of chemical kinetics and mechanisms in complex homogeneous and heterogeneous reaction systems. Design and analysis of chemical reactors for such systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6310 - Applied Chemical Kinetics
+Applications of chemical kinetics to homogeneous and heterogeneous gas and liquid reactions, including techniques and analyses. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6320 - Heterogeneous Catalysis
+Physics and chemistry of surfaces; thermodynamics, kinetics, and mechanism of adsorption and surface reactions; modern instrumental analyses; and industrial catalysis. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6400 - Advanced Process Control
+Fundamentals of multivariate control theory as applied to chemical processes. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6410 - Dynamic Behavior of Process Systems
+Introduction to process dynamics. Modeling of lumped systems with and without chemical reactions. Lumped processes involving phase equilibrium. Distributed parameter systems. Optimization of transient processes. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6460 - Microelectromechanical Devices
+Introduces fundamental concepts and tools needed for the design, simulation and analysis of MEMS devices. These include electrical, mechanical, radiant, thermal, magnetic and chemical domains. Credit not allowed for both CHBE 6460 and ME 6460 or ECE 6460. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6500 - Mathematical Modeling and Analysis of Chemical Processes
+Formulation and solution of mathematical models of a range of chemical processes with an emphasis on differential balances and incorporation of uncertainty. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6600 - Polymerization Reaction Engineering
+Polymerization processes are analyzed with regard to reaction mechanism, kinetics, and reactor design. Control of polymer structure during polymerization is emphasized. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6608 - Semiconductor Microlithography and Patterning
+The study of fundamental issues from physics, chemistry, chemical engineering, and electrical engineering inherent in semiconductor microlithography, encompassing both materials and processes used for pattern definition. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6609 - Polymers in Microelectronics
+Use of polymers in microelectronics applications such as photolithography, interlevel dielectrics, encapsulation, packaging, magnetic media, and optical storage. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6634 - Wet End Processing of Paper
+Wet end colloidal and polymer science of papermaking processes. Processing with fiber, mineral fillers, brighteners, and polymer additives. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 66X0 - Xfer-Pulp-Paper Mfg I
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 66X1 - Xfer-Pulp-Paper Mfg II
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 66X4 - Xfer-Wet End Proc-Paper
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 66X7 - Transfer-Bioprocessing
+
+3.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6710 - Microfluidics & Appl
+This course explores the fundamentals of microfluidics and nanofluidics, and their applications, primarily in biological and medical sciences (e.g. biomolecular separations). Credit not allowed for both CHBE 6710 and CHBE 4710. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6741 - Pulp and Paper Manufacture I
+The fundamentals of pulp and paper technology are presented. Applications to the several unit operations used are explored and augmented by field trips and recent case studies. Crosslisted with ME 6741. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6742 - Pulp and Paper Manufacture II
+Papermaking technology is covered from a multidisciplinary engineering perspective with fundamental and practical considerations being addressed. Students participate in groups to run a pilot papermaking trial at the Henry Foundation in Savannah. Crosslisted with ME 6741. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6750 - Preparation and Reactions of Polymers
+A detailed treatment of the reactions involved in the synthesis of both human-made and natural polymers, including preparation and degradative reactions of polymer systems. Crosslisted with CHEM and PTFE 6750 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6751 - Physical Chemistry of Polymer Solutions
+Study of polymer solutions, polymer miscibility, adsorption, sorption, plasticization, molecular weights, molecular weight distributions, and interfacial phenomena using thermodynamics and statistical mechanics. Crosslisted with CHEM, MSE, and PTFE 6751. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6752 - Polymer Characterization
+This course introduces the student to surface, near-surface and structural methods of polymer characterization. Specialized techniques critical to physical structure are emphasized. Crosslisted with CHEM, MSE, and PTFE 6752. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6759 - Plasma Processing of Electronic Materials and Devices
+Fundamental physics, chemistry, chemical engineering, and electrical engineering principles inherent in plasma processes. Includes etching, deposition, diagnostic methods, and control schemes. Crosslisted with ECE 6759. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6760 - Biocatalysis and Metabolic Engineering
+This course provides in-depth coverage of various topics in biocatalysis and metabolic engineering. Goals of this course are the development of an understanding of proteins as catalysts, their functioning in metabolic networks, their application in various industries, and recognition of their potential for addressing future challenges in science and engineering. Crosslisted with CHEM 6760. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6765 - Drug Design, Development and Delivery
+Introduction to the pharmaceutical development process, including design of new drugs, synthesis and manufacturing issues, and methods of delivery into the body. Includes student presentations. Crosslisted with BMED 6765 and CHBE 6765. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6768 - Polymer Structure, Physical Properties and Characterization
+Formulations and analysis of molecular and phenomenological models of elastic and viscoelastic behavior, development and description of structure, and fundamental aspects of structure-property relations. Crosslisted with ME, PTFE, and MSE 6768. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6774 - Biomaterials: Structure and Function
+Structure-function relationships of biomaterials and biomaterial characterization will be covered. Materials for medical implants, tissue engineering, biosensing, imaging, and drug delivery will be covered. Crosslisted with BMED, ME, and MSE 6774. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6777 - Advanced Biomaterials
+Advanced topics of biomaterials performance and engineering, including biointerfaces, host reactions of materials, and bio-inspired/smart-materials strategies. Crosslisted with BMED, ME, and MSE 6777. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6778 - Introduction to Biomaterials
+Introduction to a variety of biomaterials and their biomedical applications. Crosslisted with BMED and PTFE 6778. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6779 - Bioprocess Engineering
+Study of enzymes and microbial and mammalian cells for production of biochemicals and protein therapeutics in bioreactors; downstream separation and purification; integrated view of bioprocesses. Crosslisted with BMED 6779. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6782 - Cellular Engineering
+Engineering analysis of cellular systems. Crosslisted with BMED and ME 6782. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6784 - Cardiovascular Biomechanics
+Mechanical analysis of the cardiovascular system emphasizing the normal and pathologic function in relation to clinical cardiovascular medicine. Crosslisted with BMED and ME 6784. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6789 - Technology Ventures
+Team discussion and case studies in biomedical engineering technology transfer, including licensing, financial capital, safety and efficacy studies, clinical trials, and strategic planning. Crosslisted with BMED, ECE, ME, and MGT 6789. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6793 - Systems Pathophysiology
+Overview of human pathophysiology from a quantitative perspective. A brief introduction to the application of quantitative models to the understanding of biological systems. Crosslisted with BMED, ECE, and ME 6793. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6794 - Tissue Engineering
+Biological, engineering, and medical issues in developing tissue-engineered constructs. Emphasis on the integration of these disciplines at a basic molecular and cell biology level. Crosslisted with CHE and ME 6794. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6799 - Legal Issues in Technology Transfer
+Study and analysis of U.S. law as it applies to the patenting and licensing processes. Crosslisted with BMED, ME, and MGT 6799. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 6XXX - Chem Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7000 - Master's Thesis
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7650 - Advanced Physical Chemistry of Polymers
+Thermodynamics and microscopic dynamics of polymers. Fundamental concepts, including scaling concepts, governing anisotropy of polarizability, phase transitions, morphology, time-dependent correlations, etc. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7757 - Teaching Practicum
+Supervised teaching for doctoral students. Teaching techniques, course and curriculum design, student evaluation methods and criteria. Students may, in some instances, prepare and present lectures. Crosslisted with NRE, ME, HP 7757. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7771 - Mechanics of Polymer Solids and Fluids
+Continuum mechanics of solids and fluids; mechanics of deformation of anisotropic polymers; yield, breaking, and fatigue; non-Newtonian viscous and viscoelastic behavior of polymer fluids. Crosslisted with ME, MSE, and PTFE 7771. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7772 - Fundamentals of Fracture Mechanics
+Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with AE, CEE, ME, and MSE 7772. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7773 - Advanced Fracture Mechanics
+Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions. Crosslisted with AE, CEE, ME, and MSE 7773. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7774 - Fatigue of Materials and Structures
+Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation. Crosslisted with AE, CEE, ME, and MSE 7774. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7775 - Topics in Fracture and Fatigue of Metallic and Composite
+Structures Brittle and ductile failure criteria. Failure prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and comparison with metal fatigue. Crosslisted with AE, ME, and MSE 7775. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7791 - Damage, Failure, and Durability of Composite Materials
+Provides knowledge of the fundamental concepts and methods related to analysis and assessment of damage, failure, and durability of composite materials. Crosslisted with AE, CEE, ME, MSE, and PTFE 7791. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7792 - Advanced Mechanics of Composites
+Anisotropic elasticity, failure theories, hydrothermal behavior, 3-D analysis of laminates, thick laminates, free- edge effects, stress concentrations, joints, creep, and fracture of composites, and advanced topics. Crosslisted with AE, CEE, ME, MSE, and PTFE 7792. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 7793 - Manufacturing of Composites
+Major manufacturing techniques for metal, ceramic, and polymer matrix composites. Modeling of processes with emphasis on fundamental mechanisms and effects. Crosslisted with AE, CEE, ME, MSE, and PTFE 7793. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8001 - Seminar in Chemical Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8002 - Seminar in Chemical Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 88X2 - Xfer - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8997 - Teaching Assistantship
+For graduate students holding teaching assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 8998 - Research Assistantship
+For graduate students holding research assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+CHBE 9000 - Doctoral Thesis
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Chemical&Biomolecular Engr Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

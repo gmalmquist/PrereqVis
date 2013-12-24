@@ -1,0 +1,2590 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 07, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+CS 1050 - Understanding and Constructing Proofs
+Techniques of rigorous argumentation, emphasizing reading and writing of formal and informal proofs. Application of techniques to domains of relevance to computer science. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1100 - Freshman Leap Seminar
+Small group discussions with first year students are led by one or more faculty members and include a variety of foundational, motivational, and topical subjects for computationalist. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1171 - Introductory Computing in MATLAB
+For students with a solid introductory computing background needing to demonstrate proficiency in the MATLAB language. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 1301 - Introduction to Computing
+Introduction to computing principles and programming practices with an emphasis on the design, construction and implementation of problem solutions use of software tools. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1315 - Introduction to Media Computation
+Introduction to computation (algorithmic thinking, data structures, data transformation and processing, and programming) in a media and communication context. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1316 - Representing Structure and Behavior
+Modeling the structure of media (e.g., music, graphical scenes) using dynamic data structures. Designing objects as encapsulations of structure and behavior. Algorithms for simulating objects. May not be taken for credit by students who have credit for CS 1322. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1331 - Introduction to Object Oriented Programming
+Introduction to techniques and methods of object-oriented programming such an encapsulation, inheritance, and polymorphism. Emphasis on software development and individual programming skills. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1332 - Data Structures and Algorithms for Applications
+Computer data structures and algorithms in the context of object-oriented programming. Focus on software development towards applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1371 - Computing for Engineers
+Foundations of computing with an introduction to design and analysis of algorithms and an introduction to design and construction of programs for engineering problem-solving. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1372 - Structured Program Design for Engineers
+Design, analysis and implementation of programs for engineering problem-solving using ANSI Standard C, with an introduction to C++. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1801 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1802 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1803 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1804 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1805 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 1XXX - Computer Sci Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+CS 2050 - Introduction to Discrete Mathematics for Computer Science
+Proof methods, strategy, correctness of algorithms over discrete structures. Induction and recursion. Complexity and order of growth. Number theoretic principles and algorithms. Counting and computability. Credit not allowed for both CS 2050 and CS 2051.
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 2051 - Honors - Induction to Discrete Mathematics for Computer Science
+Proof methods, strategy, correctness of algorithms over discrete structures. Induction and recursion. Complexity and order of growth. Number theoretic principles and algorithms. Counting and computability. Credit not allowed for both CS 2051 and CS 2050.
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 2110 - Computer Organization and Programming
+An introduction to basic computer hardware, machine language, assembly language, and C programming. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2200 - Computer Systems and Networks
+A broad exposure to computer system structure and networking including software abstractions in operating systems for orchestrating the usage of the computing resources. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2261 - Media Device Architectures
+Controlling the interface between hardware and software in media devices. Machine-level programming (e.g., in C) to create graphics, generate sound, and support user interaction. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2316 - Data Manipulation for Science and Industry
+Reading, manipulating, and exporting data for engineering, business, and scientific applications. Covers GUI's, File I/O, basic SQL, and web scraping. Emphasis on software development. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 2335 - Software Practicum
+Methods for solving large programming problems. Techniques for quality assurance, managing programs, working in teams, analyzing problems, and producing effective solutions. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2340 - Objects and Design
+Object-oriented programming methods for dealing with large programs. Focus on quality processes, effective debugging techniques, and testing to assure a quality product. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2600 - Knowledge Representation and Processing
+Introduction to the representation and manipulation of complex symbolic and sub-symbolic information. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 2699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2801 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2802 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2803 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2804 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2805 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 2XXX - Computer Sci Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+CS 3101 - Computer Science Ventures
+Students will learn how computer-science-based ventures are developed. The course is project-based. Students propose, analylze, pitch, design, implement, package and market web-2.0 and virtual-world-based products and services. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 3210 - Design of Operating Systems
+Operating systems concepts, including multi-threading, scheduling, synchronization, communication, and access control. Projects will cover design and implementation of several operating systems components. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3220 - Computer Structures: Hardware/Software Codesign of a Processor
+Principles in pipelined processor design, with emphasis on the need for a close interaction between code generation and architecture. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3240 - Languages and Computation
+Interpreters as abstract machines and the tools used to construct them, such as scanners and parsers. An introduction to models of computation as embodied by different programming languages. Limits of and relationships between these models. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3251 - Computer Networking I
+Introduction to problems in computer networking, including error recovery, medium access, routing, flow control, and transport. Emphasis on current best practice. Includes programming of networked applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3300 - Introduction to Software Engineering
+Team-based project class to introduce and apply software engineering principles and practices. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Software Engineering (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3451 - Computer Graphics
+Geometric constuctions; transformations; perception; reflection models; photorealistic; non-photorealistic, and image-based rendering; rendering software and API's; triangle-mesh processing; graphic acceleration; user-interaction, design and animation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Graphics & Visualization (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3510 - Design and Analysis of Algorithms
+Basic techniques of design and analysis of efficient algorithms for standard computational problems. NP-Completeness. Credit not allowed for both CS 3510 and CS 3511. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3511 - Design and Analysis of Algorithms, Honors
+Techniques of design and analysis of efficient algorithms for standard computational problems. NP-Completeness Project. Credit not allowed for both CS 3511 and CS 3510. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 3600 - Introduction to Artificial Intelligence
+An introduction to artificial intelligence and machine learning. Topics include intelligent system design methodologies, search and problem solving, supervised and reinforced learning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Intelligent Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3630 - Introduction to Perception and Robotics
+Covers fundamental problems and leading solutions for computer and robot perception and action from the point of view of autonomous robot navigation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3651 - Prototyping Intelligence Appliances
+Hands-on course teaching the fundamentals of electronics of electrical and mechanical prototyping. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 3743 - Analysis of Emerging Technologies
+Analysis of emerging technologies and their impacts for firm practice, market practice, policy, and society. Credit not allowed for both CS 3743 and MGT 3743 or ME 3743. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 3750 - Human Computer Interface Design and Evaluation
+Human computer interface is considered in terms of user-system compatibility. Concepts in human factors and interface design are covered in relation to capabilities of both humans and computers. Crosslisted with PSYC 3750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences, Usablity (CS) 
+
+CS 3790 - Introduction to Cognitive Science
+Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with PST, PSYC, and ISYE 3790. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Educational Technoloogy (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 3801 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3802 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3803 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3804 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3805 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 3XXX - Computer Sci
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+CS 4001 - Computing, Society, and Professionalism
+Examines the role and impact of information and communication technology in society, with emphasis on ethical, professional, and public policy issues. Credit not allowed for both CS 4001 and 4002. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Ethics Requirement, Tech Elect CS, Engr, &Sciences 
+
+CS 4002 - Robots and Society
+Examines the role and impact of robotics, distributed sensing and actuation, ubiquitous computing and related technology in society, emphasizing ethical, professional and public policy issues. Credit not allowed for both CS 4001 and 4002 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4005 - Next-Generation Computing Technologies
+Students wil explore new paradigms in how content is created, distributed, and consumed, with hands-on demos of next-generation computing technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4010 - Introduction to Computer Law
+Provides an introduction to copyrights, patents, trade secrets, trademarks, and commercial law pertaining to computer software and hardware. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4052 - Systems Analysis and Design
+An introductory course on the development life cycle of business information systems. It covers analysis and design tools and methodology. Credit not allowed for both CS 4052 and MGT 4052. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4210 - Advanced Operating Systems
+Operating system abstractions and their implementations, multi-threading, efficient inter-address communication, high-level synchronization, introduction to multi-processor and distributed operating systems, real-time systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4220 - Programming Embedded Systems
+Design principles, programming techniques, and case studies of embedded real-time systems. Interface techniques and devices. Representations and reasoning about physical processes. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4233 - Parallel Computer Architecture
+The objective of this course is to develop an in-depth understanding of the design, implementation, and evaluation of modern parallel computers. Credit not allowed for both CS 4233 and CS 7110. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4235 - Introduction to Information Security
+Terms/concepts, threats, controls; problem definition; comprehensive information security model; security for operating systems, databases, network/distributed systems; administering security; legal/ethical/policy issues. Credit not allowed for both CS 4235 and CS 6035. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4237 - Computer and Network Security
+Fundamental concepts and principles of computer security, operating system and database security, secret key and public key cryptographic algorithms, hash functions, authentication, firewalls and intrusion detection systems, IPSec ad VPN, and wireless security. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4240 - Compilers, Interpreters, and Program Analyzers
+Study of techniques for the design and implementation of compilers, interpreters, and program analyzers, with consideration of the particular characteristics of widely used programming languages. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4245 - Introduction to Data Mining and Analysis
+Computational techniques for analysis of large, complex datasets, covering fundamental aspects as well as modern data mining and analysis techniques. Cross-listed with ISYE 4245. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4251 - Computer Networking II
+Principles of computer networks, including medium access, ARQ protocols, routing, congestion avoidance, and control. Emphasis on design options and tradeoffs. Includes significant network application programming. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4255 - Introduction to Network Management
+Introduction to SNMP-based network management. Practical application to network and system management including hands-on lab practice. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4260 - Telecommunications Systems
+Study of telecommunication systems emphasizing functional roles of the various portions of the system and how various functional components support and interact with one another. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4261 - Mobile Applications and Services for Converged Networks
+This course provides an introduction to mobile applications and services with an emphasis on voice and data service integration in modern commercial networks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4270 - Data Communications Laboratory
+Detailed study of the principles of data transmission systems and their performance, reinforced by laboratory exercises. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Networking & Telecom (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4280 - Survey of Telecommunications and the Law
+Overview of telecommunication regulation at the federal, state, and judicial levels; review of FCC policies and restrictions on Bell operating companies under the AT&T Consent Agreement. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4290 - Advanced Computer Organization
+Topics concerning the hardware design of computer systems. Advanced techniques in high-performance pipelined central processing units. Memory and I/O systems. Parallel processors including shared-memory multiprocessors and cluster computers. Credit is not allowed for both CS 4290 and any of the following courses: CS 6290, ECE 4100, ECE 6100. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Computer Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4320 - Introduction to Software Processes
+The course will provide students with an overall context in which software systems are developed from the viewpoint of processes that support development. Software engineering is described as the set of activities developers engage in to create high-quality products within schedule and budget constraints. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Software Engineering (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4330 - Software Engineering Applications
+Software engineering methods specific to classes of applications or systems, including information systems and embedded, real-time systems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Software Engineering (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4342 - Software Generation, Testing, and Maintenance
+Methods and principles for program generation, testing, and managing the evolution of software systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4365 - Introduction to Enterprise Computing
+A survey of basic software tools and techniques used in mission-critical systems and applications, combined with in-depth study of fundamental principles underlying enterprise computing. Credit not allowed for both CS 4365 and CS 6365. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4392 - Programming Languages
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4400 - Introduction to Database Systems
+Comprehensive coverage of mainstream database concepts such as the entity-relationship model, relational databases, query languages, and database design methodology. Includes a project. Credit not allowed for both CS 4400 and CS 6402. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Data Mgt Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4420 - Database System Implementation
+Study of fundamental software components/algorithms of a database system, including the file manager, query engine, lock manager, and recovery manager. Includes a project component. Credit not allowed for both CS 4420 and CS 6422. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Data Mgt Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4432 - Information Systems Design
+The analysis, design, and implementation of information systems. Topics include requirements analysis, design representations, implementation techniques, and evaluation of systems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Data Mgt Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4440 - Emerging Database Technologies and Applications
+The course will cover current developments including distributed, object-oriented, temporal-spatial, Web-based, mobile, and active database technologies, and data warehousing and mining applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Data Mgt Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4452 - Human-Centered Computing Concepts
+Introduction to programming and human-centered principles of computing based on a communications and media computation context. Introduces user interface programming. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4455 - Video Game Design and Programming
+Techniques for electronic game design and programming, including graphics game engines, motion generation, behavioral control for autonomous characters, interaction structure, social and interface issues of multi-user play, and the business aspects of game development. Credit not allowed for both CS 6457 and CS 4455. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Graphics & Visualization (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4460 - Introduction to Information Visualization
+Introduction to principles and techniques of infomation visualization, the presentation of primarily abstract data to help people understand, analyze and make sense of data. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4464 - Computational Journalism
+A study of computational and technological advancements in journalism with emphasis on technologies for developing new tools and their potential impact on news and information. Credit not allowed for both CS 4464 and CS 6645. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4470 - Introduction to User Interface Software
+Concepts, techniques, structures, and strategies for implementation of interactive software. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences, Usablity (CS) 
+
+CS 4472 - Design of Online Communities
+Introduction to the design of online communities. Students study an existing community in depth. Credit not allowed for both CS 4472 and CS 6470. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4475 - Computational Photography
+An introductory course on the scientific, technical, perceptual, and aesthetic principles of pictures. Emphasis is on the techniques of image formation, analysis, merging, modification and their use for depiction of reality on a 2D medium of photographs. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4480 - Digital Video Special Effects
+A study of digital multimedia and the analysis and synthesis of digital video. Special attention paid to techniques for generating video special effects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Graphics & Visualization (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4495 - Computer Vision
+An introduction to computer vision and machine perception. An intensive study of the process of generating a symbolic description of the scene by interpretation of images(s). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Graphics & Visualization (CS), Intelligent Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4496 - Computer Animation
+Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Graphics & Visualization (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4510 - Automata and Complexity Theory
+Computational machine models and their language classes. Undecidability. Resource-bounded computations. Central complexity-theoretic concepts such as complexity classes, reducibility and completeness. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences, Theory (CS) 
+
+CS 4520 - Approximation Algorithms
+Approximation algorithms for NP-hard optimization problems, design and analysis techniques for such algorithms. Credit now allowed for both CS 4520 and CS 7520. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4530 - Randomized Algorithms
+Efficient randomized algorithms with improved performance over deterministic algorithms, or for NP-hard optimization problems, design and analysis techniques for such algorithms Credit not allowed for both CS 4530 and CS 7530. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4540 - Advanced Algorithms
+Advanced techniques for designing and analyzing efficient algorithms for combinatorial, algebraic, and number theoretic problems. Credit not allowed for both CS 4540 and CS 6550. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4550 - Scientific Data Processing and Visualization
+Foundations and algorithms underlying the development and application of tools for the efficient transmission, analysis, filtering, and visualization of large scientific data sets. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4560 - Verification of Systems
+Technique for verifying, validating and testing software and hardware systems. Topics covered will include modeling, abstraction methods, evaluation and certification, and computer-aided verification methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4590 - Principles and Applications of Computer Audio
+A well-rounded exploration of digital audio and its importance in current research and applications. Exposes students to the principles, technology, and current research of computer audio. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4605 - Mobile and Ubiquitous Computing
+Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences, Usablity (CS) 
+
+CS 4611 - Artificial Intelligence Problem Solving
+Basic concepts and methods of AI problem solving, knowledge representation, reasoning, and learning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Intelligent Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4613 - Knowledge Systems Engineering
+Techniques for constructing large knowledge-based systems. Advanced symbolic AI techniques. Constraint systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4615 - Knowledge-Based Modeling and Design
+Information-processing theories of modeling and design; topics include design decision-making, problem-solving and learning, and knowledge-based modeling and design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4616 - Pattern Recognition
+An introductory course on pattern classification and decision problems with applications to character recognition, image analysis, and speech recognition. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4622 - Case-Based Reasoning
+Based on human problem-solving, CBR has had many successes in industry and research. Topics include case representation, indexing and retrieval, similarity assessment, adaptation, learning. Credit not allowed for both CS 4622 and CS 7620. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4625 - Intelligent and Interactive Systems
+Explores how human-computer interaction and machine learning can interact to create personalized information environments. Emphasis on current research efforts from both fields. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4632 - Advanced Intelligent Robotics
+Hands-on course in which students program autonomous mobile robots and solve complex tasks for robot teams. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4635 - Knowledge-Based Artificial Intelligence
+Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4641 - Machine Learning
+Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Intelligent Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4649 - Robot Intelli Planning
+We investigate algorithms for robots and complex systems that make intelligent decisions. Emphasis on the theoretical and empirical properties of classical, geometric, stochastic/dynamic planning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4650 - Natural Language Understanding
+Methodologies for designing systems that comprehend natural language. Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, and inference mechanisms. Credit not allowed for both CS 4650 and CS 7650. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Intelligent Systems (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4660 - Introduction to Educational Technology
+Introduction to the theory and practice of educational technology. Covers learning theory applicable to educational technology, explains major research findings. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Educational Technoloogy (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4665 - Educational Technology: Design and Evaluation
+Intensive project class in which students design, implement, and evaluate a piece of educational technology, applying the theory learned in Introduction to Educational Technology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Educational Technoloogy (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4670 - Computer-Supported Collaborative Learning
+Research and practice in computer-supported collaborative learning. Review of existing systems and research, as well as evaluation and design methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Educational Technoloogy (CS), Tech Elect CS, Engr, &Sciences 
+
+CS 4675 - Internet Computing Systems, Services and Applications
+Focusing on fundamental issues, concepts, techniques, and technical challenges that are critical for designing and developing Internet systems, services and applications. Credit not allowed for both CS 4675 and CS 6675. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4685 - Pervasive Systems and Networking
+In-depth study of systems and wireless networking issues in enabling pervasive computing environments and applications using a hand-on approach. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4690 - Empirical Methods for User Interface Design and Evaluation
+Introduction to empirical methods for gathering requirements and evaluating the end-user and usability of software systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences, Usablity (CS) 
+
+CS 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4710 - Introduction to Computing Concepts for Bioinformatics
+Introduction to programming concepts and computing tools such as formal models and algorithms with applications from conceptual biology. May not be used by computer science majors for degree credit. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4731 - Game AI
+Examines the expressive possibilities of artificial intelligence techniques in computer games. Students learn AI programming techniques, and how they strongly interface with game design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4741 - Integrative Management Development-Project Preparation
+Individual and group-based experiential learning activities to develop integrated human system management skills that prepare students for more successful capstone collaboration and learning. Credit not allowed for both CS 4741 and MGT 4741 or ME 4741. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 4742 - Integrated Computing and Management Capstone Project
+Project-based course for students in Computing and Management minor to work in interdisciplinary teams on projects provided by corporate affiliates. Credit not allowed for both CS 4742 and MGT 4742 or ME 4742. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 4752 - Philosophical Issues in Computation
+Metaphysical and epistemological issues in the foundations, methods, and implications of computing. Issues include: minds, brains, and machines; representation and language; simulating nature. Crosslisted with PST 4752. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Humanities Requirement, Intelligent Systems (CS) 
+
+CS 4770 - Mixed Reality Experience Design
+Focuses on informal design, integration of media theory, HCI and technology issues. Significant group design projects. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4791 - Integrative Project in Cognitive Science
+An integrative course in cognitive science focusing on the integration and use of concepts and skills from cognitive science. A different integrative project or set of projects will be taken on each semester; students will contribute on the basis of their background and skill. Crosslisted with PST, PSYC, and ISYE 4791. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4792 - Design Project in Cognitive Science
+Individual project with a cognitive science faculty member, designed as a supplement to the student's senior design project or thesis in their major area. Crosslisted with PST, PSYC, and ISYE 4792. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4793 - Integrative Perspectives in Cognitive Science
+An integrative course in cognitive science which uses a focus topic to deepen interdisciplinary perspective and develop cognitive science knowledge and skills. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4801 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4802 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4803 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4804 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4805 - Special Topics
+Courses of timely interest to the profession, conducted by resident or visiting faculty. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4901 - Special Problems
+An investigation of significant areas of information in computer science. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4902 - Special Problems
+An investigation of significant areas of information and computer science. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4903 - Special Problems
+An investigation of significant areas of information and computer science. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4911 - Design Capstone Project
+Team-based capstone experience allowing students to analyze a problem for a customer and manage the solution development through the full project life cycle. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4912 - Design Capstone Project
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 4980 - Research Capstone Project
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+CS 4XXX - Computer Sci Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+CS 6010 - Principles of Design
+This is an interactive hands-on course that will teach students the principles of design at the individual level. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6035 - Introduction to Information Security
+A broad spectrum of information security: threats, basic cryptography, software vulnerabilities, programming for malice, operating system protections, network security, privacy, data mining, computer crime. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6150 - Computing For Good
+Exploring challenges faced by underserved populations and developing countries from a computing perspective. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6210 - Advanced Operating Systems
+Introduction to graduate-level topics in operating systems using research papers, textbook excerpts, and projects. Provides students thorough comprehension of distributed and parallel computer systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6230 - High-Performance Parallel Computing: Tools and Applications
+Introduction to MIMD parallel computation, using textbook excerpts, research papers, and projects on multiple parallel machines. Emphasizes practical issues in high-performance computing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6235 - Real-Time System Concepts and Implementation
+Principles of real-time systems, as occurring in robotics and manufacturing, interactive, and multimedia applications. Reviews and uses real-time operating systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6238 - Secure Computer Systems
+Design principles of secure systems, authentication, access control and authorization, discretionary and mandatory security policies, secure kernel design, and secure databases. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6241 - Design and Implementation of Compilers
+Design and implementation of modern compilers, focusing upon optimization and code generation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6245 - Compiling for Parallelism
+Design and implementation of compilers for parallel and distributed computers, focusing upon optimization and code generation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6246 - Object-Oriented Systems and Languages
+Design and implementation of object-oriented systems. Aspect-oriented programming, type systems, OO language implementation (virtual dispatch, GC), OO language design (genericity, reflection, mixins). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6250 - Computer Networks
+Principles and practice of computer networks, including signaling and framing, error control, medium access, routing, congestion control, end-to-end transport, and network APIs. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6255 - Principles of Network Management
+Focus on network, system, and applications management. Principles and practice of various network management standards will be presented. Course includes project assignment. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6260 - Applied Cryptography
+Cryptographic algorithms, cryptanalysis, symmetric cryptography, public key cryptography, DES, AES, RSA, hash and MAC functions, digital signatures, pseudo-random generators, cryptographic protocols, SSL//TLS, SET. Credit not allowed for both CS 6260 and ECE 6280. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6262 - Network Security
+Design principles of secure network protocols and systems, authentication, integrity, confidentiality, privacy, information hiding, digital watermarking, access control, firewall, intrusion detection, and case studies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6265 - Information Security Laboratory
+Computer systems and network vulnerabilities, information warfare, network and operating system security techniques, security analysis tools. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6266 - Information Security Practicum
+Capstone independent study placing each student in a commercial, industrial, academic, or government setting where they must solve real-world security problems. 
+
+5.000 Credit hours 
+0.000 Lecture hours 
+15.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6269 - Formal Models and Methods for Information Assurance
+Logical foundations of high-assurance systems, formal models for access control, authentication, and trust; techniques for constructing high-assurance systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6280 - Performance Evaluation of Communication Networks
+Methods for evaluating the performance of communication networks with emphasis on modeling, mathematical analysis, computer simulation, and measurement. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6290 - High-Performance Computer Architecture
+Topics concerning very high-performance computers including techniques exploiting parallelism in single and multiple processor systems. Credit not allowed for both CS 6290 and any of the following courses: CS 4290, ECE 4100, ECE 6100. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6300 - Software Development Process
+The process of developing software systems. Includes development and assessment of processes, their instantiation in actual product development, and techniques ensuring quality of developed products. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6310 - Software Architecture and Design
+Principles and concepts involved in the design and analysis of large software systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6320 - Software Requirements Analysis and Specification
+Methods and principles for determining, documenting, analyzing, and formally specifying requirements for software systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6330 - Software Generation, Testing, and Maintenance
+Introduction to methods and principles for programming, testing, and managing the evolution of software systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6340 - Advanced Topics in Software Analysis and Testing
+Fundamental prinicples and advanced techniques for static and dynamic program analysis and software testing. Software reliability, resilience, and trustworthiness. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6365 - Intro Enterprise Comput.
+Survey of basic software concepts and techniques used in mission-critical systems and applications, combined with in-depth study of fundamental principles underlying enterprise computing. Credit not allowed for both CS 6365 and CS 4365. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6390 - Programming Language Design
+Design, structure, and goals of programming languages. Object-oriented, logic, functional, and traditional languages. Semantic models. Parallel programming languages. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6400 - Database Systems Concepts and Design
+Study of fundamental concepts with regard to relational databases. Topics covered include database design, query processing, concurrency control, and recovery. Credit not given for both CS 6400 and CS 6754. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6402 - Databases and Information Security
+Fundamentals of designing and using databases: conceptual data models to database-specific models, SQL, storage structures. Security-related topics include privacy, access control, backup, recovery, SQL injection. Credit not allowed for both CS 6402 and CS 4400. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6411 - Object-Oriented Database Models and Systems
+Study of advanced database concepts as they apply to object-oriented database systems. Topics include semantic data models, object-oriented query languages, tools, and applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6421 - Temporal, Spatial and Active Databases
+Study of advanced database concepts for temporal databases with emphasis on storage structure, processing and query languages, as well as active database concepts and implementation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6422 - Database System Implementation
+Design and implementatuion of a databse system covering: storage manager, query optimizer, transaction manager, and recovery manager. Study of the advantages of different implementation algorithms. Credit not allowed for both CS 6422 and CS 4420. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6430 - Parallel and Distributed Database Systems and Applications
+Study of algorithms and performance in advanced databases. Systems include parallel, distributed, and client-server databases. Applications include data mining and on-line analytical processing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6440 - Information to Health Informatics
+A broad review of the US health system and the application of informatics to the clinical practice of medicine, digital imaging, public health and bioinformatics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6451 - Introduction to Human-Centered Computing
+Introduction to the range of issues across the HCC disciplines, including design and research methodologies: cognitive, social, and cultural theories; assessment and evaluation: ethical issues. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6452 - Prototyping Interactive Systems
+Introduction to design, prototyping and implementation of systems for human-centered computing. Focuses on core concepts in computer science and implications for interactive systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6455 - User Interface Design and Evaluation
+Examines usability in the software development process with an emphasis on usability, requirements, methodology, design, and evaluation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6456 - Principles of User Interface Software
+Considers the architectural and algorithmic principles behind the implementation of interactive software systems and the tools that support them. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6457 - Video Game Design and Programming
+Techniques for electronic game design and programming, including graphics, game engines, animation, behavioral control for autonomous characters, interaction, social and interface issues of multi-user play. Credit not allowed for both CS 6457 and CS 4455. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6460 - Educational Technology: Conceptual Foundations
+Introduction to educational technology, with an emphasis on theoretical foundations. Introduces basic philosophies, approaches, and technologies. Analyzes issues surrounding technology's impact on education. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6465 - Computational Journalism
+Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed. This class studies the computational technologies that impact journalism. Credit not allowed for both CS 6465 and CS 4464. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6470 - Design of Online Communities
+Introduction to the design of online communities. Students study an existing community in depth, and then develop a new community design. Credit not allowed for both CS 6470 and CS 4472. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6475 - Computational Photography
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6480 - Computer Visualization Techniques
+Principles, techniques, and practice in data, information, multivariate, and scientific visualization. Includes visualization methods, data structures, examples, and tools. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6485 - Visualization Methods for Science and Engineering
+Algorithms, software, and practical applications of visualization techniques in science, engineering, business, and medicine. Includes data structures, multivariate visualization, interactive visualization, and visual representations and examples. Computer science students cannot receive credit for this course. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6491 - Foundations of Computer Graphics
+Mathematical/physical/perceptual principles and modeling/rendering techniques used to create, represent, display, and animate models of 3D shapes and their properties. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6505 - Computability, Algorithms, and Complexity
+Important concepts from computability theory; techniques for designing algorithms for combinatorial, algebraic, and number-theoretic problems; basic concepts such as NP-Completeness from computational complexity theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 6520 - Computational Complexity Theory
+Introduction to resource-bounded computations, central complexity-theoretic concepts such as complexity classes, reducibility, completeness, and intractability. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 6550 - Design and Analysis of Algorithms
+Advanced techniques for designing and analyzing efficient algorithms for combinatorial, algebraic, and number-theoretic problems. Credit not allowed for both CS 6550 and CS 4540. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 6601 - Artificial Intelligence
+Basic concepts and methods of artificial intelligence including both symbolic/conceptual and numerical/probabilistic techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6670 - Distributed Control Algorithms
+Algorithms for synchronous, asynchronous, and partially synchronous networks; analysis, control, and implementation of distributed systems such as robot fleets, animal groups. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6675 - Advanced Internet Computing Systems and Applications
+Survey of basic Internet computing concepts and techniques used in Internet systems and applications, combined with in-depth study of fundamental principles underlying Internet computing. Credit not allowed for both CS 6675 and CS 4675. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6705 - Applications of Artificial Intelligence
+A study of the principles and practice of artificial intelligence in areas other than computer science, with particular focus on engineering, science, and business applications. Computer science majors cannot receive credit for this course. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6725 - Information Security Strategies and Policies
+Information security vulnerabilities and risks; legal, cost, privacy, and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6750 - Human-Computer Interaction
+Describes the characteristics of interaction between humans and computers and demonstrates techniques for the evaluation of user-centered systems. Crosslisted with PSYC 6750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6753 - Human-Computer Interaction-Professional Preparation and Practice
+Preparation for a professional career in HCI. Speakers. Atlanta-area lab visits. Career trajectories. Projects presentations. Technical, resume and interviewing skills, Atlanta-area HCI resources. Credit not allowed for both CS 6753 and PSYC 6753 or LCC 6753. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6754 - Engineering Database Management Systems
+Modeling and managing engineering information systems, integration of design and manufacturing functions in engineering product development, logical models of engineering product and processes. Credit not given for CS 6400 and CS 6754. Crosslisted with ME 6754. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6763 - Design of Design Environments
+Analysis of design processes; analysis of current design tools at both the user interface and functional levels; procedures for developing better design tools. Credit not allowed for both CS 6763 and ID 6763 or COA 6763. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6764 - Geometric Modeling
+Software development course focusing on 3D geometric constructions and modeling; emphasizes solid modeling and its role in design. Crosslisted with COA 6764. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6770 - Mixed Reality Experience Design
+Introduction to the design of Mixed Reality experiences. Focuses on informal design, integration of media theory, HCI and technology issues. Significant group design projects. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6780 - Medical Image Processing
+A study of methods for enhancing, analyzing, interpreting, and visualizing information from two- and three-dimensional data obtained from a variety of medical image modalities. Crosslisted with ECE and BMED 6780. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6795 - Introduction to Cognitive Science
+Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action. Crosslisted with ISYE and PSYC 6795. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 6998 - HCI Master's Project
+Final project for students completing a Human-Computer Interaction master's degree. Repeatable for multi-semester projects. 
+
+1.000 TO 9.000 Credit hours 
+0.000 Lecture hours 
+3.000 TO 27.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6999 - Master's Project
+Final project for students completing a master's degree in the College of Computing. Repeatable for multi-semester projects. 
+
+1.000 TO 9.000 Credit hours 
+0.000 Lecture hours 
+3.000 TO 27.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 6XXX - Computer Sci Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+CS 7000 - Master's Thesis
+Master's Thesis Prerequisite: consent of the College. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7001 - Overview of Graduate Studies in Computing
+Research tools including computer systems, as well as fundamental problem-solving skills, are introduced. Lectures on current computing research are presented and projects are required. Credit not allowed in a program of study for a graduate degree. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 7110 - Parallel Computer Architectures
+Issues in the design, implementation, and programming of parallel machines. Credit not allowed for both CS 7110 and CS 4233. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7210 - Distributed Computing
+Fundamental concepts in distributed systems, including global states, logical clocks, and failure models. Distributed algorithms and their implementations using advanced distributed programming systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7230 - Systems Software Design, Implementation, and Evaluation
+Design, implementation, and evaluation of systems software. Distributed/parallel applications will be constructed and evaluated using the systems support that is developed. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 7250 - Broadband Networking Systems
+Focus on the data link layer and its relationship to layers below and above. Gigabit Ethernet, SONTET, fibre channel; media including wireless, satellite, xDSL, cable. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7260 - Internetworking Architectures and Protocols
+Detailed discussion of the problems and solution techniques that arise in internetworking. Topics include routing, addressing, quality of service, and security. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7270 - Networked Applications and Services
+End-to-end functional building blocks and their use in adaptive and non-adaptive applications, including multimedia: coding, compression, security, directory services. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7290 - Advanced Topics in Microarchitecture and organization of high-performance processors.
+Low-level organization and hardware algorithms for the implementation of modern high-performance microprocessors including concept designs and real-world case studies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7292 - Reliability and Security in Computer Architecture
+Hardware support for process isolation, virtualization, debugging, and protection from side-channel attacks. Faults and failures, error tolerance, error rate budgeting, lifetime realiability of devices. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7450 - Information Visualization
+Study of computer visualization principles, techniques, and tools used for explaining and understanding symbolic, structured, and/or hierarchical information. Includes data and software visualization. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7455 - Issues in Human-Centered Computing
+In-depth focus on theoretical, methodological, conceptual, and technical issues across the HCC disciplines associated with humans (cognitive, biological, socio-cultural); design; ethics; and analysis and evaluation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7460 - Collaborative Computing
+Introduction to computer-supported collaborative work, workflow automation, and meeting augmentation. The course deals with models, enabling technology, systems, and applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7465 - Educational Technology: Design and Evaluation
+Intensive project class in which students design, implement, and evaluate a piece of educational technology, applying the theory learned in Educational Technology: Conceptual Foundations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7467 - Computer-Supported Collaborative Learning
+Computer-supported collaborative learning is the use of Internet-based technologies to support learning in social settings. Focus on issues of implementation and evaluation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7470 - Mobile and Ubiquitous Computing
+Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7490 - Advanced Image Synthesis
+Advanced techniques in realistic image synthesis based on the physics of light. Anti-aliasing, textures, surface reflectance, distribution ray tracing, volume rendering, radiosity, and image-based rendering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7491 - 3D Complexity Techniques for Graphics, Modeling, and Animation
+Multiresolution, compression, collision, morphing, visibility, and computational geometry techniques for accessing, rendering, and animating complex 3D models in engineering, scientific, business, or entertainment applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7495 - Computer Vision
+An introduction to computer vision and machine perception. An intensive study of the process of generating a symbolic description of the scene by interpretation of images(s). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7496 - Computer Animation
+Motion techniques for computer animation and interactive games (keyframing, procedural methods, motion capture, and simulation) and principles for storytelling, composition, lighting, and interactivity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7497 - Virtual Environments
+An introduction to virtual reality and virtual environments. Issues covered will include VR technology, software design, 3D human-computer interaction, and applications for VR. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7510 - Graph Algorithms
+Algorithms for graph problems such as maximum flow, matching, network reliability, minimum cuts, covering, coloring, planarity, shortest paths, and connectivity. Crosslisted with MATH 7510 and ISYE 7510. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 7520 - Approximation Algorithms
+Approximation algorithms for NP-hard optimization problems, design and analysis techniques for such algorithms. Credit not allowed for both CS 4520 and CS 7520. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 7525 - Algorithmic Game Theory and Economics
+Algorithmic aspects of game theory covering topics at the intersection of computer science, economics, and game theory with applications to domains such as internet. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7530 - Randomized Algorithms
+Techniques for designing and analyzing randomized algorithms, derandomization techniques. Credit not allowed for both CS 7530 and CS 4530. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+Course Attributes: 
+Theory (CS) 
+
+CS 7535 - Markov Chain Monte Carlo Algorithms
+This course studies Markov Chain Monte Carlo algorithms, widely-used in a variety of scientific fields, focusing on mathematical techniques for analyzing their convergence rates. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7540 - Spectral Algorithms and Representations
+Spectral methods mathematics and algorithmic insights driving applications with large data sets in domains such as web-search, information-retrieval, and medical diagnosis and prediction. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7545 - Theoretical Foundations of Machine Learning
+This course provides a basic arsenal of powerful mathematical tools for the analysis of learning algorithms, focusing on both statistical and computational aspects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7560 - Theoretical Foundations of Cryptography
+One-way functions, pseudorandomness, public-key and identity-based cryptography, commitment and zero knowledge. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7610 - Modeling and Design
+Information-processing theories of modeling and design; topics include design decision making, problem solving and learning, and knowledge-based modeling and design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7611 - AI Problem Solving
+Basic concepts and methods of AI problem solving, knowledge representation, reasoning, and learning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7612 - Artificial Intelligence Planning
+Symbolic numerical techniques that allow intelligent systems to decide how they should act in order to achieve their goals, including action and plan representation, plan synthesis and reasoning, analysis of planning algorithms, plan execution and monitoring, plan reuse and learning, and applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7613 - Knowledge Systems Engineering
+Techniques for constructing large knowledge-based systems. Advanced symbolic AI techniques. Constraint systems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 7615 - Knowledge Agents
+Knowledge-based interactive systems, knowledge-based autonomous agents, agent architectures, learning and adaptation, agent evolution. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7616 - Pattern Recognition
+This course provides an introduction to the theory and practice of pattern recognition. It emphasizes unifying concepts and the analysis of real-world datasets. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7620 - Case-Based Reasoning
+Topics include case representation, indexing and retrieval, adaptation, interpretive CBR, the cognitive model that CBR implies, and its implications for creativity, decision aiding, and education. Credit not allowed for both CS 7620 and CS 4622. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7630 - Autonomous Robotics
+The principles and practice of autonomous robotics including behavior-based design and architectures, adaptive learning and team behavior, and the role of perception within robotic systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7631 - Autonomous Multi-Robot Systems
+In-depth examination of the current research on multi-robot systems. Students develop and critically analyze a multi-robot system. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7633 - Human-Robot Interaction
+Survey of the state of the art in HRI research, introduction to statistical methods for HRI research, research project studio. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+CS 7634 - AI Storytelling in Virtual Worlds
+An exploration of how artificial intelligence can enable us to use stories in virtual worlds for the purpose of entertaining, educatintg, and training human users. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7636 - Computational Perception
+Study of statistical and algorithmic methods for sensing people using video and audio. Topics include face detection and recognition, figure tracking, and audio-visual sensing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7637 - Knowledge-Based AI
+Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7640 - Learning in Autonomous Agents
+An in-depth look at agents that learn, including intelligent systems, robots, and humans. Design and implementation of computer models of learning and adaptation in autonomous intelligent agents. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7641 - Machine Learning
+Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7645 - Numerical Machine Learning
+This course explores problems in classification/pattern recognition (OCR, speech, vision, fault detection, medical diagnosis), regression/function approximation, robot control, and reinforcement learning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7646 - Machine Learning for Trading
+Introduces machine learning based trading strategies. Topics: Information processing, probabilistic analysis, portfolio construction, generation of market orders, KNN, random forests. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7649 - Robot Intelligence: Planning
+We investigate algorithms for robots and complex systems that make intelligent decisions. Emphasis on the theoretical and empirical properties of classical, geometric, stochastic/dynamic planning. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7650 - Natural Language
+Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, inference mechanisms. Newer approaches combining statistical language processing and information retrieval techniques. Credit not allowed for both CS 7650 and CS 4650. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7695 - Philosophy of Cognition
+Examines problems in the foundations of cognition in relation to current issues in cognitive sciences. Topics include meaning, mental imagery, consciousness, and mind/body problem. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7697 - Cognitive Models of Science and Technology
+Examines how models of reasoning and representation developed in the cognitive sciences can provide a basis for an enriched understanding of scientific theories and research practices in science and technology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7785 - Introduction to Robotics Research
+Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 7790 - Cognitive Modeling
+A hands-on course covering a range of cognitive modeling methodologies. It explores the analysis, development, construction, and evaluation of models of cognitive processing. Crosslisted with ISYE and PSYC 7790. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 7999 - Preparation for Doctoral Qualifying Exams
+Consent of the College required. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8001 - Seminar
+Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8002 - Seminar
+Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8003 - Seminar
+Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8004 - Seminar
+Group discussion of advanced topics in information and computer science. May not be use by computer science majors for degree credit. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8005 - Seminar
+Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8006 - Seminar
+Group discussion of advanced topics in information and computer science. May not be used by computer science majors for degree credit. 
+
+6.000 Credit hours 
+6.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8030 - Software Engineering Seminar
+This seminar provides students with an opportunity to explore contemporary topics in software engineering. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8750 - Robotics Research Foundation I
+Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 8751 - Robotics Research Foundation II
+Continuation of AE 8751 (Robotics Research Foundation I). 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CS 8795 - Colloquium in Cognitive Sciences
+Reading of research papers by leading cognitive scientists, attendance at their colloquia and meeting with them to discuss research. Crosslisted with ISYE and PSYC 8795. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8801 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8802 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8803 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8804 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8805 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8806 - Special Topics
+Special topics of current interest. Treatment of new developments in various areas of computing. 
+
+6.000 Credit hours 
+6.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8893 - Special Topics in Cognitive Science
+Topics of current interest in cognitive science. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8901 - Special Problems
+Small-group or individual investigation of advanced topics in computing. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8902 - Special Problems
+Small-group or individual investigation of advanced topics in computing. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8903 - Special Problems
+Small-group or individual investigation of advanced topics in computing. Guided study and research. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8997 - Teaching Assistantship
+For graduate students holding graduate teaching assistantships. 
+
+1.000 TO 6.000 Credit hours 
+1.000 TO 6.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8998 - Research Assistantship
+For graduate students holding graduate research assistantships. 
+
+1.000 TO 6.000 Credit hours 
+1.000 TO 6.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 8999 - Doctoral Thesis Preparation
+Doctoral Thesis Preparation Prerequisite: consent of the College. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CS 9000 - Doctoral Thesis
+Doctoral Thesis Prerequisite: consent of the College. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

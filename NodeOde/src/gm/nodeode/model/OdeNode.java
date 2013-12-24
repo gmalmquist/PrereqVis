@@ -7,6 +7,11 @@ import java.awt.Graphics2D;
 import gm.nodeode.io.ICourse;
 import gm.nodeode.math.geom.Pt;
 
+/**
+ * Displays a simple circular node with a name
+ * @author Garrett
+ *
+ */
 public class OdeNode extends Visode {	
 	public float x;
 	public float y;

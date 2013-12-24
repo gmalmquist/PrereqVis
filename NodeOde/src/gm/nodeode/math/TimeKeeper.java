@@ -2,6 +2,11 @@ package gm.nodeode.math;
 
 import java.util.concurrent.ConcurrentHashMap;
 
+/**
+ * Convenience methods for measuring system time
+ * @author Garrett
+ *
+ */
 public class TimeKeeper {
 	
 	private static ConcurrentHashMap<String, Long> ticks = new ConcurrentHashMap<String, Long>();

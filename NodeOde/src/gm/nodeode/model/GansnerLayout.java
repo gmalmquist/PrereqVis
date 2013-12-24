@@ -22,9 +22,7 @@ import java.util.List;
  * Acquired from http://www.graphviz.org/Documentation/TSE93.pdf, with some modifications
  * which I can do because we have additional domain knowledge
  * @author Garrett
- *
  */
-
 public class GansnerLayout extends OdeLayout {
 	
 	// 24 = magic number given in paper for decent results

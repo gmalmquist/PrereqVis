@@ -30,6 +30,12 @@ import java.util.List;
 
 import javax.swing.JComponent;
 
+/**
+ * Original view to animate the display of graphs; currently unused in favor of simply
+ * generated bufferedimages.
+ * @author Garrett
+ *
+ */
 public class NodeView extends JComponent {
 	
 	private static final float ANIMATION_TIME = 1.0f; // in seconds

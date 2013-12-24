@@ -1,0 +1,233 @@
+Course	Name	Attributes	Prerequisites
+MGT 2106	Legal, Social, Ethical Aspects of Business		
+MGT 2200	Management Applications of Information Technology		
+MGT 2250	Management Statistics		MATH 1712,MATH 17X2,|,MATH 1501,MATH 15X1,|,|
+MGT 2251	Introduction to Management Science		MGT 2250
+MGT 2598	Management Internship		
+MGT 2599	Internship and Independent Study		
+MGT 2698	Undergraduate Research Assistantship		
+MGT 2699	Undergraduate Research		
+MGT 2910	Special Problems		
+MGT 2911	Special Problems		
+MGT 2912	Special Problems		
+MGT 3000	Financial and Managerial Accounting		
+MGT 3062	Financial Management		ACCT 2101
+MGT 3075	Security Valuation		MGT 3062,MGT 3078,|
+MGT 3076	Investments		MGT 3062
+MGT 3078	Finance and Investments		
+MGT 3079	Management of Financial Institutions		MGT 3062,MGT 3078,|
+MGT 3082	Fundamentals of Real Estate Development		
+MGT 3084	Derivative Securities		MGT 3062,MGT 3078,|
+MGT 3101	Organizational Behavior		
+MGT 3102	Managing Human Resources within a Regulatory Environment		
+MGT 3103	Leadership in a Changing Environment		MGT 3101,MGT 3102,|,MGT 3150,|
+MGT 3150	Principles of Management		
+MGT 3300	Marketing Management I		
+MGT 3310	Marketing Research: Qualitative Aspects		MGT 3300
+MGT 3325	Product Planning		MGT 2250,MGT 3300,&
+MGT 3501	Operations Management		MGT 2251
+MGT 3510	Management of Technology		MGT 3501
+MGT 3599	Career Development Workshop		
+MGT 3605	Principles of Commerical Law		MGT 2106
+MGT 3606	International Business Law	Global Perspectives	
+MGT 3607	Business Ethics		MGT 2106
+MGT 3608	Technology Law and Ethics	Ethics Requirement	MGT 2106
+MGT 3609	Legal Aspects of Real Estate		
+MGT 3660	International Business	Global Economics (IP),Global Perspectives	
+MGT 3661	Advanced Concepts in International Business		MGT 3660
+MGT 3662	Management in the Healthcare Sector		
+MGT 3663	Technology Strategy		
+MGT 3743	Analysis of Emerging Technologies		
+MGT 3744	Managing Product, Service & Technology Development		
+MGT 4010	Business Taxation		MGT 3000
+MGT 4015	Advanced Managerial Accounting		MGT 3000
+MGT 4026	Financial Reporting and Analysis I		MGT 3000
+MGT 4027	Financial Reporting and Analysis II		MGT 3000,MGT 4026,&
+MGT 4028	Financial Analysis and Reporting of Technology Firms		MGT 3000
+MGT 4030	International Accounting		MGT 3000
+MGT 4041	Auditing and Financial Control Systems		MGT 3000
+MGT 4043	Advanced Financial Reporting		MGT 4026
+MGT 4045	Seminar in Advanced Accounting		MGT 3000
+MGT 4047	Ethics & Accounting	Ethics Requirement	ACCT 2101,ACCT 2102,&
+MGT 4051	Decision Support and Expert Systems		MGT 2200
+MGT 4052	Systems Analysis and Design		MGT 2200
+MGT 4053	Business Data Communications		MGT 2200
+MGT 4055	International Issues in Information Technology Management		MGT 2200
+MGT 4056	Electronic Commerce		
+MGT 4057	Business Process Analysis and Design		MGT 2200
+MGT 4058	Database Management Systems		MGT 2200
+MGT 4066	Corporate Restructuring		MGT 3062,MGT 3078,|
+MGT 4067	Financial Markets: Trading and Structure		MGT 3076
+MGT 4068	Fixed Income		MGT 3062,MGT 3078,|
+MGT 4070	International Finance		MGT 3062,MGT 3078,|
+MGT 4071	Multinational Financial Management		MGT 3062,MGT 3078,|
+MGT 4072	Entrepreneurial Finance		MGT 3062,MGT 3078,|
+MGT 4102	Management Consulting		MGT 3150,MGT 3101,|
+MGT 4106	Teams in Organizations		MGT 3150,MGT 3101,|
+MGT 4116	The Role of Gender, Race and Ethnicity in Organizational Behavior		
+MGT 4190	Strategic Quality Management and Competitiveness		MGT 3150
+MGT 4191	The Entrepreneurship Forum		
+MGT 4192	Impact Speaker Series Forum		
+MGT 4193	Servant Leadership, Values & Systems		
+MGT 4194	Social Enterprise and Entrepreneurship		
+MGT 4195	Strategic Management		MGT 3062,MGT 3300,&,MGT 3501,&,MGT 3101,MGT 3150,|,&
+MGT 4303	Personal Selling and Sales Management		MGT 3300
+MGT 4304	Strategic Brand Management		MGT 3300
+MGT 4305	Business-to-Business Marketing		MGT 3300
+MGT 4307	Strategic Marketing		MGT 3300
+MGT 4308	Advertising & Promotion: Integrated Marketing Communications		MGT 3300
+MGT 4309	Services Marketing		MGT 3300
+MGT 4311	Digital Marketing		MGT 3300
+MGT 4331	Consumer Behavior		MGT 3300
+MGT 4332	Database and CRM Strategy		MGT 3300
+MGT 4335	International Marketing	INTA-Int'l Political Economy	MGT 3300
+MGT 4352	Operations Resource Planning and Execution		MGT 3501
+MGT 4353	Operations Strategy		MGT 3501
+MGT 4360	Global Operations and Supply Chain Management		MGT 3501
+MGT 4365	Quality Control and Improvement		MGT 3501
+MGT 4366	Service Operations Management		MGT 3501
+MGT 4401	Supply Chain Modeling		MGT 3501
+MGT 4598	Management Internship		
+MGT 4599	Internship and Independent Study		
+MGT 4610	Law, Management, and Economics		
+MGT 4611	Integrative Management Analysis		
+MGT 4661	Database Management		MGT 2200
+MGT 4670	Entrepreneurship		ACCT 2101,MGT 3300,&
+MGT 4698	Undergraduate Research Assistantship		
+MGT 4699	Undergraduate Research		
+MGT 4741	Integrative Management Development-Project Preparation		
+MGT 4742	Integrated Technology and Management Capstone Project		
+MGT 4803	Special Topics in Industrial Management		
+MGT 4811	Special Topics in Management		
+MGT 4812	Special Topics in Management		
+MGT 4813	Special Topics in Management		
+MGT 4814	Special Topics in Management		
+MGT 4815	Special Topics in Management		
+MGT 4823	Special Topics		
+MGT 4910	Special Problems		
+MGT 4911	Special Problems		
+MGT 4912	Special Problems		
+MGT 6000	Financial and Managerial Accounting I		
+MGT 6010	Individual Taxation: Analysis and Planning		MGT 6000
+MGT 6015	Managerial Accounting II		MGT 6000
+MGT 6020	Financial Reporting and Analysis I		MGT 6000
+MGT 6022	Financial Reporting and Analysis II		MGT 6000
+MGT 6028	Financial Analysis and Reporting of Technology Firms		MGT 6000
+MGT 6030	International Accounting		MGT 6000
+MGT 6042	Auditing and Financial Control Systems		MGT 6000
+MGT 6043	Advanced Financial Reporting		MGT 4026,MGT 6020,|
+MGT 6045	Seminar in Advanced Accounting Topics		MGT 6000
+MGT 6047	Ethics and Accounting		MGT 6000
+MGT 6051	Database Development and Applications		MGT 6050
+MGT 6053	Business Data Communications		MGT 6050
+MGT 6056	Electronic Commerce-Conducting Business on the Internet		MGT 6050
+MGT 6057	Business Process Analysis and Design		MGT 6050
+MGT 6058	Information Technology Practicum		MGT 6123
+MGT 6059	Emerging Technologies		MGT 6123
+MGT 6060	Financial Management		MGT 6000
+MGT 6066	Mergers and Acquisitions		MGT 6060
+MGT 6067	Financial Aspects of Commercial Real Estate		MGT 6060
+MGT 6070	International Finance		MGT 6060
+MGT 6071	Multinational Financial Management		MGT 6060
+MGT 6078	Basic Finance and Investments		
+MGT 6080	Investments		MGT 6060
+MGT 6081	Derivative Securities		MGT 6060
+MGT 6082	Fundamentals of Real Estate Development		
+MGT 6083	Real Estate Practicum		
+MGT 6086	Entrepreneurial Finance and Private Equity		MGT 6060,MGT 6753,|,ME 6753,BMED 6753,|,|
+MGT 6090	Management of Financial Institutions		MGT 6060
+MGT 6100	Leadership and Organizational Behavior		
+MGT 6101	Managing Human Resources		
+MGT 6106	Teamwork in Organizations		MGT 6100
+MGT 6107	Leadership and Organizational Change		MGT 6100
+MGT 6110	Negotiation and Conflict Resolution		MGT 6100
+MGT 6111	Innovation and Entrepreneurial Behavior		
+MGT 6113	ProBono Non-Profit Consulting Projects		
+MGT 6114	Leadership Development		
+MGT 6116	The Role of Gender, Race and Ethnicity in Organizational Behavior		
+MGT 6123	Information Technology Management		
+MGT 6124	Legal Environment of Business		
+MGT 6125	Strategic Management		
+MGT 6126	Integrative Management Experience (IME)		
+MGT 6127	Business Communications		
+MGT 6128	Business Ethics		
+MGT 6130	Managerial Economics		
+MGT 6134	Managerial Economics II		MGT 6130
+MGT 6135	Macroeconomics for Managers		
+MGT 6165	Venture Creation		
+MGT 6176	Managing the Growing Firm		
+MGT 6185	International Business Environments		
+MGT 6190	Current Thinking In Strategy		MGT 6125
+MGT 6197	Global Strategic Management		
+MGT 6198	Corporate Entrepreneurship for Global Competitiveness		
+MGT 6300	Marketing Management I		
+MGT 6302	Consumer Behavior		
+MGT 6303	Sales and Promotion Management		MGT 6300
+MGT 6304	Customer Relationship Management		MGT 6300,MGT 6122,&
+MGT 6306	Business-to-Business Marketing		MGT 6300
+MGT 6308	Strategic Brand Management		MGT 6300
+MGT 6310	Marketing Research: Qualitative Aspects		
+MGT 6315	Marketing Analysis		MGT 6300,MGT 6600,&
+MGT 6320	Building Implementable Market Response Models		
+MGT 6325	Product Planning		MGT 6300
+MGT 6326	Collaborative Product Development		
+MGT 6335	International Marketing		
+MGT 6350	Production and Operations Management I		MGT 6600
+MGT 6351	Operations Resource Planning and Execution		MGT 6350
+MGT 6352	International Practicum		
+MGT 6353	Operations Strategy		MGT 6350
+MGT 6357	Service Operations Management		MGT 6350
+MGT 6359	Business Strategies For Sustainability		
+MGT 6360	Global Operations and Supply Chain Management		MGT 6350
+MGT 6400	Pricing Analytics and Revenue Management		
+MGT 6401	Supply Chain Modeling		
+MGT 6450	Project Management		
+MGT 6451	Business Intelligence and Analytics		
+MGT 6600	Analytical Tools for Decision Support		
+MGT 6663	Technology Strategy		
+MGT 6753	Principles of Management for Engineers		
+MGT 6769	Fixed Income Securities		MATH 3215,MATH 3225,|,MGT 6060,MGT 6078,|,&
+MGT 6772	Managing Resources of the Technological Firm		
+MGT 6773	Strategic Management of Technology-Based Ventures		
+MGT 6780	Knowledge Management		MGT 6050
+MGT 6785	The Practice of Quantitative and Computational Finance		
+MGT 6789	Technology Ventures		
+MGT 6793	Advanced Topics in Quantitative and Computational Finance		
+MGT 6799	Legal Issues in Technology Transfer		
+MGT 6813	Economic Analysis for Managers		
+MGT 6814	Law, Management, and Economics		MGT 6100
+MGT 6830	Fundamentals of Innovation I		
+MGT 6831	Fundamentals of Innovation II		
+MGT 6832	Fundamentals of Technology Commerercialization		
+MGT 6901	Consulting		
+MGT 7000	Master's Thesis		
+MGT 7060	Theory of Finance		
+MGT 7061	Empirical Finance		
+MGT 7062	Corporate Restructuring		
+MGT 7063	International Finance		
+MGT 7064	Microeconomics Theory for Management		
+MGT 7101	Human Resources Management		
+MGT 7102	Organization Behavior Research Methods		
+MGT 7105	Individual Behavior in Organizations		
+MGT 7106	Group Dynamics		
+MGT 7107	Organizational Theory		
+MGT 7305	Marketing Management and Strategy		
+MGT 7306	Buyer Behavior		
+MGT 7308	Theory Construction in the Social Sciences		
+MGT 7320	Marketing Science		
+MGT 7350	Operations Strategy I		
+MGT 7352	Operations Planning and Control I		
+MGT 7353	Operations Planning and Control II		
+MGT 7354	Research Methods in Operations Management		
+MGT 7400	PhD Strategic Management Research I		
+MGT 7501	Managerial Econometric Modeling		
+MGT 8803	Special Topics in Management		
+MGT 8811	Special Topics		
+MGT 8812	Special Topics		
+MGT 8813	Special Topics		
+MGT 8853	Research Topics in Marketing		
+MGT 8873	Special Topics in Organizational Behavior		
+MGT 8903	Special Problems in Management		
+MGT 8997	Teaching Assistantship		
+MGT 8998	Research Assistantship		
+MGT 9000	Doctoral Thesis		

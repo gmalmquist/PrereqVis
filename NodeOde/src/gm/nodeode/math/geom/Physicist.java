@@ -2,6 +2,12 @@ package gm.nodeode.math.geom;
 
 import java.util.HashMap;
 
+/**
+ * Simulates circular particles with velocity, acceleration, mass, and collision
+ * @author Garrett
+ *
+ * @param <Particle>
+ */
 public class Physicist<Particle> {
 	private CircleAdapter<Particle> adapter;
 	private HashMap<Particle, Pt> 	momentum;

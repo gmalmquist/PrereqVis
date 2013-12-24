@@ -3,6 +3,11 @@ package gm.nodeode.model;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 
+/**
+ * Abstract class for generating a layout for a given graph.
+ * @author Garrett
+ *
+ */
 public abstract class OdeLayout {
 	protected OdeAccess db;
 	

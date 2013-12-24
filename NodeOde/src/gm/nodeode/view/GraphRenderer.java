@@ -18,6 +18,12 @@ import java.awt.image.BufferedImage;
 import java.util.HashMap;
 import java.util.LinkedList;
 
+/**
+ * Takes in a connected Graph and plots all the nodes to a BufferedImage, after
+ * laying them out with a Gasnser Layout.
+ * @author Garrett
+ *
+ */
 public class GraphRenderer {
 
 	private OdeAccess access;

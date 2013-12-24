@@ -5,6 +5,11 @@ import gm.nodeode.NodeOde;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Stores a course with a list of parents, and some meta-data
+ * @author Garrett
+ *
+ */
 public class Course implements ICourse {
 	private String name;
 	private String fullname;

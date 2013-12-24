@@ -1,0 +1,1734 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 21, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+AE 1350 - Introduction to Aerospace Engineering
+Introduction to the field of aerospace engineering, discussion of basic aerospace systems and disciplines, working vocabulary of the field. Demonstration through examples. Wind tunnel visit. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 1355 - Aerospace Systems Design Competition I
+Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical role commensurate with freshman standing. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 1750 - Introduction to Bioengineering
+An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with BMED, CHE, ECE, ME, and MSE 1750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 1770 - Introduction to Engineering Graphics and Visualization
+Introduction to engineering graphics and visualization including sketching, line drawing, and solid modeling. Development and interpretation of drawings and specifications for product realization. Crosslisted with CEE 1770 and ME 1770. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 1XXX - Aerospace Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+AE 2020 - Low-Speed Aerodynamics
+Basic results, conservation laws, potential, airfoil, and wing analysis. Boundary layers on plates and airfoils. Pressure gradients. Introduction to turbulence and vortex-dominated flows. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2120 - Introduction to Mechanics
+Forces and movements; equilibrium in two and three dimensions; multiforce members; friction; stress and strain; axial loading, torsion, and bending of beams. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2220 - Dynamics
+Motion of particles and mass center of bodies, kinematics and kinetics of rigid bodies in plane motion, work-energy and impulse-momentum methods, 3-D dynamics of rigid bodies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2355 - Aerospace Systems Design Competition II
+Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical role commensurate with sophomore standing. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 2699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2801 - Special Topics
+Normally taken by sophomores. Course material devoted to special topics in aerospace engineering. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2802 - Special Topics
+Normally taken by sophomores. Course material is devoted to special topics in aerospace engineering. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2803 - Special Topics
+Normally taken by sophomores. Course material devoted to special topics in aerospace engineering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2901 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2902 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2903 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 2XXX - Aerospace Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+AE 3021 - High-Speed Aerodynamics
+Compressibility effects on airfoil and wing aerodynamics: supersonic potential flow: method of characteristics; boundary layer effects on airfoil and wing performance. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3051 - Experimental Fluid Dynamics
+Experiments in fluid mechanics, aerodynamics, and propulsion with emphasis on data acquisition and analysis, e.g., measurement techniques, laboratory instrumentation, measurement errors/noise, and digital sampling. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3090 - Numerical Methods for Aerospace Engineering
+Basic numerical methods in Aerospace Engineering taught in Fortran or C, language instruction included. Numerical integration, interpolation, FFT, linear algebra, initial and boundary value problems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 3120 - Introduction to Structural Analysis
+Euler-Bernoulli beam theory. Deflections due to bending. Bending of beams with unsymmetrical cross-section. Stability of beams and columns. Elements of two-dimensional elasticity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3125 - Aerospace Structural Analysis
+Principle of virtual displacement. Application to structural analysis. Basic equations of elasticity. Bendintg, shearing, and torsion of thin walled structures. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3145 - Structures Laboratory
+Introduction to mechanical measurements, instrumentation principles and practice, measurement of stress and strain, shear center, column stability, properties of composite structural materials, fracture toughness test. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3310 - Introduction to Aerospace Vehicle Performance
+Introduction to aerospace vehicle performance: VTOL, STOL, CTOL aircraft and spacecraft. Drag estimation, thrust required and available, basic point and path performance, special performance items, maneuvers. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3355 - Aerospace Systems Design Competition III
+Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical or leadership role commensurate with junior standing. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3450 - Thermodynamics and Compressible Flow
+First and second laws of thermodynamics. Thermodynamic properties and state equations. Isentropic flow. Flows with shocks and expansions. Flows with friction and heat transfer. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3515 - System Dynamics and Control
+Dynamic modeling and response of systems with mechanical, hydraulic, electrical, and/or thermal elements. Classical methods of feedback control system design and analysis. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3521 - Aircraft and Spacecraft Flight Dynamics
+Three-dimensional rigid body dynamics, aircraft and spacecraft equations of motion, principles of static stability and control, dynamic stability of uncontrolled motion, gyroscopic instruments. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3801 - Special Topics
+Normally taken by juniors. Course material devoted to special topics in aerospace engineering. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3802 - Special Topics
+Normally taken by juniors. Course material devoted to special topics in aerospace engineering. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3803 - Special Topics
+Normally taken by juniors. Course material devoted to special topics in aerospace engineering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3901 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3902 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3903 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 3XXX - Aerospace Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+AE 4040 - Computational Fluid Dynamics
+Discretization of PDEs, stability and accuracy considerations, iterative and time/space marching schemes, aerospace applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4051 - Flow Diagnostics
+Overview of experimental techniques. Flow visualization; statistical methods. Laboratory operation, data acquisition, analysis, interpretation, reporting. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4060 - Aeroacoustics
+Concepts and techniques, noise sources, data acquisition and reduction, aeroacoustic resonances, commonalities in the music of wind instruments and sources of aircraft noise, community impact. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4070 - Introduction to Propeller and Rotor Theory
+A study of the theory and equations used in the design of propellers and helicopter rotors. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4080 - Aerothermodynamics
+Convective heat transfer and viscous drag in high- temperature and high-speed flowfields. Inviscid hypersonic theory, real gas effects, and wall thermal protection strategies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4120 - Introduction to Aerospace Engineering Composite Structures
+Introduction to composite systems. Principles of manufacturing, structural mechanics of laminated composites. Aerospace design applications. Damage tolerance. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4131 - Introduction to Finite Element Methods
+Finite Element Method and its application to linear structural problems. The basic formulations of various structural elements are discussed. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4170 - Structural Integrity and Durability
+Multiaxial stress states, inelasticity in metals and polymers, yield criteria, metal fatigue, fracture, stress intensity factors, fracture toughness, fatigue crack growth, metal creep, and polymer viscoelasticity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4220 - Structural Dynamics and Aeroelasticity
+Structural dynamics of one-dimensional systems. Analysis of static aeroelastic phenomena, unsteady aerodynamics, and flutter. Equations of motion for complete aeroelastic systems; solution techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4310 - Space Flight Mechanics
+First course in astrodynamics that encompasses two-body orbital mechanics, orbit determination, orbital maneuvers, orbital prediction, interplanetary trajectories, launch and space vehicle performance and atmospheric entry. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4350 - Aerospace Engineering Design Project I
+Conceptual design methodology developed and applied incorporating center of gravity, inertias, structural layout, materials, propulsion integration, stability and control, vehicle sizing, performance, and acquisition costs. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4351 - Aerospace Engineering Design Project II
+Design methodology further developed and applied. Teams formed to prepare competitive proposals in response to given mission requirements. Designs publicly presented and defended. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4355 - Aerospace Systems Design Competition IV
+Team-oriented aerospace systems design project directed by a faculty advisor. Typically a national student competition in aircraft, rotorcraft, or spacecraft design. Technical or leadership role commensurate with senior standing. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4356 - Space Systems Design Project I
+First-semester space-oriented capstone design course. Introduction to design processes for spacecraft and launch vehicle design. Students respond to two mock-proposal requests. Topics may vary. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4357 - Space Systems Design Project II
+Second-semester team-oriented space capstone design course. Competing teams of 5-6 students respond to an instructor-provided mock-RFP for a space system. Topics may vary. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4358 - Rotorcraft Design I
+Conceptual design methodology applied to rotorcraft sizing and performance estimation for a given mission. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4359 - Rotorcraft Design II
+Detailed multidisciplinary design of a rotorcraft. Teams formed to prepare competitive proposals in response to given mission requirements. Designs publicly presented and defended. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4370 - Life Cycle Cost Analysis
+Modeling of total cost of complex systems over their entire life cycle. Modeling risk uncertainty for complex energy, environmental, and military systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 4375 - Fundamentals of Computer-Aided Engineering and Design
+Introduction to the principles of geometric modeling; 2-D systems; 3-D wireframe,surface and solid representations; mathematical representations of curves, surfaces, solids; application to aerospace design problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4451 - Jet and Rocket Propulsion
+Principles of aerospace propulsion systems. Thermodynamic cycles. Thermodynamics of combustion. Turbine engine and rocket performance characteristics. Cycle/component analysis of engines and turbomachinery. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4461 - Introduction to Combustion
+Basics of combustion and combustion devices. Chemical thermodynamics, reaction rates, premixed/nonpremixed flames, ignition, stabilization, and pollutants. Applications in turbine, rocket, and internal combustion engines. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4521 - Vehicle Guidance and Simulation
+Simulation of aerospace systems. Simulation as an engineering tool. Mathematical modeling. Simulation of aircraft, spacecraft, missiles, and guidance systems. Illustrative case studies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4525 - Control System Design Laboratory
+Experiments in system dynamics and control with emphasis on vehicle flight control system design. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4580 - Introduction to Avionics Integration
+Avionics in modern aerospace vehicle systems, including impact on design and performance. Specific case-studies; covers: navigation, GPS, stability augmentation, radar, health monitoring, databases, human factors, and software. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 4699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4701 - Wind Engineering
+An introductory course on wind energy and its potential; modeling and design of wind turbines; analysis of the economic benefits of wind turbine systems. Credit not allowed for both AE 4701 and ME 4701. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 4757 - Biofluid Mechanics
+Introduction to the study of blood flow in the cardiovascular system. Emphasis on modeling and the potential of flow studies for clinical research application. Crosslisted with CHE and ME 4757. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4758 - Biosolid Mechanics
+The mechanics of living tissue, e.g., arteries, skin, heart muscle, ligament, tendon, cartilage, and bone. Constitutive equations and some simple mechanical models. Mechanics of cells. Applications. Crosslisted with CHE and ME 4758. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4760 - Engineering Acoustics and Noise Control
+Study of acoustics related to noise and its control; acoustics terminology wave propagation, wave equation solutions, instrumentation, data processing, room acoustics, noise control, noise legislation. Crosslisted with ME 4760. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4791 - Mechanical Behavior of Composites
+Stress-strain behavior of composites, property of matrix and reinforcing materials, mechanics of fiber-reinforced composites, lamina and laminate analysis, and mechanical performance. Crosslisted with CEE, CHE, ME, MSE, and PTFE 4791. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4793 - Composite Materials and Processes
+Basic principles of selection and design of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with CEE, CHE, ME, MSE, and PTFE 4793. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4794 - Composite Materials and Manufacturing Testing
+Basic principles of selection and sign of composite materials and their manufacturing and testing. Cost factors. Laboratory exercises on manufacturing and tests. Crosslisted with CEE, CHE, ME, MSE, and PTFE 4794. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4801 - Special Topics
+Normally taken by seniors. Course material devoted to special topics in aerospace engineering. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4802 - Special Topics
+Normally taken by seniors. Course material devoted to special topics in aerospace engineering. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4803 - Special Topics
+Normally taken by seniors. Course material devoted to special topics in aerospace engineering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4804 - Special Topics
+Normally taken by seniors. Course material devoted to special topics in aerospace engineering. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4901 - Special Problems in Aerospace Engineering
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4902 - Special Problems in Aerospace Engineering
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4903 - Special Problems
+Research topic selected in consultation with advisor. A brief description, endorsed by the faculty advisor, must be approved by the School. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+AE 4XXX - Aerospace Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+AE 6009 - Viscous Fluid Flow
+Fundamental conservation laws. Laminar flows, wall-bound and free shear flows. Separation, heat transfer, and compressibility effects. Introduction to flow instability and transition to turbulence. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6012 - Turbulent Flows
+Basic characteristics of turbulence. Statistical methods. Reynolds averaging, kinetic energy budget, and scaling issues. Homogeneity and isotrophy. Free and wall bounded shear flows. Simulation and modeling. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6020 - High-Speed Flow
+Transonic small disturbance theory. Transonic potential flow modeling. Supercritical airfoil design. Physics of hypersonic flow. Newtonian flow. Modeling of hypersonic viscous and inviscid flow. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6030 - Unsteady Aerodynamics
+Unsteady potential theory for various speed ranges. Calculation of steady and unsteady aerodynamic loads on airfoils and wings. Vortex flows. Topics of current research interest. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6042 - Computational Fluid Dynamics
+Finite-difference, finite volume methods for solution of Navier-Stokes and Euler equations. Classification of equations, stability, grids, boundary conditions, implicit and explicit methods, turbulence modeling. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6050 - High-temperature Gas Dynamics I
+Defining equations for compressible flows, real gas properties and their effect on the behavior of equilibrium and non-equilibrium flows. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6052 - Flow Diagnostics and Control
+Introduction to experimental techniques; flow visualization; statistical methods; pressure, velocity, temperature, density, particle size, reaction rate measurements. Experiment design, data acquisition, and interpretation. Flow control. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6060 - Aeroacoustics
+Lighthill's theory of aerodynamic noise and extensions, flow/acoustic interactions, feedback phenomenon, supersonic jet noise, aeroacoustics of ducts, propeller noise, helicopter noise, sonic boom. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6070 - Rotary Wing Aerodynamics
+Vortex wake modeling; analytical inflow theories; modern computational methods for rotary wing aerodynamic analysis; aerodynamic noise. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6080 - Dynamics of Turbulence
+Fundamental physics of turbulent flows. Vorticity dynamics, Kolmogorov similarity hypotheses and nonlinear interactions. Mixing and dispersion. Direct and large-eddy simulations, Reynolds stress modeling. Advanced topics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6100 - Advanced Structural Analysis I
+Stability of elastic systems under quasi-static loads. Classical, kinetic, and potential energy approaches through rigid member models. Buckling of elastic bars and frames. Energy methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6101 - Advanced Structural Analysis II
+Buckling of beams on elastic foundations, rings and arches; elasticity theory; torsional buckling of shafts, buckling of plates, circular cylindrical shells, rotating beams, nonconservative problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6104 - Computational Mechanics
+Development of finite element methods for linear, static structural analysis. The basic tools of the finite element method. The formulation of various structural elements. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6106 - Analysis of Aerospace Structural Elements
+This course focuses on the analysis of advanced aerospace structures. Beam theory is reviewed, plate theory is introduced. Classical and energy solutions are presented. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6107 - Analysis of Aerospace Structural Elements
+This course focuses on the analysis of advanced aerospace structures. Beam theory is reviewed. Examples of nonlinear behavior of materials are discussed. Plate theory is introduced; classical and energy solution methods are studied. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6111 - Elasticity
+Stresses and deformations in continuum media. Stress and strain measures used in nonlinear elasticity. Equilibrium equations and energy principles. Nonlinear beam, plate, and shell applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6112 - Inelastic Response
+Fundamentals of inelastic response relevant to aerospace and composite structures. Viscoelastic constitutive relations. Isothermal boundary value problems. Foundations of plasticity theory. Solution of plastic-elastic problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6123 - Design of Fiber-Reinforced Composite Structures
+Composite material systems, composite structures including anisotropic plate and shell theory, shear deformation, hygrothermal and interlaminar stresses. Finite element modeling. Design case studies and cost-effective applications for thin-walled sections. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6161 - Theory of Plates
+Development of isotropic and anisotropic plate theories. Classical and energy solutions for various geometrics and loadings. Aerospace applications including elastically coupled composite and sandwich plates. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6162 - Shell Structures
+Analysis of stresses and deformation of shells with and without bending, shells forming surfaces of revolution, asymptote methods, buckling of shells, nonlinear theories. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6165 - Principles of Fracture and Fatigue
+Brittle and ductile fracture. Determination of stress intensity factors. Analytics of fracture mechanics. Elastic-plastic fracture. Energy release rate. Mechanics of fatigue. Crack growth. Environmental effects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6170 - Structural Optimization
+Mathematical methods of constrained optimization, sensitivity analysis, approximation concepts, decomposition techniques, shape optimization in the context of structural design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6200 - Advanced Aeroelasticity I
+Understanding and analysis of aeroelastic phenomena in fixed-wing aircraft, static aeroelasticity, dynamic aeroelasticity, and dynamic response and transient stresses in aircraft structures. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6210 - Advanced Dynamics I
+Kinematics of particles and rigid bodies, angular velocity, inertia properties, holonomic and nonholonomic constraints, generalized forces. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6211 - Advanced Dynamics II
+A continuation of AE 6210. Equations of motion, Newtonian frames, consistent linearization, energy and momentum integrals, collisions, mathematical representation of finite rotation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6220 - Rotorcraft Structural Dynamics and Aeroelasticity
+Elementary blade dynamics, flap-lag dynamics, ground resonance, structural dynamics of rotating beams, nonlinear elastic blade analysis, harmonic balance and trim, Floquet theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6230 - Structural Dynamics
+Dynamic response of single-degree-of-freedom systems, Lagrange's equations; modal decoupling; vibration of Euler-Bernoulli and Timoshenko beams, membranes and plates. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6231 - System Identification in Structural Dynamics
+System identification by complex exponential methods, poly ref techniques, eigen-realization methods and frequency domain methods. Effects of noise, generalized least squares, and recursive online identification. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6240 - Numerical Methods in Structural Dynamics
+Rayleigh quotient, Rayleigh-Ritz and Galerkin methods; extraction of eigenvalues and eigenvectors; analysis of forced harmonic response; direct time integration of large-scale systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6251 - Experimental Methods in Structural Dynamics
+Experimental methods for measurement of structural vibration, random vibration, analytical methods for analysis of vibration data, applications to single and multi-degree- of-freedom problems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6252 - Smart Structures and Structural Control
+Modeling smart sensors and actuators, development of closed loop models, design of controllers, validation of controllers, application to vibration control, noise control, and shape control. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6263 - Flexible Multi-body Dynamics
+Nonlinear, flexible multi-body dynamic systems, parameterization of finite rotations, strategies for enforcement of holonomic and non holonomic constraints, formulation of geometrically nonlinear structural elements, time-integration techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6270 - Applied Nonlinear Dynamics
+Nonlinear vibration methods through averaging and multiple scales, bifurcation, periodic and quasi-periodic systems, transition to chaos, characterization of chaotic vibrations, thermodynamics of chaos, chaos control. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6280 - Wave Propagation
+Dilational, equivalue mixed waves; Rayleigh and Lamb waves, reflection, refraction, impact problems, plastic waves, N.D.E, vibration control, numerical methods, finite deformation wave propagation, constitutive equations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6322 - Spacecraft and Launch Vehicle Design I
+Early design of spacecraft and launch vehicles. Emphasis on preliminary vehicle sizing and performance, effect of new technologies, and disciplinary interactions. Individual design projects. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6323 - Spacecraft and Launch Vehicle Design II
+Space Vehicle Design methodology further developed and applied. Teams formed to prepare competitive proposals in response to given mission requirements. Designs publicly presented and defended. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6333 - Rotorcraft Design I
+System approach to conceptual design of aerospace systems with emphasis on rotorcraft. Comprehensive methodologies for aerospace vehicle synthesis and sizing. Integration of technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6334 - Rotorcraft Design II
+Students work together on this application to complete the preliminary design stage of a specific rotorcraft. Participants are exposed to disciplinary and interdisciplinary issues. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6343 - Aircraft Design I
+Stochastic approach to conceptual design of aerospace systems with emphasis on aircraft and missiles. Comprehensive methodologies for aerospace vehicle synthesis and sizing. Integration of technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6344 - Aircraft Design II
+Students work together on this application to complete the preliminary design stage of a specific aircraft or missile. Participants are exposed to disciplinary and interdisciplinary issues. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6353 - Orbital Mechanics
+First graduate-level astrodynamics class that includes two-body orbital mechanics, orbit determination, orbit prediction, orbital maneuvers, lunar and interplanetary trajectories, orbital rendzvous and space navigation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6354 - Advanced Orbital Mechanics
+Advanced concepts in orbital mechanics including orbit determination, orbital perturbations, time of flight, rendezvous, low thrust trajectories, and multi-body problems. Taught in alternate years. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6355 - Planetary Entry, Descent and Landing
+Entry flight mechanics and dynamics, aerothermodynamics, thermal protection systems, aerodynamic decelerators, descent and landing. Robotic and human exploration mission studies for aerobraking, planetary entry, aerocapture. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6361 - Air Breathing Propulsion System Design I
+Air breathing propulsion design with emphasis on multidisciplinary design issues related to system integration, cycle selection, performance, cost, reliability, maintainability, etc. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6362 - Safety by Design
+Autonomous situational flight model allows students to examine complex behaviors in the "pilot-vehicle-operational conditions" system. Flight certification and airworthiness requirements are mapped into formal scenarios. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6372 - Aerospace Systems Engineering
+Introduction to aerospace systems engineering. Systems engineering and quality engineering methods and tools. Top-down design decision support processes, computer integrated environments, Integrated Product/Process Development (IPPD). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6373 - Advanced Design Methods I
+Introduction to modern probabilistic design methods and techniques. Design of experiments, Taguchi methods, response surface equations, robust design, risk and uncertainty, technology assessment and selection. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6374 - Advanced Design Methods II
+Introduction to modern multidisciplinary design optimization methods and techniques. Numerical optimization with applications, stochastic methods, Genetic Algorithms, multidisciplinary decomposition methods, multi-level optimization strategies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6380 - Fundamentals of Computer-aided Design and Engineering
+Introduction to the principles of geometric modeling; 2-D systems; 3-D wireframe, surface and solid representations; mathematical representations of curves, surfaces, solids; application to aerospace design problems. Credit not allowed for both AE 4375 and AE 6380. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6381 - Software Development for Engineering Applications
+Introduction to the development of engineering analysis and visualization software for UNIX workstations with emphasis on rapid prototyping, information modeling, distributed processing, and client/server architectures. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6382 - Computing Systems for Engineering Research Laboratory
+Introduction to computational systems used for engineering research. Basics of Unix and Windows operating systems, survey of the major programming languages, and computing frameworks. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6383 - Applied Design Laboratory
+Introduction to computing tools and processes used in subsequent applied design courses in graduate fixed wing, rotary wing, and space systems design tracks. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6410 - Combustion Dynamics
+Acoustic wave propagation in inhomogeneous flows, flame-acoustic wave interactions, and control of combustion-driven oscillations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6412 - Turbulent Combustion
+Fundamentals of interaction between flow turbulence and reactive scalars. Theoretical, numerical, and experimental methods. Physics of premixed, non-premixed, and partially premixed turbulent combustion. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6414 - Multi-Phase Combustion
+Fundamentals of dispersed-phase dynamics of liquid-gas and soot aerosol flows. Fluid-particle-wall interactions. Numerical and experimental methods. Advances in spray combustion. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6440 - Turbine Engine Aerothermodynamics
+Analysis and design of gas turbine engine components including axial flow compressors, turbines, inlets, and nozzles. Heat transfer and turbine blade cooling. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6445 - Combustor Fundamentals
+Examination of the chemical and aerothermodynamic processes that govern gas turbine combustor performance and design. Also fuel injection, noise, emissions, and testing methodologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6450 - Rocket Propulsion
+Analysis and design of rocket engines including liquid, solid, hybrid, and advanced propulsion systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6451 - Electric Propulsion
+The course provides a solid background of the operating principles, performance characteristics, and design features of the state-of-the-art electric propulsion systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6503 - Helicopter Stability and Control
+Helicopter general equations of motion, rotor forces and moments, helicopter stability and control characteristics, handling qualities, flight control system design. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6504 - Modern Methods in Aircraft Flight Control
+Linear quadratic regulator design. Model following control. Stochastic control. Fixed structure controller design. Applications to aircraft flight control. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6505 - Random Processes and Kalman Filtering
+Probability and random variables and processes; correlation; shaping filters; simulation of sensor errors; Wiener filter; random vectors; covariance propagation; recursive least-squares; Kalman filter; extensions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6506 - Aerospace Guidance and Navigation
+Earth's shape and gravity. Introduction to inertial navigation. GPS aiding. Error analysis. Guidance systems. Analysis of the guidance loop. Estimation of guidance variables. Adjoint analysis. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6511 - Optimal Guidance and Control
+Euler-Lagrange formulation; Hamilton-Jacobi approach; Pontryagin's minimum principle; Systems with quadratic performance index; Second variation and neighboring extremals; Singular solutions; numerical solution techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6520 - Advanced Flight Dynamics
+Reference frames and transformations, general equations of unsteady motion, application to fixed-wing, rotary-wing and space vehicles, stability characteristics, flight in turbulent atmosphere. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6531 - Aerospace Robust Control I
+Robustness issues in controller analysis and design. LQ analysis, H2 norm, LQR, LQG, uncertainty modeling, small gain theorem, H-infinity performance, and the mixed-norm H2/H-infinity problem. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6532 - Aerospace Robust Control II
+Advanced treatment of robustness issues. Controller analysis and design for linear and nonlinear systems with structured and non-structured uncertainty. Reduced-order control, stability, multipliers, and mixed-mu. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6534 - Control of Aerospace Structures
+Advanced treatment of control of flexible structures. Topics include stability of multi-degree-of-freedom systems, passive and active absorbers and isolation, positive real models, and robust control for flexible structures. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6551 - Cognitive Engineering
+Cognitive engineering addresses a range of technologies and work environments that will support human cognitive performance, including information systems, decision support, automation, and intelligent systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6561 - Reliable Control Software for Aerospace and Embedded Applications
+Basic principles of reliable control and embedded software design, with aerospace applications. Programming languages and their specific features covered in student projects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6571 - Air Traffic Control and Management
+Funtionalities and technologies of air traffic control and management in the areas of communication, navigation, surveillance; decision aiding, automation; conflict detection resolution; collaborative decision-making. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6580 - Aerospace Nonlinear Control
+Advanced treatment of nonlinear robust control. Lyapunov stability theory, absolute stability, dissipativity, feedback linearization, Hamilton-Jacobi-Bellman theory, nonlinear H-infinity, backstepping control, and control Lyapunov functions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6721 - Evaluation of Human Integrated Systems
+Evaluation of human integrated systems including translating research questions into measurable objectives, overview of evaluation methods and data analysis techniques applicable to such systems. Credit not allowed for both AE 6721 and ISYE 6231. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6760 - Acoustics I
+Fundamental principles governing the generation, propagation, reflection, and transmission of sound waves in fluids. Crosslisted with ME 6760. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6761 - Acoustics II
+Radiation and scattering of sound waves in fluids, duct acoustics, dissipation phenomena. Crosslisted with ME 6761. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6762 - Applied Acoustics
+Mufflers, resonators, acoustic materials, barriers, industrial noise, room acoustics, active noise control. Crosslisted with ME 6762. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6765 - Kinetics and Thermodynamics of Gases
+Thermodynamics of nonreacting and reacting gas mixtures. Introductory quantum theory, statistical thermodynamics, and gas kinetic theory. Crosslisted with ME 6765. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6766 - Combustion
+Introductory chemical kinetics, detonations and deflagrations, laminar flame propagation in premixed gases, ignition and quenching, laminar diffusion flames and droplet burning, turbulent reacting flows. Crosslisted with ME 6766. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6767 - Topics in Combustion
+Turbulent combustion, combustion instability and control, solid propellants and explosives, chemical kinetics, pollutant formation and destruction, computational and experimental methods for reacting flows. Crosslisted with ME 6767. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6769 - Linear Elasticity
+Governing equations of linear elasticity, plane elasticity, boundary value problems, airy stress function and complex variable methods, simple three-dimensional solutions. Crosslisted with ME 6769. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6770 - Energy and Variational Methods in Elasticity and Plasticity
+Applications of energy and variational methods in engineering mechanics to elastic, plastic, and dynamical behavior of deformable bodies. Crosslisted with ME 6770. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6779 - Dynamic System Simulation and Modeling
+Models of dynamic systems, such as aircraft, ground vehicles and machinery, and manual control. Numerical simulation techniques and applications. Interactive simulators. Student programming project. Crosslisted with ISYE 6779. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 6XXX - Aerospace Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+AE 7000 - Master's Thesis
+Master's Thesis 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7764 - Acoustic Propagation
+Propagation of sound in inhomogeneous fluids; ray acoustics, ocean and atmospheric acoustics, nonlinear acoustics. Crosslisted with ME 7764. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7772 - Fundamentals of Fracture Mechanics
+Advanced study of failure of structural materials under load, mechanics of fracture, and microscopic and macroscopic aspects of the fracture of engineering materials. Crosslisted with CHE, CEE, ME, and MSE 7772. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7773 - Advanced Fracture Mechanics
+Nonlinear fracture mechanics including elastic-plastic and time-dependent fracture, advanced test methods, J-integral theory, and extensions. Crosslisted with CEE, CHE, ME, and MSE 7773. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7774 - Fatigue of Materials and Structures
+Mechanical and microstructural aspects of nucleation and growth of cracks under cyclic loading conditions, notch effects, cumulative damage, multiaxial loading, and fatigue crack propagation. Crosslisted with CEE, CHE, ME, and MSE 7774. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7775 - Topics in Fracture and Fatigue of Metallic and Composite Structures
+Brittle and ductile fracture criteria. Failrue prediction in composite structures. Free-edge and internal delamination. Anisotropic cracks. Fatigue behavior of composites and metal. New micromechanical models. Crosslisted with CHE, ME, and MSE 7775. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7785 - Introduction to Robotics Resesarch
+Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7791 - Damage, Failure, and Durability of Composite Materials
+Analysis and failure of fiber-reinforced composite material systems. Mechanisms of toughening, multiple cracking mechanisms. Failure in woven fabric, braided, and special geometry composites. Crosslisted with CHE, CEE, ME, MSE, and PTFE 7791. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7792 - Advanced Mechanics of Composites
+Anisotropic elasticity, hygrothermal behavior, stress analysis of laminated composites including 3D effects, stress concentrations, free-edge effects, thick laminates, adhesive and mechanical connections, fracture of composites. Crosslisted with CHE, CEE, ME, MSE, and PTFE 7792. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 7793 - Manufacturing of Composites
+Major manufacturing techniques of metal-ceramic and polymer-matrix composites. Modeling of processes with emphasis on fundamental mechanisms and effects. Crosslisted with CHE, CEE, ME, MSE, and PTFE 7793. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8001 - Design Seminar
+Case studies of existing aerospace systems; assessment of design payoffs and risks; industry experts provide case examples and knowledge transfer to course participants; field trips. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8750 - Robotics Research Foundation I
+Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8751 - Robotics Research Foundation II
+Continuation of AE 8751 (Robotics Research Foundation I). 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8801 - Special Topics
+Special topics of current interest. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8802 - Special Topics
+Special topics of current interest. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8803 - Special Topics
+Special topics of current interest. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8804 - Special Topics
+Special topics of current interest. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8805 - Special Topics
+Special topics of current interest. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8997 - Teaching Assistantship
+For graduate students holding graduate teaching assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8998 - Research Assistantship
+For graduate students holding graduate research assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 8999 - Preparation for Doctoral Dissertation
+Preparation for Doctoral Dissertation Non credit. Prerequisite: consent of the director 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+AE 9000 - Doctoral Thesis
+Doctoral Thesis Prerequisite: consent of the director. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Aerospace Engineering Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

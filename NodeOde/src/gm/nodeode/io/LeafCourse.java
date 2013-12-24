@@ -1,5 +1,10 @@
 package gm.nodeode.io;
 
+/**
+ * Course which has no prereqs
+ * @author Garrett
+ *
+ */
 public class LeafCourse implements ICourse {
 	private String name;
 	public LeafCourse(String name) {

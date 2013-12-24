@@ -8,6 +8,11 @@ import java.awt.Color;
 import java.awt.FontMetrics;
 import java.awt.Graphics2D;
 
+/**
+ * Graphics2D convenience functions
+ * @author Garrett
+ *
+ */
 public class Art {
 	public static void line(Graphics2D g, GP A, GP B) {
 		g.drawLine(A.ix(), A.iy(), B.ix(), B.iy());

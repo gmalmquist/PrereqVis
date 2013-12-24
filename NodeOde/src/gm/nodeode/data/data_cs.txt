@@ -1,0 +1,277 @@
+Course	Name	Attributes	Prerequisites
+CS 1050	Understanding and Constructing Proofs		
+CS 1100	Freshman Leap Seminar		
+CS 1171	Introductory Computing in MATLAB		CS 1301,CS 15XX,|,CS 13X1,CS 1315,|,|
+CS 1301	Introduction to Computing		
+CS 1315	Introduction to Media Computation		
+CS 1316	Representing Structure and Behavior		CS 1301,CS 1315,|,CS 1371,|
+CS 1331	Introduction to Object Oriented Programming		CS 1301,CS 1315,|,CS 1321,CS 1371,|,|
+CS 1332	Data Structures and Algorithms for Applications		CS 1322,CS 1331,|
+CS 1371	Computing for Engineers		
+CS 1372	Structured Program Design for Engineers		CS 1171,CS 1371,|,CS 1301,|
+CS 1801	Special Topics		
+CS 1802	Special Topics		
+CS 1803	Special Topics		
+CS 1804	Special Topics		
+CS 1805	Special Topics		
+CS 2050	Introduction to Discrete Mathematics for Computer Science		
+CS 2051	Honors - Induction to Discrete Mathematics for Computer Science		
+CS 2110	Computer Organization and Programming	Tech Elect CS,Engr,&Sciences	CS 1331
+CS 2200	Computer Systems and Networks	Tech Elect CS,Engr,&Sciences	CS 2110
+CS 2261	Media Device Architectures	Tech Elect CS,Engr,&Sciences	CS 1331
+CS 2316	Data Manipulation for Science and Industry		CS 1371,CS 1301,|,CS 1315,|
+CS 2335	Software Practicum	Tech Elect CS,Engr,&Sciences	CS 1332
+CS 2340	Objects and Design	Tech Elect CS,Engr,&Sciences	CS 1331,CS 1372,|,CS 1316,|
+CS 2600	Knowledge Representation and Processing	Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
+CS 2698	Undergraduate Research Assistantship		
+CS 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CS 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 2804	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 2805	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 3101	Computer Science Ventures		CS 1301,CS 1315,|,CS 1371,|
+CS 3210	Design of Operating Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 3220	Computer Structures: Hardware/Software Codesign of a Processor	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 3240	Languages and Computation	Tech Elect CS,Engr,&Sciences	CS 2340
+CS 3251	Computer Networking I	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 3300	Introduction to Software Engineering	Software Engineering (CS),Tech Elect CS,Engr,&Sciences	CS 2340
+CS 3451	Computer Graphics	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	MATH 2605,MATH 2401,|,MATH 2411,MATH 24X1,|,|,CS 2110,CS 2261,|,&,CS 1332,&,CS 2340,&
+CS 3510	Design and Analysis of Algorithms	Tech Elect CS,Engr,&Sciences	CS 2050,CS 2051,|,CS 1332,MATH 3012,|,&
+CS 3511	Design and Analysis of Algorithms, Honors		CS 2050,CS 2051,|,CS 1332,MATH 3012,|,&
+CS 3600	Introduction to Artificial Intelligence	Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	CS 1332
+CS 3630	Introduction to Perception and Robotics	Tech Elect CS,Engr,&Sciences	CS 1332
+CS 3651	Prototyping Intelligence Appliances		ECE 2031
+CS 3743	Analysis of Emerging Technologies		
+CS 3750	Human Computer Interface Design and Evaluation	Tech Elect CS,Engr,&Sciences,Usablity (CS)	
+CS 3790	Introduction to Cognitive Science	Educational Technoloogy (CS),Tech Elect CS,Engr,&Sciences	
+CS 3801	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 3802	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 3803	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 3804	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 3805	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4001	Computing, Society, and Professionalism	Ethics Requirement,Tech Elect CS,Engr,&Sciences	
+CS 4002	Robots and Society	Tech Elect CS,Engr,&Sciences	
+CS 4005	Next-Generation Computing Technologies		CS 2316
+CS 4010	Introduction to Computer Law	Tech Elect CS,Engr,&Sciences	
+CS 4052	Systems Analysis and Design		
+CS 4210	Advanced Operating Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4220	Programming Embedded Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4233	Parallel Computer Architecture		CS 3210
+CS 4235	Introduction to Information Security	Computer Systems (CS),Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
+CS 4237	Computer and Network Security	Tech Elect CS,Engr,&Sciences	CS 3251
+CS 4240	Compilers, Interpreters, and Program Analyzers	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3240
+CS 4245	Introduction to Data Mining and Analysis		MATH 2605,MATH 2401,|,MATH 2411,MATH 24X1,|,|,CS 1332,CS 1372,|,&
+CS 4251	Computer Networking II	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 3251
+CS 4255	Introduction to Network Management	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 3251
+CS 4260	Telecommunications Systems	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	MATH 3215,MATH 3225,|,MATH 3770,ISYE 3770,|,|,CE 3770,ISYE 2028,|,|,CS 2200,&
+CS 4261	Mobile Applications and Services for Converged Networks		CS 2200
+CS 4270	Data Communications Laboratory	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 3251
+CS 4280	Survey of Telecommunications and the Law	Tech Elect CS,Engr,&Sciences	
+CS 4290	Advanced Computer Organization	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4320	Introduction to Software Processes	Software Engineering (CS),Tech Elect CS,Engr,&Sciences	CS 3300
+CS 4330	Software Engineering Applications	Software Engineering (CS),Tech Elect CS,Engr,&Sciences	CS 3300
+CS 4342	Software Generation, Testing, and Maintenance	Tech Elect CS,Engr,&Sciences	CS 3300
+CS 4365	Introduction to Enterprise Computing	Tech Elect CS,Engr,&Sciences	CS 3210,CS 4400,|
+CS 4392	Programming Languages	Tech Elect CS,Engr,&Sciences	CS 3240
+CS 4400	Introduction to Database Systems	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
+CS 4420	Database System Implementation	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 4400
+CS 4432	Information Systems Design	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3300,CS 4400,&
+CS 4440	Emerging Database Technologies and Applications	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 4400
+CS 4452	Human-Centered Computing Concepts	Tech Elect CS,Engr,&Sciences	
+CS 4455	Video Game Design and Programming	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	CS 3451
+CS 4460	Introduction to Information Visualization	Tech Elect CS,Engr,&Sciences	CS 1331
+CS 4464	Computational Journalism		CS 1331
+CS 4470	Introduction to User Interface Software	Tech Elect CS,Engr,&Sciences,Usablity (CS)	CS 2340,CS 3750,PSYC 3750,|,&
+CS 4472	Design of Online Communities		
+CS 4475	Computational Photography	Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
+CS 4480	Digital Video Special Effects	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	CS 3451
+CS 4495	Computer Vision	Graphics & Visualization (CS),Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	MATH 2605,MATH 2401,|,MATH 24X1,MATH 2411,|,|,CS 2110,CS 2261,|,&
+CS 4496	Computer Animation	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	CS 3451
+CS 4510	Automata and Complexity Theory	Tech Elect CS,Engr,&Sciences,Theory (CS)	CS 3510,CS 3511,|
+CS 4520	Approximation Algorithms		CS 4540
+CS 4530	Randomized Algorithms		CS 4540
+CS 4540	Advanced Algorithms		CS 3510,CS 3511,|
+CS 4550	Scientific Data Processing and Visualization	Tech Elect CS,Engr,&Sciences	CS 3451
+CS 4560	Verification of Systems	Tech Elect CS,Engr,&Sciences	CS 1050,CS 3510,&
+CS 4590	Principles and Applications of Computer Audio	Tech Elect CS,Engr,&Sciences	
+CS 4605	Mobile and Ubiquitous Computing	Tech Elect CS,Engr,&Sciences,Usablity (CS)	CS 2110,CS 2261,|
+CS 4611	Artificial Intelligence Problem Solving	Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3600
+CS 4613	Knowledge Systems Engineering	Tech Elect CS,Engr,&Sciences	CS 3600
+CS 4615	Knowledge-Based Modeling and Design	Tech Elect CS,Engr,&Sciences	CS 3600
+CS 4616	Pattern Recognition	Tech Elect CS,Engr,&Sciences	CS 1331
+CS 4622	Case-Based Reasoning		CS 3600
+CS 4625	Intelligent and Interactive Systems	Tech Elect CS,Engr,&Sciences	CS 1331
+CS 4632	Advanced Intelligent Robotics	Tech Elect CS,Engr,&Sciences	CS 3630
+CS 4635	Knowledge-Based Artificial Intelligence	Tech Elect CS,Engr,&Sciences	CS 3600
+CS 4641	Machine Learning	Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	CS 1331
+CS 4649	Robot Intelli Planning		CS 1332
+CS 4650	Natural Language Understanding	Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	CS 1331
+CS 4660	Introduction to Educational Technology	Educational Technoloogy (CS),Tech Elect CS,Engr,&Sciences	
+CS 4665	Educational Technology: Design and Evaluation	Educational Technoloogy (CS),Tech Elect CS,Engr,&Sciences	CS 4660
+CS 4670	Computer-Supported Collaborative Learning	Educational Technoloogy (CS),Tech Elect CS,Engr,&Sciences	CS 4660
+CS 4675	Internet Computing Systems, Services and Applications	Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4685	Pervasive Systems and Networking	Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4690	Empirical Methods for User Interface Design and Evaluation	Tech Elect CS,Engr,&Sciences,Usablity (CS)	CS 3750,PSYC 3750,|
+CS 4698	Undergraduate Research Assistantship		
+CS 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CS 4710	Introduction to Computing Concepts for Bioinformatics	Tech Elect CS,Engr,&Sciences	
+CS 4731	Game AI	Tech Elect CS,Engr,&Sciences	
+CS 4741	Integrative Management Development-Project Preparation		
+CS 4742	Integrated Computing and Management Capstone Project		CS 4741
+CS 4752	Philosophical Issues in Computation	Humanities Requirement,Intelligent Systems (CS)	
+CS 4770	Mixed Reality Experience Design	Tech Elect CS,Engr,&Sciences	CS 2340,LCC 2700,&
+CS 4791	Integrative Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
+CS 4792	Design Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
+CS 4793	Integrative Perspectives in Cognitive Science	Tech Elect CS,Engr,&Sciences	CS 3790,PST 3790,|,PSYC 3790,ISYE 3790,|,|
+CS 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4805	Special Topics	Tech Elect CS,Engr,&Sciences	
+CS 4901	Special Problems	Tech Elect CS,Engr,&Sciences	
+CS 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+CS 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+CS 4911	Design Capstone Project	Tech Elect CS,Engr,&Sciences	CS 2340
+CS 4912	Design Capstone Project		CS 2340
+CS 4980	Research Capstone Project	Tech Elect CS,Engr,&Sciences	
+CS 6010	Principles of Design		
+CS 6035	Introduction to Information Security		CS 2200
+CS 6150	Computing For Good		
+CS 6210	Advanced Operating Systems		CS 3210
+CS 6230	High-Performance Parallel Computing: Tools and Applications		CS 3210
+CS 6235	Real-Time System Concepts and Implementation		CS 3210
+CS 6238	Secure Computer Systems		CS 3210,CS 4235,&
+CS 6241	Design and Implementation of Compilers		CS 4240
+CS 6245	Compiling for Parallelism		CS 4240
+CS 6246	Object-Oriented Systems and Languages		CS 2340
+CS 6250	Computer Networks		
+CS 6255	Principles of Network Management		CS 6250
+CS 6260	Applied Cryptography		CS 4235
+CS 6262	Network Security		CS 4235,CS 4251,&
+CS 6265	Information Security Laboratory		CS 6238,CS 6262,&
+CS 6266	Information Security Practicum		CS 6238,CS 6260,&,CS 6262,&
+CS 6269	Formal Models and Methods for Information Assurance		CS 3500,CS 4235,&
+CS 6280	Performance Evaluation of Communication Networks		MATH 3215,MATH 3225,|,CS 6250,&
+CS 6290	High-Performance Computer Architecture		CS 2200
+CS 6300	Software Development Process		
+CS 6310	Software Architecture and Design		CS 6300
+CS 6320	Software Requirements Analysis and Specification		CS 6300
+CS 6330	Software Generation, Testing, and Maintenance		CS 6300
+CS 6340	Advanced Topics in Software Analysis and Testing		
+CS 6365	Intro Enterprise Comput.		CS 3210,CS 4400,|
+CS 6390	Programming Language Design		
+CS 6400	Database Systems Concepts and Design		CS 4400
+CS 6402	Databases and Information Security		
+CS 6411	Object-Oriented Database Models and Systems		CS 6400
+CS 6421	Temporal, Spatial and Active Databases		CS 6400
+CS 6422	Database System Implementation		CS 4400
+CS 6430	Parallel and Distributed Database Systems and Applications		CS 4420,CS 6400,|
+CS 6440	Information to Health Informatics		
+CS 6451	Introduction to Human-Centered Computing		
+CS 6452	Prototyping Interactive Systems		CS 4452
+CS 6455	User Interface Design and Evaluation		CS 6750,PSYC 6750,|
+CS 6456	Principles of User Interface Software		CS 6750,PSYC 6750,|
+CS 6457	Video Game Design and Programming		
+CS 6460	Educational Technology: Conceptual Foundations		
+CS 6465	Computational Journalism		
+CS 6470	Design of Online Communities		
+CS 6475	Computational Photography		
+CS 6480	Computer Visualization Techniques		CS 4451
+CS 6485	Visualization Methods for Science and Engineering		
+CS 6491	Foundations of Computer Graphics		CS 4451
+CS 6505	Computability, Algorithms, and Complexity	Theory (CS)	CS 3500
+CS 6520	Computational Complexity Theory	Theory (CS)	CS 3500
+CS 6550	Design and Analysis of Algorithms	Theory (CS)	CS 3500
+CS 6601	Artificial Intelligence		CS 2600
+CS 6670	Distributed Control Algorithms		CS 4600
+CS 6675	Advanced Internet Computing Systems and Applications		CS 3210,CS 4499,|
+CS 6705	Applications of Artificial Intelligence		
+CS 6725	Information Security Strategies and Policies		CS 4235
+CS 6750	Human-Computer Interaction		
+CS 6753	Human-Computer Interaction-Professional Preparation and Practice		
+CS 6754	Engineering Database Management Systems		
+CS 6763	Design of Design Environments		
+CS 6764	Geometric Modeling		
+CS 6770	Mixed Reality Experience Design		
+CS 6780	Medical Image Processing		ECE 6786,BMED 6786,|
+CS 6795	Introduction to Cognitive Science		
+CS 6998	HCI Master's Project		
+CS 6999	Master's Project		
+CS 7000	Master's Thesis		
+CS 7001	Overview of Graduate Studies in Computing		
+CS 7110	Parallel Computer Architectures		CS 6290
+CS 7210	Distributed Computing		CS 6210
+CS 7230	Systems Software Design, Implementation, and Evaluation		CS 4240,CS 6210,&
+CS 7250	Broadband Networking Systems		CS 6250
+CS 7260	Internetworking Architectures and Protocols		CS 6250
+CS 7270	Networked Applications and Services		CS 6250
+CS 7290	Advanced Topics in Microarchitecture and organization of high-performance processors.		CS 6290
+CS 7292	Reliability and Security in Computer Architecture		CS 6290
+CS 7450	Information Visualization		CS 6750,PSYC 6750,|
+CS 7455	Issues in Human-Centered Computing		CS 6452
+CS 7460	Collaborative Computing		CS 6750,PSYC 6750,|
+CS 7465	Educational Technology: Design and Evaluation		CS 6460
+CS 7467	Computer-Supported Collaborative Learning		CS 6460
+CS 7470	Mobile and Ubiquitous Computing		CS 6750,PSYC 6750,|
+CS 7490	Advanced Image Synthesis		
+CS 7491	3D Complexity Techniques for Graphics, Modeling, and Animation		CS 6491
+CS 7495	Computer Vision		
+CS 7496	Computer Animation		CS 4451
+CS 7497	Virtual Environments		CS 4451
+CS 7510	Graph Algorithms	Theory (CS)	CS 6505,CS 6550,|
+CS 7520	Approximation Algorithms	Theory (CS)	CS 6505,CS 6550,|
+CS 7525	Algorithmic Game Theory and Economics		CS 6550
+CS 7530	Randomized Algorithms	Theory (CS)	CS 6505,CS 6550,|
+CS 7535	Markov Chain Monte Carlo Algorithms		CS 6505,CS 6550,|
+CS 7540	Spectral Algorithms and Representations		
+CS 7545	Theoretical Foundations of Machine Learning		
+CS 7560	Theoretical Foundations of Cryptography		
+CS 7610	Modeling and Design		CS 4600
+CS 7611	AI Problem Solving		CS 6601
+CS 7612	Artificial Intelligence Planning		CS 6601
+CS 7613	Knowledge Systems Engineering		CS 6601
+CS 7615	Knowledge Agents		CS 4600
+CS 7616	Pattern Recognition		
+CS 7620	Case-Based Reasoning		CS 4600
+CS 7630	Autonomous Robotics		CS 4600
+CS 7631	Autonomous Multi-Robot Systems		CS 4631,CS 7630,|
+CS 7633	Human-Robot Interaction		
+CS 7634	AI Storytelling in Virtual Worlds		
+CS 7636	Computational Perception		CS 4641,CS 4495,CS 7495,|,&
+CS 7637	Knowledge-Based AI		CS 3600
+CS 7640	Learning in Autonomous Agents		CS 4600,CS 4641,|
+CS 7641	Machine Learning		CS 6601
+CS 7645	Numerical Machine Learning		CS 4641
+CS 7646	Machine Learning for Trading		
+CS 7649	Robot Intelligence: Planning		
+CS 7650	Natural Language		CS 3600
+CS 7695	Philosophy of Cognition		
+CS 7697	Cognitive Models of Science and Technology		
+CS 7785	Introduction to Robotics Research		
+CS 7790	Cognitive Modeling		CS 6795,ISYE 6795,|,PSYC 6795,|
+CS 7999	Preparation for Doctoral Qualifying Exams		
+CS 8001	Seminar		
+CS 8002	Seminar		
+CS 8003	Seminar		
+CS 8004	Seminar		
+CS 8005	Seminar		
+CS 8006	Seminar		
+CS 8030	Software Engineering Seminar		
+CS 8750	Robotics Research Foundation I		AE 7785,CS 7785,|,ECE 7785,ME 7785,|,|
+CS 8751	Robotics Research Foundation II		AE 8750,CS 8750,|,ECE 8750,ME 8750,|,|
+CS 8795	Colloquium in Cognitive Sciences		
+CS 8801	Special Topics		
+CS 8802	Special Topics		
+CS 8803	Special Topics		
+CS 8804	Special Topics		
+CS 8805	Special Topics		
+CS 8806	Special Topics		
+CS 8893	Special Topics in Cognitive Science		
+CS 8901	Special Problems		
+CS 8902	Special Problems		
+CS 8903	Special Problems		
+CS 8997	Teaching Assistantship		
+CS 8998	Research Assistantship		
+CS 8999	Doctoral Thesis Preparation		
+CS 9000	Doctoral Thesis		

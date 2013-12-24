@@ -1,0 +1,126 @@
+Course	Name	Attributes	Prerequisites
+PHYS 1000	Physics Orientation		
+PHYS 2001	Physics of Space and Time	Tech Elect CS,Engr,&Sciences	PHYS 2211
+PHYS 2021	The Solar System	Tech Elect CS,Engr,&Sciences	
+PHYS 2022	Stars, Galaxies, and the Universe	Tech Elect CS,Engr,&Sciences	
+PHYS 2030	Physics Of Music	Tech Elect CS,Engr,&Sciences	
+PHYS 2211	Introductory Physics I	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|
+PHYS 2212	Introductory Physics II	Tech Elect CS,Engr,&Sciences	PHYS 2211,PHYS 2231,|
+PHYS 2213	Introduction to Modern Physics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 2231	Honors Physics I	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|
+PHYS 2232	Honors Physics II	Tech Elect CS,Engr,&Sciences	PHYS 2211,PHYS 2231,|
+PHYS 2698	Undergraduate Research Assistantship		
+PHYS 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+PHYS 2750	Physics of the Weather	Tech Elect CS,Engr,&Sciences	
+PHYS 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 2804	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 2814	Special Topics		
+PHYS 2900	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 2901	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 2902	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 3021	Nuclear Astrophysics and Stellar Evolution	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3043	Principles of Quantum Mechanics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3122	Electrostatics and Magnetostatics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+PHYS 3123	Electrodynamics	Tech Elect CS,Engr,&Sciences	PHYS 3122
+PHYS 3141	Thermodynamics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+PHYS 3143	Quantum Mechanics I	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,MATH 2403,MATH 2413,|,&
+PHYS 3151	Mathematical Physics	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 2413,|,MATH 24X3,|,PHYS 2212,PHYS 2232,|,&
+PHYS 3201	Classical Mechanics I	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,MATH 2403,MATH 2413,|,&
+PHYS 3202	Classical Mechanics II	Tech Elect CS,Engr,&Sciences	PHYS 3201
+PHYS 3211	Electronics I	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3223	Geometrical Optics and Lens Design	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3224	Geometrical Optics Laboratory	Tech Elect CS,Engr,&Sciences	PHYS 3223
+PHYS 3225	Modern Optics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3226	Modern Optics Laboratory	Tech Elect CS,Engr,&Sciences	PHYS 3225
+PHYS 3232	Optics I	Tech Elect CS,Engr,&Sciences	PHYS 2212
+PHYS 3265	Introduction to Acoustics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3266	Computational Physics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 3801	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 3802	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 3803	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 3804	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 3900	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 3901	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 3902	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 4142	Statistical Mechanics	Tech Elect CS,Engr,&Sciences	PHYS 3141,PHYS 3143,&
+PHYS 4143	Quantum Mechanics II	Tech Elect CS,Engr,&Sciences	PHYS 3143
+PHYS 4147	Relativity		PHYS 3201
+PHYS 4206	Electronics II	Tech Elect CS,Engr,&Sciences	PHYS 3211
+PHYS 4220	Optical Design	Tech Elect CS,Engr,&Sciences	PHYS 3223
+PHYS 4222	Solid-state Devices	Tech Elect CS,Engr,&Sciences	PHYS 3141,PHYS 3143,&
+PHYS 4247	Cosmology		PHYS 3201
+PHYS 4251	Biophysics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,BIOL 1510,&
+PHYS 4261	Atomic Physics	Tech Elect CS,Engr,&Sciences	PHYS 3143
+PHYS 4262	Solid-state Physics	Tech Elect CS,Engr,&Sciences	PHYS 3143
+PHYS 4263	Nuclei, Particles, and Fields	Tech Elect CS,Engr,&Sciences	PHYS 3143
+PHYS 4267	Nonlinear Dynamics and Chaos	Tech Elect CS,Engr,&Sciences	PHYS 3201
+PHYS 4321	Advanced Laboratory I	Tech Elect CS,Engr,&Sciences	PHYS 3143
+PHYS 4322	Advanced Laboratory II	Tech Elect CS,Engr,&Sciences	PHYS 4321
+PHYS 4347	Fundamentals of Astrophysics		PHYS 2213,PHYS 3021,|
+PHYS 4421	Introduction to Continuum Physics	Tech Elect CS,Engr,&Sciences	PHYS 3201
+PHYS 4601	Senior Seminar I	Tech Elect CS,Engr,&Sciences	
+PHYS 4602	Senior Seminar II	Tech Elect CS,Engr,&Sciences	
+PHYS 4655	Introductory Diffraction Studies	Tech Elect CS,Engr,&Sciences	
+PHYS 4698	Undergraduate Research Assistantship		
+PHYS 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+PHYS 4751	Laser Theory and Applications	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
+PHYS 4782	Quantum Information and Quantum Computing	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 2601,MATH 24X1,|,|
+PHYS 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+PHYS 4900	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 4901	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+PHYS 6011	Nuclear and Particle Physics		
+PHYS 6101	Classical Mechanics I		
+PHYS 6102	Classical Mechanics II		PHYS 6101
+PHYS 6103	Electromagnetism I		
+PHYS 6104	Electromagnetism II		PHYS 6103
+PHYS 6105	Quantum Mechanics I		
+PHYS 6106	Quantum Mechanics II		PHYS 6105
+PHYS 6107	Statistical Mechanics I		
+PHYS 6110	Survey of Physics		
+PHYS 6124	Mathematical Methods of Physics I		
+PHYS 6125	Mathematical Methods of Physics II		
+PHYS 6201	Applied Quantum Mechanics		
+PHYS 6202	Applied Electromagnetism		
+PHYS 6203	Solid State Physics		
+PHYS 6204	Electronics I		
+PHYS 6206	Electronics II		
+PHYS 6210	Condensed Matter Physics I		
+PHYS 6211	Condensed Matter Physics II		PHYS 6210
+PHYS 6265	Atomic Physics I		PHYS 4143
+PHYS 6267	Atomic Physics II		PHYS 6265
+PHYS 6268	Nonlinear Dynamics and Chaos		
+PHYS 6300	Graduate Laboratory		
+PHYS 6567	Ultrafast Optics		
+PHYS 6771	Optoelectronics: Materials, Processes, Devices		
+PHYS 6787	Quantitative Electrophysiology		
+PHYS 7000	Master's Thesis		
+PHYS 7123	Statistical Mechanics II		PHYS 6107
+PHYS 7125	Introduction to Relativity		PHYS 6101,PHYS 6103,&
+PHYS 7141	Many-Particle Quantum Mechanics		PHYS 6106
+PHYS 7143	Group Theory and Quantum Mechanics		PHYS 6106
+PHYS 7147	Quantum Field Theory		PHYS 6106
+PHYS 7150	Quantum Logics		PHYS 6106
+PHYS 7221	Statistical Optics		
+PHYS 7222	Quantum Optics I		PHYS 4143
+PHYS 7223	Quantum Optics II		PHYS 7222
+PHYS 7224	Nonlinear Hamiltonian Dynamics and Chaos		PHYS 6101
+PHYS 7268	Spatio-Temporal Dynamics and Pattern Formation		
+PHYS 8001	Seminar		
+PHYS 8002	Graduate Student Seminar		
+PHYS 8801	Special Topics		
+PHYS 8802	Special Topics		
+PHYS 8803	Special Topics		
+PHYS 8804	Special Topics		
+PHYS 8901	Special Problems		
+PHYS 8991	Master's Practicum		
+PHYS 8992	Master's Practicum		
+PHYS 8993	Master's Practicum		
+PHYS 8997	Teaching Assistantship		
+PHYS 8998	Research Assistantship		
+PHYS 9000	Doctoral Thesis		

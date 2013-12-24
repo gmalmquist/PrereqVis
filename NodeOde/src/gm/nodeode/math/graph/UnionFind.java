@@ -6,6 +6,12 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Extremely useful union-find data structure
+ * @author Garrett
+ *
+ * @param <T>
+ */
 public class UnionFind<T> {
 	private HashMap<T, T> parents;
 	

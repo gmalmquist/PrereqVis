@@ -4,6 +4,11 @@ import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.model.Visode;
 
+/**
+ * Was used for animations, currently unused.
+ * @author Garrett
+ *
+ */
 public class LerpOde {
 	private Pt start;
 	private Pt end;

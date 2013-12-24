@@ -13,6 +13,12 @@ import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 
+/**
+ * JButton which displays an image, and opens a dialog to save
+ * said image when clicked.
+ * @author Garrett
+ *
+ */
 public class SaveImageButton extends JButton {
 	private BufferedImage image;
 	private ImageIcon icon;

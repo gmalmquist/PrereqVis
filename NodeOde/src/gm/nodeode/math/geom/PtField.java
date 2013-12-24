@@ -3,6 +3,12 @@ package gm.nodeode.math.geom;
 import java.util.HashMap;
 import java.util.Set;
 
+/**
+ * Maps objects to points (vectors) (unset points are read as <0,0>)
+ * @author Garrett
+ *
+ * @param <T>
+ */
 public class PtField<T> {
 	private HashMap<T, Pt> field;
 	

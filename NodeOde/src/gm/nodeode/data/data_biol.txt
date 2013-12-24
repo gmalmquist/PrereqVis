@@ -1,0 +1,140 @@
+Course	Name	Attributes	Prerequisites
+BIOL 1510	Biological Principles		
+BIOL 1511	Honors Biological Principles		BIOL 1520,BIOL 1521,|
+BIOL 1520	Introduction to Organismal Biology		
+BIOL 1521	Honors Introduction to Organismal Biology		BIOL 1510,BIOL 1511,|
+BIOL 2100	Island Biogeography of New Zealand	Tech Elect CS,Engr,&Sciences	
+BIOL 2335	General Ecology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2336	General Ecology Laboratory	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2337	Honors Ecology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2338	Honors Ecology Laboratory	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2344	Genetics	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2345	Genetics Laboratory	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2354	Honors Genetics	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2355	Honors Genetics Laboratory	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 2400	Mathematical Models in Biology	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|,MATH 1522,|,BIOL 1510,BIOL 1511,|,&
+BIOL 2698	Undergraduate Research Assistantship		
+BIOL 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+BIOL 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 2804	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 2805	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 2901	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 2902	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 2903	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 2904	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 2905	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 3100	Ecology and Evolution: An Australian Perspective	Tech Elect CS,Engr,&Sciences	BIOL 2100
+BIOL 3300	Tropical Ecology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 3380	Introductory Microbiology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,CHEM 2311,&
+BIOL 3381	Introductory Microbiology Laboratory	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,CHEM 2311,&
+BIOL 3450	Cell and Molecular Biology		BIOL 1510,BIOL 1511,|,CHEM 2311,CHEM 1315,|,&
+BIOL 3451	Cell and Molecular Biology Lab		BIOL 1510,BIOL 1511,|,CHEM 2311,CHEM 1315,|,&
+BIOL 3600	Introduction to Evolutionary Biology	Tech Elect CS,Engr,&Sciences	BIOL 2344,BIOL 2354,|,BIOL 2335,BIOL 2337,|,&
+BIOL 3751	Human Anatomy and Physiology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,CHEM 1310,|
+BIOL 3753	Fundamentals of Anatomy		BIOL 1520,BIOL 1521,|,CHEM 1211,CHEM 1310,|,|
+BIOL 3754	Laboratory in Human Anatomy		APPH 3753,BIOL 3753,|
+BIOL 3755	Human Physiology		
+BIOL 3756	Laboratory in Human Physiology		
+BIOL 3813	Special Topics		
+BIOL 4012	Protein Biology		
+BIOL 4015	Cancer Biology and Biotechnology		BIOL 1510,BIOL 1511,|,BIOL 1520,BIOL 1521,|,|,CHEM 1310,CHEM 1211,|,|,CHEM 1212,PHYS 2211,|,|,PHYS 2212,EAS 1600,|,|,BIOL 15110,BIOL 15111,|,|
+BIOL 4101	Sensory Ecology	Tech Elect CS,Engr,&Sciences	BIOL 2335,BIOL 2337,|
+BIOL 4105	Macromolecular Modeling	Tech Elect CS,Engr,&Sciences	
+BIOL 4150	Genomics and Applied Bioinformatics	Tech Elect CS,Engr,&Sciences	BIOL 2344,BIOL 2354,|,CS 1321,CS 1371,|,CS 1301,CS 1315,|,|,&
+BIOL 4221	Biological Oceanography	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 4225	Molecular Evolution	Tech Elect CS,Engr,&Sciences	BIOL 3600
+BIOL 4340	Medical Microbiology	Tech Elect CS,Engr,&Sciences	BIOL 3380
+BIOL 4401	Experimental Design and Statistical Methods in Biology	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|,MATH 1522,|,BIOL 1510,BIOL 1511,|,&
+BIOL 4410	Microbial Ecology	Tech Elect CS,Engr,&Sciences	BIOL 3380
+BIOL 4417	Marine Ecology		BIOL 2335,BIOL 2337,|
+BIOL 4418	Microbial Physiology	Tech Elect CS,Engr,&Sciences	BIOL 3380,BIOL 3450,&
+BIOL 4422	Theoretical Ecology	Tech Elect CS,Engr,&Sciences	MATH 2403,BIOL 2400,|
+BIOL 4440	Plant Physiology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,BIOL 1520,BIOL 1521,|,&
+BIOL 4446	General Animal Physiology I	Tech Elect CS,Engr,&Sciences	BIOL 3450
+BIOL 4450	Seminar	Tech Elect CS,Engr,&Sciences	BIOL 4590,BIOL 4690,|,BIOL 4910,|
+BIOL 4464	Developmental Biology	Tech Elect CS,Engr,&Sciences	BIOL 2344,BIOL 2354,|,BIOL 3450,&
+BIOL 4471	Behavioral Biology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,MATH 1502,MATH 1512,|,MATH 15X2,|,&,PHYS 2212,&
+BIOL 4478	Biophysics	Tech Elect CS,Engr,&Sciences	PHYS 2211,BIOL 2344,BIOL 2354,|,BIOL 3450,|,&
+BIOL 4480	Evolutionary Developmental Biology-How to Build an Organism		BIOL 3600
+BIOL 4545	Genetics of Complex Human Traits and Diseases		BIOL 2344,BIOL 2354,|
+BIOL 4570	Immunology and Immunochemistry	Tech Elect CS,Engr,&Sciences	BIOL 3450,BIOL 2344,BIOL 2354,|,&
+BIOL 4590	Research Project Lab	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|
+BIOL 4608	Prokaryotic Molecular Genetics	Tech Elect CS,Engr,&Sciences	BIOL 2344,BIOL 2354,|
+BIOL 4620	Aquatic Chemical Ecology		BIOL 2335,BIOL 2337,|
+BIOL 4650	Bioethics	Ethics Requirement	BIOL 1510,BIOL 1511,|
+BIOL 4668	Eukaryotic Molecular Genetics	Tech Elect CS,Engr,&Sciences	BIOL 2344,BIOL 2354,|
+BIOL 4690	Independent Research Project	Tech Elect CS,Engr,&Sciences	BIOL 2698,BIOL 2699,|,BIOL 4698,BIOL 4699,|,|
+BIOL 4696	Biology Undergraduate Teaching Assistantship		CETL 2000,BIOL 4697,&
+BIOL 4697	Biology Undergraduate Teaching Experience		CETL 2000
+BIOL 4698	Undergraduate Research Assistantship		
+BIOL 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+BIOL 4740	Biologically Inspired Design		BIOL 1520,BIOL 1521,|,BIOL 3600,BMED 3100,|,|,PHYS 2211,|
+BIOL 4746	Signaling Molecules	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,CHEM 2311,&
+BIOL 4752	Introductory Neuroscience	Tech Elect CS,Engr,&Sciences	BIOL 3450,BMED 3160,|
+BIOL 4755	Mathematical Biology	Tech Elect CS,Engr,&Sciences	MATH 2403,BIOL 2400,|
+BIOL 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+BIOL 4804	Special Topics		
+BIOL 4805	Special Topics		
+BIOL 4901	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 4904	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 4905	Special Problems	Tech Elect CS,Engr,&Sciences	
+BIOL 4910	Honors Undergraduate Research Thesis		BIOL 2698,BIOL 2699,|,BIOL 4698,BIOL 4699,|,|
+BIOL 6150	Genomics and Applied Bioinformatics		
+BIOL 6221	Biological Oceanography		BIOL 1510,BIOL 1520,&
+BIOL 6410	Microbial Ecology		BIOL 3380,BIOL 3381,&
+BIOL 6417	Marine Ecology		BIOL 2335
+BIOL 6418	Microbial Physiology		BIOL 3380,BIOL 3381,&
+BIOL 6422	Theoretical Ecology		BIOL 2335,MATH 1502,&
+BIOL 6478	Methods in Molecular Biophysics		
+BIOL 6480	Evolutionary Developmental Biology-How to Build an Organism		
+BIOL 6570	Immunology		BIOL 2344,BIOL 2345,&,BIOL 3331,&
+BIOL 6600	Evolution		BIOL 2335,BIOL 2344,&,BIOL 2345,&
+BIOL 6608	Prokaryotic Molecular Genetics		BIOL 2344,BIOL 2345,&
+BIOL 6611	Advanced Microbial Physiology		BIOL 4418,CHEM 4511,&
+BIOL 6620	Aquatic Chemical Ecology		
+BIOL 6623	Experiments in Aquatic Chemical Signaling		
+BIOL 6626	Physiological Ecology		BIOL 4010
+BIOL 6628	Aquatic Toxicology		BIOL 4010
+BIOL 6630	Advanced Microbial Ecology		BIOL 4010
+BIOL 6720	Environmental Microbial Genomics		
+BIOL 6756	Discovery of Signaling Molecules		CHEM 2311
+BIOL 6765	Geomicrobiology		BIOL 4410,BIOL 4418,|,EAS 3620,&
+BIOL 7000	Master's Thesis		
+BIOL 7001	Foundations in Molecular and Cell Biology		
+BIOL 7010	Advanced Cell Biology		BIOL 3331
+BIOL 7015	Cancer Biology and Technology		
+BIOL 7023	Bioinformatics		MATH 3215,MATH 3225,|
+BIOL 7101	Advanced Sensory Ecology		
+BIOL 7110	Macromolecular Modeling		
+BIOL 7111	Molecular Evolution		
+BIOL 7210	Computational Genomics		
+BIOL 7668	Eukaryotic Molecular Genetics		
+BIOL 7913	Advances in Microbiology		
+BIOL 7914	Advances in Bacteriology		
+BIOL 7923	Advances in Ecology		
+BIOL 7924	Advances in Environmental Biology		
+BIOL 7963	Advances in Molecular Biology		
+BIOL 7964	Advances in Genetics		
+BIOL 8000	Integrative Biology Seminar		
+BIOL 8001	Seminar		
+BIOL 8002	Seminar		
+BIOL 8003	Seminar		
+BIOL 8005	Signals in the Sea Seminar		
+BIOL 8006	Integrative Approaches to Biological Systems		
+BIOL 8106	Tools of Science Seminar		
+BIOL 8801	Special Topics		
+BIOL 8802	Special Topics		
+BIOL 8803	Special Topics		
+BIOL 8804	Special Topics		
+BIOL 8805	Special Topics		
+BIOL 8901	Special Problems		
+BIOL 8902	Special Problems		
+BIOL 8997	Teaching Assistantship		
+BIOL 8998	Research Assistantship		
+BIOL 9000	Doctoral Thesis		

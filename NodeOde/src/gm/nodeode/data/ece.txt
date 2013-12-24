@@ -1,0 +1,3350 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 20, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+ECE 1750 - Introduction to Bioengineering
+An introduction to the field of bioengineering, including the application of engineering principles and methods to problems in biology and medicine, the integration of engineering with biology, and the emerging industrial opportunities. Crosslisted with AE, BMED, CHE, ME, and MSE 1750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1805 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1811 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1812 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1813 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1814 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1815 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1881 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1882 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1884 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1891 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1892 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1893 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1894 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 1XXX - Elec/Comp Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+ECE 2001 - ECE Seminar
+Speakers with diverse backgrounds and representing many different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2002 - ECE Seminar
+Speakers with diverse backgrounds and representing many different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2003 - ECE Seminar
+Speakers with diverse backgrounds and representing many different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2020 - Digital System Design
+Computer system and digital design principles. Switch and gate design, Boolean algebra, number systems, arithmetic, storage elements. Datapath, memory organization, instruction set architecture, assembly language. Credit not allowed for both ECE 2020 and ECE 2030. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 2025 - Introduction to Signal Processing
+Introduction to signal processing for discrete-time and continuous-time signals. Filtering. Frequency response. Fourier Transform. Z Transform. Laboratory emphasizes computer-based signal processing. Credit not allowed for both ECE 2025 and ECE 2026. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2026 - Introduction to Signal Processing
+Introduction to discrete-time signal processing and linear systems. Sampling theorem, filtering, frequency response, Discrete Fourier Transform, Z-Transform. Laboratory emphasizes computer-based signal processing. Credit not allowed for both ECE 2026 and ECE 2025. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 2030 - Introduction to Computer Engineering
+Computer system and digital design principles. Architectural concepts, software, Boolean algebra, number systems, combinational datapath elements, sequential logic, and storage elements. Design of DRAM control and I/O bus. Credit not allowed for both ECE 2030 and ECE 2020. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2031 - Digital Design Laboratory
+Design and implementation of digital systems, including a team design project. CAD tools, project design methodologies, logic synthesis, and assembly language programming. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2035 - Programming for Hardware/Software Systems
+Creation of complex execution and storage mechanisms, based on instruction set architecture, for software design including high-level programming languages and operating systems. Programming design projects. Credit not allowed for both ECE 2035 and ECE 3035. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 2036 - Engineering Software Design
+Object-oriented software methods for engineering applications. Numerical analysis methods; simulations and graphical presentation of simulation results; analysis of numerical precision. Programming projects. Credit not allowed for both ECE 2036 and ECE 3090. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 2040 - Circuit Analysis
+Basic concepts of DC and AC circuit theory and analysis. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 20X2 - Transfer-Digital Des Lab
+
+2.000 Credit hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 20X3 - Transfer-Digital Systems
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Registrar Department 
+
+ECE 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 2699 - Undergraduate Research
+Independent Research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2805 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2811 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2812 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2813 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2814 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2815 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2881 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2882 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2884 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2891 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2892 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2893 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2894 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 2XXX - Elec/Comp Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+ECE 3005 - Professional and Technical Communications for ECE
+Written, oral, and visual communication skills required by electrical and computer engineers. Prepares students for advanced communication tasks required in academic and professional settings. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3006 - Co-Curricular Professional Communications for ECE
+This course documents student completion of ECE professional communications requirement through workshops, seminars, research projects, co/extra-curricular activities, etc. 
+
+0.000 Credit hours 
+0.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3020 - Mathematical Foundations of Computer Engineering
+Fundamental concepts in discrete mathematics and their efficient realization via algorithms, data structures, computer programs, and hardware. Discussion of engineering and computational applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3025 - Electromagnetics
+To present the laws and applications of electromagnetics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3030 - Physical Foundations of Computer Engineering
+Basic principles governing the physical realization of computing systems and their relationship to characteristics such as performance, energy, and robustness. Implementation technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3035 - Mechanisms for Computing Systems
+Computing system execution and storage mechanisms, starting with instruction set architecture and concluding with support for high level languages and operating systems. Credit not allowed for both ECE 3035 and ECE 2035. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3040 - Microelectronic Circuits
+Basic concepts of microelectronic materials, devices, and circuits. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3041 - Instrumentation and Circuits Laboratory
+Fundamental experimental techniques for the laboratory analysis of signals and passive electrical circuits using basic electronic test and measurement instrumentation. Component characterization, computer-automated measurements, and simulation. Technical writing. Credit not allowed for both ECE 3041 and ECE 3043. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3042 - Microelectronic Circuits Laboratory
+Design, analysis, simulation, implementation, and evaluation of electronic circuits. Employs op amp, clock, counter, and converter integrated circuits, discrete diodes, bipolar junction, and field effect transistors; and some integrated circuits. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3043 - Measurements, Circuits, and Microelectronics Laboratory
+Basic electronic test instrumentation. Elementary passive and active circuits using both discrete (diodes, bipolar junction transistors, MOSFETs) and integrated devices (operational amplifiers). Credit not allowed for both ECE 3043 and ECE 3041. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3050 - Analog Electronics
+To present concepts of analysis and design of electronic circuits and systems. Biasing, small-signal analysis, frequency response, feedback amplifiers, active filters, non-linear op-amp applications, and oscillators. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3055 - Computer Architecture and Operating Systems
+Core concepts of computer architecture and operating systems. Instruction set architectures (ISA), compiler/ISA relationships, pipelined datapaths. Memory hierarchy, memory management, and protection. Processes, threads, CPU scheduling, and associated techniques. Credit not allowed for both ECE 3055 and ECE 3056. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3056 - Architecture, Concurrency, and Energy in Computation
+Basic organizational principles of the major components of computer processors: cores, memory hierarchy, and the I/O subsystem. Implications for performance, concurrency, and energy. Credit not allowed for both ECE 3056 and ECE 3055. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3060 - VLSI and Advanced Digital Design
+Advanced digital design issues in the context of VLSI systems. Introduction to a design methodology that encompasses the range from behavioral models to circuit simulation. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3065 - Electromagnetic Applications
+To present concepts in waveguiding and radiation, with application to microwaves, antennas, and optics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3070 - Electromechanical and Electromagnetic Energy Conversion
+This course serves as an introduction to three-phase power systems, electromechanical energy conversion, and operating principles of electric machines. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3071 - Modern Electric Energy Systems
+Non-renewable and renewable/sustainable energy sources. Processes, costs, and environmental impact of conversion into electric energy. Delivery and control of electric energy, electromechanical systems. Credit not allowed for both ECE 3071 and ECE 3072. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3072 - Electrical Energy Systems
+Non-renewable and renewable/sustainable energy sources. Processes, costs, and environmental impact of conversion into electric energy. Delivery and control of electric energy, electromechanical systems. Credit not allowed for both ECE 3072 and ECE 3071. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3075 - Random Signals
+Study of random variables and random processes for applications in electrical and computer engineering. Includes an introduction to statistical filtering, parameter estimation, Markov processes. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3076 - Computer Communications
+Presents the basic concepts of computer communications network protocols. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3077 - Prob/Stats for ECE
+Introduction to probability, random variables, distributions, estimation, confidence intervals, linear regression and other tools for describing and managing uncertainty in electrical and computer engineering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3080 - Semiconductor Devices for Computer Engineering and Telecommunication Systems
+To gain an understanding of the device needs for current and future computers, and fiber optic and wireless communication systems addressing the future needs of high- frequency, GHz-range, device operation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3084 - Signals and Systems
+Continuous-time linear systems and signals, their mathematical representations, and computational tools. Fourier and Laplace transforms, convolutions, input-output responses, stability. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3085 - Introduction to Systems and Controls
+Theory of linear time-invariant systems for continuous and discrete time. Laplace and Z-Transforms. Transfer function and state space representations. Introduction to feedback control theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3090 - Software Fundamentals for Engineering Systems
+Using computer algorithms for solving electrical engineering problems arising in various application domains. Development of effective algorithms and their implementation by object-oriented code. Credit not allowed for both ECE 3090 and ECE 2036. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3300 - Electromechanical and Electromagnetic Energy Conversion
+Introduction to three phase power systems, electromechanical energy conversion and operating principles of electric machines. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3400 - Analog Electronics
+Analysis and design of electronic circuits and systems. Biasing, small-signal analysis, frequence response, feedback amplifiers, active filters, non-linear op-amp applications, and oscillators. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3431 - Analog Electronics Laboratory
+Design, analysis, simulation, implementation, and evaluation of advanced electronic circuits. Employs bipolar junction, metal oxide semiconductor and field effect transistors; and some integrated circuits. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3450 - Semiconductor Devices
+Properties of semiconductor devices. Applications in current and future computers, fiber optic and wireless communication systems. Future needs of high frequency, GHz-range, device operation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3550 - Feedback Control Systems
+Analysis and design of control systems. Laplace transforms, transfer functions, and stability. Feedback systems: tracking and disturbance rejection. Graphical design techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3600 - Computer Communications
+Basic concepts of computer communication network protocols. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 3710 - Circuits and Electronics
+An introduction to electric circuit elements and electronic devices and a study of circuits containing such devices. Both analog and digital systems are considered. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3741 - Instrumentation and Electronics Lab
+Basic analog and digital electronic circuits and principles. Techniques of electrical and electronic measurements with laboratory instruments. 
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3805 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3811 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3812 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3813 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3814 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3815 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3881 - Special Topics
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3882 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3884 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3891 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3892 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3893 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3894 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3951 - Undergraduate Research I
+Participation in an individual or group research project under the direction of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3952 - Undergraduate Research II
+Participation in an individual or group research project under the direction of a faculty member. Requires a formal research report. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 3XXX - Elec/Comp Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+ECE 4001 - Engineering Practice and Professionalism
+Technical tools and professional issues for engineering practice and early career development. Engineering ethics, design tools, financial and economic principles, project management, probabilistic and statistical techniques, and decision making. Credit not allowed for both ECE 4001 and ECE 4000. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4007 - ECE Culminating Design Project
+Team-oriented culminating design project in electrical/ computer engineering, incorporating engineering standards and realistic constraints. Requires formal reports and group presentations. Credit not allowed for both ECE 4007 and ECE 4006. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4011 - ECE Culminating Design Project I
+First semester of ECE culminating design sequence. Design tools, financial principles, project management, probabilistic and statistical techniques, team forming. Requires formal reports and group presentations. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4012 - ECE Culminating Design Project II
+Second semester of ECE culminating design sequence. Team project in ECE incorporating engineering standards and realistic constraints. Requires formal reports and group presentationss. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4043 - Senior Analog Electronics Laboratory
+Experiments in analog electronics using discrete devices and off-the-shelf integrated circuits. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4100 - Advanced Computer Architecture
+Comprehensive coverage of the architecture and system issues that confront the design of high-performance workstation/PC computer architectures with emphasis on quantitative evaluation. Credit is not allowed for both ECE 4100 and any of the following courses: ECE 6100, CS 4290, CS 6290. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4110 - Internetwork Programming
+Exploration of Internet implementation as a network of computing systems. Internetworking skills for design and implementation of hardware and software Internet products. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4112 - Internetwork Security
+Hands-on experimentation and evaluation of internet security theory, principles, and practices. Laboratory component involves implementing both defensive and offensive security techniques. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4130 - Advanced VLSI Systems
+An advanced treatment of VLSI systems analysis, design, and testing with emphasis on complex systems and how they are incorporated into a silicon environment. Credit is not allowed for both ECE 4130 and ECE 6130. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4170 - Introduction to HDLs with Applications to Digital System
+Introduction to hardware description languages and associated methodologies for digital system design. In-depth coverage includes applications to the simulation and synthesis of digital systems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4175 - Embedded Microcontroller Design
+Microcontroller structure, instruction set, addressing modes. Code development by assembly language programming and using an emulator. Programmable timer use, interrupt handlers, and timing. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4180 - Embedded Systems Design
+Processors, chipsets, busses, and I/O devices for high-ended embedded systems. Embedded operating systems; device drivers and applications for embedded systems. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4185 - Embedded Microcontroller Design
+Design, implement, and debug embedded microcontroller systems. Develop code; understand underlying assembly code instructions and addressing modes. Use ADC, timers, and other resources. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4260 - Random Signals and Applications
+Introduction to random signals and processes with emphasis on applications in ECE. Includes basic estimation theory, linear prediction, and statistical modeling. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4270 - Fundamentals of Digital Signal Processing
+Introduction to digital signal processing. Sampling theorem, discrete-time Fourier transform. Power spectrum, discrete Fourier transform and the FFT algorithm, Z-transform, digital filter design and implementation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4271 - Applications of Digital Signal Processing
+Applications of DSP in speech, image processing, radar, pattern recognition, and adaptive filtering requiring working software implementations applied to the analysis of real signals. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4273 - Design Synthesis of Application-specific Signal Processors
+Fundamentals of theory and practice of DSP chip design in VHDL. Exposure to tools and environments for chip design, simulation, and verification. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4320 - Power System Analysis and Control
+Introduces basic concepts in electric power generation, distribution, system control, and economic operation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4321 - Power System Engineering
+To introduce basic concepts of electric power system design, encompassing protection, stability, and control. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4325 - Electric Power Quality
+Transients and harmonics in power systems, analysis methods and mitigation practices. Causes of power quality problems and relationship to equipment susceptibility. Credit not allowed for both ECE 4325 and ECE 6340. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4330 - Power Electronics
+Introduces power semiconductor devices and power electronic converters, including single-phase and three-phase ac/dc rectifiers, ac voltage controllers, dc/dc converters, and dc/ac inverters. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 2.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4335 - Electric Machinery Analysis
+Advanced theory of AC machines, including AC motor winding design, finite element analysis, induction motor design, permanent magnet machine design, and synchronous machine dynamics. Credit is not allowed for both ECE 4335 and ECE 6335. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4360 - RF-Microwave Measurement Laboratory
+RF/microwave measurement theory and techniques. Use of state-of-the-art equipment operating into the GHz range. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4370 - Antenna Engineering
+Basic theory, application, and design of a broad range of antennas. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4390 - Introduction to Radar and Electromagnetic Sensing
+Introduces students to radar systems, including pulsed, CW, CWFM, and MTI radars. Other techniques for electromagnetic sensing such as radiometry and EM tagging are discussed. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4391 - Electromagnetic Compatibility
+To study electromagnetic interference and susceptibility of electrical systems, with application to analog and digital circuits. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4410 - Analog Filters
+An introduction to the theory, design techniques, and applications of analog passive, active, and switched- capacitor filters. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4415 - RF Engineering I
+Fundamentals of RF engineering. Components at high frequencies, device modeling, amplifiers, lumped-element and microstrip impedance transformation networks, S-parameter-based design of RF and microwave amplifiers. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4418 - RF Engineering II
+Fundamentals learned in RF-I are employed to design the elements of radio receivers, transmitters, and similar systems. Systems analysis, mixers, detectors, power amplifiers, low-noise amplifiers, and oscillators are covered. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4420 - Digital Integrated Circuits
+Analysis and design of bipolar and MOS digital integrated circuit families and their applications in modern electronic systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4430 - Analog Integrated Circuits
+Analysis and design of analog ICs using analytic techniques and CAD tools. Topics include amplifiers, current sources, output circuits, and other analog building blocks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4435 - Operational Amplifier Design
+Analysis and design techniques for utilization of integrated circuit operational amplifiers for applications in electronic systems. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4445 - Audio Engineering
+Concepts of acoustics and electroacoustic modeling for the analysis and design of microphones, loudspeakers, and crossover networks. Methods of analysis and design of audio power amplifiers. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4451 - Semiconductor Devices for Wireless and Fiber Communication
+Advanced development of semiconductor device theory focusing on optoelectronic emitters, detectors, and high- frequency transistors to provide an understanding of devices used in communications systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4460 - Introduction to Electronic Systems Packaging
+Introduction to packaging technologies, technology drivers, electrical performance, thermal management, materials, optoelectronics, RF integration, reliability, system issues, assembly, testing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4500 - Optical Engineering
+Introduction to applications of geometric, physical optics to engineering, including optical measurements, matrix methods, instruments, interference, holography, beam optics, Fourier optics, and diffraction. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4501 - Fiber Optics
+Combined lecture-laboratory exploration of the technology of fiber optics, with special emphasis on optical fiber communications systems. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 4.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4550 - Control System Design
+Design of control algorithms using state-space methods, microcontroller implementation of control algorithms, and laboratory projects emphasizing motion control applications. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4551 - Systems and Controls I
+Introduction to feedback control. Root locus and bode design for SISO systems, continuous and discrete. Introduction to state space formulation, continuous and discrete. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4555 - Embedded and Hybrid Control Systems
+Modeling, analysis, and design of embedded and hybrid control systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4560 - Introduction to Automation and Robotics
+Concurrent engineering principles; robotic manipulator kinematics, dynamics, and control; applications of robots in industry, medicine, and other areas; team projects and hands-on laboratory experience. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4562 - Neural Networks and Fuzzy Logic in Control
+Principles of neural networks and fuzzy systems; the MATLAB Neural Network and Fuzzy Logic Toolboxes; examples from system identification, classification, and control; laboratory experience. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4570 - System Theory for Communication and Control
+Study of the basic concepts in linear system theory and numerical linear algebra with applications to communication, computation, control, and signal processing. A unified treatment. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4580 - Computational Computer Vision
+Computational and theoretical aspects of computer vision. Application areas include robotics, autonomous vehicles, tracking, and image-guided surgery. Includes major project. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4601 - Communication Systems
+To present the fundamentals of modern digital communication systems and evaluate their performance with realistic channel models. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4602 - Communication Systems Laboratory
+To examine the performance of analog and digital telecommunications systems and components. 
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4604 - Network Design and Simulation
+Introduces the principles of Monte Carlo techniques and network simulation, and applies them to design issues in ATM systems. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4605 - Advanced Internetworking
+Networking fundamentals, including TCP/IP protocol suite. Latest networking technologies in wireless networks and mobile computing, network quality of service, network programmability, and miscellaneous topics. Project intensive. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4606 - Wireless Communications
+Cellular concept, wireless propagation modeling; types of digital modulation used in wireless systems, diversity combining, performance over fading channels, and multiple access techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4607 - Mobile and Wireless Networks
+Basics of mobile and wireless networking. Architectures and communication protocols for wireless sensor networks, wireless local area networks, ad-hoc networks, cellular systems, WiMAX, and Wireless Mesh Networks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 4699 - Undergraduate Research
+Independent Research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4751 - Laser Theory and Applications
+Provides an introduction to the theory and applications of laser principles and related instrumentation. Emphasis is on the fundamental principles underlying laser action. Crosslisted with PHYS 4751. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4752 - Integrated Circuit Fabrication
+Gives students exposure to the various steps involved in the fabrication of integrated circuits and devices. The course will include a laboratory segment in which students fabricate MOS transistors, diffused resistors, and MOS capacitors from a bare silicon substrate. Crosslisted with CHE 4752. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4753 - Topics in Engineering Practice
+Topics of current importance offered in collaboration with an approved partner of Georgia Tech's Distance Learning Program. Crosslisted with ME 4753. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4754 - Electronics Packaging Assembly, Reliability, Thermal Management, and Test
+The course provides hands-on instruction in electronics packaging, including assembly, reliability, thermal management, and test of next-generation microsystems. Crosslisted with ME and MSE 4754. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4755 - Electronic Packaging Substrate Fabrication
+This course provides hands-on instruction in basic packaging substrate fabrication techniques, including interconnect design and testing, dielectric deposition, via formation, and metallization. Crosslisted with CHE 4755. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4761 - Industrial Controls and Manufacturing
+Students are introduced to industrial controls and the fundamentals of manufacturing with hands-on experience based on lab projects using industry software and hardware for communications and control. Crosslisted with PTFE 4761. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4781 - Biomedical Instrumentation
+A study of medical instrumentation from a systems viewpoint. Pertinent physiological and electro-physiological concepts will be covered. Credit not allowed for both ECE 4781 and (CHE 4781 or CHBE 4781 or BMED 4781 or ME 4781). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4782 - Biosystems Analysis
+Analytical methods for modeling biological systems, including white-noise protocols for characterizing nonlinear systems. Crosslisted with BMED, CHE and ME 4782. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4783 - Introduction to Medical Image Processing
+A study of mathematical methods used in medical acquisition and processing. Concepts, algorithms, and methods associated with acquisition, processing, and display of two- and three-dimensional medical images are studied. Crosslisted with BMED 4783. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4784 - Engineering Electrophysiology
+Basic concepts of electrophysiology from an engineering perspective. Functionality of relevant organs and systems; instrumentation tools which monitor electrophysiology function. Crosslisted with BMED 4784. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4805 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4811 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4812 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4813 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4814 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4815 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4823 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4833 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4881 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4882 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4883 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4884 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4891 - Special Topics
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4892 - Special Topics
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4893 - Special Topics
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4894 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4951 - Undergraduate Research I
+Participation in an individual or group research project under the direction of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4952 - Undergraduate Research II
+Participation in an individual or group research project under the direction of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+ECE 4XXX - Elec/Comp Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+ECE 6100 - Advanced Computer Architecture
+Comprehensive coverage of the architecture and system issues that confront the design of high-performance workstation/PC computer architectures with emphasis on quantitative evaluation. Credit is not allowed for both ECE 6100 and any of the following courses: ECE 4100, CS 4290, CS 6290. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6101 - Parallel and Distributed Computer Architecture
+An advanced study of the critical issues and limiting factors in the design of asynchronous and synchronous parallel and distributed architectures. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6102 - Dependable Distributed Systems
+Concepts, theory, and practice of dependable distributed systems. Techniques for tolerating hardware and software faults. Security aspects such as confidentiality, availability, and integrity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6110 - CAD for Computer Communication Networks
+Investigation of the methodologies and algorithms used for designing and optimizing computer/communications networks with a focus on the algorithmic aspects of network design. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6120 - Automata Theory
+The course presents a broad base of topics in modern automata and switching theory. These elements form the essentials upon which modern digital systems are constructed. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6121 - Combinatorial Strategies for Engineers
+Modern counting theory and algorithmic approaches necessary for discrete computation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6130 - Advanced VLSI Systems
+An advanced treatment of VLSI systems analysis, design, and testing with emphasis on complex systems and how they are incorporated into a silicon environment. Credit is not allowed for both ECE 4130 and ECE 6130. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6132 - Computer-aided VLSI System Design
+Theory and practice of computer-aided VLSI digital systems design. Logic synthesis, semi-custom VLSI design, high-level synthesis, low-power systems, and hardware/software co-design. Individual and group projects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6133 - Physical Design Automation of VLSI Systems
+Various design automation problems in the physical design process of VLSI circuits including clustering, partitioning, floor planning, placement, routing, and compaction. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6140 - Digital Systems Test
+Introduction to the basic concepts in digital systems testing. Advanced topics in fault modeling and simulation, test pattern generation, and design for testability. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6200 - Biomedical Applications of Microelectromechanical Systems
+MEMS processing technologies, design of fabrication process flows, and applications of the technologies to the development of biomedical micro instrumentation and dectection methodologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6229 - Introduction to Microelectromechanical Systems
+Introduction to Micro-Electro-Mechanical systems: Microfabrication techniques including: photolithography, etching, physical and chemical vapor deposition, electroplating, bonding and polymer processing. Application to sensors and actuators. Credit not allowed for both ECE 6229 and ME 6229 or CHBE 6229. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6250 - Advanced Digital Signal Processing
+An introduction to advanced signal processing methods that are used in a variety of applications areas. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6254 - Statistical Digital Signal Processing and Modeling
+Introductory course in digital signal processing, and includes the following topics: signal modeling, optimum filters, and power spectrum estimations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6255 - Digital Processing of Speech Signals
+The application of digital signal processing to problems in speech communication. Part of this goal requires a laboratory project. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6258 - Digital Image Processing
+An introduction to the theory of multidimensional signal processing and digital image processing, including key applications in multimedia products and services, and telecommunications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6260 - Data Compression and Modeling
+Theory and algorithms of signal encoding and decoding for data compression. Applications in information systems, digital telephony, digital television, and multimedia Internet. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6271 - Adaptive Filtering
+Basic theory of adaptive filter design and implementation. Steepest decent, LMS algorithms, nonlinear adaptive filters, and neural networks. Analysis of performance and applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6272 - Fundamentals of Radar Signal Processing
+Signal modeling including radar cross section, multipath, and clutter. Properties of the ambiguity function and coded waveforms. Algorithms for Doppler processing, detection, and radar imaging. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6273 - Methods of Pattern Recognition with Application to Voice
+Theory and application of pattern recognition with a special application section for automatic speech recognition and related signal processing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6276 - DSP Hardware Systems Design
+A study of theory and practice in the design and implementation of DSP algorithms on programmable processors, multiprocessors, and ASICs. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6277 - DSP Software Systems Design
+Specification, evaluation, and implementation of real-time DSP applications on embedded DSP-based environments. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6279 - Spatial Array Processing
+Introduce application areas where signals are sampled over space and time. Transfer knowledge of time-based techniques to spatial processing. Develop algorithms unique to spatial processing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6280 - Cryptography & Security
+Algebraic and number theory apporaches to cryptographic techniques, information security, secret key and public key encryption, signature schemes, hash functions, message authentication, and key distribution. Credit not allowed for both ECE 6280 and CS 6260. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6282 - Radar Imaging
+An indepth study of digital signal processing methods for Synthetic Aperture Radar (SAR) image formation. Methods are also applicable to sonar. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6320 - Power Systems Control and Operation
+Introduction to methods used in the real-time operation and control of power systems as well as to the hardware and software technology of energy management systems (EMS). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6321 - Power System Stability
+Techniques for stability analysis of electric power systems and applications of these methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6322 - Power System Planning and Reliability
+To introduce basic concepts as well as analysis and optimization techniques underlying reliability assessment of electric power systems and planning techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6323 - Power System Protection
+Theory and practice of modern power system protection techniques. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 2.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6330 - Power Electronic Devices and Subsystems
+Physical considerations involved in the fabrication and use of power semiconductor devices and high-frequency magnetic transformers and inductors. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6331 - Power Electronic Circuits
+The analysis, control, and design of switching power converters: rectifiers, cycloconverters, voltage-sourced and current-source inverters, dc-dc converters, pfc and resonant converts. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6332 - Power Electronic CAD Laboratory
+To introduce the use of CAD tools in the simulation, analysis, and design of power electronic circuits and systems. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6335 - Electric Machinery Analysis
+An introduction to the analysis and basic construction principles of rotating electric machines and transformers, including ac synchronous and induction machines and dc machines. Credit is now allowed for both ECE 4335 and ECE 6335. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6336 - Dynamics and Control of Electric Machine Drives
+A study of the dynamics and control of electric machinery and variable speed machine drive systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6350 - Applied Electromagnetics
+The methodology and application of advanced electromagnetic theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6360 - Microwave Design
+Applications of electromagnetic theory to microwave components and systems. Introduction to the latest characterization and design techniques including monolithic microwave integrated circuit (MMIC) technology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6361 - Microwave Design Laboratory
+This laboratory course will teach microwave measurement/design fundamentals for both passive and active components. Students will use both CAD tools and network analyzers. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6370 - Electromagnetic Radiation and Antennas
+The fundamentals of electromagnetic radiation and antennas. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6380 - Introduction to Computational Electromagnetics
+The practical application of the finite-difference time-domain and finite element techniques to electromagnetic problems. Computer projects are required. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6390 - Satellite Communications and Navigation Systems
+To introduce satellite communications and navigation system design including microwave transmission, satellite transponders, earth station hardware, and satellite networks. A design project is required. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6412 - Analog Integrated Circuit Design
+Design of analog circuits using CMOS and bipolar technologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6414 - Analog Integrated System Design
+Design of analog systems using CMOS and bipolar technologies. A higher level of design for analog and digital systems is presented. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6416 - Low Noise Electronic System Design
+A study of the sources of noise found in electronic instrumentation. Teaches the recognition of sources of noise and the design techniques to achieve noise reduction. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6420 - Wireless IC Design
+Wireless system specifications are translated to architectures and building blocks compatible with silicon technology. The course focuses on the analysis and design of these blocks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6422 - Interface IC Design for MEMS and Sensors
+Design of high-performance integrated interface circuits for various MEMS and sensing devices. System level issues in integrated microsystems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6430 - Digital MOS Integrated Circuits
+Detailed analysis of the operation and design of high- performance MOS digital integrated circuits. Emphasis is on circuit design techniques with examples from the literature. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6435 - Neuromorphic Analog VLSI Circuits
+Large-scale analog computation for sensory and motor processing. Analog building blocks are presented, leading to VLSI systems inspired by neurobiological architectures and computational paradigms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6440 - Frequency Synthesizers
+Frequency synthesizers generate many discrete RF frequencies from one reference frequency. General synthesizers, digital PLL, direct digital, and hybrid synthesizers are covered. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6442 - Electronic Oscillators
+Starting from nonlinear differential equations, this course presents a systematic approach to the design of electronic oscillators. Design of negative resistance and feedback oscillators is discussed. CAD techniques are employed. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6444 - Silicon-Based Heterostructure Devices and Circuits
+Theory and design of novel silicon-germanium microelectronic devices and circuits. Materials, device physics, fabrication, measurement, circuit design, and system applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6450 - Introduction to Microelectronics Technology
+Presents the fundamentals of microelectronics material, device, and circuit fabrication. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6451 - Introduction to the Theory of Microelectronics
+Basis of quantum mechanics, statistical mechanics, and the behavior of solids to serve as an introduction to the modern study of semiconductors and semiconductor devices. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6453 - Theory of Electronic Devices
+Presents the fundamentals of electronic device operation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6455 - Semiconductor Process Control
+This course is designed to explore methods of applying statistical process control and statistical quality control to semiconductor manufacturing processes. Students will be required to complete a design project. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6456 - Solar Cells
+To provide a practical understanding of semiconductor materials and technology as it relates to design and development of efficient solar cells and photovoltaic systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6458 - Gigascale Integration
+Hierarchy of physical principles that enable understanding and estimation of future opportunities to achieve multibillion transistor silicon chips using sub-0.25 micron technology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6460 - Microelectromechanical Devices
+Fundamental concepts for desgin of microelectromechanical devices (MEMS), including mechanical and thermal behavior of materials and structures, transduction principles, transducer design, and modeling. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6500 - Fourier Techniques and Signal Analysis
+Introduction to the use of Fourier Methods for analysis of signals. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6501 - Fourier Optics and Holography
+Applications of the Fourier transform and linear systems theory to the analysis of optical propagation, diffraction imaging, holography, wavefront modulation, and signal processing. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6510 - Electro-Optics
+Study of the fundamental principles and primary applications of lasers, and of detectors of optical radiation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6520 - Integrated Optics
+Theory and design of optical waveguides and optical waveguide devices. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6521 - Optical Fibers
+Provides an in-depth understanding of the light-guiding properties of optical fibers as used in communication systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6522 - Nonlinear Optics
+Provides an introduction to the field of nonlinear optics, exploring the physical mechanisms, applications, and experimental techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6530 - Modulation, Diffractive, and Crystal Optics
+Provides a working knowledge of temporal and spatial optical modulation, diffractive optical devices, and crystal optics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6540 - Organic Optoelectronics
+Fundamental understanding of the optical and electronic properties of organic materials and devices that form the basic of the emerging technological area of printed flexible optoelectronics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6542 - Optoelectronics: Devices, Integration, Packaging, Systems
+Optoelectronic devices (detectors, emitters, modulators) from the practical realized and theoretical performance perspective. Explores monolithic and hybrid integration of devices, packaging, and system implementation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6543 - Fiber-optic Networks
+Architectural, performance and design aspects of fiber-optic communications networks, components, and technologies. Relationship between the physical network implementation and the higher-level network architecture. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6550 - Linear Systems and Controls
+Introduction to linear system theory and feedback control. Topics include state space representations, controllability and observability, linear feedback control. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6551 - Digital Control
+Techniques for analysis and synthesis of computer-based control systems. Design projects provide an understanding of the application of digital control to physical systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6552 - Nonlinear Systems and Control
+Classical analysis techniques and stability theory for nonlinear systems. Control design for nonlinear systems, including robotic systems. Design projects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6553 - Optimal Control and Optimization
+Optimal control of dynamic systems, numerical optimization, techniques and their applications in solving optical-trajectory problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6554 - Adaptive Control
+Methods of parameter estimation and adaptive control for systems with constant or slowly varying unknown parameters. MATLAB design projects emphasizing applications to physical systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6555 - Optimal Estimation
+Techniques for signal and state estimation in the presence of measurement and process noise with the emphasis on Wiener and Kalman filtering. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6556 - Intelligent Control
+Principles of intelligent systems and their utility in modeling, identification, and control of complex systems; neuro-fuzzy tools applied to supervisory control; hands-on laboratory experience. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6557 - Manufacturing Systems Design
+Analytic and simulation tools for design, control, and optimization of manufacturing systems. Discrete event dynamic systems and optimization. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6558 - Stochastic Systems
+Advanced techniques in stochastic analysis with emphasis on stochastic dynamics, nonlinear filtering and detection, stochastic control, and stochastic optimization and simulation methods. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6559 - Advanced Linear Systems
+Study of multivariable linear system theory and robust control design methodologies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6560 - Partial Differential Equations in Image Processing and Computer Vision
+Mathematical foundations and numerical aspects of partial-differential equation techniques used in computer vision. Topics inculde image smoothing and enhancement, edge detection, morphology, and image reconstruction. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+0.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6561 - Computing for Control Systems
+Introduction to real-time computing, distributed computing, and software engineering in control systems. The particular requirements of control systems will be presented. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6601 - Random Processes
+To develop the theoretical framework for the processing of random signals and data. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6602 - Digital Communications
+Basic M-ary digital communications systems, with emphasis on system design and performance analysis in the presence of additive noise. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6603 - Advanced Digital Communications
+The theory and practice of efficient digital communications over linear dispersive channels, including adaptive equalization and synchronization. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6604 - Personal and Mobile Communications
+To introduce various topics that are fundamental to cellular mobile telephone systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6605 - Information Theory
+To introduce the mathematical theory of communications. Emphasis will be placed on Shannon's theorems and their use in the analysis and design of communication systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6606 - Coding Theory and Applications
+To introduce the theory and practice of error control coding, with emphasis on linear, cyclic, convolutional, and parallel concatenated codes. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6607 - Computer Communication Networks
+Fundamental concepts of computer network architecture and protocols. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6608 - Performance Analysis of Communications Networks
+Fundamental concepts of queuing systems, and applications of queuing theory to the performance evaluation of computer networks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6610 - Wireless Networks
+Fundamental concepts of wireless networks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6611 - Broadband Networking
+Fundamental concepts of broadband networking, including network models, ATM networks, quality of service, and traffic management. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6612 - Computer Network Security
+Fundamental concepts of network information security, including encryption, secure access methods, and vulnerabilities in network protocols, operating systems, and network applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6613 - Broadband Access Networks
+Study and comparison of ongoing and emerging access newtwork technologies, including hybrid-fiber-coax, FTTP/FTTH, Gigabit Ethernet, ADSL/VDSL, and ultra wideband wireless data over fiber systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6614 - Multimedia Communications: Signal Processing, Networking, Applications, and Standards
+Comprehensive coverage of media compression, synthesis and recognition, media communications and networking, and standards for audiovisual communications over wired and wireless networks. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6615 - Sensor Networks
+Basics of sensor network communications. Applications, architectures, and communication protocols for sensor networks are treated in depth. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6730 - Modeling and Simulation: Foundations and Implementation
+Foundations and algorithms concerning the development of conceptual models for systems, and their realization in the form of computer software; discrete and continuous models. Crosslisted with CSE 6730. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6744 - Topics in Engineering Practice
+Topics of current importance offered in collaboration with an approved partner of Georgia Tech's Distance Learning Program. Crosslisted with ME 6744. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+0.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6759 - Plasma Processing of Electronic Materials and Devices
+Fundamental physics, chemistry, chemical engineering, and electrical engineering principles inherent in plasma processes. Includes etching, deposition, diagnostic methods, and control schemes. Crosslisted with CHE 6759. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6771 - Optoelectronics: Materials, Processes, Devices
+Optoelectronic materials, physical processes, and devices. Includes compound semiconductor materials, excitation, recombination, gain, and modulation processes and devices such as emitters, detectors, and modulators. Crosslisted with PHYS 6771. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6776 - Integrated Low-Cost Microelectronics Systems Packaging
+Broad overview of system-level, cross-disciplinary microelectronics packaging technologies, including design, test, thermal, reliability, optoelectronics, and RF integration. Comparison of system-on-chip and system-on-package. Crosslisted with ME and MSE 6776. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6779 - Thermal Engineering for Packaging of Micro and Nano Systems
+Passive, active, and hybrid thermal management techniques, and computational modeling of micro systems. Air cooling, simlge phase and phase change liquid cooling, heat pipes, and thermoelectrics. Crosslisted with ME 6779. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6780 - Medical Image Processing
+A study of methods for enhancing, analyzing, interpreting, and visualizing information from two- and three-dimensional data obtained from a variety of medical imaging modalities. Crosslisted with CS and BMED 6780. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6786 - Medical Imaging Systems
+A study of the principles and design of medical imaging systems such as X-ray, ultrasound, nuclear medicine, and nuclear magnetic resonance. Crosslisted with BMED 6786. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6787 - Quantitative Electrophysiology
+A quantitative presentation of electrophysiological systems in biological organisms, emphasizing the electrical properties and modeling of neural and cardiac cells and systems. Crosslisted with BMED and PHYS 6787. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6792 - Manufacturing Seminar
+Guest speakers on a broad range of manufacturing-related topics: research, applications, and technology. Required for Certificate in Manufacturing. Crosslisted with ISYE and ME 6792. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 6XXX - Elec/Comp Engr Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+ECE 7000 - Master's Thesis
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7055 - GT-SJTU
+For GT-SJTU dual-MS students during terms when they are not taking other GT courses. Placeholder course. 
+
+12.000 Credit hours 
+12.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7102 - RISC Architectures
+An advanced design-oriented class studying the design techniques and operational principles of modern Superscalar RISC datapaths. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7131 - Asynchronous and Self-timed Systems
+Specification and design of asynchronous digital systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7141 - Advanced Digital Systems Test
+Design and test techniques for high-speed digital systems operating at rates above 100 MHz with a practical emphasis via substantial projects. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7142 - Fault Tolerant Computing
+Key concepts in fault-tolerant computing. Understanding and use of modern fault-tolerant hardware and software design practices. Case studies. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7251 - Signal Detection and Estimation
+Detection theory and estimation theory and their application to communications and statistical signal processing problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7252 - Advanced Signal Processing Theory
+A lecture and seminar treatment of the latest developments in signal processing. Emphasis is placed on current literature and emerging research areas. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7370 - Antennas and Wave Propagation in Matter
+Basic methods for characterizing the electromagnetic properties of common materials (geophysical, biological, etc.) and techniques for analyzing antennas and wave propagation in these materials. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7380 - Topics in Computational Electromagnetics
+Computational approaches for applications such as radar signature prediction, microwave antenna and device design, and modeling techniques for electronic packaging. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7611 - Advanced Communication Theory
+Latest developments in communications and networking are treated in lecture and seminar. Emphasis on current literature and open research areas. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7785 - Introduction to Robotics Research
+Familiarizes students with the core areas of robotics; mechanics, control, perception, AI, and autonomy. Provides an introduction to the mathematical tools required in robotics research. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 7999 - Preparation for Doctoral Qualifying Examination
+This course is reserved for students who are studying for the ECE Preliminary Exam. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8001 - ECE Seminar
+Speakers with diverse backgrounds and representing many different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8002 - ECE Seminar
+Speakers with diverse backgrounds and representing different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8003 - ECE Seminar
+Speakers with diverse backgrounds and representing many different industries, professions, and institutions describe their experiences, entrepreneurial ventures, and research challenges. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8010 - Research Seminar
+Seminar presentations describing ECE-related research projects, centers, and other activities at Georgia Tech. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8020 - Professional Communication Skills
+Written, oral, and graphical communication skills needed by electrical and computer engineering professionals. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8022 - Professional Communication Seminar
+Seminar presentations on oral and written technical communication skills needed by electrical and computer engineering professionals. Credit for this course may not be used toward the master's degree in ECE. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8750 - Robotics Research Foundation I
+Multidisciplinary research course supervised by two robotics faculty from different schools participating in the robotics Ph.D. program. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8751 - Robotics Research Foundation II
+Continuation of AE 8751 (Robotics Research Foundation I). 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8805 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8811 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8812 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8813 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8814 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8815 - Special Topics
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8823 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8833 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8843 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8853 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8863 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8873 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8881 - Special Topics-Laboratory
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8882 - Special Topics-Laboratory
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8883 - Special Topics-Laboratory
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8884 - Special Topics-Laboratory
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8891 - Special Topics-Laboratory
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8892 - Special Topics-Laboratory
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8893 - Special Topics-Laboratory
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8894 - Special Topics-Laboratory
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8900 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8902 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8903 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8997 - Teaching Assistantship
+For students holding graduate teaching assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8998 - Research Assistantship
+For students holding graduate research assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 8999 - Preparation for Doctoral Dissertation
+This course is reserved for students who are actively seeking Ph.D. advisors and/or dissertation topics. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+ECE 9000 - Doctoral Thesis
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Electrical & Computer Engr Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

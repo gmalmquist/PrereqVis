@@ -6,7 +6,11 @@ import gm.nodeode.math.graph.UnionFind;
 import java.util.Collection;
 import java.util.List;
 
-
+/**
+ * Abstract interface for accessing both graph connectivity and visual node data.
+ * @author Garrett
+ *
+ */
 public abstract class OdeAccess {
 	public abstract Visode find(String id);
 	public abstract void register(Visode ode);

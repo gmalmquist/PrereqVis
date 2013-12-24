@@ -1,0 +1,142 @@
+Course	Name	Attributes	Prerequisites
+BMED 1000	Introduction to Biomedical Engineering		
+BMED 1300	Problems in Biomedical Engineering I		BMED 1000
+BMED 1750	Introduction to Bioengineering		
+BMED 1801	Special Topics		
+BMED 1802	Special Topics		
+BMED 1803	Special Topics		
+BMED 1804	Special Topics		
+BMED 1805	Special Topics		
+BMED 1811	Special Topics		
+BMED 1812	Special Topics		
+BMED 1813	Special Topics		
+BMED 1814	Special Topics		
+BMED 1815	Special Topics		
+BMED 2210	Conservation Principles in Biomedical Engineering	Tech Elect CS,Engr,&Sciences	BMED 1300,CHEM 1211,CHEM 1310,|,&,PHYS 2211,&
+BMED 2300	Problems in Biomedical Engineering II	Tech Elect CS,Engr,&Sciences	BMED 1300
+BMED 2400	Introduction to Bioengineering Statistics		MATH 1501,CS 1371,&
+BMED 2698	Undergraduate Research Assistantship		
+BMED 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+BMED 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2804	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2805	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2811	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2812	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2813	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2814	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 2815	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 3100	Systems Physiology		CHEM 1315,CHEM 2311,|
+BMED 3110	Quantitative Engineering Physiology Laboratory I		BMED 3100,BMED 3400,&,BMED 2400,CEE 3770,|,ISYE 3770,MATH 3770,|,|,&
+BMED 3300	Biotransport	Tech Elect CS,Engr,&Sciences	BMED 2210,MATH 2403,&
+BMED 3400	Introduction to Biomechanics	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 2413,|,COE 2001,&
+BMED 3500	Biomedical Sensors and Instrumentation	Tech Elect CS,Engr,&Sciences	BMED 2300,ECE 2025,&,ECE 3741,&,CEE 3770,ISYE 3770,|,MATH 3770,BMED 2400,|,|,&
+BMED 3510	Biomedical Systems and Modeling		PHYS 2212,MATH 2403,&,BMED 3100,&
+BMED 3600	Physiology of Cellular and Molecular Systems		BMED 3100
+BMED 3610	Quantitative Engineering Physiology Laboratory II		BMED 2300,BMED 3300,&,BMED 3110,&,BMED 3600,&
+BMED 4400	Neuroengineering Fundamentals	Tech Elect CS,Engr,&Sciences	BIOL 4752,BMED 4752,|,BMED 3110,&
+BMED 4477	Biological Networks and Genomics	Tech Elect CS,Engr,&Sciences	ECE 2025,BMED 3600,&,CEE 3770,ISYE 3770,|,MATH 3770,BMED 2400,|,|,&
+BMED 4500	Cell and Tissue Engineering Laboratory	Tech Elect CS,Engr,&Sciences	BMED 3610
+BMED 4600	Senior Design Project I	Tech Elect CS,Engr,&Sciences	BMED 3610,BMED 2300,&
+BMED 4601	Senior Design Project II	Tech Elect CS,Engr,&Sciences	BMED 4600
+BMED 4602	Capstone Design		BMED 2300,BMED 3610,&
+BMED 4603	Advanced Design		BMED 4602
+BMED 4698	Undergraduate Research Assistantship		
+BMED 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+BMED 4740	Biologically Inspired Design		BIOL 1520,BIOL 3600,|,BMED 3100,BMED 4751,|,|,PHYS 2211,|
+BMED 4750	Diagnostic Imaging Physics	Tech Elect CS,Engr,&Sciences	BMED 3110
+BMED 4751	Introduction to Biomaterials	Tech Elect CS,Engr,&Sciences	MSE 2001
+BMED 4752	Introductory Neuroscience	Tech Elect CS,Engr,&Sciences	BMED 3600,BIOL 3340,|
+BMED 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	BMED 3300
+BMED 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	BMED 3400
+BMED 4765	Drug Design, Development and Delivery	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|
+BMED 4781	Biomedical Instrumentation	Tech Elect CS,Engr,&Sciences	ECE 3050,ECE 3710,|
+BMED 4782	Biosystems Analysis	Tech Elect CS,Engr,&Sciences	BMED 3500,CHBE 4400,|,ECE 2040,ME 3015,|,|
+BMED 4783	Introduction to Medical Image Processing	Tech Elect CS,Engr,&Sciences	ECE 2025,MATH 3770,ISYE 3770,|,CEE 3770,|,&,BMED 2400,|
+BMED 4784	Engineering Electrophysiology	Tech Elect CS,Engr,&Sciences	ECE 3040,BMED 3510,|
+BMED 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4805	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4811	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4812	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4813	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4814	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4815	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4823	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4833	Special Topics	Tech Elect CS,Engr,&Sciences	
+BMED 4843	Special Topics		
+BMED 4900	Special Problems	Tech Elect CS,Engr,&Sciences	
+BMED 4901	Special Problems	Tech Elect CS,Engr,&Sciences	
+BMED 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+BMED 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+BMED 6041	Analytical Methods for Biomedical Engineering		
+BMED 6042	Systems Physiology		
+BMED 6210	Magnetic Resonance Imaging		BMED 4750,BMED 6786,&
+BMED 6501	Fundamentals of Biomedical Innovation and Development Processes		
+BMED 6502	BioID Clinical Literacy and Experience		
+BMED 6503	Medical Markets and Clinical Specialties		
+BMED 6504	Financial Planning for Development Projects		
+BMED 6505	Product Planning and Project Management		BMED 6504
+BMED 6506	Professional Communications for Biomedical Innovation and Development		
+BMED 6507	Medical Device Regulatory Requirements		
+BMED 6508	BioID Team Masters Project I		BMED 6501
+BMED 6509	BioID Masters Project II		BMED 6508
+BMED 6700	Biostatistics		BMED 2400,ISYE 2028,|,ISYE 3770,|
+BMED 6710	Rational Design of Biomaterials		
+BMED 6711	Rational Design of Biomaterials Lab		
+BMED 6720	Biotransport		
+BMED 6730	Materials Science of Cellular Components		
+BMED 6740	Living System Modeling & Analysis		
+BMED 6743	Tissue Mechanics		
+BMED 6753	Principles of Management for Engineers		
+BMED 6760	Information Processing Models in Neural Systems		ECE 2025,ECE 3075,&
+BMED 6765	Drug Design, Development and Delivery		CHEM 3511,CHEM 4511,|
+BMED 6774	Biomaterials: Structure and Function		
+BMED 6777	Advanced Biomaterials		BMED 6776,CHBE 6776,|,ME 6776,MSE 6776,|,|,PTFE 6776,|
+BMED 6779	Bioprocess Engineering		
+BMED 6780	Medical Image Processing		
+BMED 6782	Cellular Engineering		
+BMED 6784	Cardiovascular Biomechanics		
+BMED 6786	Medical Imaging Systems		
+BMED 6787	Quantitative Electrophysiology		
+BMED 6789	Technology Ventures		
+BMED 6793	Systems Pathophysiology		
+BMED 6794	Tissue Engineering		
+BMED 6799	Legal Issues in Technology Transfer		
+BMED 7000	Master's Thesis		
+BMED 7001	Biomedical Engineering Seminar		
+BMED 7002	Teaching Practicum I		
+BMED 7003	Teaching Practicum II		
+BMED 7011	Integrative Core: Introduction to Modeling and Experimentation in Biomedical Engineering		
+BMED 7012	Integrative Core: Experimental Design-Measurements at the Right Spatial and Temporal Scales		
+BMED 7013	Integrative Core: Problem Solving with Computational Models		
+BMED 7101	Advanced Seminar: Biomaterials & Regenerative Medicine		
+BMED 7201	Advanced Seminar: Cardiovascular Biology & Biomechanics		
+BMED 7301	Advanced Seminar: Cellular & Biomolecular Engineering		BMED 6782
+BMED 7310	Stem Cell Engineering		
+BMED 7410	Introduction to Multiscale Analysis in Systems		
+BMED 7411	Mathematical Models in Biology & Medicine		
+BMED 7413	Biochemical Systems Analysis		
+BMED 7601	Advanced Seminar: Neuroengineering and Neuropathology		
+BMED 7610	Quantitative Neuroscience		
+BMED 7785	Introduction to Robotics Research		
+BMED 8696	Teaching Assistant Training Opportunity Program Stage II		
+BMED 8697	Teaching Assistant Training Opportunity Program Stage III		
+BMED 8750	Multidisciplinary Robotics Research I		AE 7785,CS 7785,|,ECE 7785,BMED 7785,|,|
+BMED 8751	Multidisciplinary Robotics Research II		AE 8750,CS 8750,|,ECE 8750,BMED 8750,|,|
+BMED 8811	Special Topics		
+BMED 8812	Special Topics		
+BMED 8813	Special Topics		
+BMED 8814	Special Topics		
+BMED 8815	Special Topics		
+BMED 8823	Special Topics		
+BMED 8853	Special Topics		
+BMED 8901	Special Problems		
+BMED 8902	Special Problems		
+BMED 8903	Special Problems		
+BMED 8997	Teaching Assistantship		
+BMED 8998	Research Assistantship		
+BMED 9000	Doctoral Thesis		

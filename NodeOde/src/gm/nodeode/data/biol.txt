@@ -1,0 +1,1355 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 21, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+BIOL 1510 - Biological Principles
+An introduction to the basic principles of modern biology, including biomacromolecules, bioenergetics, cell structure, genetics, homeostasis, evolution, and ecological relationships. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 1511 - Honors Biological Principles
+An advanced introduction to the principles of modern biology, including biomacromolecules, bioenergetics, cell structure, genetics, homeostasis, evolution, and ecological relationships. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 1520 - Introduction to Organismal Biology
+An introduction to biology at the organ and organismal levels, with emphasis on physiological processes and integration of growth and development. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 1521 - Honors Introduction to Organismal Biology
+Introduction to biology at the organ and organismal levels, with emphasis on biodiversity, physiological processes, and integration of growth, reproduction and development. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 1XXX - Biology Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+BIOL 2100 - Island Biogeography of New Zealand
+Introduction to theory of island biogeography focused on New Zealand's geological history and unique biota. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2335 - General Ecology
+Introduction to ecological processes at individual, population, and community levels that occur in plant, animal, and microbial taxa, and their relevance to current environmental problems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2336 - General Ecology Laboratory
+The companion laboratory for BIOL 2335 (Ecology). This course stresses understanding ecological concepts through a combination of lab and field experiments, and computer simulations. 0 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2337 - Honors Ecology
+A problem-based learning course in ecology. Student teams will do research and solve challenges typically faced by ecologists and environmental scientists. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2338 - Honors Ecology Laboratory
+Companion course to Honors Ecology. Student teams will explore solutions to ecological challenges using experiments and mathematical models. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2344 - Genetics
+Mendelian and molecular genetics; principles of inheritance, gene structure and function, foundations of recombinant DNA technology, genetic basis of variation and evolution. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2345 - Genetics Laboratory
+A laboratory course in the fundamental techniques of genetic analysis. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2354 - Honors Genetics
+A comprehensive genetics course incorporating discussions of primary literature. Topics include molecular genetics and gene action, transfer systems and mapping, cytological, quantitative and population genetics. Credit not allowed for both BIOL 2354 and BIOL 2344. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2355 - Honors Genetics Laboratory
+Hands-on introduction to practical techniques, critical thinking, and important concepts in genetics. Students carry out laboratory experiments that explore transmission, population, and molecular genetics. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2400 - Mathematical Models in Biology
+Introductory probability and deterministic models in biology, including discrete and continuous probability distributions and dynamic models from molecular and cellular biology to ecology and epidemiology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 2699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2801 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological sciences. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2802 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological sciences. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2803 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological sciences. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2804 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological sciences. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2805 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological sciences. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2901 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2902 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2903 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2904 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2905 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 2XXX - Biology Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+BIOL 3100 - Ecology and Evolution: An Australian Perspective
+Evolution and ecology of Australian ecosystems, including rainforests, open woodlands, coastal habitats; conservation of endangered ecosystems. Earns Biology technical credit. Research project required. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3300 - Tropical Ecology
+Ecological processes in the tropics including community organizations, biotic interactions, biodiversity, coevolution. Students perform research projects in rain forest, cloud forest, and seashore. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3380 - Introductory Microbiology
+Basic biology of bacteria, fungi, algae, and viruses, with emphasis on bacteriology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3381 - Introductory Microbiology Laboratory
+Fundamental laboratory techniques in microbiology. 
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3450 - Cell and Molecular Biology
+An introduction to the structure and function of cells and their organelles with emphasis on eucaryotic cellular and molecular processes. Credit not allowed for both BIOL 3450 and BIOL 3340. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 3451 - Cell and Molecular Biology Lab
+An introduction to experimental methods of cell and molecular biology research that will cover some fundamental topics of cell biology. Credit not allowed for both BIOL 3451 and BIOL 3341. 
+
+0.000 OR 1.000 Credit hours 
+0.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 3600 - Introduction to Evolutionary Biology
+Comprehensive introduction to evolutionary biology. Includes focus on processes (natural selection, genetic drift) and resulting patterns (genome organization, phylogeny) illustrated with prokaryote and eukaryote examples. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3751 - Human Anatomy and Physiology
+Study of human anatomy and fundamental physiological mechanisms. Topics include nervous, musculoskeletal, and cardiorespiratory systems. Free elective for biology majors. Crosslisted with AP 3751. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 3753 - Fundamentals of Anatomy
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 3754 - Laboratory in Human Anatomy
+
+1.000 Credit hours 
+0.000 Lecture hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 3755 - Human Physiology
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 3756 - Laboratory in Human Physiology
+
+1.000 Credit hours 
+3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 3813 - Special Topics
+Topics of current interest not covered in other courses in the department. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 3XXX - Biology Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+BIOL 4012 - Protein Biology
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4015 - Cancer Biology and Biotechnology
+This course covers basic concepts of cancer biology and new technologies that are being developed to understand, detect, treat, and prevent cancer. Credit not allowed for both BIOL 4015 and BIOL 7015. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4101 - Sensory Ecology
+A quantitative analyses of communication channels and information acquisition involving visual, auditory, mechanosensory, and olfactory modalities across a range of species and habitats. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4105 - Macromolecular Modeling
+Principles and practices in the use of molecular mechanics methods (minimization; molecular dynamics) to study structure-function relationships in biological macromolecules. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4150 - Genomics and Applied Bioinformatics
+Retrieval and analysis of biological sequence, gene expression, and proteomics data from public databases and other sources; applying standard bioinformatics tools to investigate biological questions. Credit not allowed for both BIOL 4150 and BIOL 6150. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4221 - Biological Oceanography
+An introduction to the major biological processes in the ocean including primary production, elemental cycling, food webs, and fisheries. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4225 - Molecular Evolution
+Evolutionary processes at molecular level, organizations of genomes and genetic systems. Students will read and present up-to-date research articles in various topics in molecular evolution. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4340 - Medical Microbiology
+Advanced study of bacteria, protozoa, fungi, and viruses that cause human diseases; emphasis on epidemiology, mechanisms of disease causation, prevention, and treatment. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4401 - Experimental Design and Statistical Methods in Biology
+Introductory course on experimental design, hypothesis testing and basic statistical techniques commonly applied in biological research. Exercises based on computer statistical software packages. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4410 - Microbial Ecology
+Advanced studies of microbial ecosystems, the specific roles of bacteria in maintaining ecological balance, and the evolution of the ecosystem in response to changing environments. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4417 - Marine Ecology
+An overview of the physical forces and biotic interactions structuring marine communities and of the major threats to these communities. Credit not allowed for both BIOL 4417 and BIOL 6417. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4418 - Microbial Physiology
+Study of the physiology of growth and metabolic activities of microorganisms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4422 - Theoretical Ecology
+Theoretical foundations of ecology, from the population to the community and ecosystem levels. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4440 - Plant Physiology
+Chemical transformation in photosynthesis, photophysiology and water relationships, organic nutrition and effects of hormones on growth and development of plants. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4446 - General Animal Physiology I
+Systems physiology including nerves, muscles, kidney, digestion, circulation, endocrinology, reproduction, and respiration. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4450 - Seminar
+Senior students present seminars on recent research topics based on their own research experience and/or literature research. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4464 - Developmental Biology
+Investigations of cell differentiation and development using the tools of molecular genetics and cell biology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4471 - Behavioral Biology
+An introduction to the study of the principles of behavior of all kinds of organisms, from microbes to mammals. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4478 - Biophysics
+Biophysical aspects of nucleic acids, proteins, and their interactions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4480 - Evolutionary Developmental Biology-How to Build an Organism
+This course teaches students how the process of development from embryo to adult impacts evolutionary diversity and human health. Credit not allowed for both BIOL 4480 and BIOL 6480. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4545 - Genetics of Complex Human Traits and Diseases
+Introduction to the genetics and evolution of complex human traits, focusing on contemporary approaches to understanding susceptibility to malignant, metabolic, immune and psychological diseases. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4570 - Immunology and Immunochemistry
+A survey of modern immunology and its applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4590 - Research Project Lab
+Experience in designing, implementing, and communicating a biology research project, and practical training in modern approaches for biological research. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4608 - Prokaryotic Molecular Genetics
+The molecular genetics of bacteria and their viruses, with emphasis in the organization, replication, expression, transfer and experimental manipulation of prokaryotic genes and genomes. Credit not allowed for both BIOL 4220 and BIOL 4608. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4620 - Aquatic Chemical Ecology
+Focuses on understanding the chemical mechanisms of aquatic signaling and the cascading effects on population regulation, community organization, and ecosystem function. Credit not allowed for both BIOL 4620 and BIOL 6620. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4650 - Bioethics
+This course will examine the process of scientific inquiry and the ethical implications of research in the biological sciences. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Ethics Requirement 
+
+BIOL 4668 - Eukaryotic Molecular Genetics
+Topics in molecular genetics, including genetic engineering techniques, gene expression and regulation, genetic structure, stability and evolution, with emphasis on eukaryotic organisms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4690 - Independent Research Project
+Independent research with proposal and manuscript writing, conducted with the guidance of a faculty member. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4696 - Biology Undergraduate Teaching Assistantship
+Biology teaching carried out under the guidance of a faculty member. Credit not allowed for both BIOL 4696 and BIOL 4697. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4697 - Biology Undergraduate Teaching Experience
+An introduction to teaching biology for undergraduate teaching assistants, with a focus on effective teaching active engagement of students, and development of innovative classroom activities. Credit not allowed for both BIOL 4697 and BIOL 4696. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4740 - Biologically Inspired Design
+We examine evolutionary adaptation as a source for engineering design inspiration, utilizing principles of scaling, adaptability, and robust multifunctionality that characterize biological systems. Credit not allowed for both BIOL 4740 and (ISYE 4740 or PTFE 4740 or MSE 4740 or ME 4740). 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4746 - Signaling Molecules
+The diversity of chemical signals between organisms and their structural specifications will be presented along with chemical and biological methods for isolating signaling molecules. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4752 - Introductory Neuroscience
+Goals are to understand the components of the nervous system and their functional interactions, and appreciate the complexity of higher order brain functions and pathways. Crosslisted with BMED 4752. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4755 - Mathematical Biology
+An introduction to practical applications of mathematical models to help unravel the underlying mechanisms involved in biological processes. Crosslisted with MATH 4755. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4801 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4802 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4803 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4804 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4805 - Special Topics
+This designation enables the School of Biology to provide new lecture courses dealing with areas of current interest in biological science. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 4901 - Special Problems
+Research problem in biology under supervision of a faculty member. To be offered any term with credit to be arranged. Seven hours (four hours technical electives + three hours free elective) are the maximum credits allowed toward the Bachelor of Science in Biology degree. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4902 - Special Problems
+Research problem in biology under supervision of a faculty member. To be offered any quarter with credit to be arranged. Seven hours (four hours technical electives + three hours free electives) are the maximum credits allowed toward the Bachelor of Science in Biology degree. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4903 - Special Problems
+Research problem in biology under supervision of a faculty member. To be offered any quarter with credit to be arranged. Seven hours (four hours technical electives + three hours free electives) are the maximum credits allowed toward the Bachelor of Science in Biology degree. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4904 - Special Problems
+Research problem in biology under supervision of a faculty member. To be offered any quarter with credit to be arranged. Seven hours ( four hours technical electives + three hours free electives) are the maximum credits allowed toward the Bachelor of Science in Biology degree. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4905 - Special Problems
+Special problem in biology under supervision of a faculty member. To be offered any quarter with credit to be arranged. Seven hours (four hours technical electives + three hours free electives) are the maximum credits allowed toward the Bachelor of Science in Biology degree. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+BIOL 4910 - Honors Undergraduate Research Thesis
+Writing and submission of an Undergraduate Research Thesis describing research accomplishments with a biology faculty member. 
+
+3.000 Credit hours 
+0.000 Lecture hours 
+9.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 4XXX - Biology Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+BIOL 6150 - Genomics and Applied Bioinformatics
+Retrieval and analysis of biological sequence, gene expression, and proteomics data from public databases and other sources; applying standard bioinformatics tools to investigate biological questions. Credit not allowed for both BIOL 6150 and BIOL 4150. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 6221 - Biological Oceanography
+An introduction to the major biological processes in the ocean, including primary production, elemental cycling, food webs, and fisheries. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6410 - Microbial Ecology
+Advanced studies of microbial ecosystems, the specific roles of bacteria in maintaining ecological balance, and the evolution of the ecosystem in response to changing environments. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6417 - Marine Ecology
+An overview of the ecological and evolutionary patterns, processes, and mechanisms affecting the organization, structure, and function of a broad variety of marine communities. Credit not allowed for both BIOL 6417 and BIOL 4417. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6418 - Microbial Physiology
+Study of the physiology of growth and metabolic activities of microorganisms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6422 - Theoretical Ecology
+Theoretical foundations of ecology, from the population to the community and ecosystem levels. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6478 - Methods in Molecular Biophysics
+An introduction to biophysical methods that are employed to study biological macromolecules and their interaction to gain understanding of how they function. Credit not allowed for both BIOL 6478 and BIOL 4478. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6480 - Evolutionary Developmental Biology-How to Build an Organism
+This course teaches students how the process of development from embryo to adult impacts evolutionary diversity and human health. Credit not allowed for both BIOL 6480 and BIOL 4480. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6570 - Immunology
+A survey of modern immunology and its applications, with emphasis on immunological methods used in molecular and cell biological research. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6600 - Evolution
+An introduction to evolutionary patterns and processes, including the history of life, phylogenetics, population genetics, quantitative genetics, molecular evolution, and other important topics in evolutionary biology. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6608 - Prokaryotic Molecular Genetics
+Molecular mechanisms of bacterial and plasmid genetic processes. Topics covered include genome organization, DNA replication, transcription, and translation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6611 - Advanced Microbial Physiology
+Advanced studies of selected aspects of the physiololgy of prokaryotic and eukaryotic microorganisms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6620 - Aquatic Chemical Ecology
+The course focuses on understanding the chemical mechanisms of aquatic signaling and the cascading effects on population regulation, community organization, and ecosystem function. Credit not allowed for both BIOL 6620 and BIOL 4620. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6623 - Experiments in Aquatic Chemical Signaling
+A full-time commitment to student-originated, but faculty-guided, interdisciplinary research in aquatic chemical signaling using field, lab, and flume facilities at Skidaway Institution of Oceanography on the coast. 
+
+0.000 OR 6.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 12.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 6626 - Physiological Ecology
+Study of the basic physiological processes and systems in vertebrates and invertebrates. Comparative study on how these systems are adapted for specific environments and functions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6628 - Aquatic Toxicology
+Study of the biological effects of toxicants on aquatic organisms-mechanisms of toxicity, biotransformation, toxicity tests, ecological risk assessment. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6630 - Advanced Microbial Ecology
+Advanced studies of selected aspects of the ecology of prokaryotic and eukaryotic organisms. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6720 - Environmental Microbial Genomics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6756 - Discovery of Signaling Molecules
+The diversity of chemical signals between organisms and their structural specificities will be presented along with chemical and biological methods for isolating signaling molecules. Crosslisted with CEE 6756 and CHEM 6756. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6765 - Geomicrobiology
+Interactions between microorganisms and the geosphere, microbial energetics and genetics; geochemical controls on microbial diversity and activity. Crosslisted with EAS 6765. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 6XXX - Biology Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+BIOL 7000 - Master's Thesis
+Master's Thesis 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7001 - Foundations in Molecular and Cell Biology
+The goal of this course is to provide new students with fundamental knowledge in the general areas of prokaryotic and eukaryotic molecular biology, biochemistry, structural biology, and bioinformatics. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7010 - Advanced Cell Biology
+Current topics in eukarytotic cell biology including membrane functions, intracellular sorting and compartmentalization, cell signaling, cell cycle, cytoskeleton, cell adhesion, motility, and current experimental approaches. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7015 - Cancer Biology and Technology
+This course covers the major concepts of cancer biology as well as to state-of-the-art technologies that are being applied to cancer research, detection and treatment. Credit not allowed for both BIOL 7015 and BIOL 4015. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7023 - Bioinformatics
+Introduction to mathematical, statistical, and computer methods of nucleic acid and protein sequence analysis and interpretation. Algorithms for gene finding, protein structure and function prediction, constructing phylogenetic trees. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Biology Department 
+
+BIOL 7101 - Advanced Sensory Ecology
+A quantitative analysis of how organisms of all kinds obtain information about their environment, and how they use it to guide locomotions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7110 - Macromolecular Modeling
+Principles and practices in the use of molecular mechanics methods (minimization: molecular dynamics) to study structure-function relationships in biological macromolecules. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7111 - Molecular Evolution
+Evolutionary processes at the molecular level, organizations of genomes and genetic systems. Students will read and present up-to-date research articles in various topics in molecular evolution. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7210 - Computational Genomics
+In this active learning class, students will learn to convert sequence information into knowledge through the use of computational genomics tools, applications and databases. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7668 - Eukaryotic Molecular Genetics
+Topics in molecular genetics of eukaryotic organisms, including: gene structure and expression, protein processing and folding, genome stability, and molecular evolution. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7913 - Advances in Microbiology
+Topics of current interest in microbial physiology, applied microbiology, microbial ecology, and medical microbiology. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7914 - Advances in Bacteriology
+Topics of current interest in the physiology and ecology of bacteria and applications to practical problems. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7923 - Advances in Ecology
+Topics of current interest in the general areas of population growth and limitation, and the structure and stability of ecosystems. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7924 - Advances in Environmental Biology
+Topics of current interest in environmental biology. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7963 - Advances in Molecular Biology
+Topics of current interest in molecular biology. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 7964 - Advances in Genetics
+Topics of current interest in genetics. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8000 - Integrative Biology Seminar
+A reading and discussion course structured around the School of Biology weekly seminar. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8001 - Seminar
+Presentation of research seminar. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8002 - Seminar
+Weekly seminars on current research presented by various scientists in the field of biology. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8003 - Seminar
+Weekly seminars on current research presented by various scientists in the field of biology. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8005 - Signals in the Sea Seminar
+Students and invited authorities in the field will present seminars and lead discussions focused on currently emerging topics in aquatic chemical ecology and signaling. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8006 - Integrative Approaches to Biological Systems
+This course will investigate, using samples from the literature and faculty research, the general principles of biological systems, from gene expression circuits to ecological communities. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8106 - Tools of Science Seminar
+This course addresses issues important to all successful scientists and engineers such as: research ethics; collaborations between industry, academics, and government; women and minorities in science; balancing research, teaching and service; writing, editing, and reviewing, presentations; job interviews; time management; speaking to the public and media; and scientific and university politics. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8801 - Special Topics
+New graduate lecture courses in areas of current interest. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8802 - Special Topics
+New graduate lecture courses in areas of current interest. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8803 - Special Topics
+New graduate lecture courses in areas of current interest. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8804 - Special Topics
+New graduate lecture courses in areas of current interest. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8805 - Special Topics
+New graduate lecture courses in areas of current interest. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8901 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8902 - Special Problems
+Research problems in biology under the supervision of a faculty member. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8997 - Teaching Assistantship
+For graduate students holding a teaching assistantship. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 8998 - Research Assistantship
+For graduate students holding research assistantships. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Biology Department 
+
+BIOL 9000 - Doctoral Thesis
+Doctoral Thesis 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Biology Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

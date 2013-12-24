@@ -2,7 +2,11 @@ package gm.nodeode.io;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
@@ -10,6 +14,11 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Reads in TSV files generated from associated python script
+ * @author Garrett
+ *
+ */
 public class NodeIO {
 
 	public static List<ICourse> read(String path) {
@@ -17,18 +26,28 @@ public class NodeIO {
 	}
 	
 	public static List<ICourse> read(File file) {
+		try {
+			return read(new FileInputStream(file));
+		} catch (FileNotFoundException e) {
+			return null;
+		}
+	}
+	
+	/**
+	 * Warning: closes input stream after finishing!
+	 * @param sin
+	 * @return
+	 */
+	public static List<ICourse> read(InputStream sin) {
 		List<ICourse> nodesList = new LinkedList<ICourse>();
 		
 		HashMap<String, ICourse> nodes = new HashMap<String, ICourse>();
 		List<String> empties = new LinkedList<String>();
 		
-		BufferedReader in = null;
-		try {
-			in = new BufferedReader(
-					new FileReader(file));
-		} catch (Exception e) {
-			return nodesList;
-		}
+
+		BufferedReader in = 
+				new BufferedReader(
+						new InputStreamReader(sin));
 		
 		String line = null;
 		while (true) {

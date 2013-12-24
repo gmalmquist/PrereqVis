@@ -6,6 +6,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Curve of points interpolated using Hermite splines
+ * @author Garrett
+ *
+ */
 public class HermiteLoop implements ICurve<Pt> {
 
 	private List<Pt> points;

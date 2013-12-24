@@ -1,5 +1,11 @@
 package gm.nodeode.math.geom;
 
+/**
+ * Adapter for reading circle geometry from an object
+ * @author Garrett
+ *
+ * @param <T>
+ */
 public interface CircleAdapter<T> {
 	// getters
 	public Pt position(T t);

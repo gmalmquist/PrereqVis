@@ -1,0 +1,119 @@
+Course	Name	Attributes	Prerequisites
+CHEM 1310	General Chemistry		
+CHEM 1315	Survey of Organic Chemistry		CHEM 1211,CHEM 1310,|
+CHEM 2211	Introduction to Quantitative Analysis		CHEM 1312,CHEM 1212,|
+CHEM 2311	Organic Chemistry I	Tech Elect CS,Engr,&Sciences	CHEM 1311,CHEM 1212,|
+CHEM 2312	Organic Chemistry II	Tech Elect CS,Engr,&Sciences	CHEM 2311
+CHEM 2313	Organic and Bioorganic Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 2311
+CHEM 2380	Synthesis Laboratory I	Tech Elect CS,Engr,&Sciences	CHEM 1212,CHEM 1312,|,CHEM 1313,CHEM 2211,|,|,CHEM 2311,&,CHEM 2312,&
+CHEM 2694	Intern Assistantship (Undergraduate Internship for Pay)		
+CHEM 2695	Undergraduate Internship (Undergraduate Internship for Academic Credit)		
+CHEM 2698	Undergraduate Research Assistantship		
+CHEM 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CHEM 2801	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2802	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2803	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2901	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2902	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2903	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 3111	Inorganic Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHEM 1212,&
+CHEM 3211	Analytical Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 2380,CHEM 2211,&,PHYS 2212,&
+CHEM 3281	Instrumental Analysis for Engineers	Tech Elect CS,Engr,&Sciences	PHYS 2212,CHEM 1315,CHEM 2311,|,&
+CHEM 3371	Organic Chemistry Laboratory	Tech Elect CS,Engr,&Sciences	CHEM 2380
+CHEM 3380	Synthesis Laboratory II	Tech Elect CS,Engr,&Sciences	CHEM 2380,CHEM 3111,&
+CHEM 3411	Physical Chemistry I	Tech Elect CS,Engr,&Sciences	CHEM 1311,CHEM 1212,|
+CHEM 3412	Physical Chemistry II	Tech Elect CS,Engr,&Sciences	CHEM 1311,CHEM 1212,|,PHYS 2212,&
+CHEM 3481	Physical Chemistry Laboratory I	Tech Elect CS,Engr,&Sciences	CHEM 2380,CHEM 3411,&,CHEM 3412,&
+CHEM 3482	Physical Chemistry Laboratory II	Tech Elect CS,Engr,&Sciences	CHEM 3481
+CHEM 3511	Survey of Biochemistry	Tech Elect CS,Engr,&Sciences	CHEM 1315,CHEM 2312,|
+CHEM 3700	The Science of Alternative Energy		CHEM 1310,CHEM 1211,CHEM 1212,&,|,PHYS 2211,&,PHYS 2212,&
+CHEM 4311	Advanced Organic Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 2312
+CHEM 4341	Applied Spectroscopy	Tech Elect CS,Engr,&Sciences	CHEM 2312
+CHEM 4401	Molecular Spectroscopy	Tech Elect CS,Engr,&Sciences	CHEM 3412
+CHEM 4452	Chemistry of the Solid State	Tech Elect CS,Engr,&Sciences	CHEM 3111,CHEM 3412,&
+CHEM 4511	Biochemistry I	Tech Elect CS,Engr,&Sciences	CHEM 2312
+CHEM 4512	Biochemistry II	Tech Elect CS,Engr,&Sciences	CHEM 4511
+CHEM 4521	Biophysical Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 3411,CHEM 4511,&
+CHEM 4581	Biochemistry Laboratory I	Tech Elect CS,Engr,&Sciences	CHEM 4511,CHEM 3371,CHEM 3380,|,&
+CHEM 4582	Biochemistry Laboratory II	Tech Elect CS,Engr,&Sciences	CHEM 4512,CHEM 4581,&
+CHEM 4601	Chemistry Seminar	Tech Elect CS,Engr,&Sciences	CHEM 4512
+CHEM 4684	Advanced Chemistry Lab		CHEM 3211,CHEM 3380,&,CHEM 3481,&
+CHEM 4694	Intern Assistantship (Undergraduate Internship for Pay)		
+CHEM 4695	Undergraduate Internship (Undergraduate Internship for Academic Credit)		
+CHEM 4698	Undergraduate Research Assistantship		
+CHEM 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CHEM 4740	Atmospheric Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 1310,CHEM 1212,|,PHYS 2211,&,MATH 2401,&,EAS 3603,CHEM 3411,|,&
+CHEM 4760	Biocatalysis and Metabolic Engineering	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|,CHEM 3411,CHEM 4300,|,&
+CHEM 4765	Drug Design, Development, and Delivery	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|
+CHEM 4775	Polymer Science and Engineering I: Formation and Properties	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHEM 3411,&
+CHEM 4776	Polymer Science and Engineering II: Analysis, Processing, and Laboratory	Tech Elect CS,Engr,&Sciences	CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
+CHEM 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHEM 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHEM 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHEM 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHEM 4805	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHEM 4901	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	
+CHEM 4902	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	
+CHEM 4903	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	
+CHEM 6170	Inorganic Chemistry I		
+CHEM 6171	Inorganic Chemistry II		
+CHEM 6172	Physical Methods in Inorganic Chemistry		
+CHEM 6181	Chemical Crystallography		
+CHEM 6182	Chemistry of the Solid State		
+CHEM 6183	Organometallic Chemistry		
+CHEM 6271	Analytical Chemistry I		
+CHEM 6272	Analytical Chemistry II		
+CHEM 6281	Mass Spectrometry		
+CHEM 6282	Chemical Sensors		
+CHEM 6283	Electroanalytical Chemistry		
+CHEM 6284	Environmental Analytical Chemistry		
+CHEM 6285	Analytical Spectroscopy		
+CHEM 6287	Scanned Probe Techniques		
+CHEM 6371	Identification of Organic Compounds		
+CHEM 6372	Physical Organic Chemistry		
+CHEM 6373	Organic Synthesis		
+CHEM 6381	Advanced Organic Synthesis		
+CHEM 6382	Computational Methods in Organic Chemistry and Biochemistry		
+CHEM 6471	Chemical Thermodynamics and Kinetics		
+CHEM 6472	Quantum Chemistry and Molecular Spectroscopy		
+CHEM 6481	Statistical Mechanics		
+CHEM 6482	Chemical Kinetics and Reaction Dynamics		
+CHEM 6483	Chemistry of Electronic Organic Materials		
+CHEM 6484	Chemistry of Optical Organic Materials		
+CHEM 6485	Computational Chemistry		
+CHEM 6491	Quantum Mechanics		
+CHEM 6492	Molecular Spectroscopy		
+CHEM 6501	Biochemistry I		
+CHEM 6502	Biochemistry II		
+CHEM 6571	Enzymology and Metabolism		
+CHEM 6572	Macromolecular Structure		
+CHEM 6573	Molecular Biochemistry		
+CHEM 6581	Protein Crystallography		
+CHEM 6582	Biophysical Chemistry		
+CHEM 6583	Drug Design and Discovery		
+CHEM 6584	Contemporary Biochemistry		
+CHEM 6750	Preparation and Reaction of Polymers		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
+CHEM 6751	Physical Chemistry of Polymer Solutions		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|,ME 4777,MSE 4777,|,PTFE 4777,|,|,CHEM 3411,&
+CHEM 6752	Polymer Characterization		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|,ME 4777,MSE 4777,|,PTFE 4777,|,|,CHEM 3411,&
+CHEM 6755	Theoretical Chemistry of Polymers		CHEM 6471,CHBE 6751,CHEM 6751,|,MSE 6751,PTFE 6751,|,|,&
+CHEM 6756	Discovery of Signaling Molecules		CHEM 2311
+CHEM 6760	Biocatalysis and Metabolic Engineering		CHEM 3511,CHEM 4511,|,CHEM 4300,CHEM 6300,|,CHEM 6471,CHEM 6482,|,|,&
+CHEM 6765	Drug Design, Development and Delivery		CHEM 3511,CHEM 4511,|
+CHEM 7000	Master's Thesis		
+CHEM 7001	Introduction to Research		
+CHEM 8000	Seminar in Chemistry		
+CHEM 8001	Faculty Seminar		
+CHEM 8002	Information Resources for Chemists and Biochemists		
+CHEM 8003	Student Seminar		
+CHEM 8813	Special Topics in Inorganic Chemistry		
+CHEM 8823	Special Topics in Analytical Chemistry		
+CHEM 8833	Special Topics in Organic Chemistry		
+CHEM 8843	Special Topics in Physical Chemistry		
+CHEM 8853	Special Topics in Biochemistry		
+CHEM 8873	Special Topics in Polymer Chemistry		
+CHEM 8901	Special Problems		
+CHEM 8902	Special Problems		
+CHEM 8903	Special Problems		
+CHEM 8997	Teaching Assistantship		
+CHEM 8998	Research Assistantship		
+CHEM 9000	Doctoral Thesis		

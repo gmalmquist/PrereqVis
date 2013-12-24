@@ -7,6 +7,11 @@ import gm.nodeode.view.Art;
 import java.awt.Color;
 import java.awt.Graphics2D;
 
+/**
+ * Not used? I don't think it's used.
+ * @author Garrett
+ *
+ */
 public class OdeGroup extends Visode {
 	private String[] kids;
 	private OdeAccess manager;

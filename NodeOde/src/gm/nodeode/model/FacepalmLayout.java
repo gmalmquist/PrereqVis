@@ -16,6 +16,13 @@ import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * My first (well, second actually) try at a layout before switching
+ * to a modified version of something I read in a paper. It doesn't
+ * work very well.
+ * @author Garrett
+ *
+ */
 public class FacepalmLayout extends OdeLayout {
 	
 	public FacepalmLayout(OdeAccess db) {

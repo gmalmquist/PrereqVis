@@ -2,6 +2,11 @@ package gm.nodeode.io;
 
 import java.util.Arrays;
 
+/**
+ * Essentially a virtual course which contains a tree of prerequisite logic
+ * @author Garrett
+ *
+ */
 public class PrereqGroup implements ICourse {
 
 	private String[] children;

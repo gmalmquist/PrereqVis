@@ -5,6 +5,11 @@ import gm.nodeode.math.graph.Graph;
 import java.util.Collection;
 import java.util.HashMap;
 
+/**
+ * Stores connectivity data and a map of node ID's to visual metadata (position, name, radius, etc)
+ * @author Garrett
+ *
+ */
 public class OdeManager extends OdeAccess {
 
 	private final Graph connectivity;

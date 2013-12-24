@@ -7,6 +7,12 @@ import java.awt.image.BufferedImage;
 import java.util.Arrays;
 import java.util.Comparator;
 
+/**
+ * Class for stitching multiple images together into a unified image, using 
+ * a relatively naive but functional algorithm.
+ * @author Garrett
+ *
+ */
 public class Stitcher {
 
 	public static BufferedImage stitch(BufferedImage ... sources) {

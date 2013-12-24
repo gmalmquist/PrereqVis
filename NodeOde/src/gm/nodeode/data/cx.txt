@@ -1,0 +1,241 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 22, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+CX 1801 - Special Topics in Computational Science and Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 1802 - Special Topics in computational Science and Engineering
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 1803 - Special Topics in Computational Science and Engineering
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 1804 - Special Topics in Computational Science and Engineering
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 1805 - Special Topics in Computational Science and Engineering
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 2801 - Special Topics in Computational Science and Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 2802 - Special Topics in Computational Science and Engineering
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 2803 - Special Topics in Computational Science and Engineering
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 2804 - Special Topics in Computational Science and Engineering
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 2805 - Special Topics in Computational Science and Engineering
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 3801 - Special Topics in Computational Science and Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 3802 - Special Topics in Computational Science and Engineering
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 3803 - Special Topics in Computational Science and Engineering
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 3804 - Special Topics in Computational Science and Engineering
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 3805 - Special Topics in Computational Science and Engineering
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4010 - Computational Problem Solving for Scientists and Engineers
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Dept/Computer Science Department 
+
+CX 4140 - Computational Modeling Algorithms
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4220 - Introduction to High Performance Computing
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4230 - Computer Simulation
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4232 - Simulation and Military Gaming
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4236 - Distributed Simulation
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4240 - Introduction to Computing for Data Analysis
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4242 - Data and Visual Analytics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4640 - Numerical Analysis I
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4641 - Numerical Analysis II
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4777 - Introduction to Parallel and Vector Scientific Computing
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4801 - Special Topics in Computational Science and Engineering
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4802 - Special Topics in Computational Science and Engineering
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4803 - Special Topics in Computational Science and Engineering
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4804 - Special Topics in Computational Science and Engineering
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4805 - Special Topics in Computational Science and Engineering
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+CX 4903 - Special Problems in Computational Science and Engineering
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Dept/Computer Science Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4

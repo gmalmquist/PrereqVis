@@ -11,6 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 
+import gm.nodeode.io.Data;
 import gm.nodeode.io.ICourse;
 import gm.nodeode.io.Course;
 import gm.nodeode.io.PrereqGroup;
@@ -24,12 +25,17 @@ import gm.nodeode.view.GraphRenderer;
 import gm.nodeode.view.SaveImageButton;
 import gm.nodeode.view.Stitcher;
 
+/**
+ * Main class to kick stuff off
+ * @author Garrett
+ *
+ */
 public class NodeOde {
 
 	public static final boolean FULLNAMES = false;
 	
 	public static void main(String[] args) {
-		String major = "LMC";
+		String major = "CS";
 		String level = LEVEL_UNDERGRADUATE;
 //		level = LEVEL_ANY;
 //		level = LEVEL_GRADUATE;
@@ -49,7 +55,7 @@ public class NodeOde {
 		
 		
 		System.out.println("Reading in data");
-		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data_" + major.toLowerCase() + ".txt");
+		List<ICourse> nodes = NodeIO.read(Data.getStream("data_" + major.toLowerCase() + ".txt"));
 		System.out.println("Converting to visnodes");
 		for (ICourse gnode : nodes) {
 			

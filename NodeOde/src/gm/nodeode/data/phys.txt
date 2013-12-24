@@ -1,0 +1,1273 @@
+
+ 
+HELP | EXIT
+Catalog Entries
+
+ 	
+Fall 2014
+Dec 21, 2013
+Transparent Image
+ Information	 The pre-requisites listed in this catalog are those approved by the Curriculum Committee. 
+For pre-requisite information specific to an individual instance of a course, please see the schedule of classes.
+Click the Schedule Type to find available offerings of the course on the Schedule of Classes.
+PHYS 1000 - Physics Orientation
+Guest lectures will describe career opportunities in physics; the role physicists play in education, government, and industrial laboratories; and programs available to physics majors. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 11X1 - Transfer Non-Calc Phys I
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 11X2 - Transfer Non-Calc PhysII
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 1XXX - Physics Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 2001 - Physics of Space and Time
+The development of physics concepts and doctrines from early times to the near future, with social and philosophical correlates. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2021 - The Solar System
+This course covers Ancient and Renaissance astronomy, gravity, sky phenomena, telescopes, and the solar system. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2022 - Stars, Galaxies, and the Universe
+This course covers optics, telescopes, stellar characteristics and evolution, galaxies, the universe, and the big bang. Physics topics include mechanics, optics, atomic physics, nuclear physics, and relativity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2030 - Physics Of Music
+An introduction to the physical principles underlying the production, transmission, and detection of musical sounds. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2211 - Introductory Physics I
+A calculus-based course with a laboratory covering classical mechanics, applications of classical mechanics, oscillations, and waves. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2212 - Introductory Physics II
+A calculus-based course with laboratory covering electromagnetism, applications of electromagnetism, light, and modern physics. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2213 - Introduction to Modern Physics
+A survey of twentieth century physics. Developments of several branches of physics up to their present frontiers, including historical and philosophical perspectives. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2231 - Honors Physics I
+Parallels introductory Physics I (PHYS 2211). Some topics treated in more depth or more extensively. A rigorous physics foundation requiring demonstrated competence in mathematics. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 4.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2232 - Honors Physics II
+Parallels introductory Physics II (PHYS 2212). Some topics treated in more depth or more extensively. No modern physics content. A rigorous physics foundation requiring demonstrated competence in mathematics. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 4.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 25X1 - Transfer Physics I
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Dept/Registrar Department 
+
+PHYS 2698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 2699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2750 - Physics of the Weather
+An introductory treatment applying basic physical laws to understanding weather phenomena. Crosslisted with EAS 2750. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2801 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2802 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2803 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2804 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2814 - Special Topics
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+PHYS 2900 - Special Problems
+Course involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2901 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2902 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 2XXX - Physics Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 3021 - Nuclear Astrophysics and Stellar Evolution
+Develops a working knowledge of stellar and extra-stellar galactic astronomy. Includes stellar structure, nucleosynthesis, stellar evolution, and degenerate objects. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3043 - Principles of Quantum Mechanics
+A first introduction to wave mechanics, with emphasis on practical calculations. The rules of quantum mechanics will be illustrated by many working examples. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3122 - Electrostatics and Magnetostatics
+First of two courses on the physics of electromagnetism. Topics include Coulomb's Law, Ampere's Law, scalar and vector potentials,Laplace's equation and electric and magnetic fields in matter. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3123 - Electrodynamics
+Second of two courses on the physics of electromagnetism. Topics include time-dependent phenomena including Faraday's Law, the Maxwell equations, electromagnetic radiation, and electromagnetic waves. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3141 - Thermodynamics
+Introduction to the basic concepts of thermodynamics. Thermodynamic laws will be developed with an emphasis on the macroscopic point of view. Applications of the basic principles will be considered briefly. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3143 - Quantum Mechanics I
+First of two courses that develop the principles of quantum mechanics. Topics include the state vector concept. Heisenberg and Schrodinger pictures, uncertainty relations, and exact solvable models in one dimension. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3151 - Mathematical Physics
+A review of the mathematical techniques required for the description of physical systems encountered in mechanics, electromagnetism, thermal physics, and quantum mechanics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3201 - Classical Mechanics I
+Dynamics of particles including oscillations and planetary motion, rotation of rigid bodies, and collisions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3202 - Classical Mechanics II
+A continuation of PHYS 3201. Topics include Lagrangians and Hamiltonian techniques, and many body mechanics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3211 - Electronics I
+A first course in both theoretical and applied electronics that is based on a thorough grounding in circuit as well as device physics. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3223 - Geometrical Optics and Lens Design
+Principles of geometrical optics using ray tracing techniques. Stops, pupils, aberrations, and photometry. Design and analysis of lenses using current lens design software. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3224 - Geometrical Optics Laboratory
+Measurement of parameters of optical surfaces, lenses, and systems using a variety of techniques. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3225 - Modern Optics
+Principles of wave propagation, coherence, polarization, diffraction, and Fourier Optics; laser theory including the interaction of light with matter. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3226 - Modern Optics Laboratory
+Measurement of parameters of optical surfaces, lenses, and systems using a variety of modern optics techniques. 
+
+0.000 OR 2.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3232 - Optics I
+Optics principles, including waves, reflection, refraction, absorption, scattering, group velocity, lasers, polarization geometrical optics, the Fourier transform, coherence, interference, and diffraction. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3265 - Introduction to Acoustics
+A course in classical acoustics and applied electroacoustics taught through the palliative of a study of sound reinforcement and reproduction systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3266 - Computational Physics
+Computer solutions of realistic physics problems such as projectiles in resistive media, electromagnetic sources and fields, atomic scattering, and band pass filters. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 3.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3801 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3802 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3803 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3804 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3900 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3901 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3902 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 3XXX - Physics ELective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 4142 - Statistical Mechanics
+The statistical basis of thermodynamics is developed. Topics include entropy and the second law, partition functions and free energy, systems of variable particle number, and quantum statistics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4143 - Quantum Mechanics II
+Second of two courses that develop the principles of quantum mechanics. Topics include angular momentum, hydrogen atom, variation methods, perturbation theory, matter-radiation interactions, identical particles. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4147 - Relativity
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 4206 - Electronics II
+A course in electronic instrumentation with an emphasis on signal processing, both analog and digital, and computer interfacing. 
+
+0.000 OR 5.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4220 - Optical Design
+Principles of optical and optomechanical design including tolerancing, specification, and thermal compensation of systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4222 - Solid-state Devices
+Course provides an understanding of contemporary research on solid state devices. Topics include band structure, p-n junctions, transistors, superlattices, lasers and detectors, charge coupled devices, and others. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4247 - Cosmology
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 4251 - Biophysics
+Physical principles applied to molecular and cellular biology. Topics include chemiosmosis, self-assembly, protein biosynthesis, and the mechanisms of muscle and nerve function. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4261 - Atomic Physics
+Course provides an introduction to the fundamentals of atomic physics, the structure of atoms, and their interaction with static and radiation fields. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4262 - Solid-state Physics
+A first course in the physics of crystalline solids. Core topics include crystal lattices, diffraction, bonding, elastic properties, band theory, as well as others. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4263 - Nuclei, Particles, and Fields
+An introduction to nuclear and subnuclear systems. Topics include nuclear models, radioactive decay, nuclear reactions, quarks, accelerators, reactors, and stellar nucleosynthesis. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4267 - Nonlinear Dynamics and Chaos
+A modern introduction to nonlinear phenomena. Topics include driven oscillators, entrainment, bifurcation, fractals, and control of chaos. Examples are drawn from physical systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4321 - Advanced Laboratory I
+Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4322 - Advanced Laboratory II
+A continuation of PHYS 4321. Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics. 
+
+3.000 Credit hours 
+1.000 Lecture hours 
+6.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4347 - Fundamentals of Astrophysics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 4421 - Introduction to Continuum Physics
+A modern introduction to continuum physics. Topics include elastic theory, dislocations and waves, fluid mechanics and dynamics, and instabilities in fluids. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4601 - Senior Seminar I
+Representative research programs in the School are described by advanced graduate students, post-doctoral fellows and faculty members. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4602 - Senior Seminar II
+Representative research programs in the school are described by advanced graduate students, post-doctoral fellows, and faculty members. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4655 - Introductory Diffraction Studies
+Introductory theory and practice of x-ray and neutron diffraction techniques, including single crystals and powders. Laboratory work is strongly correlated with principles developed in the lectures. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 2.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4698 - Undergraduate Research Assistantship
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 4699 - Undergraduate Research
+Independent research conducted under the guidance of a faculty member. 
+
+1.000 TO 12.000 Credit hours 
+1.000 TO 12.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4751 - Laser Theory and Applications
+Provides an introduction to the theory and applications of laser principles and related instrumentation. Emphasis is on the fundamental principles underlying laser action. Crosslisted with ECE 4751. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4782 - Quantum Information and Quantum Computing
+Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments. Crosslisted with MATH 4782. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4801 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4802 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4803 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4804 - Special Topics
+Courses in special topics of current interest in physics are presented from time to time. 
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4900 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4901 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4902 - Special Problems
+Courses involving special problems in physics are offered from time to time. 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+Course Attributes: 
+Tech Elect CS, Engr, &Sciences 
+
+PHYS 4XXX - Physics Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 6011 - Nuclear and Particle Physics
+Quantum mechanics of nuclear and subnuclear systems. Topics include shell, collective and pairing models; multi-quark systems; group theoretical and dynamic algebra techniques. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6101 - Classical Mechanics I
+Newtonian mechanics, Hamilton's variational principle, Lagrangian and Hamiltonian mechanics, central forces, rigid body motion, and small oscillations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6102 - Classical Mechanics II
+Canonical transformations, Hamilton-Jacobi theory, canonical perturbation theory, and an introduction to the Lagrangian formulations for continuous systems and fields. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6103 - Electromagnetism I
+Static and quasistatic phenomena in electromagnetism. Boundary value problems in electrostatics and magnetostatics. Maxwell's equations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6104 - Electromagnetism II
+Theory of generation of electromagnetic waves, their propagation, scattering, and diffraction. Covariant formulation of electrodynamics and application to radiation from charged particles. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6105 - Quantum Mechanics I
+An axiomatic development of quantum mechanics. Topics include linear vector spaces, linear operators, infinitesimal transformations, function space, representation and transformation groups. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6106 - Quantum Mechanics II
+Applications of quantum mechanics. Topics include systems with spin and angular momentum, atomic structure, time-dependent phenomena, scattering, and various methods of modeling and approximations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6107 - Statistical Mechanics I
+Equilibrium statistical mechanics for closed and open systems. Probability distribution for classical and quantum systems. Partition functions and associated thermodynamical potentials. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6110 - Survey of Physics
+This course provides a review of basic theories in classical and quantum physics through the solution of problems. It provides an excellent preparation for students planning to take the doctoral qualifying exam. This course cannot be used for credit toward a graduate degree in physics. 
+
+5.000 Credit hours 
+5.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6124 - Mathematical Methods of Physics I
+First of two courses on mathematical methods used in classical mechanics, electromagnetism, quantum mechanics, and statistical physics. Topics include complex analysis, vectors and matrices, and Sturm-Liouville theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6125 - Mathematical Methods of Physics II
+Second of two courses on mathematical methods. Topics include partial differential equations, random processes, and group theory. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6201 - Applied Quantum Mechanics
+Basic postulates of quantum mechanics, one-dimensional energy eigenvalue problems. Potential wells, tunneling phenomena. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6202 - Applied Electromagnetism
+A course centered on the solution of practical problems encountered in the transmission and reception of electromagnetic signals via transmission lines, waveguides, and radiation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6203 - Solid State Physics
+A first course in the physics of crystalline solids. Core topics include crystal lattices, diffraction, bonding, elastic properties, band theory, as well as others. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6204 - Electronics I
+A first course in both theoretical and applied electronics that is based on a thorough grounding in circuit as well as device physics. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+PHYS 6206 - Electronics II
+A course in electronic instrumentation with an emphasis on signal processing, both analog and digital, and computer interfacing. 
+
+0.000 OR 4.000 Credit hours 
+0.000 OR 3.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+PHYS 6210 - Condensed Matter Physics I
+Introduction to condensed matter physics. Crystal structure, electronic and thermal properties, response to external electric and magnetic fields. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6211 - Condensed Matter Physics II
+Collective and many-electron properties in condensed matter systems. Topics include second quantization, magnetism, phase transitions, and superconductivity. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6265 - Atomic Physics I
+This course provides a detailed description of atomic structures and interactions. It contains applications of advanced quantum mechanics to problems in modern atomic physics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6267 - Atomic Physics II
+This course will provide detailed descriptions of non-relativistic atomic/molecular scattering/reaction processes. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6268 - Nonlinear Dynamics and Chaos
+A modern introduction to nonlinear phenomena. Topics include driven oscillators, entrainment, bifurcation, fractals, and control of chaos. Examples are drawn from physical systems. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6300 - Graduate Laboratory
+Experiments are conducted that demonstrate basic principles from various fields of physics. An emphasis is placed on contemporary concepts in modern physics. 
+
+0.000 OR 3.000 Credit hours 
+0.000 OR 1.000 Lecture hours 
+0.000 OR 6.000 Lab hours 
+
+Sch/Physics Department 
+
+PHYS 6567 - Ultrafast Optics
+A modern introduction to ultrafast optical phenomena. Topics include the generation, amplification, measurement, nonlinear optics, propagation, focusing, shaping and applications of ultrashort laser pulses. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6771 - Optoelectronics: Materials, Processes, Devices
+Optoelectronic materials, physical processes, and devices. Includes compound semiconductor materials, excitation, recombination, gain, and modulation processes, and devices such as emitters, detectors, and modulators. Crosslisted with ECE 6771. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6787 - Quantitative Electrophysiology
+A quantitative presentation of electrophysiological systems in biomedical organisms, emphasizing the electrical properties and modeling of neural and cardiac cells and systems. Crosslisted with BMED and ECE 6787. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 6XXX - Physics Elective
+
+1.000 TO 21.000 Credit hours 
+
+Dept/Registrar Department 
+
+PHYS 7000 - Master's Thesis
+Master's Thesis 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7123 - Statistical Mechanics II
+Principles of nonequilibrium statistical mechanics, both classical and quantal. Emphasis is on the dynamics of fluctuations, their measurement, and their relationship to transport properties. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7125 - Introduction to Relativity
+The theory of gravity, describing how matter curves spacetime and spacetime guides matter, with its experimental and theoretical applications. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7141 - Many-Particle Quantum Mechanics
+Quantum mechanics of interacting Fermi and Bose particles. Topics include second quantization, diagrammatic purturbation theory, variational methods, and path integrals. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7143 - Group Theory and Quantum Mechanics
+Foundations of group representation theory with applications in atomic, molecular, nuclear, and solid state physics. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7147 - Quantum Field Theory
+Introduction to quantum field theory, with an emphasis in quantum electrodynamics. Second quantization, Dirac equation, Feynman diagrams, quantum electrodynamics, electro-weak interactions. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7150 - Quantum Logics
+The revision of classical logic and set theory to accommodate the phenomena of quantum interference, with experimental and theoretical consequences. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7221 - Statistical Optics
+Phenomena in optics where randomness is dominant. Topics include random variables and processes, partial coherence, polarization, photo statistics, and imaging in random media. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7222 - Quantum Optics I
+Basic course on the interaction of light with matter, based on quantum theory. Applications to the laser and to the study of coherence properties of light. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7223 - Quantum Optics II
+Advanced treatment of the interaction of light with matter using modern methods of open quantum systems. Applications to current research. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7224 - Nonlinear Hamiltonian Dynamics and Chaos
+A course on nonlinear dissipative dynamical systems, with an emphasis in aspects relevant to physicists. Topics include bifurcation theory, attractors, renormalization group techniques, and pattern formation. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 7268 - Spatio-Temporal Dynamics and Pattern Formation
+A theoretical description of dynamics and pattern formation in physical, chemical and biological systems driven out of equilibrium. Topics include linear and weakly nonlinear analysis of patterns, bifurcation theory and amplitude equations. 
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8001 - Seminar
+Representative research programs in the School are described by advanced graduate students, post-doctoral fellows, and faculty members. The experimental basis of physics is illustrated through accounts of great experiments of importance to contemporary research. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8002 - Graduate Student Seminar
+Representative research programs in the School are described by advanced graduate students, post-doctoral fellows, and faculty members. The experimental basis of physics is illustrated through accounts of great experiments of importance to contemporary research. 
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8801 - Special Topics
+
+1.000 Credit hours 
+1.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8802 - Special Topics
+
+2.000 Credit hours 
+2.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8803 - Special Topics
+
+3.000 Credit hours 
+3.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8804 - Special Topics
+
+4.000 Credit hours 
+4.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8901 - Special Problems
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8991 - Master's Practicum
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8992 - Master's Practicum
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8993 - Master's Practicum
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8997 - Teaching Assistantship
+For graduate students holding a graduate teaching assistantship. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 8998 - Research Assistantship
+For graduate students holding a graduate research assistantship. 
+
+1.000 TO 9.000 Credit hours 
+1.000 TO 9.000 Lecture hours 
+
+Sch/Physics Department 
+
+PHYS 9000 - Doctoral Thesis
+Doctoral Thesis 
+
+1.000 TO 21.000 Credit hours 
+1.000 TO 21.000 Lecture hours 
+
+Sch/Physics Department 
+
+
+Return to Previous	New Search		XML Extract
+Transparent Image
+RELEASE: 8.5.4
