@@ -16,20 +16,25 @@ import gm.nodeode.io.Course;
 import gm.nodeode.io.PrereqGroup;
 import gm.nodeode.io.NodeIO;
 import gm.nodeode.math.graph.Graph;
-import gm.nodeode.model.GansnerLayout;
 import gm.nodeode.model.OdeAccess;
-import gm.nodeode.model.OdeGroup;
 import gm.nodeode.model.OdeManager;
 import gm.nodeode.model.OdeNode;
 import gm.nodeode.model.Visode;
 import gm.nodeode.view.GraphRenderer;
-import gm.nodeode.view.NodeView;
 import gm.nodeode.view.SaveImageButton;
 import gm.nodeode.view.Stitcher;
 
 public class NodeOde {
 
+	public static final boolean FULLNAMES = false;
+	
 	public static void main(String[] args) {
+		String major = "LMC";
+		String level = LEVEL_UNDERGRADUATE;
+//		level = LEVEL_ANY;
+//		level = LEVEL_GRADUATE;
+		
+		
 		JFrame frame = new JFrame("Node Ode");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
@@ -42,8 +47,6 @@ public class NodeOde {
 		final HashMap<String, Visode> odeTable = new HashMap<String, Visode>();
 		Graph mainGraph = new Graph();
 		
-		String major = "CS";
-		String level = LEVEL_GRADUATE;
 		
 		System.out.println("Reading in data");
 		List<ICourse> nodes = NodeIO.read("D:\\Programming\\Projects\\Oscar\\data_" + major.toLowerCase() + ".txt");
@@ -78,7 +81,7 @@ public class NodeOde {
 		
 		// Choose only undergraduate CS classes
 		List<String> keyClasses = new LinkedList<String>();
-		String filter = classFilter(major.toUpperCase(), level);
+		String filter = classFilter(".*", level);
 		for (String v : mainGraph.getVertices()) {
 			if (v.matches(filter)) {
 				keyClasses.add(v);
@@ -117,6 +120,7 @@ public class NodeOde {
 			public void run() {
 				List<BufferedImage> images = new LinkedList<BufferedImage>();
 				
+				int subgraphIndex = 0;
 				for (Graph choice : disjoint) {
 					if (choice.vertexCount() == 0)
 						continue;
@@ -124,7 +128,7 @@ public class NodeOde {
 					
 					OdeAccess choiceAccess = new OdeManager();
 					
-					System.out.println("Generating subgraph");
+					System.out.println("\nGenerating subgraph " + subgraphIndex++);
 						// Copy to view
 					for (String s : choice.getVertices()) {
 						Visode ode;
@@ -149,9 +153,10 @@ public class NodeOde {
 					images.add(render);
 				}
 				
-				System.out.println("Generating composite");
+				System.out.println("\n\nGenerating composite");
 				BufferedImage composite = Stitcher.stitch(images.toArray(new BufferedImage[images.size()]));
 				saver.setImage(composite);
+				System.out.println("Done.");
 			}
 		}).start();
 	}

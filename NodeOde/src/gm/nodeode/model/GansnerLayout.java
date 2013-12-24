@@ -69,11 +69,11 @@ public class GansnerLayout extends OdeLayout {
 		}
 		
 		// Operation order identical to paper
-		println("RANKING");
+		System.out.println("\tRANKING");
 		rank();
-		println("ORDERING");
+		System.out.println("\tORDERING");
 		ordering();
-		println("POSITIONING");
+		System.out.println("\tPOSITIONING");
 		position();
 		makeSplines();
 		
@@ -393,7 +393,7 @@ public class GansnerLayout extends OdeLayout {
 		}
 		
 		for (int r = r0; r*rd <= r1*rd; r += rd) {
-			System.out.print(" " + r + ", ");
+//			System.out.print(" " + r + ", ");
 			List<String> rord = order.get(r);
 			if (rord == null) {
 				// what?

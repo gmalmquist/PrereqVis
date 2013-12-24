@@ -1,5 +1,7 @@
 package gm.nodeode.io;
 
+import gm.nodeode.NodeOde;
+
 import java.util.LinkedList;
 import java.util.List;
 
@@ -49,7 +51,7 @@ public class Course implements ICourse {
 
 	@Override
 	public String getName() {
-		return name;
+		return NodeOde.FULLNAMES ? fullname : name;
 	}
 	
 	@Override
