@@ -1,11 +1,10 @@
 package gm.nodeode.model;
 
-import gm.nodeode.math.TimeKeeper;
+import gm.debug.Blog;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.math.graph.Edge;
 import gm.nodeode.math.graph.Graph;
-import gm.nodeode.math.graph.UnionFind;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -68,14 +67,15 @@ public class GansnerLayout extends OdeLayout {
 			graphToDB(original);
 		}
 		
+		breakCycles();
+		
 		// Operation order identical to paper
-		System.out.println("\tRANKING");
-		rank();
-		System.out.println("\tORDERING");
-		ordering();
-		System.out.println("\tPOSITIONING");
-		position();
-		makeSplines();
+		step = 0;
+		for (int i = 0; i < 4; i++) {
+			doLayoutStep();
+		}
+		
+		unbreakCycles();
 		
 		// push results
 		println("Pushing results to view...");
@@ -85,7 +85,14 @@ public class GansnerLayout extends OdeLayout {
 	}
 	
 	private void println(Object ... os) {
-		// do nothing mwahahaha
+		StringBuffer sb = new StringBuffer(os.length*10);
+		for (Object s : os) {
+			if (sb.length() > 0)
+				sb.append(" ");
+			sb.append(s);
+		}
+		Blog.log("GL", sb.toString());
+		Blog.log("GL: " + sb.toString());
 	}
 
 	private void virtualToDB() {
@@ -216,8 +223,6 @@ public class GansnerLayout extends OdeLayout {
 	 * is guaranteed to be acyclic)
 	 */
 	private void rank() {
-		breakCycles();
-		
 		ranks = new HashMap<String, Integer>();
 		
 		// STEP ONE: Rank bottom-up, root nodes at 0 and leaves and big numbers
@@ -357,8 +362,6 @@ public class GansnerLayout extends OdeLayout {
 				}
 			}
 		}
-
-		unbreakCycles();
 	}
 	
 	private String virtualID(String v, String p, int r) {
@@ -937,7 +940,7 @@ public class GansnerLayout extends OdeLayout {
 	private float radius(String s) {
 		if (db.find(s) == null)
 			return 12;
-		return db.find(s).radius();
+		return db.find(s).getRadius();
 	}
 
 	// Because Java doesn't have typedefs

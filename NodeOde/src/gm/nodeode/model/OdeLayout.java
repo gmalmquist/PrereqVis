@@ -44,11 +44,11 @@ public abstract class OdeLayout {
 		Pt TA = V(A0, A1).normalize();
 		Pt TB = V(B0, B1).normalize();
 
-		A0.add(+va0.radius(), TA);
-		A1.add(-va1.radius(), TA);
+		A0.add(+va0.getRadius(), TA);
+		A1.add(-va1.getRadius(), TA);
 
-		B0.add(+vb0.radius(), TB);
-		B1.add(-vb1.radius(), TB);
+		B0.add(+vb0.getRadius(), TB);
+		B1.add(-vb1.getRadius(), TB);
 		
 		Pt N = TA.d().cross(TB);
 		

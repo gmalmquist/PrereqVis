@@ -14,7 +14,7 @@ import gm.nodeode.io.Data;
 import gm.nodeode.io.ICourse;
 import gm.nodeode.io.Course;
 import gm.nodeode.io.PrereqGroup;
-import gm.nodeode.io.NodeIO;
+import gm.nodeode.io.CourseIO;
 import gm.nodeode.math.graph.Graph;
 import gm.nodeode.model.OdeAccess;
 import gm.nodeode.model.OdeManager;
@@ -34,7 +34,7 @@ public class NodeOde {
 	public static final boolean FULLNAMES = false;
 	
 	public static void main(String[] args) {
-		String major = "ECE";
+		String major = "CS";
 		String level = LEVEL_UNDERGRADUATE;
 		// Uncomment these lines to change what course levels to use in the graph.
 //		level = LEVEL_ANY;
@@ -51,7 +51,7 @@ public class NodeOde {
 		
 		
 		System.out.println("Reading in data");
-		List<ICourse> nodes = NodeIO.read(Data.getStream("data_" + major.toLowerCase() + ".txt"));
+		List<ICourse> nodes = CourseIO.read(Data.getStream("data_" + major.toLowerCase() + ".txt"));
 		System.out.println("Converting to visnodes");
 		for (ICourse gnode : nodes) {
 			

@@ -17,13 +17,11 @@ public class OdeNode extends Visode {
 	public float y;
 	public float r;
 	
-	private String display;
-	
 	public Color background = Color.WHITE;
 	
 	public OdeNode(String name, String display) {
 		super(name);
-		this.display = display;
+		setDisplayName(display);
 		this.r = 10;
 	}
 	
@@ -31,12 +29,12 @@ public class OdeNode extends Visode {
 		this(name, name);
 	}
 	
-	public String getDisplayName() {
-		return display;
+	public float getRadius() {
+		return r;
 	}
 	
-	public float radius() {
-		return r;
+	public void setRadius(float r) {
+		this.r = r;
 	}
 	
 	public boolean contains(float x, float y) {
@@ -88,7 +86,7 @@ public class OdeNode extends Visode {
 			FontMetrics fm = g.getFontMetrics();
 			int width = 0;
 			
-			String[] parts = String.valueOf(display).split(" ");
+			String[] parts = String.valueOf(getDisplayName()).split(" ");
 			for (String s : parts) {
 				width = Math.max(fm.stringWidth(s), width);
 			}

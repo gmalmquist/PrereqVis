@@ -24,7 +24,7 @@ public class OdeGroup extends Visode {
 	
 	public String[] getChildren() { return kids; }
 
-	public float radius() {
+	public float getRadius() {
 		return 1;
 	}
 
@@ -107,5 +107,10 @@ public class OdeGroup extends Visode {
 				Art.line(g, c, o.getCenter());
 			}
 		}
+	}
+
+	@Override
+	public void setRadius(float r) {
+		// no
 	}
 }

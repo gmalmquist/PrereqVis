@@ -21,6 +21,7 @@ public abstract class OdeAccess {
 	public abstract Collection<String> getOdes();
 	public abstract Iterable<String> findParents(String ode);
 	public abstract Iterable<String> findChildren(String ode);
+	public abstract Iterable<Visode> getVisodes();
 	
 	public abstract boolean hasParents(String ode);
 	public abstract boolean hasChildren(String ode);

@@ -4,6 +4,8 @@ import gm.nodeode.math.graph.Graph;
 
 import java.util.Collection;
 import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Stores connectivity data and a map of node ID's to visual metadata (position, name, radius, etc)
@@ -15,8 +17,19 @@ public class OdeManager extends OdeAccess {
 	private final Graph connectivity;
 	private final HashMap<String, Visode> vertices;
 
+	private static HashMap<String, Visode> mapify(Visode[] nodes) {
+		HashMap<String, Visode> map = new HashMap<String, Visode>();
+		for (Visode n : nodes)
+			map.put(n.getUID(), n);
+		return map;
+	}
+	
 	public OdeManager() {
 		this(new HashMap<String, Visode>(), new Graph());
+	}
+	
+	public OdeManager(Visode[] vertices, Graph connectivity) {
+		this(mapify(vertices), connectivity);
 	}
 	
 	public OdeManager(OdeAccess access) {
@@ -53,11 +66,13 @@ public class OdeManager extends OdeAccess {
 	@Override
 	public void register(Visode ode) {
 		vertices.put(ode.getUID(), ode);
+		connectivity.addVertex(ode.getUID());
 	}
 
 	@Override
 	public void remove(Visode ode) {
 		vertices.remove(ode.getUID());
+		connectivity.removeVertex(ode.getUID());
 	}
 
 	@Override
@@ -93,6 +108,15 @@ public class OdeManager extends OdeAccess {
 	@Override
 	public Graph copyGraph() {
 		return new Graph(connectivity);
+	}
+
+	@Override
+	public Iterable<Visode> getVisodes() {
+		List<Visode> vs = new LinkedList<Visode>();
+		for (String s : getOdes()) {
+			vs.add(find(s));
+		}
+		return vs;
 	}
 
 }

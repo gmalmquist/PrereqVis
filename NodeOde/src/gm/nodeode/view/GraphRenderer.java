@@ -1,5 +1,6 @@
 package gm.nodeode.view;
 
+import gm.nodeode.io.GraphIO;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.math.graph.Graph;
@@ -54,10 +55,10 @@ public class GraphRenderer {
 			if (Float.isNaN(c.y) || Float.isInfinite(c.y))
 				continue;
 			
-			float left = c.x - o.radius();
-			float right = c.x + o.radius();
-			float top = c.y - o.radius();
-			float bottom = c.y + o.radius();
+			float left = c.x - o.getRadius();
+			float right = c.x + o.getRadius();
+			float top = c.y - o.getRadius();
+			float bottom = c.y + o.getRadius();
 			
 			if (first) {
 				first = false;
@@ -114,6 +115,29 @@ public class GraphRenderer {
 		g.dispose();
 		return image;
 	}
+	
+	private Pt hermite(Pt p0, Pt t0, Pt p1, Pt t1, float s) {
+		float t = s;
+		float t2 = t*t;
+		float t3 = t2*t;
+		
+		return Pt.P(0,0,0)
+				.add(2*t3 - 3*t2 + 1, p0)
+				.add(t3 - 2*t2 + t, t0)
+				.add(-2*t3 + 3*t2, p1)
+				.add(t3 - t2, t1);
+	}
+	
+	private void cubic(Graphics2D g, Pt p0, Pt t0, Pt p1, Pt t1) {
+		int n = (int) Math.max(3, p0.distance(p1)/2);
+		for (int i = 0; i < n; i++) {
+			Pt a = hermite(p0, t0, p1, t1, (i+0.0f)/n);
+			Pt b = hermite(p0, t0, p1, t1, (i+1.0f)/n);
+			g.drawLine(a.ix(), a.iy(), b.ix(), b.iy());
+		}
+	}
+		
+	
 
 	private void drawLinks(Graphics2D g, String ode) {
 		Visode O = access.find(ode);
@@ -131,13 +155,17 @@ public class GraphRenderer {
 			Pt arrowA = O.closestBorderPoint(P.getCenter());
 			Pt arrowB = P.closestBorderPoint(O.getCenter());
 			
-			g.setStroke(new BasicStroke(3));
-			g.setColor(Color.WHITE);
-			Art.arrow(g, arrowB, arrowA);
+			g.setStroke(new BasicStroke(2));
 			
-			g.setStroke(strokeSmall);
-			g.setColor(Color.BLACK);
-			Art.arrow(g, arrowB, arrowA);
+			
+			
+//			g.setStroke(new BasicStroke(3));
+//			g.setColor(Color.WHITE);
+//			Art.arrow(g, arrowB, arrowA);
+//			
+//			g.setStroke(strokeSmall);
+//			g.setColor(Color.BLACK);
+//			Art.arrow(g, arrowB, arrowA);
 			
 		}
 	}
@@ -154,16 +182,45 @@ public class GraphRenderer {
 		g.dispose();
 	}
 	
-	public static BufferedImage layoutAndRender(OdeAccess access) {
+	private static volatile int lindex = 0;
+	public static synchronized BufferedImage layoutAndRender(OdeAccess access) {
 		// Init sizes for layout generations
 		initSizes(access);
 		
-		OdeAccess copy = new OdeManager(access);
-		OdeLayout layout = new GansnerLayout(copy);
-		layout.doLayout();
+		lindex++;
+
+		Graph conn = GraphIO.readGraph("graph-" + lindex + ".txt");
+		Visode[] vert = GraphIO.readVisodes("vishy-" + lindex + ".txt");
+		OdeAccess copy = null;
+		
+		if (conn != null && vert != null) {
+			copy = new OdeManager(vert, conn);
+		} else {
+			copy = new OdeManager(access);
+			OdeLayout layout = new GansnerLayout(copy);
+			layout.doLayout();
+			
+			// Stick original display names back in
+			for (String v : copy.getOdes()) {
+				Visode cv = copy.find(v);
+				Visode ov = access.find(v);
+				if (ov == null || cv == null) {
+					continue;
+				}
+				cv.setDisplayName(ov.getDisplayName());
+			}
+			
+			try {
+				GraphIO.saveGraph("graph-"+lindex+".txt", copy.copyGraph());
+				GraphIO.saveVisodes("vishy-" + lindex + ".txt", copy.getVisodes());
+			} catch (Exception e) {
+				System.err.println("Error caching graphs: " + e);
+			}
+		}
 		
 		// Sizes might have changed due to virtual nodes
 		initSizes(copy);
+		
 		
 		GraphRenderer renderer = new GraphRenderer(copy);
 		return renderer.render();

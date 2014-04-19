@@ -14,9 +14,12 @@ public abstract class Visode {
 	
 	private final String uid;
 	private int type;
+	private String display;
+	
 	public Visode(String uid) {
 		this.uid = uid;
 		this.type = TYPE_NODE;
+		this.display = uid;
 	}
 	
 	public final String getUID() {
@@ -43,7 +46,9 @@ public abstract class Visode {
 	
 	public abstract void draw(Graphics2D g);
 	
-	public abstract float radius();
+	public abstract float getRadius();
+	
+	public abstract void setRadius(float r);
 	
 	public boolean prerender() {
 		return false;
@@ -51,5 +56,13 @@ public abstract class Visode {
 	
 	public String toString() {
 		return uid;
+	}
+	
+	public void setDisplayName(String s) {
+		this.display = s;
+	}
+	
+	public String getDisplayName() {
+		return display;
 	}
 }

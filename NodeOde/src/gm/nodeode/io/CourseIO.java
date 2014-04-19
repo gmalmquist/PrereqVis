@@ -19,7 +19,7 @@ import java.util.List;
  * @author Garrett
  *
  */
-public class NodeIO {
+public class CourseIO {
 
 	public static List<ICourse> read(String path) {
 		return read(new File(path));
