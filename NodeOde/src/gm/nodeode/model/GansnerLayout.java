@@ -37,6 +37,8 @@ public class GansnerLayout extends OdeLayout {
 	private Order orders;
 	private HashMap<String, String> virtIDs = new HashMap<String, String>();
 	private HashMap<String, Pt> positions;
+	
+	private List<String[]> brokenEdges = new LinkedList<String[]>();
 
 	private int step = 0;
 	private int maxrank = Integer.MIN_VALUE, minrank = Integer.MAX_VALUE;
@@ -127,6 +129,86 @@ public class GansnerLayout extends OdeLayout {
 		}
 	}
 	
+	/**
+	 * Returns vertices adjacent to the source
+	 * @param src - Source node
+	 * @param dir - If true, return findParents, else return findChildren
+	 * @return
+	 */
+	private Iterable<String> adj(String src, boolean dir) {
+		if (dir)
+			return db.findParents(src);
+		return db.findChildren(src);
+	}
+	
+	/**
+	 * Returns BFS distance from src to dst, or -1 if there is no directed path.
+	 * 
+	 * @param src
+	 *            - source vertex
+	 * @param dst
+	 *            - destination vertex
+	 * @param parents
+	 *            - follow parent edges if true, children edges if false
+	 *            (direction of directed search)
+	 * @return
+	 */
+	private int bfsFind(String src, String dst, boolean parents) {
+		HashMap<String,Boolean> visited = new HashMap<String,Boolean>();
+		HashMap<String,Integer> depths = new HashMap<String, Integer>();
+		LinkedList<String> frontier = new LinkedList<String>();
+		frontier.add(src);
+		depths.put(src, 0);
+		
+		while (!frontier.isEmpty()) {
+			String v = frontier.pop();
+			if (visited.containsKey(v)) {
+				continue;
+			}
+			visited.put(v, true);
+			
+			if (v.equals(dst)) {
+				return depths.get(v);
+			}
+			
+			for (String s : adj(v, parents)) {
+				frontier.push(s);
+				depths.put(s, depths.get(v)+1);
+			}
+		}
+		
+		return -1;
+	}
+	
+	
+	private void breakCycles() {
+		brokenEdges.clear();
+		
+		Graph copy = db.copyGraph();
+		
+		for (String v : vertices()) {
+			for (String p : adj(v, true)) {
+				if (bfsFind(p, v, true) >= 0) {
+					// This is a problem, because we have a cycle.
+					brokenEdges.add(new String[] {v, p});
+					copy.removeEdge(v, p);
+				}
+			}
+		}
+		
+		graphToDB(copy);
+	}
+	private void unbreakCycles() {
+		Graph copy = db.copyGraph();
+		
+		while (!brokenEdges.isEmpty()) {
+			String[] edge = brokenEdges.remove(0);
+			copy.addEdge(edge[0], edge[1]);
+		}
+		
+		graphToDB(copy);
+	}
+	
 	
 	/**
 	 * This rank works completely differently than the method described by the paper,
@@ -134,6 +216,8 @@ public class GansnerLayout extends OdeLayout {
 	 * is guaranteed to be acyclic)
 	 */
 	private void rank() {
+		breakCycles();
+		
 		ranks = new HashMap<String, Integer>();
 		
 		// STEP ONE: Rank bottom-up, root nodes at 0 and leaves and big numbers
@@ -273,43 +357,8 @@ public class GansnerLayout extends OdeLayout {
 				}
 			}
 		}
-		
-//		List<String> overts = new LinkedList<String>();
-//		overts.addAll(virtual.getVertices());
-//		for (int i = maxrank; i >= minrank; i--) {
-//			
-//			UnionFind<String> destinations = new UnionFind<String>();
-//			List<String> intermediates = new LinkedList<String>();
-//			
-//			for (String v : overts) {
-//				if (ranks.get(v) != i) continue;
-//				if (!fakes.containsKey(v) || !fakes.get(v)) continue;
-//				
-//				intermediates.add(v);
-//				boolean only = true;
-//				for (String p : virtual.getOutgoingVertices(v)) {
-//					if (!only) {
-//						throw new RuntimeException("Virtual node cannot have multiple outgoing vertices!");
-//					}
-//					destinations.union(p, v);
-//					only = false;
-//				}
-//			}
-//			
-//			for (List<String> group : destinations.discreteGroups()) {
-//				String last = null;
-//				for (String v : group) {
-//					if (!intermediates.contains(v))
-//						continue;
-//					if (last != null) {
-//						virtual.mergeVertices(last, v);
-//					} else {
-//						last = v;
-//					}
-//				}
-//			}
-//		}
-		
+
+		unbreakCycles();
 	}
 	
 	private String virtualID(String v, String p, int r) {
@@ -336,6 +385,7 @@ public class GansnerLayout extends OdeLayout {
 	}
 	
 	private void ordering() {
+		println("Calculating initial ordering");
 		Order best = initialOrdering();
 
 		for (int i = minrank; i <= maxrank; i++) {

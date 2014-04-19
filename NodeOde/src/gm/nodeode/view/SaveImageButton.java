@@ -1,6 +1,11 @@
 package gm.nodeode.view;
 
+import gm.nodeode.math.geom.Mathf;
+
+import java.awt.Color;
 import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
@@ -43,8 +48,37 @@ public class SaveImageButton extends JButton {
 			public void run() {
 				setIcon(new ImageIcon(image));
 				setPreferredSize(new Dimension(image.getWidth(), image.getHeight()));
+				repaint();
 			}
 		});
+	}
+	
+	@Override
+	public void paint(Graphics gg) {
+		Graphics2D g = (Graphics2D) gg;
+		g.setColor(Color.GRAY);
+		
+		int sw = getWidth();
+		int sh = getHeight();
+		
+		g.fillRect(-1, -1, sw+2, sh+2);
+		if (image != null) {
+			int iw = image.getWidth();
+			int ih = image.getHeight();
+			
+			int nw = sw;
+			int nh = sh;
+			
+			if ((double)iw/sw < (double)ih/sh) {
+				nh = sh;
+				nw = iw * sh / ih;
+			} else {
+				nw = sw;
+				nh = ih * sw / iw;
+			}
+			
+			g.drawImage(image, sw/2-nw/2, sh/2-nh/2, nw, nh, null);
+		}
 	}
 	
 	private volatile JFileChooser fc;
