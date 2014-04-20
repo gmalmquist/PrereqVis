@@ -1,5 +1,6 @@
 package gm.nodeode.view;
 
+import gm.debug.Blog;
 import gm.nodeode.io.GraphIO;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
@@ -27,6 +28,8 @@ import java.util.LinkedList;
  */
 public class GraphRenderer {
 
+	private static final boolean DEBUG_SPLINE_COLORS = false;
+	
 	private OdeAccess access;
 	
 	private int padding = 10;
@@ -117,33 +120,65 @@ public class GraphRenderer {
 	}
 	
 	private Pt hermite(Pt p0, Pt t0, Pt p1, Pt t1, float s) {
-		float t = s;
-		float t2 = t*t;
-		float t3 = t2*t;
+		float t  = s;
+		float t2 = s*s;
+		float t3 = s*s*s;
 		
 		return Pt.P(0,0,0)
 				.add(2*t3 - 3*t2 + 1, p0)
-				.add(t3 - 2*t2 + t, t0)
-				.add(-2*t3 + 3*t2, p1)
-				.add(t3 - t2, t1);
+				.add(t3 - 2*t2 + t,   t0)
+				.add(-2*t3 + 3*t2,    p1)
+				.add(t3 - t2,         t1);
 	}
 	
 	private void cubic(Graphics2D g, Pt p0, Pt t0, Pt p1, Pt t1) {
-		int n = (int) Math.max(3, p0.distance(p1)/2);
+		int n = (int) Math.max(3, p0.distance(p1)/3);
+		
 		for (int i = 0; i < n; i++) {
-			Pt a = hermite(p0, t0, p1, t1, (i+0.0f)/n);
-			Pt b = hermite(p0, t0, p1, t1, (i+1.0f)/n);
+//			g.setColor(colors[i % colors.length]);
+			Pt a = hermite(p0, t0, p1, t1, (float)(i+0.0f)/n);
+			Pt b = hermite(p0, t0, p1, t1, (float)(i+1.0f)/n);
 			g.drawLine(a.ix(), a.iy(), b.ix(), b.iy());
 		}
 	}
-		
 	
+	private Pt tangent(String ode, boolean up) {		
+		Visode O = access.find(ode);
+		if (O == null) {
+			return Pt.P(0,1,0);
+		}
+		
+		
+		if (O == null || O.getType() != Visode.TYPE_LINK)
+			return Pt.P(0,1,0);
+		
+		Pt t = Pt.P(0,0,0);
+		
+		Pt centO = O.getCenter();
+		for (String v : access.findChildren(ode)) {
+			Pt centP = access.find(v).getCenter();
+			t.add(centP.d().sub(centO).normalize3d());
+		}
+		for (String v : access.findParents(ode)) {
+			Pt centP = access.find(v).getCenter();
+			t.add(centP.d().sub(centO).normalize3d().mul(-1));
+		}
+		
+		t.normalize3d();
+		if (t.mag2() == 0) {
+			t = Pt.P(0,1,0);
+		}
+		
+		return t;
+	}
 
 	private void drawLinks(Graphics2D g, String ode) {
 		Visode O = access.find(ode);
 		
 		if (O == null)
 			return;
+		
+		Pt down = Pt.P(0,1,0);
 		
 		for (String parent : access.findParents(ode)) {
 			Visode P = access.find(parent);
@@ -155,18 +190,49 @@ public class GraphRenderer {
 			Pt arrowA = O.closestBorderPoint(P.getCenter());
 			Pt arrowB = P.closestBorderPoint(O.getCenter());
 			
-			g.setStroke(new BasicStroke(2));
+			arrowA = O.getCenter();
+			arrowB = P.getCenter();
 			
+			Pt p0 = arrowA;
+			Pt p1 = arrowB;
 			
+			Pt t0 = tangent(ode, true);
+			Pt t1 = tangent(parent, false);
 			
-//			g.setStroke(new BasicStroke(3));
-//			g.setColor(Color.WHITE);
-//			Art.arrow(g, arrowB, arrowA);
-//			
-//			g.setStroke(strokeSmall);
-//			g.setColor(Color.BLACK);
-//			Art.arrow(g, arrowB, arrowA);
+			double hz = p1.x-p0.x;
 			
+			if (down.dot3d(t0) < 0) {
+				t0.mul(-1);
+			}
+			if (down.dot3d(t1) < 0) {
+				t1.mul(-1);
+			}
+			
+			if (t0.x * hz < 0) {
+				t0.x *= -1;
+			}
+			if (t1.x * hz < 0) {
+				t1.x *= -1;
+			}
+			
+			float scale = 100;
+			
+			t0.mul(scale);
+			t1.mul(scale);
+
+			Stroke k = g.getStroke();
+			g.setStroke(new BasicStroke(2, BasicStroke.CAP_ROUND, BasicStroke.JOIN_ROUND));
+			if (DEBUG_SPLINE_COLORS) {
+				g.setColor(new Color[] {
+						Color.BLACK, Color.BLUE,
+						Color.GREEN, Color.RED,
+						Color.CYAN, Color.MAGENTA
+				}[(int)(Math.random()*5)]);
+			} else {
+				g.setColor(Color.BLACK);
+			}
+			cubic(g, p0, t0, p1, t1);
+			g.setStroke(k);
 		}
 	}
 	
@@ -220,7 +286,11 @@ public class GraphRenderer {
 		
 		// Sizes might have changed due to virtual nodes
 		initSizes(copy);
-		
+
+		for (Visode o : copy.getVisodes()) {
+			if (o.getType() == Visode.TYPE_LINK)
+				o.setRadius(0);
+		}
 		
 		GraphRenderer renderer = new GraphRenderer(copy);
 		return renderer.render();

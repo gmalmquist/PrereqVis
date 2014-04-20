@@ -69,6 +69,7 @@ public class OdeNode extends Visode {
 		
 		if (getType() == Visode.TYPE_LINK || getType() == Visode.TYPE_SPACER) {
 			// We're a link! Links are a lie!
+			/*
 			this.r = r = 3;
 			g.setColor(Color.BLACK);
 			
@@ -77,6 +78,7 @@ public class OdeNode extends Visode {
 			} else {
 				g.fillOval(-r, -r, r*2, r*2);
 			}
+			*/
 		} else {
 			g.setColor(background);
 			g.fillOval(-r, -r, r*2, r*2);

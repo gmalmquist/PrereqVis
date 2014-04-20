@@ -34,7 +34,7 @@ public class NodeOde {
 	public static final boolean FULLNAMES = false;
 	
 	public static void main(String[] args) {
-		String major = "CS";
+		String major = "MATH";
 		String level = LEVEL_UNDERGRADUATE;
 		// Uncomment these lines to change what course levels to use in the graph.
 //		level = LEVEL_ANY;
