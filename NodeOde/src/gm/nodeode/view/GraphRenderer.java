@@ -255,7 +255,7 @@ public class GraphRenderer {
 		
 		lindex++;
 
-		Graph conn = GraphIO.readGraph("graph-" + lindex + ".txt");
+		Graph    conn = GraphIO.readGraph("graph-" + lindex + ".txt");
 		Visode[] vert = GraphIO.readVisodes("vishy-" + lindex + ".txt");
 		OdeAccess copy = null;
 		
