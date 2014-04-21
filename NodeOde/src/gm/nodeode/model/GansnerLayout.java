@@ -41,9 +41,12 @@ public class GansnerLayout extends OdeLayout {
 
 	private int step = 0;
 	private int maxrank = Integer.MIN_VALUE, minrank = Integer.MAX_VALUE;
+	
+	private boolean evenSpacing;
 
-	public GansnerLayout(OdeAccess db) {
+	public GansnerLayout(OdeAccess db, boolean even) {
 		super(db);
+		this.evenSpacing = even;
 	}
 
 	private Graph original;
@@ -937,7 +940,19 @@ public class GansnerLayout extends OdeLayout {
 		return db.getOdes();
 	}
 	
+	private float maxrad = 0;
 	private float radius(String s) {
+		if (evenSpacing) {
+			if (maxrad > 0)
+				return maxrad;
+			for (Visode v : db.getVisodes()) {
+				if (v.getRadius() > maxrad) {
+					maxrad = v.getRadius() + 2;
+				}
+			}
+			return maxrad;
+		}
+		
 		if (db.find(s) == null)
 			return 12;
 		return db.find(s).getRadius();

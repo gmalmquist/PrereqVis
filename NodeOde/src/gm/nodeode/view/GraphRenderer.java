@@ -2,6 +2,7 @@ package gm.nodeode.view;
 
 import gm.debug.Blog;
 import gm.nodeode.io.GraphIO;
+import gm.nodeode.math.geom.Cubic;
 import gm.nodeode.math.geom.Mathf;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.math.graph.Graph;
@@ -119,25 +120,14 @@ public class GraphRenderer {
 		return image;
 	}
 	
-	private Pt hermite(Pt p0, Pt t0, Pt p1, Pt t1, float s) {
-		float t  = s;
-		float t2 = s*s;
-		float t3 = s*s*s;
-		
-		return Pt.P(0,0,0)
-				.add(2*t3 - 3*t2 + 1, p0)
-				.add(t3 - 2*t2 + t,   t0)
-				.add(-2*t3 + 3*t2,    p1)
-				.add(t3 - t2,         t1);
-	}
 	
-	private void cubic(Graphics2D g, Pt p0, Pt t0, Pt p1, Pt t1) {
-		int n = (int) Math.max(3, p0.distance(p1)/3);
+	private void cubic(Graphics2D g, Pt pA, Pt pB, Pt pC, Pt tD, Cubic f) {
+		int n = (int) Math.max(3, pA.distance(pC)/3);
 		
 		for (int i = 0; i < n; i++) {
-//			g.setColor(colors[i % colors.length]);
-			Pt a = hermite(p0, t0, p1, t1, (float)(i+0.0f)/n);
-			Pt b = hermite(p0, t0, p1, t1, (float)(i+1.0f)/n);
+			Pt a = f.sample(pA, pB, pC, tD, (float)(i+0.0f)/n);
+			Pt b = f.sample(pA, pB, pC, tD, (float)(i+1.0f)/n);
+
 			g.drawLine(a.ix(), a.iy(), b.ix(), b.iy());
 		}
 	}
@@ -187,14 +177,18 @@ public class GraphRenderer {
 				continue;
 			}
 			
-			Pt arrowA = O.closestBorderPoint(P.getCenter());
-			Pt arrowB = P.closestBorderPoint(O.getCenter());
+//			Pt arrowA = O.closestBorderPoint(P.getCenter());
+//			Pt arrowB = P.closestBorderPoint(O.getCenter());
 			
-			arrowA = O.getCenter();
-			arrowB = P.getCenter();
+			Pt p0 = O.getCenter();
+			Pt p1 = P.getCenter();
 			
-			Pt p0 = arrowA;
-			Pt p1 = arrowB;
+			Pt dir = p1.d().sub(p0);
+//			p0.add(O.getRadius()*+Mathf.sign(dir.dot3d(down)), down);
+//			p1.add(P.getRadius()*-Mathf.sign(dir.dot3d(down)), down);
+			
+			Pt B = p0.d().y(Mathf.lerp(p0.y, p1.y, 1 - (Mathf.random() * 0.0f + 0.1f)));
+			Pt C = p1.d().y(Mathf.lerp(p1.y, p0.y, 1 - (Mathf.random() * 0.0f + 0.1f)));
 			
 			Pt t0 = tangent(ode, true);
 			Pt t1 = tangent(parent, false);
@@ -215,23 +209,37 @@ public class GraphRenderer {
 				t1.x *= -1;
 			}
 			
-			float scale = 100;
+			float scale = dir.mag3d()/1.5f;
 			
 			t0.mul(scale);
 			t1.mul(scale);
 
 			Stroke k = g.getStroke();
-			g.setStroke(new BasicStroke(2, BasicStroke.CAP_ROUND, BasicStroke.JOIN_ROUND));
-			if (DEBUG_SPLINE_COLORS) {
-				g.setColor(new Color[] {
-						Color.BLACK, Color.BLUE,
-						Color.GREEN, Color.RED,
-						Color.CYAN, Color.MAGENTA
-				}[(int)(Math.random()*5)]);
-			} else {
-				g.setColor(Color.BLACK);
+			
+			g.setColor(Color.WHITE);
+			g.setStroke(new BasicStroke(4));
+			for (int i = 1; i < 2; i++) {
+				Pt A = p0;
+				Pt D = p1;
+				if (i == 1) {
+					g.setStroke(new BasicStroke(2, BasicStroke.CAP_ROUND, BasicStroke.JOIN_ROUND));
+					if (DEBUG_SPLINE_COLORS) {
+						g.setColor(new Color[] {
+								Color.BLACK, Color.BLUE,
+								Color.GREEN, Color.RED,
+								Color.CYAN, Color.MAGENTA
+						}[(int)(Math.random()*5)]);
+					} else {
+						g.setColor(Color.BLACK);
+					}
+				} else {
+					A = A.d().lerp(p1, 0.1f);
+					D = D.d().lerp(p0, 0.1f);
+				} 
+	//			cubic(g, p0, t0, p1, t1, Cubic.HERMITE);
+				cubic(g, A, B, C, D, Cubic.BEZIER);
 			}
-			cubic(g, p0, t0, p1, t1);
+			
 			g.setStroke(k);
 		}
 	}
@@ -259,11 +267,11 @@ public class GraphRenderer {
 		Visode[] vert = GraphIO.readVisodes("vishy-" + lindex + ".txt");
 		OdeAccess copy = null;
 		
-		if (conn != null && vert != null) {
+		if (conn != null && vert != null && false) {
 			copy = new OdeManager(vert, conn);
 		} else {
 			copy = new OdeManager(access);
-			OdeLayout layout = new GansnerLayout(copy);
+			OdeLayout layout = new GansnerLayout(copy, true);
 			layout.doLayout();
 			
 			// Stick original display names back in

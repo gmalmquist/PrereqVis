@@ -139,6 +139,7 @@ public class GraphIO {
 			out.println("z: " + v.getCenter().z);
 			out.println("r: " + v.getRadius());
 		}
+		out.println("visodes-over");
 		
 		out.flush();
 	}
@@ -163,6 +164,8 @@ public class GraphIO {
 			if (line.startsWith("visodes: ")) {
 				nodes = new Visode[Integer.parseInt(line.substring("visodes: ".length()).trim())];
 				continue;
+			} else if (line.startsWith("visodes-over")) {
+				break;
 			}
 			
 			int colon = line.indexOf(':');
