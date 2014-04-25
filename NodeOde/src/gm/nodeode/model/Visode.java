@@ -15,6 +15,7 @@ public abstract class Visode {
 	private final String uid;
 	private int type;
 	private String display;
+	private String longname;
 	
 	public Visode(String uid) {
 		this.uid = uid;
@@ -31,6 +32,13 @@ public abstract class Visode {
 	}
 	public void setType(int type) {
 		this.type = type;
+	}
+	
+	public void setLongName(String name) {
+		this.longname = name;
+	}
+	public String getLongName() {
+		return this.longname;
 	}
 	
 	public abstract Pt getCenter();

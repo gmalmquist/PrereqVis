@@ -3,6 +3,7 @@ package gm.nodeode.io;
 import gm.nodeode.math.geom.Pt;
 import gm.nodeode.math.graph.Edge;
 import gm.nodeode.math.graph.Graph;
+import gm.nodeode.model.OdeAccess;
 import gm.nodeode.model.OdeNode;
 import gm.nodeode.model.Visode;
 
@@ -17,6 +18,117 @@ import java.io.InputStreamReader;
 import java.io.PrintStream;
 
 public class GraphIO {
+	
+	private static String urlFor(String name) {
+		StringBuffer sb = new StringBuffer();
+		if (name.matches("^[A-Z]+ \\d+$")) {
+			// https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201408&subj_code_in=CS&crse_numb_in=4240
+			String[] parts = name.split(" ");
+			sb.append("https://oscar.gatech.edu/pls/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201408&subj_code_in=");
+			sb.append(parts[0]);
+			sb.append("&crse_numb_in=");
+			sb.append(parts[1]);
+		}
+		return sb.toString();
+	}
+	
+	private static void jsonPair(StringBuffer sb, String name, Object value) {
+		sb.append("\"");
+		sb.append(name);
+		sb.append("\":\"");
+		sb.append(value);
+		sb.append("\"");
+	}
+	
+	public static String toJson(OdeAccess access) {
+		StringBuffer sb = new StringBuffer(1024);
+		sb.append("{ ");
+		
+		boolean first = true;
+		
+		sb.append("\"vertices\":[ ");
+		for (Visode v : access.getVisodes()) {
+			String type = "";
+			if (v.getType() == Visode.TYPE_LINK) {
+				type = "link";
+			} else if (v.getType() == Visode.TYPE_NODE) {
+				type = "node";
+			} else if (v.getType() == Visode.TYPE_SPACER) {
+				continue;
+			}
+			
+			if (first) {
+				first = false;
+			} else {
+				sb.append(", ");
+			}
+			
+			sb.append("{ ");
+			
+			jsonPair(sb, "uid", v.getUID());
+			sb.append(", ");
+
+			jsonPair(sb, "name", v.getDisplayName());
+			sb.append(", ");
+
+			jsonPair(sb, "longname", v.getLongName());
+			sb.append(", ");
+
+			jsonPair(sb, "type", type);
+			sb.append(", ");
+			
+			jsonPair(sb, "url", urlFor(v.getUID()));
+			sb.append(", ");
+
+			jsonPair(sb, "x", v.getCenter().x);
+			sb.append(", ");
+			
+			jsonPair(sb, "y", v.getCenter().y);
+			sb.append(", ");
+			
+			jsonPair(sb, "z", v.getCenter().z);
+			sb.append(", ");
+			
+			jsonPair(sb, "r", v.getRadius());
+			
+			sb.append(" }");
+		}
+		sb.append(" ]");
+		
+		first = true;
+		sb.append(", ");
+		sb.append("\"edges\":[ ");
+		for (String v : access.getOdes()) {
+			for (String p : access.findParents(v)) {
+				if (first) {
+					first = false;
+				} else {
+					sb.append(", ");
+				}
+				
+				sb.append("{ ");
+				jsonPair(sb, "tail", v);
+				sb.append(", ");
+				jsonPair(sb, "head", p);
+				sb.append(" }");
+			}
+		}
+		sb.append(" ]");
+		
+		sb.append(" }");
+		return sb.toString();
+	}
+	
+	public static void saveJson(PrintStream out, OdeAccess access) {
+		out.println(toJson(access));
+		out.flush();
+	}
+	
+	public static void saveJson(String name, OdeAccess access) throws IOException {
+		PrintStream out = new PrintStream(new File(name));
+		saveJson(out, access);
+		out.close();
+	}
 	
 	public static void saveGraph(String name, Graph graph) throws IOException {
 		PrintStream out = new PrintStream(new File(name));

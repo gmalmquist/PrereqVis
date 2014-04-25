@@ -282,11 +282,13 @@ public class GraphRenderer {
 					continue;
 				}
 				cv.setDisplayName(ov.getDisplayName());
+				cv.setLongName(ov.getLongName());
 			}
 			
 			try {
 				GraphIO.saveGraph("graph-"+lindex+".txt", copy.copyGraph());
 				GraphIO.saveVisodes("vishy-" + lindex + ".txt", copy.getVisodes());
+				GraphIO.saveJson("json-" + lindex + ".js", copy);
 			} catch (Exception e) {
 				System.err.println("Error caching graphs: " + e);
 			}

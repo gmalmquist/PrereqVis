@@ -34,7 +34,7 @@ public class NodeOde {
 	public static final boolean FULLNAMES = false;
 	
 	public static void main(String[] args) {
-		String major = "MATH";
+		String major = "CS";
 		String level = LEVEL_UNDERGRADUATE;
 		// Uncomment these lines to change what course levels to use in the graph.
 //		level = LEVEL_ANY;
@@ -49,6 +49,7 @@ public class NodeOde {
 		final HashMap<String, Visode> odeTable = new HashMap<String, Visode>();
 		Graph mainGraph = new Graph();
 		
+		final HashMap<String, String> longnames = new HashMap<String, String>();
 		
 		System.out.println("Reading in data");
 		List<ICourse> nodes = CourseIO.read(Data.getStream("data_" + major.toLowerCase() + ".txt"));
@@ -74,6 +75,7 @@ public class NodeOde {
 
 			if (gnode instanceof Course) {
 				Course node = (Course)gnode;
+				longnames.put(node.getUID(), node.getFullName());
 				for (String p : node.getParents())
 					mainGraph.addEdge(node.getUID(), p);
 			}
@@ -132,6 +134,9 @@ public class NodeOde {
 						} else {
 							ode = new OdeNode(s);
 							System.err.println("Warning: no name entry for " + s);
+						}
+						if (longnames.containsKey(ode.getUID())) {
+							ode.setLongName(longnames.get(ode.getUID()));
 						}
 						choiceAccess.register(ode);
 					}
