@@ -4,7 +4,7 @@ PHYS 2001	Physics of Space and Time	Tech Elect CS,Engr,&Sciences	PHYS 2211
 PHYS 2021	The Solar System	Tech Elect CS,Engr,&Sciences	
 PHYS 2022	Stars, Galaxies, and the Universe	Tech Elect CS,Engr,&Sciences	
 PHYS 2030	Physics Of Music	Tech Elect CS,Engr,&Sciences	
-PHYS 2211	Introductory Physics I	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|
+PHYS 2211	Introductory Physics I	Tech Elect CS,Engr,&Sciences	MATH 1501,MATH 1511,|
 PHYS 2212	Introductory Physics II	Tech Elect CS,Engr,&Sciences	PHYS 2211,PHYS 2231,|
 PHYS 2213	Introduction to Modern Physics	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|
 PHYS 2231	Honors Physics I	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|

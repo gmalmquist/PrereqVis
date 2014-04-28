@@ -21,11 +21,11 @@ CHBE 4300	Kinetics and Reactor Design	Tech Elect CS,Engr,&Sciences	CHBE 3200,CHB
 CHBE 4310	Bioprocess Engineering	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|,CHBE 3210,&,CHBE 3225,&,CHBE 4300,&
 CHBE 4400	Chemical Process Control	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
 CHBE 4505	Process Design and Economics	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
-CHBE 4510	Process and Product Design And Economics		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
+CHBE 4510	Process and Product Design And Economics		CHBE 3210,CHBE 3225,&,CHBE 4300,&
 CHBE 4515	Chemical Process Safety	Ethics Requirement,Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
-CHBE 4520	Chemical Engineering Capstone Design Project		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4510,CHBE 4515,&,&
+CHBE 4520	Chemical Engineering Capstone Design Project		CHBE 4510,CHBE 4515,&
 CHBE 4525	Bioprocess Design and Economics	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
-CHBE 4530	Chemical Engineering Capstone Design Project		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4510,CHBE 4515,&,&
+CHBE 4530	Chemical Engineering Capstone Design Project		CHBE 4510,CHBE 4515,&
 CHBE 4535	Chemical Product Design, Engineering and Optimization	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHBE 3210,&,MSE 2001,&
 CHBE 4573	Pulping and Bleaching Laboratory	Tech Elect CS,Engr,&Sciences	
 CHBE 4574	Papermaking and Recycled Pulp Laboratory	Tech Elect CS,Engr,&Sciences	

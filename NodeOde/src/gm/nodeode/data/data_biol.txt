@@ -35,10 +35,10 @@ BIOL 3600	Introduction to Evolutionary Biology	Tech Elect CS,Engr,&Sciences	BIOL
 BIOL 3751	Human Anatomy and Physiology	Tech Elect CS,Engr,&Sciences	BIOL 1510,BIOL 1511,|,CHEM 1310,|
 BIOL 3753	Fundamentals of Anatomy		BIOL 1520,BIOL 1521,|,CHEM 1211,CHEM 1310,|,|
 BIOL 3754	Laboratory in Human Anatomy		APPH 3753,BIOL 3753,|
-BIOL 3755	Human Physiology		
-BIOL 3756	Laboratory in Human Physiology		
+BIOL 3755	Human Physiology		APPH 3753,BIOL 3753,|
+BIOL 3756	Laboratory in Human Physiology		APPH 3753,BIOL 3753,|,APPH 3753,BIOL 3753,|,|
 BIOL 3813	Special Topics		
-BIOL 4012	Protein Biology		
+BIOL 4012	Protein Biology		BIOL 1510,BIOL 1511,|
 BIOL 4015	Cancer Biology and Biotechnology		BIOL 1510,BIOL 1511,|,BIOL 1520,BIOL 1521,|,|,CHEM 1310,CHEM 1211,|,|,CHEM 1212,PHYS 2211,|,|,PHYS 2212,EAS 1600,|,|,BIOL 15110,BIOL 15111,|,|
 BIOL 4101	Sensory Ecology	Tech Elect CS,Engr,&Sciences	BIOL 2335,BIOL 2337,|
 BIOL 4105	Macromolecular Modeling	Tech Elect CS,Engr,&Sciences	
@@ -102,7 +102,7 @@ BIOL 6623	Experiments in Aquatic Chemical Signaling
 BIOL 6626	Physiological Ecology		BIOL 4010
 BIOL 6628	Aquatic Toxicology		BIOL 4010
 BIOL 6630	Advanced Microbial Ecology		BIOL 4010
-BIOL 6720	Environmental Microbial Genomics		
+BIOL 6720	Environmental Microbial Genomics		CEE 6311,BIOL 3380,|
 BIOL 6756	Discovery of Signaling Molecules		CHEM 2311
 BIOL 6765	Geomicrobiology		BIOL 4410,BIOL 4418,|,EAS 3620,&
 BIOL 7000	Master's Thesis		

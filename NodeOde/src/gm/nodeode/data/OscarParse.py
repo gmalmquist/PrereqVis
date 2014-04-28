@@ -184,7 +184,7 @@ def FetchClassInfo(c):
 
     url = ''.join([
         'https://oscar.gatech.edu/pls/bprod/',
-        'bwckctlg.p_disp_course_detail?cat_term_in=201305',
+        'bwckctlg.p_disp_course_detail?cat_term_in=201408',
         '&subj_code_in=', str(subj),
         '&crse_numb_in=', str(num)
     ])
@@ -330,11 +330,13 @@ def ScrapeCourses(inputFiles):
         print 'Done with', inputPath
     print 'Scraping complete.'
 
+
+datasrc = ['mgt.txt', 'cx.txt']
+datasrc = ['lcc.txt']
 datasrc = ['cs.txt',   'ece.txt',  'psyc.txt',
               'me.txt',   'ae.txt',   'chbe.txt',
               'chem.txt', 'bmed.txt', 'phys.txt',
-              'biol.txt', 'math.txt']
-datasrc = ['mgt.txt', 'cx.txt']
-datasrc = ['lcc.txt']
+              'biol.txt', 'math.txt', 'lcc.txt',
+              'cx.txt', 'mgt.txt']
 ScrapeCourses(datasrc)
 

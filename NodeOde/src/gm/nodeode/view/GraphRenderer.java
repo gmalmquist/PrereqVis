@@ -18,8 +18,12 @@ import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 import java.awt.Stroke;
 import java.awt.image.BufferedImage;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Takes in a connected Graph and plots all the nodes to a BufferedImage, after
@@ -255,6 +259,149 @@ public class GraphRenderer {
 		}
 		g.dispose();
 	}
+		
+	private static void energyMinimize(OdeAccess access) {
+		Blog.log("ER", "Constructing Visode Grid");
+		int count = 0;
+		
+		HashMap<Integer, List<Visode>> levels = new HashMap<Integer, List<Visode>>();
+		
+		for (Visode v : access.getVisodes()) {
+			count++;
+			
+			int l = v.getCenter().iy();
+			if (!levels.containsKey(l)) {
+				levels.put(l, new ArrayList<Visode>());
+			}
+			levels.get(l).add(v);
+		}
+		
+		List<List<Visode>> compressed = new ArrayList<List<Visode>>(levels.size());
+		List<Integer> levelKeys = new ArrayList<Integer>(levels.size());
+		levelKeys.addAll(levels.keySet());
+		Collections.sort(levelKeys);
+		for (Integer key : levelKeys) {
+			compressed.add(levels.get(key));
+		}
+		
+		for (int level : levels.keySet()) {
+			Collections.sort(levels.get(level), new Comparator<Visode>() {
+				public int compare(Visode a, Visode b) {
+					return new Integer(a.getCenter().ix()).compareTo(new Integer(b.getCenter().ix()));
+				}
+			});
+		}
+		
+		HashMap<String, Integer> v2row = new HashMap<String, Integer>();
+		HashMap<String, Integer> v2col = new HashMap<String, Integer>();
+		
+		int rows = compressed.size();
+		for (int i = 0; i < compressed.size(); i++) {
+			List<Visode> vs = compressed.get(i);
+			for (int j = 0; j < vs.size(); j++) {
+				String v = vs.get(j).getUID();
+				v2row.put(v, i);
+				v2col.put(v, j);
+			}
+		}
+		
+		Blog.log("ER", "Energy Minimization");
+
+		boolean parents = false;
+		boolean children = true;
+		
+		int stalepoint = 10;
+		int stalecount = 0;
+		
+		long lastenergy = 0;
+		long energy = Long.MAX_VALUE;
+		for (int iteration = 0; iteration < 10000; iteration++) {
+			energy = 0;
+			
+			boolean flip = iteration % 2 == 0 && true;
+			
+			for (int i = flip ? 0 : rows-1; (flip && i < rows) || (!flip && i >= 0); i += (flip ? 1 : -1)) {
+				List<Visode> row = compressed.get(i);
+				int cols = row.size();
+				
+				for (int j = 0; j < cols; j++) {
+					Visode v = row.get(j);
+					Pt a = v.getCenter();
+					
+					int dx = 0;
+					if (!flip) {
+						for (String p : access.findParents(v.getUID())) {
+							dx += access.find(p).getCenter().ix() - a.ix();
+						}
+					} else  {
+						for (String c : access.findChildren(v.getUID())) {
+							dx += access.find(c).getCenter().ix() - a.ix();
+						}
+					}
+					
+					int L = j == 0      ? a.ix() : row.get(j-1).getCenter().ix() + (int) (row.get(j-1).getRadius() + v.getRadius());
+					int R = j == cols-1 ? a.ix() : row.get(j+1).getCenter().ix() - (int) (row.get(j+1).getRadius() + v.getRadius());
+					
+					if (L > a.ix()) L = a.ix();
+					if (R < a.ix()) R = a.ix();
+					
+					int T = a.ix();
+					
+					if (dx > 0) {
+						T = R;
+					} else if (dx < 0) {
+						T = L;
+					}
+					
+					int x = a.ix();
+					x = Mathf.lerpi(x, T, 0.5);
+					x = Mathf.lerpi(x, T, -0.5);
+					v.setCenter(a.x(x));
+					
+					energy += Math.abs(dx);
+				}
+			}
+
+			if (iteration % 100 == 0) {
+				Blog.log("ER [" + iteration + "] Minimizing, energy=" + energy);
+			}
+			if (energy == 0) {
+				break;
+			}
+			if (lastenergy == energy) {
+				stalecount++;
+				if (stalecount >= stalepoint) {
+					break;
+				}
+			} else {
+				stalecount = 0;
+			}
+			lastenergy = energy;
+		}
+	}
+	
+	public static OdeAccess layout(OdeAccess access) {
+		OdeAccess copy = new OdeManager(access);
+		
+		// Bell Labs layout
+		OdeLayout layout = new GansnerLayout(copy, true);
+		layout.doLayout();
+		
+		// Local optimizing
+		energyMinimize(copy);
+		
+		// Stick original display names back in
+		for (String v : copy.getOdes()) {
+			Visode cv = copy.find(v);
+			Visode ov = access.find(v);
+			if (ov == null || cv == null) {
+				continue;
+			}
+			cv.setDisplayName(ov.getDisplayName());
+			cv.setLongName(ov.getLongName());
+		}
+		return copy;
+	}
 	
 	private static volatile int lindex = 0;
 	public static synchronized BufferedImage layoutAndRender(OdeAccess access) {
@@ -273,6 +420,8 @@ public class GraphRenderer {
 			copy = new OdeManager(access);
 			OdeLayout layout = new GansnerLayout(copy, true);
 			layout.doLayout();
+			
+			energyMinimize(copy);
 			
 			// Stick original display names back in
 			for (String v : copy.getOdes()) {

@@ -17,7 +17,7 @@ PSYC 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences
 PSYC 2760	Human Language Processing	Social Science Requirement,Tech Elect CS,Engr,&Sciences	
 PSYC 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
 PSYC 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
-PSYC 2803	Special Topics	Social Science Requirement,Tech Elect CS,Engr,&Sciences	
+PSYC 2803	Special Topics		
 PSYC 2901	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
 PSYC 2902	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
 PSYC 2903	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
@@ -48,7 +48,7 @@ PSYC 4770	Psychology and Environmental Design	Social Science Requirement,Tech El
 PSYC 4790	Seminar in Cognitive Science	Tech Elect CS,Engr,&Sciences	PSYC 1101
 PSYC 4791	Integrative Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
 PSYC 4792	Design Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
-PSYC 4803	Special Topics	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4803	Special Topics	Tech Elect CS,Engr,&Sciences	PSYC 2020
 PSYC 4813	Special Topics	Tech Elect CS,Engr,&Sciences	
 PSYC 4823	Special Topics	Tech Elect CS,Engr,&Sciences	
 PSYC 4833	Special Topics	Tech Elect CS,Engr,&Sciences	

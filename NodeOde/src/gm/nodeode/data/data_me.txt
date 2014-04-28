@@ -1,57 +1,57 @@
 Course	Name	Attributes	Prerequisites
 ME 1750	Introduction to Bioengineering		
 ME 1770	Introduction to Engineering Graphics and Visualization		
-ME 2016	Computer Applications	Tech Elect CS,Engr,&Sciences	CS 1321,MATH 1502,MATH 1512,|,&,MATH 15X2,MATH 1522,&,|
-ME 2110	Creative Decisions and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 2016,&,AE 2120,ME 2211,|,&
-ME 2202	Dynamics of Rigid Bodies	Tech Elect CS,Engr,&Sciences	ME 2016,ME 2211,&
+ME 2016	Computer Applications	Tech Elect CS,Engr,&Sciences	CS 1371,CS 1301,CS 1171,&,|,CS 1311,CS 1171,&,|,CS 13X1,CS 1171,&,|,CS 13X2,CS 1171,&,|,CS 17XX,CS 1171,&,|,CS 15XX,CS 1171,&,|,MATH 1502,MATH 1512,|,CS 13010,CS 13011,&,|,&,CS 13012,CS 13013,|,CS 13014,|,&
+ME 2110	Creative Decisions and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,COE 2001,&
+ME 2202	Dynamics of Rigid Bodies	Tech Elect CS,Engr,&Sciences	COE 2001
 ME 2698	Undergraduate Research Assistantship		
 ME 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
 ME 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
 ME 3015	System Dynamics and Control	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,MATH 2413,|,ME 2202,&,ECE 3741,&
-ME 3017	System Dynamics		CS 1371,MATH 2403,&,ME 2202,&,ECE 3710,&
-ME 3057	Experimental Methodology and Technical Writing	Tech Elect CS,Engr,&Sciences	ME 3340,COE 3001,&,ME 3015,&,ME 3345,&,MATH 3770,ISYE 3770,|,CEE 3770,|,&
+ME 3017	System Dynamics		MATH 2403,MATH 2413,|,MATH 24X3,|,ME 2202,AE 2220,|,&,ME 2016,&,ECE 3710,ECE 2040,|,&
+ME 3057	Experimental Methodology and Technical Writing	Tech Elect CS,Engr,&Sciences	ME 3340,CEE 3040,|,COE 3001,&,ME 3015,ME 3017,|,AE 3515,|,&,ME 3345,&,MATH 3770,ISYE 3770,|,CEE 3770,|,&
 ME 3141	Cutting-Edge Eng Seminar		
-ME 3180	Machine Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 3201,&
+ME 3180	Machine Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 2110,&,COE 3001,&
 ME 3210	Design, Materials, and Manufacture		ME 2110,MSE 2001,&
-ME 3322	Thermodynamics	Tech Elect CS,Engr,&Sciences	PHYS 2211,MATH 2403,MATH 24X3,|,MATH 2602,MATH 2413,|,|,&,ME 2016,&
-ME 3340	Fluid Mechanics	Tech Elect CS,Engr,&Sciences	ME 2202,ME 3322,&,MATH 2401,&,MATH 2403,&
-ME 3345	Conduction and Radiation Heat Transfer	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,ME 3340,&
+ME 3322	Thermodynamics	Tech Elect CS,Engr,&Sciences	PHYS 2211,PHYS 2231,|,MATH 2403,MATH 24X3,|,MATH 2413,|,&
+ME 3340	Fluid Mechanics	Tech Elect CS,Engr,&Sciences	ME 2202,AE 2220,|,NRE 2110,NRE 3301,|,|,MSE 3005,PTFE 2200,|,|,ME 3322,CHEM 3411,|,MSE 3001,|,&,MATH 2401,AE 22200,|,AE 22201,|,&,AE 22202,AE 22203,|,AE 22204,|,&,AE 22205,&
+ME 3345	Conduction and Radiation Heat Transfer	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 2413,|,MATH 24X3,|,ME 3340,CEE 3040,|,&,ME 3322,&
 ME 3700	Introduction to Energy Systems Engineering		CHEM 1310,CHEM 1211,CHEM 1212,&,|,PHYS 2211,&,PHYS 2212,&
-ME 3720	Introduction to Fluid and Thermal Engineering	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2211,&,MATH 2403,MATH 24X3,|,MATH 2413,|,&
+ME 3720	Introduction to Fluid and Thermal Engineering	Tech Elect CS,Engr,&Sciences	CHEM 1310,CHEM 1211,|,CHEM 1212,CHEM 12X1,|,|,PHYS 2211,PHYS 2231,|,&,MATH 2403,MATH 2602,|,MATH 24X3,MATH 2413,|,|,&
 ME 3743	Analysis of Emerging Technologies		
 ME 3744	Managing Product, Service & Technology Development		
 ME 4011	Internal Combustion Engines	Tech Elect CS,Engr,&Sciences	ME 3322
-ME 4012	Modeling and Control of Motion Systems	Tech Elect CS,Engr,&Sciences	ME 3015
+ME 4012	Modeling and Control of Motion Systems	Tech Elect CS,Engr,&Sciences	ME 3015,ME 3017,|,AE 3515,|
 ME 4041	Interactive Computer Graphics and Computer-aided Design	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3180,ME 3345,&
 ME 4053	Mechanical Engineering Systems Laboratory	Tech Elect CS,Engr,&Sciences	ME 3345,ME 3057,&,ME 3015,&,MATH 3770,ISYE 3770,|,&
-ME 4056	Mechanical Engineering Systems Laboratory		ME 3017,ME 3057,&,ME 3345,&,MATH 3770,ISYE 3770,|,&
+ME 4056	Mechanical Engineering Systems Laboratory		ME 3017,ME 3015,|,AE 3515,|,ME 3057,&,ME 3345,&,MATH 3770,CEE 3770,|,ISYE 3770,|,&
 ME 4171	Environmentally Conscious Design and Manufacturing	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	
 ME 4172	Designing Sustainable Engineering Systems	Tech Elect CS,Engr,&Sciences	
-ME 4182	Mechanical Design Engineering	Tech Elect CS,Engr,&Sciences	ME 2110,ME 3210,&,ME 3180,ME 4315,|,&
-ME 4189	Structural Vibrations	Tech Elect CS,Engr,&Sciences	ME 2202,MATH 2403,MATH 2413,|,MATH 24X3,|,&
-ME 4193	Design and Materials Selection for Tribological Applications	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3201,ME 3340,&
+ME 4182	Mechanical Design Engineering	Tech Elect CS,Engr,&Sciences	ME 2110,ME 3210,&,ME 3180,ME 4315,|,&,MATH 3770,CEE 3770,|,ISYE 3770,|,&,COE 3001,&,ME 3345,&
+ME 4189	Structural Vibrations	Tech Elect CS,Engr,&Sciences	ME 2202,AE 2220,|,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+ME 4193	Design and Materials Selection for Tribological Applications	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	COE 3001,ME 3340,CEE 3040,|,&
 ME 4214	Mechanical Behavior of Materials	Tech Elect CS,Engr,&Sciences	COE 3001
 ME 4215	Manufacturing Process Analysis		COE 3001,ME 3210,&,ME 3345,&
-ME 4315	Energy Systems Analysis and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ISYE 3025,&,ME 3345,&
+ME 4315	Energy Systems Analysis and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 2110,&,ME 3345,&
 ME 4321	Refrigeration and Air Conditioning	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3322,ME 3345,&
 ME 4324	Power Generation Technology	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ISYE 3025,ME 3345,&
 ME 4325	Introduction to Fuel Cell Systems		ME 3322
 ME 4330	Heat and Mass Exchangers	Tech Elect CS,Engr,&Sciences	ME 3345
 ME 4340	Applied Fluid Mechanics	Tech Elect CS,Engr,&Sciences	ME 3345
 ME 4342	Computational Fluid Dynamics	Tech Elect CS,Engr,&Sciences	ME 3345
-ME 4447	Microprocessor Control of Manufacturing Systems	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	
-ME 4451	Robotics	Tech Elect CS,Engr,&Sciences	ME 3015
-ME 4452	Control of Dynamic Systems		ME 3017
+ME 4447	Microprocessor Control of Manufacturing Systems	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3057,ME 3015,ME 3017,|,&
+ME 4451	Robotics	Tech Elect CS,Engr,&Sciences	ME 3015,ME 3017,|,AE 3515,|
+ME 4452	Control of Dynamic Systems		ME 3017,ME 3015,|,AE 3515,|
 ME 4698	Undergraduate Research Assistantship		
 ME 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
-ME 4701	Wind Engineering		MATH 2401,PHYS 2211,&
-ME 4740	Biologically Inspired Design		BIOL 1520,BIOL 3600,|,BMED 3100,PHYS 2211,|,|
+ME 4701	Wind Engineering		MATH 2401,MATH 2411,|,MATH 24X1,|,PHYS 2211,PHYS 2231,|,&
+ME 4740	Biologically Inspired Design		BIOL 1520,BIOL 3600,|,BMED 3100,PHYS 2211,|,|,PHYS 2231,|
 ME 4741	Integrative Management Development - Project Preparation		
 ME 4742	Integrated Technology and Management Capstone Project		
 ME 4753	Topics in Engineering Practice	Tech Elect CS,Engr,&Sciences	
 ME 4754	Electronics Packaging Assembly, Reliability, Thermal Management, and Test	Tech Elect CS,Engr,&Sciences	ECE 3040,ECE 3710,|
-ME 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	AE 2020,ME 3340,|,BMED 3300,|
-ME 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	ME 3201,BMED 3400,|
+ME 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	AE 2020,ME 3340,|,BMED 3300,CEE 3040,|,|
+ME 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	COE 3001,BMED 3400,|
 ME 4760	Engineering Acoustics and Noise Control	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,MATH 2413,|
 ME 4763	Pulping and Chemical Recovery	Tech Elect CS,Engr,&Sciences	
 ME 4764	Bleaching and Papermaking	Tech Elect CS,Engr,&Sciences	
@@ -59,12 +59,12 @@ ME 4766	Fabrication and Properties of Nanoscale Devices		ME 3322,ME 3720,|,AE 34
 ME 4775	Polymer Science and Engineering I: Formation and Properties	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHEM 3411,&
 ME 4776	Polymer Science and Engineering II: Analysis, Processing, and Laboratory	Tech Elect CS,Engr,&Sciences	CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
 ME 4777	Introduction to Polymer Science and Engineering	Tech Elect CS,Engr,&Sciences	MSE 2001,CHEM 2311,&
-ME 4781	Biomedical Instrumentation	Tech Elect CS,Engr,&Sciences	ECE 3040,ECE 3710,|
-ME 4782	Biosystems Analysis	Tech Elect CS,Engr,&Sciences	BMED 3500,CHBE 4400,|,ECE 2040,ME 3015,|,|
+ME 4781	Biomedical Instrumentation	Tech Elect CS,Engr,&Sciences	ECE 3040,ECE 3710,|,ECE 3030,|
+ME 4782	Biosystems Analysis	Tech Elect CS,Engr,&Sciences	BMED 3500,CHBE 4400,|,ECE 2040,ME 3015,|,|,ME 3017,|
 ME 4790	Materials Selection and Design		COE 3001,MSE 3003,|
-ME 4791	Mechanical Behavior of Composites	Tech Elect CS,Engr,&Sciences	ME 3201
-ME 4793	Composite Materials and Processes	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	PHYS 2212,CHEM 1310,&
-ME 4794	Composite Materials and Manufacturing	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+ME 4791	Mechanical Behavior of Composites	Tech Elect CS,Engr,&Sciences	COE 3001
+ME 4793	Composite Materials and Processes	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	CHEM 1310,CHEM 1211,|,CHEM 1212,CHEM 12X1,|,|,PHYS 2212,PHYS 2232,|,&
+ME 4794	Composite Materials and Manufacturing	Tech Elect CS,Engr,&Sciences	CHEM 1310,CHEM 1211,|,CHEM 1212,CHEM 12X1,|,|,PHYS 2212,PHYS 2232,|,&
 ME 4801	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
 ME 4802	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
 ME 4803	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
@@ -121,7 +121,7 @@ ME 6404	Advanced Control System Design and Implementation		ME 6403
 ME 6405	Introduction to Mechatronics		ME 3015
 ME 6406	Machine Vision		
 ME 6407	Robotics		ME 3015,ECE 3085,|
-ME 6408	Advanced Mechatronics		
+ME 6408	Advanced Mechatronics		ME 4447,ME 6405,|
 ME 6441	Dynamics of Mechanical Systems		ME 3015
 ME 6442	Vibration of Mechanical Systems		ME 3015,ME 3201,&
 ME 6443	Variational Methods in Engineering		

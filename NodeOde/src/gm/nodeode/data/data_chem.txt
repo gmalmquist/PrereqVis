@@ -10,7 +10,7 @@ CHEM 2694	Intern Assistantship (Undergraduate Internship for Pay)
 CHEM 2695	Undergraduate Internship (Undergraduate Internship for Academic Credit)		
 CHEM 2698	Undergraduate Research Assistantship		
 CHEM 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
-CHEM 2801	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
+CHEM 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
 CHEM 2802	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
 CHEM 2803	Special Topics	Tech Elect CS,Engr,&Sciences	CHEM 1311
 CHEM 2901	Special Problems in Chemistry	Tech Elect CS,Engr,&Sciences	CHEM 1311

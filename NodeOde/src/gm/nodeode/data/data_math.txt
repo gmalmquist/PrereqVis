@@ -30,7 +30,7 @@ MATH 3012	Applied Combinatorics	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512
 MATH 3022	Honors Applied Combinatorics	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|,MATH 15X2,MATH 1522,&,|
 MATH 3215	Introduction to Probability and Statistics	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 24X1,MATH 2605,|,|
 MATH 3225	Honors Probability and Statistics	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 2605,|
-MATH 3670	Probability and Statistics with Applications		
+MATH 3670	Probability and Statistics with Applications		MATH 2401,MATH 2411,|,MATH 24X1,MATH 2605,|,|
 MATH 3770	Statistics and Applications	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 24X1,MATH 2605,|,|
 MATH 3801	Special Topics	Tech Elect CS,Engr,&Sciences	
 MATH 3802	Special Topics	Tech Elect CS,Engr,&Sciences	

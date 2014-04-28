@@ -36,7 +36,7 @@ MGT 3609	Legal Aspects of Real Estate
 MGT 3660	International Business	Global Economics (IP),Global Perspectives	
 MGT 3661	Advanced Concepts in International Business		MGT 3660
 MGT 3662	Management in the Healthcare Sector		
-MGT 3663	Technology Strategy		
+MGT 3663	Technology Strategy		ECON 2106
 MGT 3743	Analysis of Emerging Technologies		
 MGT 3744	Managing Product, Service & Technology Development		
 MGT 4010	Business Taxation		MGT 3000
@@ -121,7 +121,7 @@ MGT 6047	Ethics and Accounting		MGT 6000
 MGT 6051	Database Development and Applications		MGT 6050
 MGT 6053	Business Data Communications		MGT 6050
 MGT 6056	Electronic Commerce-Conducting Business on the Internet		MGT 6050
-MGT 6057	Business Process Analysis and Design		MGT 6050
+MGT 6057	Business Process Analysis and Design		
 MGT 6058	Information Technology Practicum		MGT 6123
 MGT 6059	Emerging Technologies		MGT 6123
 MGT 6060	Financial Management		MGT 6000
@@ -189,7 +189,7 @@ MGT 6753	Principles of Management for Engineers
 MGT 6769	Fixed Income Securities		MATH 3215,MATH 3225,|,MGT 6060,MGT 6078,|,&
 MGT 6772	Managing Resources of the Technological Firm		
 MGT 6773	Strategic Management of Technology-Based Ventures		
-MGT 6780	Knowledge Management		MGT 6050
+MGT 6780	Knowledge Management		
 MGT 6785	The Practice of Quantitative and Computational Finance		
 MGT 6789	Technology Ventures		
 MGT 6793	Advanced Topics in Quantitative and Computational Finance		

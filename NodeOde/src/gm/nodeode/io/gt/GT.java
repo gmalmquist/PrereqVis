@@ -106,7 +106,6 @@ public class GT {
 		}
 	}
 
-
 	public static String requestCourses(String year, String subject) {
 		return requestPOST("https://oscar.gatech.edu/pls/bprod/bwckctlg.p_display_courses",
 				"term_in", year, 

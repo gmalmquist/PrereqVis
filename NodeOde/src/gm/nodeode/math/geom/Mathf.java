@@ -341,5 +341,8 @@ public class Mathf {
 			return K;
 		return K.add(1.0f/d, P);
 	}
+	public static int lerpi(int x, int t, double d) {
+		return (int)(x + (t-x)*d);
+	}
 	
 }

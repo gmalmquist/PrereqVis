@@ -55,12 +55,12 @@ CS 4002	Robots and Society	Tech Elect CS,Engr,&Sciences
 CS 4005	Next-Generation Computing Technologies		CS 2316
 CS 4010	Introduction to Computer Law	Tech Elect CS,Engr,&Sciences	
 CS 4052	Systems Analysis and Design		
-CS 4210	Advanced Operating Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
+CS 4210	Advanced Operating Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3210
 CS 4220	Programming Embedded Systems	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2200
 CS 4233	Parallel Computer Architecture		CS 3210
-CS 4235	Introduction to Information Security	Computer Systems (CS),Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
+CS 4235	Introduction to Information Security	Computer Systems (CS),Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 2200
 CS 4237	Computer and Network Security	Tech Elect CS,Engr,&Sciences	CS 3251
-CS 4240	Compilers, Interpreters, and Program Analyzers	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3240
+CS 4240	Compilers, Interpreters, and Program Analyzers	Computer Systems (CS),Tech Elect CS,Engr,&Sciences	CS 2340
 CS 4245	Introduction to Data Mining and Analysis		MATH 2605,MATH 2401,|,MATH 2411,MATH 24X1,|,|,CS 1332,CS 1372,|,&
 CS 4251	Computer Networking II	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 3251
 CS 4255	Introduction to Network Management	Networking & Telecom (CS),Tech Elect CS,Engr,&Sciences	CS 3251
@@ -73,7 +73,7 @@ CS 4320	Introduction to Software Processes	Software Engineering (CS),Tech Elect 
 CS 4330	Software Engineering Applications	Software Engineering (CS),Tech Elect CS,Engr,&Sciences	CS 3300
 CS 4342	Software Generation, Testing, and Maintenance	Tech Elect CS,Engr,&Sciences	CS 3300
 CS 4365	Introduction to Enterprise Computing	Tech Elect CS,Engr,&Sciences	CS 3210,CS 4400,|
-CS 4392	Programming Languages	Tech Elect CS,Engr,&Sciences	CS 3240
+CS 4392	Programming Languages	Tech Elect CS,Engr,&Sciences	CS 2340
 CS 4400	Introduction to Database Systems	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|,CS 1371,|
 CS 4420	Database System Implementation	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 4400
 CS 4432	Information Systems Design	Data Mgt Systems (CS),Tech Elect CS,Engr,&Sciences	CS 3300,CS 4400,&
@@ -88,10 +88,10 @@ CS 4475	Computational Photography	Tech Elect CS,Engr,&Sciences	CS 1301,CS 1315,|
 CS 4480	Digital Video Special Effects	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	CS 3451
 CS 4495	Computer Vision	Graphics & Visualization (CS),Intelligent Systems (CS),Tech Elect CS,Engr,&Sciences	MATH 2605,MATH 2401,|,MATH 24X1,MATH 2411,|,|,CS 2110,CS 2261,|,&
 CS 4496	Computer Animation	Graphics & Visualization (CS),Tech Elect CS,Engr,&Sciences	CS 3451
-CS 4510	Automata and Complexity Theory	Tech Elect CS,Engr,&Sciences,Theory (CS)	CS 3510,CS 3511,|
+CS 4510	Automata and Complexity Theory	Tech Elect CS,Engr,&Sciences,Theory (CS)	CS 3510,CS 3511,|,MATH 3012,&,MATH 3215,MATH 3770,|,MATH 3670,CEE 3770,|,|,ISYE 3770,|,ISYE 2027,ISYE 2028,&,|,&
 CS 4520	Approximation Algorithms		CS 4540
 CS 4530	Randomized Algorithms		CS 4540
-CS 4540	Advanced Algorithms		CS 3510,CS 3511,|
+CS 4540	Advanced Algorithms		CS 3510,CS 3511,|,MATH 3012,&,MATH 3215,MATH 3770,|,MATH 3670,CEE 3770,|,|,ISYE 3770,|,ISYE 2027,ISYE 2028,&,|,&
 CS 4550	Scientific Data Processing and Visualization	Tech Elect CS,Engr,&Sciences	CS 3451
 CS 4560	Verification of Systems	Tech Elect CS,Engr,&Sciences	CS 1050,CS 3510,&
 CS 4590	Principles and Applications of Computer Audio	Tech Elect CS,Engr,&Sciences	
@@ -116,7 +116,7 @@ CS 4690	Empirical Methods for User Interface Design and Evaluation	Tech Elect CS
 CS 4698	Undergraduate Research Assistantship		
 CS 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
 CS 4710	Introduction to Computing Concepts for Bioinformatics	Tech Elect CS,Engr,&Sciences	
-CS 4731	Game AI	Tech Elect CS,Engr,&Sciences	
+CS 4731	Game AI	Tech Elect CS,Engr,&Sciences	CS 3600
 CS 4741	Integrative Management Development-Project Preparation		
 CS 4742	Integrated Computing and Management Capstone Project		CS 4741
 CS 4752	Philosophical Issues in Computation	Humanities Requirement,Intelligent Systems (CS)	
