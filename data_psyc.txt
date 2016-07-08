@@ -1,0 +1,143 @@
+Course	Name	Attributes	Prerequisites
+PSYC 1101	General Psychology	Ethics Requirement,Social Science Requirement	
+PSYC 2015	Research Methods	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2020	Psychological Statistics	Tech Elect CS,Engr,&Sciences	MATH 1502,MATH 1512,|,MATH 15X2,MATH 1522,&,|,PSYC 2015,&
+PSYC 2103	Human Development Over the Life Span	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2210	Social Psychology	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2220	Industrial/Organizational Psychology	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2230	Abnormal Psychology	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2240	Personality Theory	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2250	Cross-Cultural Psychology	Social Science Requirement	PSYC 1101
+PSYC 2270	Introduction to Engineering Psychology	Ethics Requirement,Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2280	Psychology of Creativity and Art	Social Science Requirement	
+PSYC 2300	Psychology of Advertising	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2400	Psychology and Contemporary Issues in Society	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2698	Undergraduate Research Assistantship		
+PSYC 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+PSYC 2760	Human Language Processing	Social Science Requirement,Tech Elect CS,Engr,&Sciences	
+PSYC 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+PSYC 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+PSYC 2803	Special Topics	Social Science Requirement,Tech Elect CS,Engr,&Sciences	
+PSYC 2901	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2902	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 2903	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 3011	Cognitive Psychology	Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 3012	Introduction to Cognitive Psychology	Social Science Requirement	PSYC 1101
+PSYC 3020	Biopsychology	Tech Elect CS,Engr,&Sciences	PSYC 1101,BIOL 1520,&
+PSYC 3031	Experimental Analysis of Behavior	Ethics Requirement,Tech Elect CS,Engr,&Sciences	BIOL 1510,PSYC 2020,&
+PSYC 3040	Sensation and Perception	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 3041	Human Sensation and Perception	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 3060	Comparative Psychology	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101,BIOL 1520,&
+PSYC 3750	Human Computer Interface Design and Evaluation	Tech Elect CS,Engr,&Sciences	
+PSYC 3790	Introduction to Cognitive Science	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4010	Human Abilities	Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4031	Applied Experimental Psychology	Tech Elect CS,Engr,&Sciences	PSYC 3011
+PSYC 4050	History and Systems	Ethics Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4090	Cognitive Neuroscience	Tech Elect CS,Engr,&Sciences	PSYC 3011
+PSYC 4100	Behavioral Pharmacology	Tech Elect CS,Engr,&Sciences	PSYC 1101,BIOL 1520,&,CHEM 1310,CHEM 1211,|,&
+PSYC 4200	Advanced Topics in Cognitive Psychology	Tech Elect CS,Engr,&Sciences	PSYC 3011
+PSYC 4260	Psychology of Aging	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4270	Psychological Testing	Ethics Requirement,Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4310	Field Studies in Animal Behavior I	Tech Elect CS,Engr,&Sciences	
+PSYC 4320	Field Studies in Animal Behavior II	Tech Elect CS,Engr,&Sciences	
+PSYC 4600	Senior Thesis I	Tech Elect CS,Engr,&Sciences	
+PSYC 4601	Senior Thesis II	Tech Elect CS,Engr,&Sciences	PSYC 4600
+PSYC 4698	Undergraduate Research Assistantship		
+PSYC 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+PSYC 4770	Psychology and Environmental Design	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4790	Seminar in Cognitive Science	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4791	Integrative Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
+PSYC 4792	Design Project in Cognitive Science	Tech Elect CS,Engr,&Sciences	
+PSYC 4803	Special Topics	Social Science Requirement,Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4813	Special Topics	Tech Elect CS,Engr,&Sciences	
+PSYC 4823	Special Topics	Tech Elect CS,Engr,&Sciences	
+PSYC 4833	Special Topics	Tech Elect CS,Engr,&Sciences	
+PSYC 4900	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4901	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 2020
+PSYC 4902	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4903	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4904	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4905	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4906	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4907	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4908	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4909	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 4910	Special Problems	Tech Elect CS,Engr,&Sciences	PSYC 1101
+PSYC 6000	Responsible Conduct of Research (RCR)		
+PSYC 6011	Cognitive Psychology		
+PSYC 6012	Social Psychology		
+PSYC 6013	Biopsychology		
+PSYC 6014	Sensation and Perception		
+PSYC 6015	Developmental Psychology		
+PSYC 6016	Experimental Analysis of Behavior		
+PSYC 6017	Human Abilities		
+PSYC 6018	Principles of Research Design		
+PSYC 6019	Statistical Analysis of Psychological Data I		
+PSYC 6020	Statistical Analysis of Psychological Data II		PSYC 6019
+PSYC 6021	Personality Theories		
+PSYC 6022	Psychological Statistics for HCI		
+PSYC 6023	Psychological Research Methods for HCI		
+PSYC 6031	Engineering Psychology: Analysis Techniques		
+PSYC 6032	Engineering Psychology: Environmental Stressors and Performance		PSYC 6031
+PSYC 6033	Engineering Psyc: Cognitive Ergonomics		PSYC 6031
+PSYC 6034	Engineering Psyc: Displays		PSYC 6031
+PSYC 6035	Engineering Psyc: Controls and Workspace		PSYC 6031
+PSYC 6040	Current Topics in Cognition and Brain Sciences		
+PSYC 6041	Current Topics in Cognitive Aging		
+PSYC 6042	Neuroimaging: From Image to Inference		
+PSYC 6060	Psychology of Aging		
+PSYC 6090	Cognitive Neuroscience		
+PSYC 6270	Psychological Testing		PSYC 2020
+PSYC 6750	Human-Computer Interface		
+PSYC 6753	Human-Computer Interaction-Professional Preparation and Practice		
+PSYC 6795	Introduction to Cognitive Science		
+PSYC 6998	HCI Master's Project		
+PSYC 7000	Master's Thesis		
+PSYC 7020	Survey of Cognitive Aging		
+PSYC 7101	Engineering Psychology I: Methods		
+PSYC 7102	Engineering Psychology II: Displays, Controls, and Workspace		
+PSYC 7103	Engineering Psychology III: Environmental Stressors and Human Performance		
+PSYC 7104	Psychomotor and Cognitive Skill Learning and Performance		
+PSYC 7105	First-year Research Project I		
+PSYC 7106	First-year Research Project II		PSYC 7105
+PSYC 7201	Industrial/Organizational Psychology		
+PSYC 7202	Employee Selection		
+PSYC 7203	Motivation and Job Attitudes		
+PSYC 7204	Training and Development		
+PSYC 7301	Introduction to Multivariate Statistics		
+PSYC 7302	Structural Equation Modeling		
+PSYC 7303	Psychometric Theory		
+PSYC 7700	Professional Problems		
+PSYC 7701	Teaching Practicum		
+PSYC 7790	Cognitive Modeling		CS 6795,ISYE 6795,|,PSYC 6795,|
+PSYC 7999	Preparation for Doctoral Qualifying Exam		
+PSYC 8000	Seminar in Experimental Psychology		
+PSYC 8010	Seminar in Cognitive Psychology		
+PSYC 8020	Seminar in Cognitive Aging		
+PSYC 8030	Seminar in Comparative Psychology		
+PSYC 8040	Seminar in Engineering Psychology		
+PSYC 8050	Seminar in Industrial/Organizational Psychology		
+PSYC 8060	Seminar in Quantitative Psychology		
+PSYC 8070	Seminar in Cognitive Neuroscience		
+PSYC 8080	Seminar in Cognition and Brain Science		
+PSYC 8795	Colloquium in Cognitive Science		
+PSYC 8802	Topics in CogNeuro		
+PSYC 8803	Special Topics in Applied Statistics		
+PSYC 8804	Special Topics in Cognitive Aging		
+PSYC 8805	Special Topics in Cognitive Neuroscience		
+PSYC 8806	Special Topics in Cognitive Psychology		
+PSYC 8811	Special Topics		
+PSYC 8812	Special Topics		
+PSYC 8890	Special Topics in Cognitive Science		
+PSYC 8900	Special Problems in Experimental Psychology		
+PSYC 8901	Special Problems in Engineering Psychology		
+PSYC 8902	Special Problems in Industrial/Organizational Psychology		
+PSYC 8903	Special Problems in Human-Computer Interaction		
+PSYC 8904	Special Problems in Cognitive Aging		
+PSYC 8905	Special Problems in Cognitive Neuroscience		
+PSYC 8906	Special Problems in Cognitive Psychology		
+PSYC 8907	Special Problems in Cognition & Brain Science		
+PSYC 8908	Special Problems in Quantitative Psychology		
+PSYC 8997	Teaching Assistantship		
+PSYC 8998	Research Assistantship		
+PSYC 9000	Doctoral Thesis		

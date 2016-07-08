@@ -1,0 +1,306 @@
+Course	Name	Attributes	Prerequisites
+ME 1750	Introduction to Bioengineering		
+ME 1770	Introduction to Engineering Graphics and Visualization		
+ME 2016	Computer Applications	Tech Elect CS,Engr,&Sciences	CS 1321,MATH 1502,MATH 1512,|,&,MATH 15X2,MATH 1522,&,|
+ME 2110	Creative Decisions and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 2016,&,AE 2120,ME 2211,|,&
+ME 2202	Dynamics of Rigid Bodies	Tech Elect CS,Engr,&Sciences	ME 2016,ME 2211,&
+ME 2698	Undergraduate Research Assistantship		
+ME 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+ME 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 3015	System Dynamics and Control	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,MATH 2413,|,ME 2202,&,ECE 3741,&
+ME 3017	System Dynamics		CS 1371,MATH 2403,&,ME 2202,&,ECE 3710,&
+ME 3057	Experimental Methodology and Technical Writing	Tech Elect CS,Engr,&Sciences	ME 3340,COE 3001,&,ME 3015,&,ME 3345,&,MATH 3770,ISYE 3770,|,CEE 3770,|,&
+ME 3141	Cutting-Edge Eng Seminar		
+ME 3180	Machine Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ME 3201,&
+ME 3210	Design, Materials, and Manufacture		ME 2110,MSE 2001,&
+ME 3322	Thermodynamics	Tech Elect CS,Engr,&Sciences	PHYS 2211,MATH 2403,MATH 24X3,|,MATH 2602,MATH 2413,|,|,&,ME 2016,&
+ME 3340	Fluid Mechanics	Tech Elect CS,Engr,&Sciences	ME 2202,ME 3322,&,MATH 2401,&,MATH 2403,&
+ME 3345	Conduction and Radiation Heat Transfer	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,ME 3340,&
+ME 3700	Introduction to Energy Systems Engineering		CHEM 1310,CHEM 1211,CHEM 1212,&,|,PHYS 2211,&,PHYS 2212,&
+ME 3720	Introduction to Fluid and Thermal Engineering	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2211,&,MATH 2403,MATH 24X3,|,MATH 2413,|,&
+ME 3743	Analysis of Emerging Technologies		
+ME 3744	Managing Product, Service & Technology Development		
+ME 4011	Internal Combustion Engines	Tech Elect CS,Engr,&Sciences	ME 3322
+ME 4012	Modeling and Control of Motion Systems	Tech Elect CS,Engr,&Sciences	ME 3015
+ME 4041	Interactive Computer Graphics and Computer-aided Design	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3180,ME 3345,&
+ME 4053	Mechanical Engineering Systems Laboratory	Tech Elect CS,Engr,&Sciences	ME 3345,ME 3057,&,ME 3015,&,MATH 3770,ISYE 3770,|,&
+ME 4056	Mechanical Engineering Systems Laboratory		ME 3017,ME 3057,&,ME 3345,&,MATH 3770,ISYE 3770,|,&
+ME 4171	Environmentally Conscious Design and Manufacturing	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	
+ME 4172	Designing Sustainable Engineering Systems	Tech Elect CS,Engr,&Sciences	
+ME 4182	Mechanical Design Engineering	Tech Elect CS,Engr,&Sciences	ME 2110,ME 3210,&,ME 3180,ME 4315,|,&
+ME 4189	Structural Vibrations	Tech Elect CS,Engr,&Sciences	ME 2202,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+ME 4193	Design and Materials Selection for Tribological Applications	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3201,ME 3340,&
+ME 4214	Mechanical Behavior of Materials	Tech Elect CS,Engr,&Sciences	COE 3001
+ME 4215	Manufacturing Process Analysis		COE 3001,ME 3210,&,ME 3345,&
+ME 4315	Energy Systems Analysis and Design	Tech Elect CS,Engr,&Sciences	AE 1770,CEE 1770,|,ME 1770,|,ISYE 3025,&,ME 3345,&
+ME 4321	Refrigeration and Air Conditioning	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ME 3322,ME 3345,&
+ME 4324	Power Generation Technology	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	ISYE 3025,ME 3345,&
+ME 4325	Introduction to Fuel Cell Systems		ME 3322
+ME 4330	Heat and Mass Exchangers	Tech Elect CS,Engr,&Sciences	ME 3345
+ME 4340	Applied Fluid Mechanics	Tech Elect CS,Engr,&Sciences	ME 3345
+ME 4342	Computational Fluid Dynamics	Tech Elect CS,Engr,&Sciences	ME 3345
+ME 4447	Microprocessor Control of Manufacturing Systems	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	
+ME 4451	Robotics	Tech Elect CS,Engr,&Sciences	ME 3015
+ME 4452	Control of Dynamic Systems		ME 3017
+ME 4698	Undergraduate Research Assistantship		
+ME 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+ME 4701	Wind Engineering		MATH 2401,PHYS 2211,&
+ME 4740	Biologically Inspired Design		BIOL 1520,BIOL 3600,|,BMED 3100,PHYS 2211,|,|
+ME 4741	Integrative Management Development - Project Preparation		
+ME 4742	Integrated Technology and Management Capstone Project		
+ME 4753	Topics in Engineering Practice	Tech Elect CS,Engr,&Sciences	
+ME 4754	Electronics Packaging Assembly, Reliability, Thermal Management, and Test	Tech Elect CS,Engr,&Sciences	ECE 3040,ECE 3710,|
+ME 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	AE 2020,ME 3340,|,BMED 3300,|
+ME 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	ME 3201,BMED 3400,|
+ME 4760	Engineering Acoustics and Noise Control	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 24X3,|,MATH 2413,|
+ME 4763	Pulping and Chemical Recovery	Tech Elect CS,Engr,&Sciences	
+ME 4764	Bleaching and Papermaking	Tech Elect CS,Engr,&Sciences	
+ME 4766	Fabrication and Properties of Nanoscale Devices		ME 3322,ME 3720,|,AE 3450,PHYS 3141,|,|,MSE 3001,|
+ME 4775	Polymer Science and Engineering I: Formation and Properties	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHEM 3411,&
+ME 4776	Polymer Science and Engineering II: Analysis, Processing, and Laboratory	Tech Elect CS,Engr,&Sciences	CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
+ME 4777	Introduction to Polymer Science and Engineering	Tech Elect CS,Engr,&Sciences	MSE 2001,CHEM 2311,&
+ME 4781	Biomedical Instrumentation	Tech Elect CS,Engr,&Sciences	ECE 3040,ECE 3710,|
+ME 4782	Biosystems Analysis	Tech Elect CS,Engr,&Sciences	BMED 3500,CHBE 4400,|,ECE 2040,ME 3015,|,|
+ME 4790	Materials Selection and Design		COE 3001,MSE 3003,|
+ME 4791	Mechanical Behavior of Composites	Tech Elect CS,Engr,&Sciences	ME 3201
+ME 4793	Composite Materials and Processes	Bioengineering Design II,Mechanical Systems Design II,Tech Elect CS,Engr,&Sciences,Thermal Systems Design II	PHYS 2212,CHEM 1310,&
+ME 4794	Composite Materials and Manufacturing	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+ME 4801	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4802	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4803	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4804	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4805	Special Topics in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4811	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4812	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4813	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4814	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4815	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4821	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4822	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4823	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4824	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4825	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4831	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4832	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4833	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4834	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4835	Special Topics	Tech Elect CS,Engr,&Sciences	
+ME 4901	Special Problems in Mechanical Engineering	Tech Elect CS,Engr,&Sciences	
+ME 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+ME 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+ME 6101	Engineering Design		
+ME 6102	Designing Open Engineering Systems		
+ME 6103	Optimization in Engineering Design		
+ME 6104	Computer-Aided Design		
+ME 6105	Modeling and Simulation in Design		
+ME 6124	Finite-Element Method: Theory and Practice		
+ME 6140	Physical Properties of Paper		ME 6201
+ME 6201	Principles of Continuum Mechanics		MATH 4581
+ME 6203	Inelastic Deformation of Solids		ME 6201
+ME 6204	Micromechanics of Materials		ME 6201
+ME 6222	Manufacturing Processes and Systems		ME 4210
+ME 6223	Automated Manufacturing Process Planning		ME 6222
+ME 6224	Machine Tool Analysis and Control		ME 6222
+ME 6225	Metrology and Measurement Systems		ME 3015,ME 6222,&
+ME 6226	Fundamentals of Semiconductor Manufacture and Assembly		ME 6222
+ME 6229	Introduction to Micro-Electro-Mechanical Systems		
+ME 6242	Mechanics of Contact		ME 6201
+ME 6243	Fluid Film Lubrication		
+ME 6244	Rotordynamics		
+ME 6281	Mechanics of Paper Forming and Coating		ME 6601,ME 6602,|
+ME 6301	Conduction Heat Transfer		ME 3345
+ME 6302	Convection Heat Transfer		ME 3345
+ME 6303	Thermal Radiation Heat Transfer		ME 3345
+ME 6304	Principles of Thermodynamics		ME 3322
+ME 6305	Applications of Thermodynamics		ME 6304
+ME 6309	Nanoscale Heat Transfer		ME 3345
+ME 6401	Linear Control Systems		ME 3015
+ME 6402	Nonlinear Control Systems		ME 6401
+ME 6403	Digital Control Systems		ME 3015
+ME 6404	Advanced Control System Design and Implementation		ME 6403
+ME 6405	Introduction to Mechatronics		ME 3015
+ME 6406	Machine Vision		
+ME 6407	Robotics		ME 3015,ECE 3085,|
+ME 6408	Advanced Mechatronics		
+ME 6441	Dynamics of Mechanical Systems		ME 3015
+ME 6442	Vibration of Mechanical Systems		ME 3015,ME 3201,&
+ME 6443	Variational Methods in Engineering		
+ME 6444	Nonlinear Systems		
+ME 6449	Acoustic Transducers and Signal Analysis		AE 6760,ME 6760,|
+ME 6452	Wave Propagation in Solids		
+ME 6460	Microelectromechanical Devices		ME 6229,ECE 6229,|,ECE 6450,|
+ME 6601	Introduction to Fluid Mechanics		
+ME 6602	Viscous Flow		ME 6601
+ME 6622	Experimental Methods		
+ME 6741	Pulp and Paper Manufacture I		
+ME 6742	Pulp and Paper Manufacture II		CHE 6741,ME 6741,|
+ME 6743	Tissue Mechanics		
+ME 6744	Topics in Engineering Practice		
+ME 6746	Rehabilitation Engineering		
+ME 6753	Principles of Management for Engineers		
+ME 6754	Engineering Database Management Systems		
+ME 6758	Numerical Methods in Mechanical Engineering		
+ME 6759	Materials in Environmentally Conscious Design and Manufacturing		
+ME 6760	Acoustics I and II		MATH 2403,MATH 2413,|,MATH 24X3,|
+ME 6761	Acoustics I and II		ME 6760,AE 6760,|
+ME 6762	Applied Acoustics		ME 6760,AE 6760,|
+ME 6765	Kinetics and Thermodynamics of Gases		
+ME 6766	Combustion I		ME 6304,ME 6765,|,AE 6765,|
+ME 6767	Topics in Combustion		ME 6766,AE 6766,|
+ME 6768	Polymer Structure, Physical Properties, and Characterization		CHBE 4776,CHEM 4776,|,ME 4776,MSE 4776,|,|,PTFE 4776,|
+ME 6769	Linear Elasticity		
+ME 6770	Energy and Variational Methods in Elasticity and Plasticity		MATH 2403,AE 3120,ME 3201,|,&
+ME 6774	Biomaterials: Structure and Function		
+ME 6776	Integrated Low-cost Microelectronics Systems Packaging		
+ME 6777	Advanced Biomaterials		BMED 6776,CHBE 6776,|,ME 6776,MSE 6776,|,|,PTFE 6776,|
+ME 6779	Thermal Engineering for Packaging of Micro and Nano Systems		ME 3322,ME 3345,&,ME 3720,|
+ME 6782	Cellular Engineering		
+ME 6789	Technology Ventures		
+ME 6792	Computer Integrated Manufacturing Systems Seminar		
+ME 6793	Systems Pathophysiology		
+ME 6794	Tissue Engineering		
+ME 6795	Mathematical, Statistical, and Computational Techniques in Materials Science		
+ME 6796	Structure-Property Relationships in Materials		
+ME 6797	Thermodynamics and Kinetics of Microstructural Evolution		
+ME 6799	Legal Issues in Technology Transfer		
+ME 7000	Master's Thesis		
+ME 7101	Seminar in Engineering Design		ME 6101
+ME 7201	Computational Mechanics of Materials		ME 6201
+ME 7203	Advanced Constitutive Relations for Solids		ME 6201
+ME 7205	Mechanics and Applications of Nanostructured Materials and Devices		ME 6201
+ME 7226	Interface and Surface Properties		PHYS 4222,ME 6242,&
+ME 7227	Rapid Prototyping in Engineering		ME 6104,ME 6222,&
+ME 7228	Thermomechanical Reliability in Electronic Packaging		ME 6124,ME 6222,&
+ME 7301	Transport Phenomena in Multiphase Flow		ME 6301,ME 6302,&,ME 6602,&
+ME 7442	Vibration of Continuous Systems		ME 6442
+ME 7602	Hydrodynamic Stability		ME 6601
+ME 7751	Computational Fluid Mechanics		CEE 6251,ME 6601,&
+ME 7757	Teaching Practicum		
+ME 7764	Acoustic Propagation		AE 6760,ME 6760,|
+ME 7771	Mechanics of Polymer Solids and Fluids		
+ME 7772	Fundamentals of Fracture Mechanics		ME 3201,MSE 3005,|
+ME 7773	Advanced Fracture Mechanics		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+ME 7774	Fatigue of Materials and Structures		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+ME 7775	Topics in Fracture and Fatigue of Metallic and Composite Structures		ME 2211,AE 2120,|
+ME 7785	Introduction to Robotics Research		
+ME 7791	Damage, Failure, and Durability of Composite Materials		AE 4791,CHBE 4791,|,CEE 4791,ME 4791,|,|,MSE 4791,|
+ME 7792	Advanced Mechanics of Composites		AE 4791,CEE 4791,|,CHBE 4791,ME 4791,|,|,MSE 4791,PTFE 4791,|,|
+ME 7793	Manufacturing of Composites		AE 4793,AE 4794,|,CEE 4793,CEE 4794,|,|,CHBE 4793,CHBE 4794,|,|,ME 4793,ME 4794,|,|,MSE 4793,MSE 4794,|,|,AE 47940,AE 47941,|,|
+ME 8001	Master Seminar I		
+ME 8002	Master Seminar II		
+ME 8010	Seminars in Mechanical Engineering		
+ME 8011	Seminars in Mechanical Engineering		
+ME 8012	Seminars in Mechanical Engineering		
+ME 8750	Robotics Research Foundation I		ME 7785,AE 7785,|,ECE 7785,CS 7785,|,|
+ME 8751	Robotics Research Foundation II		ME 8750,AE 8750,|,CS 8750,ECE 8750,|,|
+ME 8801	Special Topics in Manufacturing		
+ME 8802	Special Topics in Manufacturing		
+ME 8803	Special Topics in Manufacturing		
+ME 8804	Special Topics in Manufacturing		
+ME 8805	Special Topics in Manufacturing		
+ME 8806	Special Topics in Manufacturing		
+ME 8811	Special Topics in Computer-aided Engineering and Design		
+ME 8812	Special Topics in Computer-aided Engineering and Design		
+ME 8813	Special Topics in Computer-aided Engineering and Design		
+ME 8814	Special Topics in Computer-aided Engineering and Design		
+ME 8815	Special Topics in Computer-aided Engineering and Design		
+ME 8816	Special Topics in Computer-aided Engineering and Design		
+ME 8821	Special Topics in Tribology		
+ME 8822	Special Topics in Tribology		
+ME 8823	Special Topics in Tribology		
+ME 8824	Special Topics in Tribology		
+ME 8825	Special Topics in Tribology		
+ME 8826	Special Topics in Tribology		
+ME 8831	Special Topics in Thermal Sciences		
+ME 8832	Special Topics in Thermal Sciences		
+ME 8833	Special Topics in Thermal Sciences		
+ME 8834	Special Topics in Thermal Sciences		
+ME 8835	Special Topics in Thermal Sciences		
+ME 8836	Special Topics in Thermal Sciences		
+ME 8841	Special Topics in Automation and Mechatronics		
+ME 8842	Special Topics in Automation and Mechatronics		
+ME 8843	Special Topics in Automation and Mechatronics		
+ME 8844	Special Topics in Automation and Mechatronics		
+ME 8845	Special Topics in Automation and Mechatronics		
+ME 8846	Special Topics in Automation and Mechatronics		
+ME 8851	Special Topics in Acoustics and Dynamics		
+ME 8852	Special Topics in Acoustics and Dynamics		
+ME 8853	Special Topics in Acoustics and Dynamics		
+ME 8854	Special Topics in Acoustics and Dynamics		
+ME 8855	Special Topics in Acoustics and Dynamics		
+ME 8856	Special Topics in Acoustics and Dynamics		
+ME 8861	Special Topics in Fluid Mechanics		
+ME 8862	Special Topics in Fluid Mechanics		
+ME 8863	Special Topics in Fluid Mechanics		
+ME 8864	Special Topics in Fluid Mechanics		
+ME 8865	Special Topics in Fluid Mechanics		
+ME 8866	Special Topics in Fluid Mechanics		
+ME 8871	Special Topics in Bioengineering		
+ME 8872	Special Topics in Bioengineering		
+ME 8873	Special Topics in Bioengineering		
+ME 8874	Special Topics in Bioengineering		
+ME 8875	Special Topics in Bioengineering		
+ME 8876	Special Topics in Bioengineering		
+ME 8881	Special Topics in Mechanics of Materials		
+ME 8882	Special Topics in Mechanics of Materials		
+ME 8883	Special Topics in Mechanics of Materials		
+ME 8884	Special Topics in Mechanics of Materials		
+ME 8885	Special Topics in Mechanics of Materials		
+ME 8886	Special Topics in Mechanics of Materials		
+ME 8901	Special Problems in Manufacturing		
+ME 8902	Special Problem in Manufacturing		
+ME 8903	Special Problems in Manufacturing		
+ME 8904	Special Problems in Manufacturing		
+ME 8905	Special Problems in Manufacturing		
+ME 8906	Special Problems in Manufacturing		
+ME 8911	Special Problems in Computer-aided Engineering and Design		
+ME 8912	Special Problems in Computer-aided Engineering and Design		
+ME 8913	Special Problems in Computer-aided Engineering and Design		
+ME 8914	Special Problems in Computer-aided Engineering and Design		
+ME 8915	Special Problems in Computer-aided Engineering and Design		
+ME 8916	Special Problems in Computer-aided Engineering and Design		
+ME 8921	Special Problems in Tribology		
+ME 8922	Special Problems in Tribology		
+ME 8923	Special Problems in Tribology		
+ME 8924	Special Problems in Tribology		
+ME 8925	Special Problems in Tribology		
+ME 8926	Special Problems in Tribology		
+ME 8931	Special Problems in Thermal Sciences		
+ME 8932	Special Problems in Thermal Sciences		
+ME 8933	Special Problems in Thermal Sciences		
+ME 8934	Special Problems in Thermal Sciences		
+ME 8935	Special Problems in Thermal Sciences		
+ME 8936	Special Problems in Thermal Sciences		
+ME 8941	Special Problems in Automation and Mechatronics		
+ME 8942	Special Problems in Automation and Mechatronics		
+ME 8943	Special Problems in Automation and Mechatronics		
+ME 8944	Special Problems in Automation and Mechatronics		
+ME 8945	Special Problems in Automation and Mechatronics		
+ME 8946	Special Problems in Automation and Mechatronics		
+ME 8951	Special Problems in Acoustics and Dynamics		
+ME 8952	Special Problems in Acoustics and Dynamics		
+ME 8953	Special Problems in Acoustic and Dynamics		
+ME 8954	Special Problems in Acoustics and Dynamics		
+ME 8955	Special Problems in Acoustics and Dynamics		
+ME 8956	Special Problems in Acoustics and Dynamics		
+ME 8961	Special Problems in Fluid Mechanics		
+ME 8962	Special Problems in Fluid Mechanics		
+ME 8963	Special Problems in Fluid Mechanics		
+ME 8964	Special Problems in Fluid Mechanics		
+ME 8965	Special Problems in Fluid Mechanics		
+ME 8966	Special Problems in Fluid Mechanics		
+ME 8971	Special Problems in Bioengineering		
+ME 8972	Special Problems in Bioengineering		
+ME 8973	Special Problems in Bioengineering		
+ME 8974	Special Problems in Bioengineering		
+ME 8975	Special Problems in Bioengineering		
+ME 8976	Special Problems in Bioengineering		
+ME 8981	Special Problems in Mechanics of Materials		
+ME 8982	Special Problems in Mechanics of Materials		
+ME 8983	Special Problems in Mechanics of Materials		
+ME 8984	Special Problems in Mechanics of Materials		
+ME 8985	Special Problems in Mechanics of Materials		
+ME 8986	Special Problems in Mechanics of Materials		
+ME 8997	Teaching Assistantship		
+ME 8998	Research Assistantship		
+ME 9000	Doctoral Thesis		

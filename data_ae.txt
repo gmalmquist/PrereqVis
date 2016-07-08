@@ -1,0 +1,184 @@
+Course	Name	Attributes	Prerequisites
+AE 1350	Introduction to Aerospace Engineering		
+AE 1355	Aerospace Systems Design Competition I		
+AE 1750	Introduction to Bioengineering		
+AE 1770	Introduction to Engineering Graphics and Visualization		MATH 1501,MATH 15X1,|,MATH 1511,|
+AE 2020	Low-Speed Aerodynamics	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 24X1,|,AE 1350,&,PHYS 2211,PHYS 2231,|,&
+AE 2120	Introduction to Mechanics	Tech Elect CS,Engr,&Sciences	MATH 2401,MATH 2411,|,MATH 24X1,|,PHYS 2211,&
+AE 2220	Dynamics	Tech Elect CS,Engr,&Sciences	COE 2001,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 2355	Aerospace Systems Design Competition II	Tech Elect CS,Engr,&Sciences	
+AE 2698	Undergraduate Research Assistantship		
+AE 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+AE 2801	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 2802	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 2803	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 2901	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 2902	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 2903	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 3021	High-Speed Aerodynamics	Tech Elect CS,Engr,&Sciences	AE 2020,AE 3450,&
+AE 3051	Experimental Fluid Dynamics	Tech Elect CS,Engr,&Sciences	AE 2020,AE 3450,&
+AE 3090	Numerical Methods for Aerospace Engineering		CS 1371,MATH 2403,&,AE 2020,&
+AE 3120	Introduction to Structural Analysis	Tech Elect CS,Engr,&Sciences	AE 2120,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 3125	Aerospace Structural Analysis	Tech Elect CS,Engr,&Sciences	COE 3001
+AE 3145	Structures Laboratory	Tech Elect CS,Engr,&Sciences	COE 3001
+AE 3310	Introduction to Aerospace Vehicle Performance	Tech Elect CS,Engr,&Sciences	AE 2020,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 3355	Aerospace Systems Design Competition III	Tech Elect CS,Engr,&Sciences	
+AE 3450	Thermodynamics and Compressible Flow	Tech Elect CS,Engr,&Sciences	PHYS 2212,PHYS 2232,|,MATH 2401,MATH 2411,|,MATH 24X1,|,&
+AE 3515	System Dynamics and Control	Tech Elect CS,Engr,&Sciences	AE 2220,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 3521	Aircraft and Spacecraft Flight Dynamics	Tech Elect CS,Engr,&Sciences	AE 2020,AE 3515,&
+AE 3801	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 3802	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 3803	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 3901	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 3902	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 3903	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 4040	Computational Fluid Dynamics	Tech Elect CS,Engr,&Sciences	AE 3021
+AE 4051	Flow Diagnostics	Tech Elect CS,Engr,&Sciences	AE 3051
+AE 4060	Aeroacoustics	Tech Elect CS,Engr,&Sciences	AE 3450,AE 3515,&
+AE 4070	Introduction to Propeller and Rotor Theory	Tech Elect CS,Engr,&Sciences	AE 3021
+AE 4080	Aerothermodynamics	Tech Elect CS,Engr,&Sciences	AE 3021
+AE 4120	Introduction to Aerospace Engineering Composite Structures	Tech Elect CS,Engr,&Sciences	COE 2001
+AE 4131	Introduction to Finite Element Methods	Tech Elect CS,Engr,&Sciences	AE 3125
+AE 4170	Structural Integrity and Durability	Tech Elect CS,Engr,&Sciences	COE 3001
+AE 4220	Structural Dynamics and Aeroelasticity	Tech Elect CS,Engr,&Sciences	AE 3125,AE 3515,&
+AE 4310	Space Flight Mechanics	Tech Elect CS,Engr,&Sciences	AE 2220
+AE 4350	Aerospace Engineering Design Project I	Tech Elect CS,Engr,&Sciences	AE 3021,AE 3310,&,AE 3521,&,AE 4451,&
+AE 4351	Aerospace Engineering Design Project II	Tech Elect CS,Engr,&Sciences	AE 4350,AE 3021,&,AE 3521,&,AE 4451,&
+AE 4355	Aerospace Systems Design Competition IV	Tech Elect CS,Engr,&Sciences	
+AE 4356	Space Systems Design Project I	Tech Elect CS,Engr,&Sciences	AE 3310,AE 4310,&,AE 4451,&
+AE 4357	Space Systems Design Project II	Tech Elect CS,Engr,&Sciences	AE 4356,AE 4310,&,AE 4451,&
+AE 4358	Rotorcraft Design I	Tech Elect CS,Engr,&Sciences	AE 3310,CS 1371,&,CEE 1770,ME 1770,|,AE 1770,|,&,AE 3125,&,AE 3521,&,MSE 2001,&
+AE 4359	Rotorcraft Design II	Tech Elect CS,Engr,&Sciences	AE 3125,AE 3521,&,AE 4358,&,MSE 2001,&
+AE 4370	Life Cycle Cost Analysis		
+AE 4375	Fundamentals of Computer-Aided Engineering and Design	Tech Elect CS,Engr,&Sciences	CS 1321,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 4451	Jet and Rocket Propulsion	Tech Elect CS,Engr,&Sciences	AE 3450
+AE 4461	Introduction to Combustion	Tech Elect CS,Engr,&Sciences	AE 3450
+AE 4521	Vehicle Guidance and Simulation	Tech Elect CS,Engr,&Sciences	AE 3521
+AE 4525	Control System Design Laboratory	Tech Elect CS,Engr,&Sciences	AE 3521
+AE 4580	Introduction to Avionics Integration	Tech Elect CS,Engr,&Sciences	AE 3521,ECE 3710,&
+AE 4698	Undergraduate Research Assistantship		
+AE 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+AE 4701	Wind Engineering		MATH 2401,PHYS 2211,&
+AE 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	AE 2020,ME 3340,|,BMED 3300,|
+AE 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	COE 3001,BMED 3400,|
+AE 4760	Engineering Acoustics and Noise Control	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 2413,|,MATH 24X3,|
+AE 4791	Mechanical Behavior of Composites	Tech Elect CS,Engr,&Sciences	COE 3001
+AE 4793	Composite Materials and Processes	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+AE 4794	Composite Materials and Manufacturing Testing	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+AE 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 4883	Special Topics	Tech Elect CS,Engr,&Sciences	
+AE 4901	Special Problems in Aerospace Engineering	Tech Elect CS,Engr,&Sciences	
+AE 4902	Special Problems in Aerospace Engineering	Tech Elect CS,Engr,&Sciences	
+AE 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+AE 6009	Viscous Fluid Flow		AE 3021
+AE 6012	Turbulent Flows		AE 6009
+AE 6020	High-Speed Flow		AE 3021
+AE 6030	Unsteady Aerodynamics		AE 3021
+AE 6042	Computational Fluid Dynamics		AE 3021
+AE 6050	High-temperature Gas Dynamics I		AE 6765,ME 6765,|
+AE 6052	Flow Diagnostics and Control		AE 3021,AE 3051,&
+AE 6060	Aeroacoustics		AE 3021
+AE 6070	Rotary Wing Aerodynamics		AE 3021
+AE 6080	Dynamics of Turbulence		AE 6012
+AE 6100	Advanced Structural Analysis I		AE 3122
+AE 6101	Advanced Structural Analysis II		AE 6100
+AE 6104	Computational Mechanics		AE 6106
+AE 6106	Analysis of Aerospace Structural Elements		AE 3122
+AE 6107	Analysis of Aerospace Structural Elements		
+AE 6111	Elasticity		AE 6769,ME 6769,|
+AE 6112	Inelastic Response		AE 6769,ME 6769,|
+AE 6123	Design of Fiber-Reinforced Composite Structures		ME 2211,AE 2120,|
+AE 6161	Theory of Plates		AE 6106
+AE 6162	Shell Structures		AE 6161
+AE 6165	Principles of Fracture and Fatigue		ME 2211,AE 2120,|
+AE 6170	Structural Optimization		AE 3122
+AE 6200	Advanced Aeroelasticity I		AE 6230
+AE 6210	Advanced Dynamics I		AE 2220
+AE 6211	Advanced Dynamics II		AE 6210
+AE 6220	Rotorcraft Structural Dynamics and Aeroelasticity		AE 6210,AE 6230,&
+AE 6230	Structural Dynamics		AE 3120,AE 3515,&
+AE 6231	System Identification in Structural Dynamics		AE 6230
+AE 6240	Numerical Methods in Structural Dynamics		AE 6230
+AE 6251	Experimental Methods in Structural Dynamics		AE 6230
+AE 6252	Smart Structures and Structural Control		AE 6230
+AE 6263	Flexible Multi-body Dynamics		AE 6211,AE 6230,&
+AE 6270	Applied Nonlinear Dynamics		AE 6230
+AE 6280	Wave Propagation		AE 6230
+AE 6322	Spacecraft and Launch Vehicle Design I		AE 6320
+AE 6323	Spacecraft and Launch Vehicle Design II		AE 6322,AE 6353,&
+AE 6333	Rotorcraft Design I		AE 6372
+AE 6334	Rotorcraft Design II		AE 6333,AE 6383,&
+AE 6343	Aircraft Design I		AE 6372
+AE 6344	Aircraft Design II		AE 6343,AE 6383,&
+AE 6353	Orbital Mechanics		AE 2220
+AE 6354	Advanced Orbital Mechanics		AE 6320
+AE 6355	Planetary Entry, Descent and Landing		
+AE 6361	Air Breathing Propulsion System Design I		CS 1321
+AE 6362	Safety by Design		AE 6320,AE 6331,|,AE 6341,|
+AE 6372	Aerospace Systems Engineering		
+AE 6373	Advanced Design Methods I		MATH 2403
+AE 6374	Advanced Design Methods II		MATH 2403,CS 1371,&
+AE 6380	Fundamentals of Computer-aided Design and Engineering		CS 1321,MATH 2403,MATH 2413,|,MATH 24X3,|,&
+AE 6381	Software Development for Engineering Applications		CS 1321
+AE 6382	Computing Systems for Engineering Research Laboratory		CS 1371
+AE 6383	Applied Design Laboratory		
+AE 6410	Combustion Dynamics		AE 6766,ME 6766,|
+AE 6412	Turbulent Combustion		AE 6766,ME 6766,|
+AE 6414	Multi-Phase Combustion		AE 6766,ME 6766,|
+AE 6440	Turbine Engine Aerothermodynamics		AE 4451
+AE 6445	Combustor Fundamentals		
+AE 6450	Rocket Propulsion		AE 4451
+AE 6451	Electric Propulsion		AE 4451
+AE 6503	Helicopter Stability and Control		AE 3515,AE 4070,&
+AE 6504	Modern Methods in Aircraft Flight Control		AE 3521
+AE 6505	Random Processes and Kalman Filtering		AE 3515
+AE 6506	Aerospace Guidance and Navigation		AE 3521
+AE 6511	Optimal Guidance and Control		AE 3515
+AE 6520	Advanced Flight Dynamics		AE 3515
+AE 6531	Aerospace Robust Control I		ECE 6550
+AE 6532	Aerospace Robust Control II		AE 6531
+AE 6534	Control of Aerospace Structures		AE 6230,AE 6531,&
+AE 6551	Cognitive Engineering		
+AE 6561	Reliable Control Software for Aerospace and Embedded Applications		ECE 6550,CS 6300,|
+AE 6571	Air Traffic Control and Management		AE 3310,AE 3515,&,AE 3521,&
+AE 6580	Aerospace Nonlinear Control		ECE 6550
+AE 6721	Evaluation of Human Integrated Systems		
+AE 6760	Acoustics I		MATH 2403,MATH 2413,|,MATH 24X3,|
+AE 6761	Acoustics II		AE 6760,ME 6760,|
+AE 6762	Applied Acoustics		AE 6760,ME 6760,|
+AE 6765	Kinetics and Thermodynamics of Gases		AE 3450,ME 3322,|
+AE 6766	Combustion		AE 6765,ME 6765,|
+AE 6767	Topics in Combustion		AE 6766,ME 6766,|
+AE 6769	Linear Elasticity		
+AE 6770	Energy and Variational Methods in Elasticity and Plasticity		MATH 2403,AE 3120,ME 3201,|,&
+AE 6779	Dynamic System Simulation and Modeling		AE 2220
+AE 7000	Master's Thesis		
+AE 7764	Acoustic Propagation		AE 6760,ME 6760,|
+AE 7772	Fundamentals of Fracture Mechanics		MSE 3005,AE 3120,|,ME 3201,|
+AE 7773	Advanced Fracture Mechanics		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+AE 7774	Fatigue of Materials and Structures		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+AE 7775	Topics in Fracture and Fatigue of Metallic and Composite Structures		ME 2211,AE 2120,|
+AE 7785	Introduction to Robotics Resesarch		
+AE 7791	Damage, Failure, and Durability of Composite Materials		AE 4791,CEE 4791,|,CHBE 4791,ME 4791,|,|,MSE 4791,|
+AE 7792	Advanced Mechanics of Composites		AE 7791,CHBE 7791,|,CEE 7791,ME 7791,|,|,MSE 7791,PTFE 7791,|,|
+AE 7793	Manufacturing of Composites		AE 4794,CEE 4794,|,CHBE 4794,ME 4794,|,|,MSE 4794,PTFE 4794,|,|
+AE 8001	Design Seminar		
+AE 8750	Robotics Research Foundation I		CS 7785,AE 7785,|,ECE 7785,ME 7785,|,|
+AE 8751	Robotics Research Foundation II		AE 8750,CS 8750,|,ECE 8750,ME 8750,|,|
+AE 8801	Special Topics		
+AE 8802	Special Topics		
+AE 8803	Special Topics		
+AE 8804	Special Topics		
+AE 8805	Special Topics		
+AE 8883	Special Topics		
+AE 8900	Special Problems		
+AE 8901	Special Problems		
+AE 8902	Special Problems		
+AE 8903	Special Problems		
+AE 8997	Teaching Assistantship		
+AE 8998	Research Assistantship		
+AE 8999	Preparation for Doctoral Dissertation		
+AE 9000	Doctoral Thesis		

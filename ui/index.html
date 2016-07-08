@@ -1,0 +1,240 @@
+<html>
+<head>
+	<title>Prerequisite Graph</title>
+	<script type="text/javascript" src="/lib/jquery.js"></script>
+	<style rel="stylesheet" type="text/css">
+	#graphContainer {
+		position: relative;
+		width: 1500px;
+		height: 1500px;
+		overflow: hidden;
+	}
+	#nodeImage {
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+	}
+	#graphCanvas {
+		position: absolute;
+		left: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+	}
+	
+	#graphControls {
+		background-color: #DDDDFF;
+		
+		font-family: sans-serif;
+		font-weight: bold;
+	
+		margin-left: -1em;
+		margin-right: -1em;
+	
+		min-height: 1em;
+		
+		margin-top: -1em;
+		
+		padding-top: 1em;
+		padding-left: 1.5em;
+		padding-bottom: 0.2em;
+	}
+	
+	#majorsDiv {
+		display: inline-block;
+	}
+	#majorBox {
+		font-family: monospace;
+	}
+	#level {
+		display: inline-block;
+	}
+	#search {
+		width: 30em;
+	}
+	#output {
+		display: inline-block;
+		padding-left: 1em;
+		font-style: italic;
+	}
+	
+	#about {
+		display: block;
+		font-style: italic;
+		font-size: 0.8em;
+		font-weight: normal;
+	}
+	</style>
+</head>
+<body>
+
+<div id="graphControls">
+Schools: <div id="majorsDiv">
+			<select name="major" id="majorBox">
+				<option value="NULL">-----</option>
+			</select>
+		</div>
+Level: 	<div id="level">
+			<select name="level" id="levelBox">
+				<option value="Undergraduate">Undergraduate</option>
+				<option value="Graduate">Graduate</option>
+				<option value="Both">Both</option>
+			</select>
+		</div>
+Find: <input id="search" name="search" placeholder="Eg: CS 4400, data structures, 3451"></input>
+<div id="output"></div>
+
+<div id="about">
+Class data for Fall 2014, pulled from OSCAR on April 25, 2014. Click on courses to be directed to their OSCAR pages.
+</div>
+</div>
+
+<div id="graphContainer">
+	<canvas id="graphCanvas" width="1500px" height="1500px"></canvas>
+	<img src="blank.png" id="nodeImage" usemap="#nodemap"></img>
+</div>
+
+<map name="nodemap" id="nodemap">
+</map>
+
+I make no guarantee that the information here is complete or accurate, but I think it is.
+
+<!-- libraries -->
+<script language="JavaScript" type="text/javascript" src="seedrandom.js"></script>
+<script language="JavaScript" type="text/javascript" src="linalg.js"></script>
+<script language="JavaScript" type="text/javascript" src="graph.js"></script>
+
+
+<!-- graphs -->
+<script language="JavaScript" type="text/javascript" src="graph-data.js"></script>
+<!-- convert to super graph -->
+<script language="JavaScript" type="text/javascript">
+function mergeDisjoint(graphs) {
+	var vertices = [];
+	var edges = [];
+	for (var i = 0; i < graphs.length; i++) {
+		var graph = graphs[i];
+		for (var v = 0; v < graph.vertices.length; v++) {
+			vertices.push(graph.vertices[v]);
+		}
+		for (var e = 0; e < graph.edges.length; e++) {
+			edges.push(graph.edges[e]);
+		}
+	}
+	
+	return {'vertices':vertices, 'edges':edges};
+};
+</script>
+
+<!-- graph ui -->
+<script language="JavaScript" type="text/javascript">
+	function output(text) {
+		document.getElementById("output").innerHTML = text;
+	}
+</script>
+<script language="JavaScript" type="text/javascript" src="ui-graph.js"></script>
+<script language="JavaScript" type="text/javascript" src="optimize.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+function reloadGraph() {
+	var major = $("#majorBox").val();
+	var level = $("#levelBox").val();
+
+	output(major + ", " + level);
+	
+	var G = mergeDisjoint(GRAPH_MAP[major][level]);
+	var graph = { 'edges':[], 'vertices':[] };
+	
+	for (var i = 0; i < G.vertices.length; i++) {
+		graph.vertices.push($.extend({}, G.vertices[i]));
+	}
+	for (var i = 0; i < G.edges.length; i++) {
+		graph.edges.push($.extend({}, G.edges[i]));
+	}
+	
+	window.graph = graph;
+	GraphUI.Init(graph);
+	
+	var OPT = new Optimizer(function() {
+		return GraphUI.graph.optimize();
+	});
+	while (!OPT.done) { OPT.step(); }
+	GraphUI.drawGraph();
+};
+
+function populateMajors() {
+	var majorBox = document.getElementById("majorBox");
+	var majors = []; //['CS', 'MATH', 'LMC', 'PSYC', 'PHYS', 'BIOL'];
+	var selected = 'CS';
+	
+	for (var key in GRAPH_MAP) {
+		if (key.match(/^[A-Z]{2,}$/) != undefined) {
+			majors.push(key);
+		}
+	}
+	
+	majors.sort();
+	
+	var text = "";
+	//text += "<select name=\"major\">";
+	for (var i = 0; i < majors.length; i++) {
+		text += "<option name=\"" + majors[i] + "\" value=\"" + majors[i] + "\" " +
+			(selected == majors[i] ? "selected" : "") + ">" + majors[i] + "</option> ";
+	}
+	//text += "</select>";
+	majorBox.innerHTML += text;
+}
+populateMajors();
+
+$("#search").keyup(function() {
+	var text = document.getElementById("search").value;
+	text = text.toLowerCase();
+	var graph = GraphUI.graph;
+	var result = -1;
+	for (var i = 0; i < graph.vertices.length; i++) {
+		var v = graph.vertices[i];
+		if (v.name.toLowerCase() == text) {
+			result = v;
+			break;
+		}
+	}
+	if (result === -1) {
+		for (var i = 0; i < graph.vertices.length; i++) {
+			var v = graph.vertices[i];
+			if (v.name.toLowerCase().indexOf(text) >= 0) {
+				result = v;
+				break;
+			}
+		}
+	}
+	if (result === -1) {
+		for (var i = 0; i < graph.vertices.length; i++) {
+			var v = graph.vertices[i];
+			if (v.longname.toLowerCase().indexOf(text) >= 0) {
+				result = v;
+				break;
+			}
+		}
+	}
+	
+	if (result !== -1) {
+		GraphUI.selectNode(result.uid);
+	}
+});
+
+$("#majorBox").change(function() {
+	reloadGraph();
+});
+
+$("#levelBox").change(function() {
+	reloadGraph();
+});
+
+reloadGraph();
+
+</script>
+
+</body>
+</html>

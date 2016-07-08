@@ -1,0 +1,130 @@
+Course	Name	Attributes	Prerequisites
+CHBE 1750	Introduction to Bioengineering		
+CHBE 2100	Chemical Process Principles	Tech Elect CS,Engr,&Sciences	CHEM 1310,CHEM 1211,|,MATH 1502,MATH 15X2,MATH 1522,&,|,&
+CHBE 2110	Chemical Engineering Thermodynamics I	Tech Elect CS,Engr,&Sciences	CHBE 2100,BIOL 1510,&
+CHBE 2120	Numerical Methods in Chemical Engineering	Tech Elect CS,Engr,&Sciences	CHBE 2100,CS 1371,&
+CHBE 2130	Chemical Engineering Thermodynamics I		CHBE 2100,BIOL 1510,&
+CHBE 2698	Undergraduate Research Assistantship		
+CHBE 2699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CHBE 2801	Special Topics		
+CHBE 2803	Special Topics		
+CHBE 3110	Chemical Engineering Thermodynamics II	Tech Elect CS,Engr,&Sciences	CHBE 2110,CHBE 2120,&,MATH 2401,MATH 24X1,|,&,MATH 2403,MATH 24X3,|,&
+CHBE 3130	Chemical Engineering Thermodynamics II		CHBE 2120,CHBE 2130,CHBE 2110,|,&,MATH 2401,MATH 24X1,|,&,MATH 2403,MATH 24X3,|,&
+CHBE 3200	Transport Process I	Tech Elect CS,Engr,&Sciences	CHBE 2110,CHBE 2130,|,CHBE 2120,&,MATH 2401,MATH 24X1,|,&,MATH 2403,MATH 24X3,|,&,PHYS 2211,&
+CHBE 3210	Transport Processes II	Tech Elect CS,Engr,&Sciences	CHBE 3110,CHBE 3130,|,CHBE 3200,&
+CHBE 3225	Separations Processes	Tech Elect CS,Engr,&Sciences	CHBE 3200,CHBE 3210,&,CHBE 3110,CHBE 3130,|,&
+CHBE 3600	Engineering Ethics and Leadership	Tech Elect CS,Engr,&Sciences	
+CHBE 4020	Chemical Engineering in Nanoscale Systems		
+CHBE 4200	Transport Phenomena/Unit Operations Laboratory	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
+CHBE 4210	Transport Phenomena / Bioprocess Unit Operations	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
+CHBE 4300	Kinetics and Reactor Design	Tech Elect CS,Engr,&Sciences	CHBE 3200,CHBE 3210,&,CHBE 3110,CHBE 3130,|,&
+CHBE 4310	Bioprocess Engineering	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|,CHBE 3210,&,CHBE 3225,&,CHBE 4300,&
+CHBE 4400	Chemical Process Control	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
+CHBE 4505	Process Design and Economics	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
+CHBE 4510	Process and Product Design And Economics		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
+CHBE 4515	Chemical Process Safety	Ethics Requirement,Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&
+CHBE 4520	Chemical Engineering Capstone Design Project		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4510,CHBE 4515,&,&
+CHBE 4525	Bioprocess Design and Economics	Tech Elect CS,Engr,&Sciences	CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4515,&
+CHBE 4530	Chemical Engineering Capstone Design Project		CHBE 3210,CHBE 3225,&,CHBE 4300,&,CHBE 4510,CHBE 4515,&,&
+CHBE 4535	Chemical Product Design, Engineering and Optimization	Tech Elect CS,Engr,&Sciences	CHEM 2312,CHBE 3210,&,MSE 2001,&
+CHBE 4573	Pulping and Bleaching Laboratory	Tech Elect CS,Engr,&Sciences	
+CHBE 4574	Papermaking and Recycled Pulp Laboratory	Tech Elect CS,Engr,&Sciences	
+CHBE 4600	Effective Communication for Professional Engineering	Tech Elect CS,Engr,&Sciences	
+CHBE 4698	Undergraduate Research Assistantship		
+CHBE 4699	Undergraduate Research	Tech Elect CS,Engr,&Sciences	
+CHBE 4710	Microfluidics and Bio Applications		CHBE 3200
+CHBE 4752	Integrated Circuit Fabrication	Tech Elect CS,Engr,&Sciences	
+CHBE 4755	Electronic Packaging Substrate Fabrication	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+CHBE 4757	Biofluid Mechanics	Tech Elect CS,Engr,&Sciences	AE 2020,ME 3340,|,BMED 3300,|
+CHBE 4758	Biosolid Mechanics	Tech Elect CS,Engr,&Sciences	MATH 2403,MATH 2413,|,MATH 24X3,|,ME 3201,BMED 3300,|,&
+CHBE 4760	Biocatalysis and Metabolic Engineering	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|,CHEM 3411,CHEM 4300,|,&
+CHBE 4763	Pulping and Chemical Recovery	Tech Elect CS,Engr,&Sciences	
+CHBE 4764	Bleaching and Papermaking	Tech Elect CS,Engr,&Sciences	
+CHBE 4765	Drug Design, Development and Delivery	Tech Elect CS,Engr,&Sciences	CHEM 3511,CHEM 4511,|
+CHBE 4770	Nuclear Chemical Engineering	Tech Elect CS,Engr,&Sciences	
+CHBE 4775	Polymer Science and Engineering I: Formation and Properties	Tech Elect CS,Engr,&Sciences	CHEM 2312
+CHBE 4776	Polymer Science and Engineering II: Analysis, Processing and Laboratory	Tech Elect CS,Engr,&Sciences	CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
+CHBE 4781	Biomedical Instrumentation	Tech Elect CS,Engr,&Sciences	ECE 3050,ECE 3710,|
+CHBE 4782	Biosystems Analysis	Tech Elect CS,Engr,&Sciences	BMED 3500,CHBE 4400,|,ECE 2040,ME 3015,|,|
+CHBE 4791	Mechanical Behavior of Composites	Tech Elect CS,Engr,&Sciences	ME 3201
+CHBE 4793	Composite Materials and Processes	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+CHBE 4794	Composite Materials and Manufacturing	Tech Elect CS,Engr,&Sciences	CHEM 1310,PHYS 2212,&
+CHBE 4801	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4802	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4803	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4804	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4805	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4806	Special Topics	Tech Elect CS,Engr,&Sciences	
+CHBE 4901	Special Problems	Tech Elect CS,Engr,&Sciences	
+CHBE 4902	Special Problems	Tech Elect CS,Engr,&Sciences	
+CHBE 4903	Special Problems	Tech Elect CS,Engr,&Sciences	
+CHBE 6001	Introdcution to Research and Resposible Conduct of Research for ChBE Graduate Students		
+CHBE 6003	Chemical Process Safety		
+CHBE 6004	Communication Skills for Technical Problem Solving		
+CHBE 6020	Chemical Engineering in Nanoscale Systems		
+CHBE 6100	Advanced Chemical Engineering Thermodynamics		
+CHBE 6110	Thermodynamics of Systems of Large Molecules		CHBE 6100
+CHBE 6120	Molecular Modeling		
+CHBE 6130	Electrochemical Engineering		
+CHBE 6200	Advanced Transport Phenomena, Fluid Mechanics, and Heat		
+CHBE 6210	Fluid Mechanics of Two-Phase Flow		CHBE 6200
+CHBE 6220	Computational Fluid Dynamics: Applications in Environmental		CHBE 6200
+CHBE 6229	Introduction to MEMS		
+CHBE 6230	Industrial Emissions Control		
+CHBE 6231	Environmental Modeling in the Forest Products Industry		CHEM 2120,CHEM 3412,&
+CHBE 6232	Chemical Engineering Processes in Pulp & Paper Manufacturing		CHE 6741,ME 6741,|
+CHBE 6240	Advanced Separation Processes		
+CHBE 6250	Mass Transport through Solids		
+CHBE 6260	Transport Phenomena-Mass Transfer		
+CHBE 6300	Kinetics and Reactor Design		
+CHBE 6310	Applied Chemical Kinetics		
+CHBE 6320	Heterogeneous Catalysis		CHBE 6300
+CHBE 6400	Advanced Process Control		
+CHBE 6410	Dynamic Behavior of Process Systems		
+CHBE 6460	Microelectromechanical Devices		ME 6229,ECE 6229,|
+CHBE 6500	Mathematical Modeling and Analysis of Chemical Processes		
+CHBE 6600	Polymerization Reaction Engineering		
+CHBE 6608	Semiconductor Microlithography and Patterning		
+CHBE 6609	Polymers in Microelectronics		
+CHBE 6634	Wet End Processing of Paper		CHBE 6631
+CHBE 6710	Microfluidics & Appl		CHBE 3200
+CHBE 6741	Pulp and Paper Manufacture I		
+CHBE 6742	Pulp and Paper Manufacture II		CHBE 6741,ME 6741,|
+CHBE 6750	Preparation and Reactions of Polymers		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|
+CHBE 6751	Physical Chemistry of Polymer Solutions		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|,ME 4777,MSE 4777,|,PTFE 4777,|,|,CHEM 3411,&
+CHBE 6752	Polymer Characterization		CHBE 4775,CHEM 4775,|,ME 4775,MSE 4775,|,|,PTFE 4775,|,ME 4777,MSE 4777,|,PTFE 4777,|,|,CHEM 3411,&
+CHBE 6759	Plasma Processing of Electronic Materials and Devices		
+CHBE 6760	Biocatalysis and Metabolic Engineering		CHEM 3511,CHEM 4511,|,CHEM 4300,CHEM 6300,|,CHEM 6471,CHEM 6482,|,|,&
+CHBE 6765	Drug Design, Development and Delivery		CHEM 3511,CHEM 4511,|
+CHBE 6768	Polymer Structure, Physical Properties and Characterization		CHBE 4776,CHEM 4776,|,ME 4776,MSE 4776,|,|,PTFE 4776,|
+CHBE 6774	Biomaterials: Structure and Function		
+CHBE 6777	Advanced Biomaterials		BMED 6776,CHBE 6776,|,ME 6776,MSE 6776,|,|,PTFE 6776,|
+CHBE 6778	Introduction to Biomaterials		
+CHBE 6779	Bioprocess Engineering		
+CHBE 6782	Cellular Engineering		
+CHBE 6784	Cardiovascular Biomechanics		
+CHBE 6789	Technology Ventures		
+CHBE 6793	Systems Pathophysiology		
+CHBE 6794	Tissue Engineering		
+CHBE 6799	Legal Issues in Technology Transfer		
+CHBE 7000	Master's Thesis		
+CHBE 7650	Advanced Physical Chemistry of Polymers		CHBE 6751,CHEM 6751,|,MSE 6751,PTFE 6751,|,|
+CHBE 7757	Teaching Practicum		
+CHBE 7771	Mechanics of Polymer Solids and Fluids		
+CHBE 7772	Fundamentals of Fracture Mechanics		ME 3201,MSE 3005,|
+CHBE 7773	Advanced Fracture Mechanics		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+CHBE 7774	Fatigue of Materials and Structures		AE 7772,CEE 7772,|,CHBE 7772,ME 7772,|,|,MSE 7772,|
+CHBE 7775	Topics in Fracture and Fatigue of Metallic and Composite		ME 2211,AE 2120,|
+CHBE 7791	Damage, Failure, and Durability of Composite Materials		AE 4791,CEE 4791,|,CHBE 4791,ME 4791,|,|,MSE 4791,|
+CHBE 7792	Advanced Mechanics of Composites		CHBE 4791,CEE 6312,&
+CHBE 7793	Manufacturing of Composites		CHBE 4793
+CHBE 8001	Seminar in Chemical Engineering		
+CHBE 8002	Seminar in Chemical Engineering		
+CHBE 8801	Special Topics		
+CHBE 8802	Special Topics		
+CHBE 8803	Special Topics		
+CHBE 8804	Special Topics		
+CHBE 8901	Special Problems		
+CHBE 8997	Teaching Assistantship		
+CHBE 8998	Research Assistantship		
+CHBE 9000	Doctoral Thesis		

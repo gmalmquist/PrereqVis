@@ -1,0 +1,278 @@
+Course	Name	Attributes	Prerequisites
+LCC 2100	Introduction to Science, Technology, and Culture	Humanities Requirement	ENGL 1102
+LCC 2200	Introduction to Gender Studies	Humanities Requirement	ENGL 1102
+LCC 2300	Introduction to Biomedicine and Culture	Humanities Requirement	ENGL 1102
+LCC 2400	Introduction to Media Studies	Humanities Requirement	ENGL 1102
+LCC 2500	Introduction to Film	Humanities Requirement	ENGL 1102
+LCC 2600	Introduction to Performance Studies	Humanities Requirement	ENGL 1102
+LCC 2661	Theater Production: Set Design and Construction		ENGL 1102
+LCC 2662	Theater Production II: Lights, Properties, Costumes		ENGL 1102
+LCC 2698	Undergraduate Research Assistantship		
+LCC 2699	Undergraduate Research		
+LCC 2700	Introduction to Computational Media		ENGL 1102,CS 1315,CS 1316,|,CS 1301,CS 1321,|,|,CS 1371,|,&
+LCC 2710	Visual Culture and Design		LCC 2100,LCC 2700,|
+LCC 2720	Principles of Visual Design		ENGL 1102
+LCC 2730	Constructing the Moving Image		LCC 2100,LCC 2700,|,LCC 2720,|
+LCC 2801	Special Topics		
+LCC 2803	Special Topics		
+LCC 2813	Special Topics in Science, Technology, and Culture	Humanities Requirement	ENGL 1102
+LCC 2823	Special Topics in Literary and Cultural Studies	Humanities Requirement	ENGL 1102
+LCC 3102	The Classical Tradition	Country and Region (IP),Humanities Requirement	ENGL 1102
+LCC 3104	The Age of Scientific Discovery	Country and Region (IP),Humanities Requirement	ENGL 1102
+LCC 3106	The Age of Scientific Revolution	Country and Region (IP),Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3108	Science, Technology, and Enlightenment	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3110	Science, Technology, and Romanticism	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3112	Evolution and the Industrial Age	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3114	Science, Technology, and Modernism	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3116	Science, Technology and Postmodernism	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3118	Science, Technology, and American Empire	Humanities Requirement	ENGL 1102
+LCC 3202	Studies in Fiction	Humanities Requirement	ENGL 1102
+LCC 3204	Poetry and Poetics	Humanities Requirement	ENGL 1102
+LCC 3206	Studies in Communication and Culture	Humanities Requirement	ENGL 1102
+LCC 3208	African American Literature and Culture	Humanities Requirement	ENGL 1102
+LCC 3210	Ethnicity in American Culture	Humanities Requirement	ENGL 1102
+LCC 3212	Women, Literature, and Culture	Country and Region (IP),Humanities Requirement	ENGL 1102
+LCC 3214	Science Fiction	Humanities Requirement	ENGL 1102
+LCC 3216	Theatre I: Classic and Medieval	Humanities Requirement	ENGL 1102
+LCC 3218	Theatre II: Renaissance-Restoration	Humanities Requirement	ENGL 1102
+LCC 3219	Literature and Medicine	Ethics Requirement,Humanities Requirement	ENGL 1102
+LCC 3220	Theatre III: Modern-Contemporary	Humanities Requirement	ENGL 1102
+LCC 3222	Regionalism in American Literature	Humanities Requirement	ENGL 1102
+LCC 3225	Gender Studies in the Disciplines	Humanities Requirement	ENGL 1102
+LCC 3226	Major Authors	Humanities Requirement	ENGL 1102
+LCC 3228	Shakespeare	Humanities Requirement	ENGL 1102
+LCC 3234	Creative Writing	Humanities Requirement	ENGL 1102
+LCC 3252	Studies in Film and Television	Humanities Requirement	LCC 2400,LCC 2500,|
+LCC 3254	Film History	Humanities Requirement	LCC 2500
+LCC 3256	Major Filmmakers	Humanities Requirement	LCC 2500
+LCC 3257	Global Cinema	Global Perspectives,Humanities Requirement	LCC 2500
+LCC 3258	Documentary Film	Humanities Requirement	LCC 2500
+LCC 3259	Experimental Film and Video	Humanities Requirement	LCC 2500
+LCC 3262	Performance Studies	Humanities Requirement	LCC 2600
+LCC 3302	Science, Technology, and Ideology	Country and Region (IP),Humanities Requirement	ENGL 1102
+LCC 3304	Science, Technology, and Gender	Humanities Requirement	ENGL 1102
+LCC 3306	Science, Technology, and Race	Humanities Requirement	ENGL 1102
+LCC 3308	Environmentalism and Ecocriticism	Humanities Requirement	ENGL 1102
+LCC 3310	The Rhetoric of Scientific Inquiry	Humanities Requirement	ENGL 1102
+LCC 3314	Technologies of Representation	Humanities Requirement	ENGL 1102
+LCC 3316	Science, Technology, and Postcolonialism	Country and Region (IP),Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3318	Biomedicine and Culture	Ethics Requirement,Humanities Requirement	ENGL 1102
+LCC 3352	Film and/as Technology	Humanities Requirement	LCC 2500
+LCC 3362	Science, Technology, and Performance	Humanities Requirement	LCC 2600
+LCC 3400	Concepts and Principles in Technical Communication		ENGL 1102
+LCC 3401	Technical Communication Practices		ENGL 1102
+LCC 3402	Graphic and Visual Design		LCC 2100,LCC 2400,|
+LCC 3403	Technical Communication: Theory and Practice		ENGL 1102
+LCC 3404	Designing for the Internet		LCC 2100,LCC 2400,|
+LCC 3406	Video Production		LCC 2100,LCC 2400,|
+LCC 3408	The Rhetoric of Technical Narratives		LCC 2100
+LCC 3410	The Rhetoric of Nonlinear Documents		LCC 2100
+LCC 3412	Communicating Science and Technology to the Public		LCC 2100
+LCC 3414	Intellectual Property Policy and Law		ENGL 1102
+LCC 3502	Ancient and Medieval Literature and Culture	Humanities Requirement	ENGL 1102
+LCC 3504	Renaissance Literature and Culture	Humanities Requirement	ENGL 1102
+LCC 3506	Enlightenment Literature and Culture	Global Perspectives,Humanities Requirement	ENGL 1102
+LCC 3508	Formations of American Culture	Humanities Requirement	ENGL 1102
+LCC 3510	Rearticulations of American Culture	Humanities Requirement	ENGL 1102
+LCC 3512	British and Continental Romanticism	Humanities Requirement	
+LCC 3514	Victorian Literature and Culture	Humanities Requirement	ENGL 1102
+LCC 3516	Literary and Cultural Modernism	Humanities Requirement	ENGL 1102
+LCC 3518	Literary and Cultural Postmodernism	Country and Region (IP),Humanities Requirement	ENGL 1102
+LCC 3661	Theatre Production III: Management		ENGL 1102
+LCC 3662	Theatre Production IV: Acting		ENGL 1102
+LCC 3705	Principles of Information Design		CS 1301,CS 1315,|,CS 1321,CS 1371,|,|,LCC 2100,LCC 2700,|,&
+LCC 3710	Principles of Interaction Design		CS 1315,CS 1316,|,CS 1301,CS 1321,|,|,CS 1371,|,LCC 2100,LCC 2700,|,&
+LCC 3823	Special Topics in Literature and Culture	Humanities Requirement	ENGL 1102
+LCC 3833	Special Topics in Issues of Science, Technology, and Culture	Humanities Requirement	ENGL 1102
+LCC 3843	Special Topics in Communication	Humanities Requirement	ENGL 1102
+LCC 3853	Special Topics in Film	Humanities Requirement	LCC 2500
+LCC 3863	Special Topics in Performance	Humanities Requirement	LCC 2600
+LCC 4100	Seminar in Science, Technology, and Culture		LCC 2100
+LCC 4102	Senior Thesis		LCC 2100
+LCC 4200	Seminar in Literary and Cultural Theory		ENGL 1102
+LCC 4204	Poetry and Poetics II	Humanities Requirement	ENGL 1102
+LCC 4300	Seminar in Biomedicine and Culture		ENGL 1102,LCC 2300,&
+LCC 4400	Seminar in Media Studies		LCC 2400
+LCC 4402	Basics of Multimedia Design		ENGL 1102
+LCC 4404	Advanced Design and Production		LCC 4402
+LCC 4406	Contemporary Issues in Professional Communication		ENGL 1102
+LCC 4500	Seminar in Film Studies		LCC 2100
+LCC 4600	Seminar in Performance Studies		LCC 2600
+LCC 4602	Performance Practicum		LCC 2600
+LCC 4698	Undergraduate Research Assistantship		
+LCC 4699	Undergraduate Research		
+LCC 4701	Undergraduate Research Proposal Writing		
+LCC 4702	Undergraduate Research Thesis Writing		LCC 4701
+LCC 4720	Interactive Narrative		CS 1322,CS 1331,|,LCC 2100,LCC 2700,|,&
+LCC 4725	Games Design as Cultural Practice		CS 1322,CS 1331,|,LCC 2100,&,LCC 2700,|
+LCC 4730	Experimental Digital Art		CS 1322,CS 1331,|,LCC 2100,LCC 2700,|,&
+LCC 4731	Game AI		CS 3600,LCC 2100,LCC 2700,|,&
+LCC 4732	Intelligent Story Systems		CS 3600,LCC 2100,LCC 2700,|,&
+LCC 4811	Special Topics	Humanities Requirement	
+LCC 4812	Special Topics	Humanities Requirement	
+LCC 4813	Special Topics	Humanities Requirement	
+LCC 4814	Special Topics	Humanities Requirement	
+LCC 4815	Special Topics	Humanities Requirement	
+LCC 4824	Special Topics		
+LCC 4904	Internship		
+LCC 4906	Special Problems		
+LCC 6213	Educational Applications of New Media		
+LCC 6215	Issues in Media Studies		
+LCC 6310	The Computer as an Expressive Medium		
+LCC 6311	Visual Culture and Design		
+LCC 6312	Design, Technology, and Representation		
+LCC 6313	Principles of Interactive Design		
+LCC 6314	Design of Networked Media		
+LCC 6315	Project Production		
+LCC 6316	Historical Approaches to Digital Media		
+LCC 6317	Interactive Fiction		
+LCC 6318	Experimental Media		
+LCC 6319	Intellectual Property Policy and Law		
+LCC 6320	Globalization and New Media		
+LCC 6321	Architecture of Responsive Spaces		
+LCC 6325	Game Design and Analysis		
+LCC 6330	Expressive Virtual Space		
+LCC 6340	Mixed Reality Experience Design		
+LCC 6350	Spatial Construction of Meaning		
+LCC 6399	Discovery and Invention in Digital Media		
+LCC 6650	Project Studio		
+LCC 6743	Science, Technology & Society: Core Seminar		
+LCC 6748	Social Justice, Critical Theory, and Philosophy of Design		
+LCC 6749	Feminist Theory and Science and Technology Studies		
+LCC 6753	Human-Computer Interaction Professional Preparation and Practice		
+LCC 6770	Mixed Reality Experience Design		
+LCC 6800	Master's Project: Information Design and Technology		
+LCC 6998	HCI Master's Project		
+LCC 7000	Master's Thesis: Information Design and Technology		
+LCC 7999	Preparation for Ph.D. Qualifying Exam		
+LCC 8000	Proseminar in Media Theory		
+LCC 8001	Proseminar in Digital Media Studies		
+LCC 8801	Special Topics in Information Design and Technology		
+LCC 8802	Special Topics in Information Design and Technology		
+LCC 8803	Special Topics in Information Design and Technology		
+LCC 8804	Special Topics in Information Design and Technology		
+LCC 8805	Special Topics in Information Design and Technology		
+LCC 8806	Special Topics in Information Design and Technology		
+LCC 8813	Advanced Issues in Interactive Narrative		LCC 6317
+LCC 8823	Special Topics in Game Design and Analysis		LCC 4725
+LCC 8831	Special Topics in the Technology of Representation		
+LCC 8832	Special Topics in the Technology of Representation		
+LCC 8833	Special Topics in the Technology of Representation		
+LCC 8903	Special Problems in Human-Computer Interaction		
+LCC 8910	Special Problems in Information Design and Technology		
+LCC 8920	Special Problems in Information Design and Technology		
+LCC 8930	Special Problems in Information Design and Technology		
+LCC 8940	Special Problems in Information Design and Technology		
+LCC 8950	Special Problems in Information Design and Technology		
+LCC 8997	Teaching Assistantship		
+LCC 8998	Research Assistantship		
+LCC 8999	Preparation for Ph.D. Dissertation		
+LCC 9000	Doctoral Thesis		
+LMC 2100	Introduction to Science, Technology and Culture		
+LMC 2200	Introduction to Gender Studies		
+LMC 2300	Introduction to Biomedicine and Culture		
+LMC 2400	Introduction to Media Studies		
+LMC 2500	Introduction to Film		
+LMC 2600	Introduction to Performance Studies		
+LMC 2661	Theatre Production I		
+LMC 2662	Theatre Production II		
+LMC 2698	Research Assistantship		
+LMC 2699	Undergraduate Research		
+LMC 2700	Introduction to Computational Media		
+LMC 2720	Principles of Visual Design		
+LMC 2730	Constructing the Moving Image		
+LMC 2800	Introduction to Literature, Media, and Communication		
+LMC 2813	Special Topics in STAC		
+LMC 2823	Special Topics in Literature and Culture		
+LMC 2850	Seminar in Literature, Media, and Communication		
+LMC 3102	Science, Technology, and the Classical Tradition		
+LMC 3104	The Age of Scientific Discovery		
+LMC 3106	The Age of Scientific Revolution		
+LMC 3108	Science, Technology, and Enlightenment		
+LMC 3110	Science, Technology, and Romanticism		
+LMC 3112	Evolution and the Industrial Age		
+LMC 3114	Science, Technology, and Modernism		
+LMC 3116	Science, Technology, and Postmodernism		
+LMC 3118	Science, Technology, and the American Empire		
+LMC 3202	Studies in Fiction		
+LMC 3204	Poetry and Poetics		
+LMC 3206	Communication and Culture		
+LMC 3208	African American Literature and Culture		
+LMC 3210	Ethnicity in American Culture		
+LMC 3212	Women, Literature, and Culture		
+LMC 3214	Science Fiction		
+LMC 3216	Theatre I: Classic and Medieval		
+LMC 3218	Theatre II: Renaissance and Restoration		
+LMC 3219	Literature and Medicine		
+LMC 3220	Theatre III: Modern and Contemporary		
+LMC 3222	Regionalism-American Literature		
+LMC 3225	Gender Studies in the Disciplines		
+LMC 3226	Major Authors		
+LMC 3228	Shakespeare		
+LMC 3234	Creative Writing		
+LMC 3252	Studies in Film and Television		
+LMC 3254	Film History		
+LMC 3256	Major Filmmakers		
+LMC 3257	Global Cinema		
+LMC 3258	Documentary Film		
+LMC 3259	Experimental Film		
+LMC 3262	Performance Studies		
+LMC 3302	Science, Technology, and Ideology		
+LMC 3304	Science, Technology, and Gender		
+LMC 3306	Science, Technology, and Race		
+LMC 3308	Environmentalism and Ecocriticism		
+LMC 3310	The Rhetoric of Scientific Inquiry		
+LMC 3314	Technologies of Representation		
+LMC 3316	Science, Technology, and Postcolonialism		
+LMC 3318	Biomedicine and Culture		
+LMC 3352	Film and/as Technology		
+LMC 3362	Science, Technology and Performance		
+LMC 3402	Graphic and Visual Design		
+LMC 3403	Technical Communication, Theory and Practice		
+LMC 3406	Video Production		
+LMC 3408	The Rhetoric of Technical Narratives		
+LMC 3410	The Rhetoric of Nonlinear Documents		
+LMC 3412	Communicating Science and Technology to the Public		
+LMC 3414	Intellectual Property: Policy and Law		
+LMC 3502	Ancient and Medieval Literature and Culture		
+LMC 3504	Renaissance Literature and Culture		
+LMC 3506	Enlightenment and Culture		
+LMC 3508	Formations of American Culture		
+LMC 3510	Rearticulations of American Culture		
+LMC 3512	British and Continental Romanticism		
+LMC 3514	Victorian Literature and Culture		
+LMC 3516	Literary and Cultural Modernism		
+LMC 3518	Literary and Cultural Postmodernism		
+LMC 3661	Theatre Production III: Management		
+LMC 3662	Theatre Production IV: Acting		
+LMC 3705	Principles of Information Design		
+LMC 3710	Principles of Interaction Design		
+LMC 3823	Special Topics in Literature and Culture		
+LMC 3833	Special Topics in STAC		
+LMC 3843	Special Topics in Communication		
+LMC 3853	Special Topics in Film		
+LMC 3863	Special Topics in Performance		
+LMC 4100	Seminar in Science, Technology, and Culture		
+LMC 4102	Senior Thesis		
+LMC 4200	Seminar in Literary and Cultural Theory		
+LMC 4204	Poetry and Poetics II		
+LMC 4300	Seminar in Biomedicine and Culture		
+LMC 4400	Seminar in Media Studies		
+LMC 4406	Contemporary Issues in Professional Communication		
+LMC 4500	Seminar in Film Studies		
+LMC 4600	Seminar in Performance Studies		
+LMC 4602	Performance Practicum		
+LMC 4698	Research Assistantship		
+LMC 4699	Undergraduate Research		
+LMC 4701	Undergraduate Research Proposal Writing		
+LMC 4702	Undergraduate Research Thesis Writing		
+LMC 4720	Interactive Narrative		
+LMC 4725	Games Design as a Cultural Practice		
+LMC 4730	Experimental Digital Art		
+LMC 4731	Game AI		
+LMC 4811	Special Topics		
+LMC 4812	Special Topics		
+LMC 4813	Special Topics		
+LMC 4814	Special Topics		
+LMC 4815	Special Topics		
+LMC 4904	Internship		
